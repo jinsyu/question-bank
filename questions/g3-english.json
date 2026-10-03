@@ -1,0 +1,3602 @@
+[
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: What's this? B: It's a banana. B가 말한 과일은 무엇일까요?",
+    "choices": [
+      "바나나",
+      "사과",
+      "포도",
+      "복숭아"
+    ],
+    "answer": 0,
+    "explanation": "'banana'는 바나나예요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'cat', 'cow', 'pig', 'dog' 중에서 '멍멍' 짖는 동물은?",
+    "choices": [
+      "cat",
+      "cow",
+      "pig",
+      "dog"
+    ],
+    "answer": 3,
+    "explanation": "'dog'는 개예요. 개는 멍멍 짖어요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'red'와 같은 종류의 낱말이 아닌 것은?",
+    "choices": [
+      "blue",
+      "green",
+      "desk",
+      "yellow"
+    ],
+    "answer": 2,
+    "explanation": "'desk'는 책상이고 나머지는 색깔이에요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "대문자와 소문자의 짝이 바르지 않은 것은?",
+    "choices": [
+      "A - a",
+      "E - e",
+      "D - b",
+      "R - r"
+    ],
+    "answer": 2,
+    "explanation": "D의 소문자는 d예요. b는 B의 소문자예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "알파벳 소문자 b의 대문자는?",
+    "choices": [
+      "D",
+      "B",
+      "P",
+      "R"
+    ],
+    "answer": 1,
+    "explanation": "소문자 b의 대문자는 B예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사과 3개를 영어로 바르게 말한 것은?",
+    "choices": [
+      "three apples",
+      "three apple",
+      "a three apple",
+      "tree apples"
+    ],
+    "answer": 0,
+    "explanation": "둘 이상이면 낱말 끝에 s를 붙여 'three apples'라고 해요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'dog'의 뜻은?",
+    "choices": [
+      "고양이",
+      "새",
+      "돼지",
+      "개"
+    ],
+    "answer": 3,
+    "explanation": "dog는 멍멍 짖는 개를 뜻해요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "알파벳 순서에서 A 다음에 오는 글자는?",
+    "choices": [
+      "C",
+      "D",
+      "E",
+      "B"
+    ],
+    "answer": 3,
+    "explanation": "알파벳은 A, B, C 순서로 시작해요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'mom'의 뜻은?",
+    "choices": [
+      "아빠",
+      "언니",
+      "엄마",
+      "할머니"
+    ],
+    "answer": 2,
+    "explanation": "mom은 엄마, dad는 아빠예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Hello'의 뜻은?",
+    "choices": [
+      "고마워",
+      "안녕",
+      "미안해",
+      "잘 가"
+    ],
+    "answer": 1,
+    "explanation": "Hello는 만났을 때 하는 인사 '안녕'이에요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'노란색'을 영어로 하면?",
+    "choices": [
+      "yellow",
+      "purple",
+      "pink",
+      "black"
+    ],
+    "answer": 0,
+    "explanation": "노란색은 yellow라고 해요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I have one pencil.'에서 연필은 몇 자루일까요?",
+    "choices": [
+      "1자루",
+      "2자루",
+      "3자루",
+      "없어요"
+    ],
+    "answer": 0,
+    "explanation": "'one'은 1이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'bird'의 뜻은?",
+    "choices": [
+      "물고기",
+      "곰",
+      "토끼",
+      "새"
+    ],
+    "answer": 3,
+    "explanation": "bird는 하늘을 나는 새를 뜻해요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'바나나'를 영어로 하면?",
+    "choices": [
+      "lemon",
+      "melon",
+      "banana",
+      "orange"
+    ],
+    "answer": 2,
+    "explanation": "바나나는 banana라고 해요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "알파벳 대문자 G의 소문자는?",
+    "choices": [
+      "q",
+      "g",
+      "j",
+      "y"
+    ],
+    "answer": 1,
+    "explanation": "대문자 G의 소문자는 g예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'blue'의 뜻은?",
+    "choices": [
+      "초록색",
+      "파란색",
+      "보라색",
+      "흰색"
+    ],
+    "answer": 1,
+    "explanation": "blue는 파란색을 뜻해요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'아빠'를 영어로 하면?",
+    "choices": [
+      "dad",
+      "sister",
+      "brother",
+      "baby"
+    ],
+    "answer": 0,
+    "explanation": "아빠는 dad, 엄마는 mom이에요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'cat'은 고양이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "cat은 야옹 우는 고양이가 맞아요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "숫자 2는 영어로 'ten'이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "숫자 2는 two, ten은 숫자 10이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'Goodbye'는 헤어질 때 하는 인사예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "Goodbye는 '잘 가'라는 헤어질 때 인사예요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "숫자 7을 영어로 하면?",
+    "choices": [
+      "eight",
+      "six",
+      "eleven",
+      "seven"
+    ],
+    "answer": 3,
+    "explanation": "숫자 7은 seven이라고 해요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "알파벳 순서에서 M 다음에 오는 글자는?",
+    "choices": [
+      "L",
+      "O",
+      "N",
+      "P"
+    ],
+    "answer": 2,
+    "explanation": "알파벳은 L, M, N, O 순서예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "알파벳 소문자 d의 대문자는?",
+    "choices": [
+      "B",
+      "P",
+      "D",
+      "Q"
+    ],
+    "answer": 2,
+    "explanation": "소문자 d의 대문자는 D예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Thank you.'에 알맞은 대답은?",
+    "choices": [
+      "Nice to meet you.",
+      "You're welcome.",
+      "I'm fine.",
+      "Good night."
+    ],
+    "answer": 1,
+    "explanation": "고맙다는 말에는 '천만에요.'라고 대답해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Good morning.'은 언제 하는 인사일까요?",
+    "choices": [
+      "아침",
+      "오후",
+      "저녁",
+      "잠자기 전"
+    ],
+    "answer": 0,
+    "explanation": "morning은 아침이라는 뜻이에요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'sister'의 뜻은?",
+    "choices": [
+      "남자 형제",
+      "할아버지",
+      "아기",
+      "여자 형제"
+    ],
+    "answer": 3,
+    "explanation": "sister는 언니, 누나, 여동생을 뜻해요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'초록색'을 영어로 하면?",
+    "choices": [
+      "gray",
+      "brown",
+      "white",
+      "green"
+    ],
+    "answer": 3,
+    "explanation": "초록색은 green이라고 해요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 동물이 아닌 것은?",
+    "choices": [
+      "lion",
+      "tiger",
+      "grape",
+      "rabbit"
+    ],
+    "answer": 2,
+    "explanation": "grape는 과일 포도예요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 색깔을 나타내는 말은?",
+    "choices": [
+      "pear",
+      "pink",
+      "pig",
+      "pen"
+    ],
+    "answer": 1,
+    "explanation": "pink는 색깔 이름 분홍색이에요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 과일이 아닌 것은?",
+    "choices": [
+      "horse",
+      "apple",
+      "strawberry",
+      "peach"
+    ],
+    "answer": 0,
+    "explanation": "horse는 동물 말이에요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "숫자 10을 영어로 하면?",
+    "choices": [
+      "ten",
+      "two",
+      "twelve",
+      "three"
+    ],
+    "answer": 0,
+    "explanation": "숫자 10은 ten이라고 해요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'How are you?'에 알맞은 대답은?",
+    "choices": [
+      "I'm ten years old.",
+      "My name is Mina.",
+      "It's a cat.",
+      "I'm fine, thank you."
+    ],
+    "answer": 3,
+    "explanation": "안부를 물으면 기분이나 상태로 대답해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'What's your name?'에 알맞은 대답은?",
+    "choices": [
+      "I'm fine.",
+      "Yes, it is.",
+      "My name is Tom.",
+      "It's red."
+    ],
+    "answer": 2,
+    "explanation": "이름을 물으면 My name is ~.로 대답해요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "알파벳 순서에서 빠진 글자는? C, D, ___, F",
+    "choices": [
+      "G",
+      "E",
+      "B",
+      "H"
+    ],
+    "answer": 1,
+    "explanation": "C, D, E, F 순서예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'grandma'의 뜻은?",
+    "choices": [
+      "할아버지",
+      "할머니",
+      "엄마",
+      "아빠"
+    ],
+    "answer": 1,
+    "explanation": "grandma는 할머니를 뜻해요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'물고기'를 영어로 하면?",
+    "choices": [
+      "fish",
+      "frog",
+      "fox",
+      "duck"
+    ],
+    "answer": 0,
+    "explanation": "물고기는 fish라고 해요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "알파벳 소문자 h의 대문자는 H예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "h의 대문자는 H가 맞아요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'orange'는 과일 이름이면서 색깔 이름도 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "orange는 오렌지이면서 주황색이에요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'Good night.'은 아침에 만났을 때 하는 인사예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "Good night.은 밤에 잠자기 전 하는 인사예요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Nice to meet you.'의 뜻은?",
+    "choices": [
+      "또 만나.",
+      "잘 지내니?",
+      "고마워.",
+      "만나서 반가워."
+    ],
+    "answer": 3,
+    "explanation": "처음 만났을 때 '만나서 반가워.'라고 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "영어 알파벳은 모두 몇 글자일까요?",
+    "choices": [
+      "24개",
+      "28개",
+      "26개",
+      "20개"
+    ],
+    "answer": 2,
+    "explanation": "알파벳은 A부터 Z까지 모두 26개예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "알파벳 순서대로 바르게 쓴 것은?",
+    "choices": [
+      "P, R, Q, S",
+      "Q, P, R, S",
+      "P, Q, R, S",
+      "P, Q, S, R"
+    ],
+    "answer": 2,
+    "explanation": "알파벳은 P, Q, R, S 순서예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "숫자 5와 4를 더한 수를 영어로 하면?",
+    "choices": [
+      "eight",
+      "nine",
+      "seven",
+      "six"
+    ],
+    "answer": 1,
+    "explanation": "5 + 4 = 9, 9는 nine이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "대문자와 소문자가 바르게 짝지어진 것은?",
+    "choices": [
+      "E - e",
+      "B - d",
+      "Q - p",
+      "N - m"
+    ],
+    "answer": 0,
+    "explanation": "E의 소문자는 e예요. B-b, Q-q, N-n이 짝이에요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I'm ten years old.'는 무엇을 말하는 문장일까요?",
+    "choices": [
+      "이름",
+      "기분",
+      "좋아하는 색",
+      "나이"
+    ],
+    "answer": 3,
+    "explanation": "years old는 나이를 말할 때 써요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Sit down, please.'의 뜻은?",
+    "choices": [
+      "일어나 주세요.",
+      "문을 열어 주세요.",
+      "조용히 해 주세요.",
+      "앉아 주세요."
+    ],
+    "answer": 3,
+    "explanation": "sit down은 '앉다'라는 뜻이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? Nice to ___ you.",
+    "choices": [
+      "eat",
+      "sit",
+      "meet",
+      "am"
+    ],
+    "answer": 2,
+    "explanation": "Nice to meet you.는 '만나서 반가워.'예요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? My ___ is Jiho.",
+    "choices": [
+      "fine",
+      "name",
+      "you",
+      "good"
+    ],
+    "answer": 1,
+    "explanation": "My name is ~.는 '내 이름은 ~야.'예요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? I ___ fine, thank you.",
+    "choices": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "I 다음에는 am을 써서 I am(I'm) fine.이라고 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Stand up.'의 뜻은?",
+    "choices": [
+      "일어서요.",
+      "앉아요.",
+      "손을 들어요.",
+      "손뼉 쳐요."
+    ],
+    "answer": 0,
+    "explanation": "stand up은 '일어서다'라는 뜻이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 가족을 나타내는 말이 아닌 것은?",
+    "choices": [
+      "brother",
+      "grandpa",
+      "mom",
+      "bear"
+    ],
+    "answer": 3,
+    "explanation": "bear는 가족이 아닌 동물 곰이에요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "알파벳 순서에서 X 바로 앞에 오는 글자는?",
+    "choices": [
+      "Y",
+      "V",
+      "W",
+      "Z"
+    ],
+    "answer": 2,
+    "explanation": "알파벳은 V, W, X, Y, Z 순서예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "숫자 8을 영어로 바르게 쓴 것은?",
+    "choices": [
+      "eigth",
+      "eight",
+      "aight",
+      "eihgt"
+    ],
+    "answer": 1,
+    "explanation": "8은 e-i-g-h-t, eight라고 써요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'토끼'를 영어로 바르게 쓴 것은?",
+    "choices": [
+      "rabit",
+      "rabbit",
+      "rebbit",
+      "rabbitt"
+    ],
+    "answer": 1,
+    "explanation": "토끼는 b가 두 개인 rabbit이에요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'See you later.'는 언제 하는 말일까요?",
+    "choices": [
+      "헤어질 때",
+      "처음 만났을 때",
+      "고마울 때",
+      "미안할 때"
+    ],
+    "answer": 0,
+    "explanation": "See you later.는 '나중에 봐.'라는 뜻이에요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? A: How old are you? B: I'm ___ years old.",
+    "choices": [
+      "red",
+      "fine",
+      "cat",
+      "nine"
+    ],
+    "answer": 3,
+    "explanation": "나이를 물으면 숫자로 대답해요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'I'm sorry.'에 알맞은 대답은?",
+    "choices": [
+      "Nice to meet you.",
+      "Good morning.",
+      "That's okay.",
+      "I'm ten."
+    ],
+    "answer": 2,
+    "explanation": "사과하는 말에는 '괜찮아.'라고 대답해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "알파벳 소문자 q의 대문자는 P예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "q의 대문자는 Q예요. P의 소문자는 p예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'elephant'는 코끼리라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "elephant는 코끼리가 맞아요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 모음(a, e, i, o, u)이 아닌 알파벳은?",
+    "choices": [
+      "a",
+      "e",
+      "b",
+      "u"
+    ],
+    "answer": 2,
+    "explanation": "b는 자음이에요. a, e, i, o, u가 모음이에요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: What's this? B: It's a ___. (연필을 가리키며) 빈칸에 알맞은 말은?",
+    "choices": [
+      "ruler",
+      "pencil",
+      "eraser",
+      "book"
+    ],
+    "answer": 1,
+    "explanation": "연필은 영어로 'pencil'이에요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'What's this?'에 알맞은 대답은?",
+    "choices": [
+      "It's a bag.",
+      "I'm fine.",
+      "Yes, I can.",
+      "I'm nine."
+    ],
+    "answer": 0,
+    "explanation": "'이것은 무엇이니?'에는 'It's a ~.'로 대답해요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Is it a dog? B: ___ It's a cat. 빈칸에 알맞은 말은?",
+    "choices": [
+      "Yes, it is.",
+      "No, it isn't.",
+      "Yes, I do.",
+      "No, I can't."
+    ],
+    "answer": 1,
+    "explanation": "고양이라고 했으니 'No, it isn't.'로 아니라고 해요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Is it a ball? B: Yes, ___. 빈칸에 알맞은 말은?",
+    "choices": [
+      "it isn't",
+      "I am",
+      "you are",
+      "it is"
+    ],
+    "answer": 3,
+    "explanation": "'Is it ~?'에는 'Yes, it is.'로 대답해요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'eraser'의 뜻은?",
+    "choices": [
+      "지우개",
+      "자",
+      "가위",
+      "가방"
+    ],
+    "answer": 0,
+    "explanation": "'eraser'는 지우개예요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 학용품이 아닌 것은?",
+    "choices": [
+      "ruler",
+      "lion",
+      "pencil",
+      "scissors"
+    ],
+    "answer": 1,
+    "explanation": "'lion'은 사자예요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Open the door.'의 뜻은?",
+    "choices": [
+      "문을 닫아요.",
+      "창문을 열어요.",
+      "문을 열어요.",
+      "책을 펴요."
+    ],
+    "answer": 2,
+    "explanation": "'open'은 열다, 'door'는 문이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "선생님이 'Be quiet, please.'라고 하셨어요. 알맞은 행동은?",
+    "choices": [
+      "노래를 부른다",
+      "일어선다",
+      "창문을 연다",
+      "조용히 한다"
+    ],
+    "answer": 3,
+    "explanation": "'quiet'는 조용한이라는 뜻이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Don't run.'이라고 말하기에 알맞은 상황은?",
+    "choices": [
+      "복도에서 뛰는 친구에게",
+      "밥 먹는 친구에게",
+      "책 읽는 친구에게",
+      "잠자는 친구에게"
+    ],
+    "answer": 0,
+    "explanation": "'Don't run.'은 뛰지 말라는 말이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Close your book.'과 반대되는 행동을 말하는 문장은?",
+    "choices": [
+      "Close the door.",
+      "Open your book.",
+      "Sit down.",
+      "Stand up."
+    ],
+    "answer": 1,
+    "explanation": "'close(닫다)'의 반대는 'open(열다)'이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: How many apples? B: ___ apples. (사과 5개) 빈칸에 알맞은 말은?",
+    "choices": [
+      "Four",
+      "Six",
+      "Five",
+      "Nine"
+    ],
+    "answer": 2,
+    "explanation": "5는 'five'예요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: How many cats? B: ___ (고양이 12마리) 빈칸에 알맞은 말은?",
+    "choices": [
+      "Twenty cats.",
+      "Two cats.",
+      "Eleven cats.",
+      "Twelve cats."
+    ],
+    "answer": 3,
+    "explanation": "12는 'twelve'예요. 20은 'twenty'예요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "숫자를 작은 수부터 차례대로 쓴 것은?",
+    "choices": [
+      "two, five, eight, eleven",
+      "five, two, eight, eleven",
+      "two, eight, five, eleven",
+      "eleven, eight, five, two"
+    ],
+    "answer": 0,
+    "explanation": "2, 5, 8, 11 순서예요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'How many ~?'는 무엇을 물을 때 쓰는 말일까요?",
+    "choices": [
+      "이름",
+      "개수",
+      "나이",
+      "색깔"
+    ],
+    "answer": 1,
+    "explanation": "'How many'는 몇 개인지 물어요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? I have two ___.",
+    "choices": [
+      "dog",
+      "doges",
+      "dogs",
+      "a dog"
+    ],
+    "answer": 2,
+    "explanation": "둘 이상이면 s를 붙여 'dogs'라고 해요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Can you swim? B: ___ I can't. 빈칸에 알맞은 말은?",
+    "choices": [
+      "Yes,",
+      "Hello,",
+      "Okay,",
+      "No,"
+    ],
+    "answer": 3,
+    "explanation": "'I can't'와 어울리는 말은 'No,'예요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Can you jump? B: Yes, I ___. 빈칸에 알맞은 말은?",
+    "choices": [
+      "can",
+      "am",
+      "do",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "'Can you ~?'에는 'Yes, I can.'으로 대답해요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'I can skate.'의 뜻은?",
+    "choices": [
+      "나는 스케이트를 좋아해.",
+      "나는 스케이트를 탈 수 있어.",
+      "나는 스케이트가 있어.",
+      "나는 스케이트를 못 타."
+    ],
+    "answer": 1,
+    "explanation": "'can'은 '~할 수 있다'라는 뜻이에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "민수는 수영을 못해요. 민수가 할 말로 알맞은 것은?",
+    "choices": [
+      "I can swim.",
+      "I like swimming.",
+      "I can't swim.",
+      "Let's swim."
+    ],
+    "answer": 2,
+    "explanation": "할 수 없을 때는 'can't'를 써요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'swim'의 뜻은?",
+    "choices": [
+      "달리다",
+      "춤추다",
+      "노래하다",
+      "수영하다"
+    ],
+    "answer": 3,
+    "explanation": "'swim'은 수영하다예요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Do you like pizza? B: Yes, I ___. 빈칸에 알맞은 말은?",
+    "choices": [
+      "do",
+      "am",
+      "can",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "'Do you ~?'에는 'Yes, I do.'로 대답해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "피자를 좋아한다고 말할 때 알맞은 문장은?",
+    "choices": [
+      "I am pizza.",
+      "I like pizza.",
+      "I can pizza.",
+      "Is it pizza?"
+    ],
+    "answer": 1,
+    "explanation": "좋아하는 것은 'I like ~.'로 말해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: What color is it? B: It's ___. (바나나 색) 빈칸에 알맞은 말은?",
+    "choices": [
+      "purple",
+      "black",
+      "yellow",
+      "blue"
+    ],
+    "answer": 2,
+    "explanation": "바나나는 노란색, 'yellow'예요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'What color do you like?'에 알맞은 대답은?",
+    "choices": [
+      "It's a pen.",
+      "I'm ten.",
+      "Yes, I do.",
+      "I like green."
+    ],
+    "answer": 3,
+    "explanation": "좋아하는 색을 물었으니 'I like 색깔.'로 대답해요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "red와 yellow 물감을 섞으면 나오는 색은?",
+    "choices": [
+      "orange",
+      "green",
+      "purple",
+      "pink"
+    ],
+    "answer": 0,
+    "explanation": "빨강과 노랑을 섞으면 주황, 'orange'예요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'brown'의 뜻은?",
+    "choices": [
+      "검은색",
+      "갈색",
+      "회색",
+      "흰색"
+    ],
+    "answer": 1,
+    "explanation": "'brown'은 갈색이에요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'This is my brother.'의 뜻은?",
+    "choices": [
+      "이 사람은 내 아빠야.",
+      "이 사람은 내 친구야.",
+      "이 사람은 내 남자 형제야.",
+      "이것은 내 책이야."
+    ],
+    "answer": 2,
+    "explanation": "'brother'는 남자 형제예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Who is she? B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "He is my dad.",
+      "It is my cat.",
+      "I am fine.",
+      "She is my grandma."
+    ],
+    "answer": 3,
+    "explanation": "'she'로 물었으니 'She is ~.'로 대답해요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Who is he?'는 무엇을 묻는 말일까요?",
+    "choices": [
+      "그가 누구인지",
+      "그의 나이",
+      "그의 이름 철자",
+      "그가 어디 있는지"
+    ],
+    "answer": 0,
+    "explanation": "'Who'는 누구인지 물을 때 써요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'grandpa'와 짝을 이루는 여자 어른은?",
+    "choices": [
+      "mom",
+      "grandma",
+      "sister",
+      "baby"
+    ],
+    "answer": 1,
+    "explanation": "할아버지(grandpa)와 할머니(grandma)가 짝이에요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'I'm eleven years old.'는 몇 살이라는 뜻일까요?",
+    "choices": [
+      "7살",
+      "12살",
+      "11살",
+      "10살"
+    ],
+    "answer": 2,
+    "explanation": "'eleven'은 11이에요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "처음 만난 친구에게 하는 말로 알맞은 것은?",
+    "choices": [
+      "Good night.",
+      "See you later.",
+      "I'm sorry.",
+      "Nice to meet you."
+    ],
+    "answer": 3,
+    "explanation": "처음 만나면 'Nice to meet you.'라고 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Goodbye! B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "See you.",
+      "Hello.",
+      "Nice to meet you.",
+      "Thank you."
+    ],
+    "answer": 0,
+    "explanation": "헤어질 때는 'See you.'로 대답해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Good morning, Mina. B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "Good night, Tom.",
+      "Good morning, Tom.",
+      "Goodbye, Tom.",
+      "I'm sorry, Tom."
+    ],
+    "answer": 1,
+    "explanation": "아침 인사에는 같은 인사로 대답해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "대화 순서로 알맞은 것은? (a) I'm Sora. (b) Hi! What's your name? (c) Nice to meet you, Sora.",
+    "choices": [
+      "(a)-(b)-(c)",
+      "(c)-(a)-(b)",
+      "(b)-(a)-(c)",
+      "(b)-(c)-(a)"
+    ],
+    "answer": 2,
+    "explanation": "이름을 묻고, 대답하고, 반갑다고 인사해요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Are you Mina? B: ___ I'm Sujin. 빈칸에 알맞은 말은?",
+    "choices": [
+      "Yes, I am.",
+      "Yes, it is.",
+      "No, it isn't.",
+      "No, I'm not."
+    ],
+    "answer": 3,
+    "explanation": "수진이라고 했으니 'No, I'm not.'이에요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'bag'의 첫소리와 같은 소리로 시작하는 낱말은?",
+    "choices": [
+      "bear",
+      "dog",
+      "pig",
+      "cat"
+    ],
+    "answer": 0,
+    "explanation": "'bag'와 'bear'는 모두 /b/ 소리로 시작해요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'cat'과 끝소리가 같은 낱말은?",
+    "choices": [
+      "cap",
+      "hat",
+      "can",
+      "cup"
+    ],
+    "answer": 1,
+    "explanation": "'cat'과 'hat'은 모두 t로 끝나요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'_ig'의 빈칸에 한 글자를 넣어 동물 이름을 만들 수 있는 글자는?",
+    "choices": [
+      "d",
+      "c",
+      "p",
+      "t"
+    ],
+    "answer": 2,
+    "explanation": "p를 넣으면 돼지 'pig'가 돼요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "알파벳 순서로 늘어놓을 때 가장 마지막에 오는 낱말은?",
+    "choices": [
+      "apple",
+      "moon",
+      "sun",
+      "zoo"
+    ],
+    "answer": 3,
+    "explanation": "첫 글자가 z인 'zoo'가 가장 마지막이에요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'dog'를 모두 대문자로 바르게 쓴 것은?",
+    "choices": [
+      "DOG",
+      "BOG",
+      "DOQ",
+      "D0G"
+    ],
+    "answer": 0,
+    "explanation": "d는 D, o는 O, g는 G예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "m으로 시작하는 낱말은?",
+    "choices": [
+      "nose",
+      "milk",
+      "hat",
+      "van"
+    ],
+    "answer": 1,
+    "explanation": "'milk'는 m으로 시작해요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'sun'은 s로 시작하는 낱말이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "'sun'의 첫 글자는 s예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'Sit down.'은 일어서라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'Sit down.'은 앉으라는 뜻이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'Can you dance?'는 춤을 출 수 있는지 묻는 말이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "'Can you ~?'는 할 수 있는지 묻는 말이에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "'I have two cat.'은 바르게 쓴 문장이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "둘 이상이면 'two cats'라고 써야 해요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'pink'는 분홍색이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "'pink'는 분홍색이에요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'Who is he?'에 'He is my uncle.'이라고 대답할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "누구인지 물었으니 'He is ~.'로 대답해요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "'Is it a pen?'에 'Yes, I am.'이라고 대답해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'Is it ~?'에는 'Yes, it is.'로 대답해요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'tiger'의 뜻은?",
+    "choices": [
+      "호랑이",
+      "사자",
+      "곰",
+      "여우"
+    ],
+    "answer": 0,
+    "explanation": "'tiger'는 호랑이예요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 날 수 있는 동물은?",
+    "choices": [
+      "pig",
+      "bird",
+      "fish",
+      "cow"
+    ],
+    "answer": 1,
+    "explanation": "'bird'는 새라서 날 수 있어요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'It has a long nose. It's big and gray.' 무엇을 설명하는 말일까요?",
+    "choices": [
+      "rabbit",
+      "monkey",
+      "elephant",
+      "duck"
+    ],
+    "answer": 2,
+    "explanation": "코가 길고 크고 회색인 동물은 코끼리예요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'It is small. It says meow.' 어떤 동물일까요?",
+    "choices": [
+      "dog",
+      "cow",
+      "lion",
+      "cat"
+    ],
+    "answer": 3,
+    "explanation": "'meow(야옹)' 하고 우는 작은 동물은 고양이예요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'fox'의 뜻은?",
+    "choices": [
+      "여우",
+      "개구리",
+      "오리",
+      "상자"
+    ],
+    "answer": 0,
+    "explanation": "'fox'는 여우예요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I like grapes.'에서 말하는 사람이 좋아하는 것은?",
+    "choices": [
+      "사과",
+      "포도",
+      "딸기",
+      "수박"
+    ],
+    "answer": 1,
+    "explanation": "'grapes'는 포도예요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'It's red and round. It's small. It's a fruit.' 알맞은 과일은?",
+    "choices": [
+      "banana",
+      "apple",
+      "watermelon",
+      "orange"
+    ],
+    "answer": 1,
+    "explanation": "빨갛고 둥글고 작은 과일은 사과, apple이에요. 수박은 크고, 바나나는 노랗고, 오렌지는 주황색이에요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'watermelon'의 뜻은?",
+    "choices": [
+      "참외",
+      "멜론",
+      "레몬",
+      "수박"
+    ],
+    "answer": 3,
+    "explanation": "'watermelon'은 수박이에요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Touch your nose.'의 뜻은?",
+    "choices": [
+      "코를 만져요.",
+      "입을 만져요.",
+      "눈을 감아요.",
+      "귀를 잡아요."
+    ],
+    "answer": 0,
+    "explanation": "'touch'는 만지다, 'nose'는 코예요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'hand'는 손이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "'hand'는 손이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공 하나를 보고 말하는 문장으로 알맞은 것은?",
+    "choices": [
+      "It's balls.",
+      "It's a ball.",
+      "They's a ball.",
+      "Is a ball."
+    ],
+    "answer": 1,
+    "explanation": "하나일 때는 'It's a ~.'라고 말해요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "문장을 바르게 쓴 것은?",
+    "choices": [
+      "i like apples.",
+      "I like apples",
+      "I like apples.",
+      "i Like apples."
+    ],
+    "answer": 2,
+    "explanation": "문장 첫 글자와 'I'는 대문자, 끝에는 마침표를 써요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Thank you.'라고 말하기 알맞은 상황은?",
+    "choices": [
+      "친구와 헤어질 때",
+      "처음 만났을 때",
+      "실수했을 때",
+      "친구가 연필을 빌려줬을 때"
+    ],
+    "answer": 3,
+    "explanation": "도움을 받으면 'Thank you.'라고 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "실수로 친구의 발을 밟았어요. 알맞은 말은?",
+    "choices": [
+      "I'm sorry.",
+      "Thank you.",
+      "Good morning.",
+      "You're welcome."
+    ],
+    "answer": 0,
+    "explanation": "미안할 때는 'I'm sorry.'라고 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Here you are. (물건을 건네며) B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "Goodbye.",
+      "Thank you.",
+      "How old are you?",
+      "I'm sorry."
+    ],
+    "answer": 1,
+    "explanation": "물건을 받으면 고맙다고 말해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'fifteen'은 어떤 수일까요?",
+    "choices": [
+      "50",
+      "5",
+      "15",
+      "51"
+    ],
+    "answer": 2,
+    "explanation": "'fifteen'은 15, 'fifty'는 50이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'twenty'는 'ten'보다 얼마나 더 큰 수일까요?",
+    "choices": [
+      "2",
+      "20",
+      "12",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "20 - 10 = 10이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "엄마의 엄마를 영어로 부르는 말은?",
+    "choices": [
+      "grandma",
+      "grandpa",
+      "sister",
+      "aunt"
+    ],
+    "answer": 0,
+    "explanation": "엄마의 엄마는 할머니, 'grandma'예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'baby'의 뜻은?",
+    "choices": [
+      "아빠",
+      "아기",
+      "오빠",
+      "이모"
+    ],
+    "answer": 1,
+    "explanation": "'baby'는 아기예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'chair'는 책상이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'chair'는 의자, 책상은 'desk'예요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Pick up the pencil.'의 뜻은?",
+    "choices": [
+      "연필을 써요.",
+      "연필을 깎아요.",
+      "연필을 집어요.",
+      "연필을 빌려요."
+    ],
+    "answer": 2,
+    "explanation": "'pick up'은 집어 들다라는 뜻이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Come here, please.'를 듣고 할 행동은?",
+    "choices": [
+      "문을 닫는다",
+      "자리에 앉는다",
+      "손을 든다",
+      "말한 사람 쪽으로 간다"
+    ],
+    "answer": 3,
+    "explanation": "'Come here'는 이리 오라는 말이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? ___ is my sister.",
+    "choices": [
+      "She",
+      "He",
+      "I",
+      "You"
+    ],
+    "answer": 0,
+    "explanation": "여자 가족은 'She'로 나타내요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? This ___ my dog.",
+    "choices": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": 1,
+    "explanation": "'This' 뒤에는 'is'를 써요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: What's this? B: It's an ___. 빈칸에 알맞은 말은?",
+    "choices": [
+      "banana",
+      "pear",
+      "apple",
+      "grape"
+    ],
+    "answer": 2,
+    "explanation": "'an'은 a, e, i, o, u 소리로 시작하는 낱말 앞에 써요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Can I use your eraser? B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "I'm fine.",
+      "Nice to meet you.",
+      "Good night.",
+      "Sure. Here you are."
+    ],
+    "answer": 3,
+    "explanation": "빌려줄 때 'Sure. Here you are.'라고 해요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'window'의 뜻은?",
+    "choices": [
+      "창문",
+      "문",
+      "벽",
+      "바닥"
+    ],
+    "answer": 0,
+    "explanation": "'window'는 창문이에요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Let's count!' 다음에 이어질 말로 알맞은 것은?",
+    "choices": [
+      "Red, blue, green!",
+      "One, two, three!",
+      "Hello, bye!",
+      "Cat, dog!"
+    ],
+    "answer": 1,
+    "explanation": "'count'는 수를 세다라는 뜻이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: What color is the sky? (맑은 낮) B: It's ___. 빈칸에 알맞은 말은?",
+    "choices": [
+      "brown",
+      "pink",
+      "blue",
+      "orange"
+    ],
+    "answer": 2,
+    "explanation": "맑은 낮 하늘은 파란색, 'blue'예요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "네 줄 공책에 쓸 때 아래로 길게 내려 쓰는 소문자는?",
+    "choices": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "answer": 3,
+    "explanation": "g, p, q, y, j는 아래로 내려 써요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "대문자와 소문자의 모양이 같고 크기만 다른 것끼리 묶은 것은?",
+    "choices": [
+      "C-c, O-o",
+      "A-a, B-b",
+      "D-d, E-e",
+      "G-g, H-h"
+    ],
+    "answer": 0,
+    "explanation": "C와 O는 소문자가 대문자와 모양이 같아요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Happy birthday! B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "I'm sorry.",
+      "Thank you.",
+      "Good morning.",
+      "Me, too."
+    ],
+    "answer": 1,
+    "explanation": "생일 축하를 받으면 고맙다고 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: Do you like milk? B: No, I don't. B의 생각은?",
+    "choices": [
+      "우유를 좋아한다",
+      "우유를 마시고 싶다",
+      "우유를 좋아하지 않는다",
+      "우유를 가지고 있다"
+    ],
+    "answer": 2,
+    "explanation": "'No, I don't.'는 좋아하지 않는다는 뜻이에요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: I like dogs. B: ___ (나도 개를 좋아해.) 빈칸에 알맞은 말은?",
+    "choices": [
+      "Thank you.",
+      "You're welcome.",
+      "Goodbye.",
+      "Me, too."
+    ],
+    "answer": 3,
+    "explanation": "'나도 그래'는 'Me, too.'라고 해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: How are you? B: ___ I have a cold. 빈칸에 알맞은 말은?",
+    "choices": [
+      "I'm not good.",
+      "I'm great.",
+      "Nice to meet you.",
+      "I'm ten."
+    ],
+    "answer": 0,
+    "explanation": "감기에 걸렸으니 좋지 않다고 말해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "seven과 eight을 더한 수를 영어로 쓰면?",
+    "choices": [
+      "fourteen",
+      "fifteen",
+      "sixteen",
+      "fifty"
+    ],
+    "answer": 1,
+    "explanation": "7 + 8 = 15이고 15는 fifteen이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사과가 twelve개 있어요. three개를 먹으면 남는 수는?",
+    "choices": [
+      "ten",
+      "eight",
+      "nine",
+      "fifteen"
+    ],
+    "answer": 2,
+    "explanation": "12 - 3 = 9이고 9는 nine이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Is it a pencil? B: Yes, it is. B가 무엇이라고 확인해 주었나요?",
+    "choices": [
+      "펜",
+      "지우개",
+      "책",
+      "연필"
+    ],
+    "answer": 3,
+    "explanation": "Yes, it is.는 연필이 맞다는 뜻이에요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "복도에서 'Don't run.'이라는 말을 들었을 때 알맞은 행동은?",
+    "choices": [
+      "천천히 걷는다",
+      "빨리 뛴다",
+      "자리에 앉는다",
+      "노래를 부른다"
+    ],
+    "answer": 0,
+    "explanation": "Don't run.은 뛰지 말라는 뜻이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'Sit down, please.'와 반대되는 행동을 하라는 말은?",
+    "choices": [
+      "Come here, please.",
+      "Stand up, please.",
+      "Be quiet, please.",
+      "Open the door, please."
+    ],
+    "answer": 1,
+    "explanation": "앉으라는 말의 반대는 일어나라는 Stand up이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "알파벳에서 M의 바로 앞 글자와 바로 뒤 글자를 차례대로 쓴 것은?",
+    "choices": [
+      "N, L",
+      "K, O",
+      "L, N",
+      "L, O"
+    ],
+    "answer": 2,
+    "explanation": "알파벳 순서는 L, M, N이에요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "소문자 b, d, p, q 중 대문자로 쓰면 D가 되는 것은?",
+    "choices": [
+      "b",
+      "p",
+      "q",
+      "d"
+    ],
+    "answer": 3,
+    "explanation": "d의 대문자는 D예요. 모양이 비슷해서 헷갈리지 않게 해요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'It has no legs. It is long.'이 설명하는 동물은?",
+    "choices": [
+      "snake",
+      "bird",
+      "lion",
+      "duck"
+    ],
+    "answer": 0,
+    "explanation": "다리가 없고 긴 동물은 뱀(snake)이에요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "blue와 yellow 물감을 섞으면 나오는 색은?",
+    "choices": [
+      "orange",
+      "green",
+      "purple",
+      "black"
+    ],
+    "answer": 1,
+    "explanation": "파랑과 노랑을 섞으면 초록(green)이 돼요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Are you Tom? B: Yes, I am. 이 대화로 알 수 있는 것은?",
+    "choices": [
+      "A의 이름은 Tom이다",
+      "B는 Tom의 친구다",
+      "B의 이름은 Tom이다",
+      "A와 B는 형제다"
+    ],
+    "answer": 2,
+    "explanation": "Yes, I am.은 B 자신이 Tom이라는 뜻이에요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: How old are you? B: I'm nine. B가 내년에 할 말은?",
+    "choices": [
+      "I'm nine.",
+      "I'm eight.",
+      "I'm eleven.",
+      "I'm ten."
+    ],
+    "answer": 3,
+    "explanation": "아홉 살이 내년엔 열 살이니 I'm ten.이라고 해요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Can you swim? B: No, I can't. 이 대화로 알 수 있는 것은?",
+    "choices": [
+      "B는 수영을 못한다",
+      "B는 수영을 잘한다",
+      "A는 수영을 못한다",
+      "B는 수영을 좋아한다"
+    ],
+    "answer": 0,
+    "explanation": "No, I can't.는 할 수 없다는 뜻이에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Do you like apples? B: No, I don't. I like bananas. B가 좋아하는 것은?",
+    "choices": [
+      "사과",
+      "바나나",
+      "사과와 바나나",
+      "둘 다 싫어한다"
+    ],
+    "answer": 1,
+    "explanation": "사과는 좋아하지 않고 바나나를 좋아해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'She is my mom's mom.'이 가리키는 사람은?",
+    "choices": [
+      "sister",
+      "mom",
+      "grandma",
+      "dad"
+    ],
+    "answer": 2,
+    "explanation": "엄마의 엄마는 할머니(grandma)예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Can it fly? B: Yes, it can. 이 동물로 알맞은 것은?",
+    "choices": [
+      "a pig",
+      "a bird",
+      "a fish",
+      "a cow"
+    ],
+    "answer": 1,
+    "explanation": "날 수 있는 동물은 새(bird)예요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'It's yellow. It's long.'이 설명하는 과일은?",
+    "choices": [
+      "apple",
+      "grape",
+      "banana",
+      "lemon"
+    ],
+    "answer": 2,
+    "explanation": "노랗고 길쭉한 과일은 바나나예요. 레몬은 길지 않아요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'pen'과 첫소리가 같은 낱말은?",
+    "choices": [
+      "pig",
+      "ten",
+      "hen",
+      "bed"
+    ],
+    "answer": 0,
+    "explanation": "pen과 pig는 둘 다 /p/ 소리로 시작해요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'hat'의 첫 글자 h를 c로 바꾸면 만들어지는 낱말의 뜻은?",
+    "choices": [
+      "모자",
+      "박쥐",
+      "고양이",
+      "쥐"
+    ],
+    "answer": 2,
+    "explanation": "hat의 h를 c로 바꾸면 cat이 되고, cat은 고양이예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'bed'와 가운데 소리가 같은 낱말은?",
+    "choices": [
+      "big",
+      "ten",
+      "bus",
+      "box"
+    ],
+    "answer": 1,
+    "explanation": "bed와 ten은 가운데에 모두 e 소리가 들어 있어요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "알파벳 Z는 26개 글자 중 가장 마지막 글자예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "알파벳은 A로 시작해서 Z로 끝나요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "fish, cup, egg, bag을 알파벳 순서로 늘어놓을 때 세 번째에 오는 낱말은?",
+    "choices": [
+      "fish",
+      "cup",
+      "bag",
+      "egg"
+    ],
+    "answer": 3,
+    "explanation": "첫 글자 순서대로 bag, cup, egg, fish가 되어 세 번째는 egg예요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "네 줄 공책에 쓸 때 윗부분이 위로 길게 올라가는 소문자는?",
+    "choices": [
+      "a",
+      "n",
+      "o",
+      "h"
+    ],
+    "answer": 3,
+    "explanation": "h는 윗부분이 위로 길게 올라가게 써요. a, n, o는 가운데 칸에만 써요.",
+    "semester": 1,
+    "unit": "알파벳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Good afternoon.'은 언제 하는 인사일까요?",
+    "choices": [
+      "아침",
+      "오후",
+      "밤",
+      "잠자기 전"
+    ],
+    "answer": 1,
+    "explanation": "afternoon은 오후라는 뜻이라서 오후에 만났을 때 하는 인사예요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Hi, I'm Jun. Nice to meet you. B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "Nice to meet you, too.",
+      "I'm sorry.",
+      "Good night.",
+      "You're welcome."
+    ],
+    "answer": 0,
+    "explanation": "반갑다는 말에는 '나도 반가워'라는 뜻의 Nice to meet you, too.로 답해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "밤에 잠자리에 들며 가족에게 하는 인사로 알맞은 것은?",
+    "choices": [
+      "Good morning.",
+      "Good afternoon.",
+      "Good night.",
+      "Nice to meet you."
+    ],
+    "answer": 2,
+    "explanation": "Good night.은 밤에 헤어지거나 잠자기 전에 하는 인사예요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 헤어질 때 하는 말이 아닌 것은?",
+    "choices": [
+      "Nice to meet you.",
+      "Goodbye.",
+      "See you tomorrow.",
+      "Bye."
+    ],
+    "answer": 0,
+    "explanation": "Nice to meet you.는 처음 만났을 때 하는 말이에요. 나머지는 헤어질 때 해요.",
+    "semester": 1,
+    "unit": "인사하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I'm Minho.'에서 말하는 사람의 이름은?",
+    "choices": [
+      "민수",
+      "지호",
+      "민호",
+      "수호"
+    ],
+    "answer": 2,
+    "explanation": "I'm 뒤에 이름을 말해요. 그래서 말하는 사람은 민호예요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: ___ B: My name is Yuna. 빈칸에 알맞은 질문은?",
+    "choices": [
+      "How are you?",
+      "What's your name?",
+      "How old are you?",
+      "What's this?"
+    ],
+    "answer": 1,
+    "explanation": "My name is ~.는 이름을 말하는 대답이라서 이름을 묻는 말이 알맞아요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Are you Jisu? B: Yes, I am. A: ___ 이어질 A의 말로 알맞은 것은?",
+    "choices": [
+      "No, I'm not.",
+      "I'm Jisu.",
+      "What's this?",
+      "Hi, Jisu! Nice to meet you."
+    ],
+    "answer": 3,
+    "explanation": "B가 지수라고 했으니 A는 지수에게 반갑게 인사하는 것이 자연스러워요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'My name is Sora.'와 뜻이 같은 문장은?",
+    "choices": [
+      "I like Sora.",
+      "This is Sora.",
+      "Are you Sora?",
+      "I'm Sora."
+    ],
+    "answer": 3,
+    "explanation": "I'm Sora.도 '나는 소라야.'라는 뜻이에요. This is Sora.는 다른 사람을 소개하는 말이에요.",
+    "semester": 1,
+    "unit": "이름 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: How many balls? B: Three balls. 공은 몇 개일까요?",
+    "choices": [
+      "2개",
+      "3개",
+      "4개",
+      "13개"
+    ],
+    "answer": 1,
+    "explanation": "three는 3이에요. 그래서 공은 3개예요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "규칙에 맞게 빈칸에 알맞은 말은? two, four, six, ___",
+    "choices": [
+      "eight",
+      "seven",
+      "nine",
+      "ten"
+    ],
+    "answer": 0,
+    "explanation": "2, 4, 6처럼 2씩 커지므로 다음 수는 8, eight이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'thirteen'은 30이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "thirteen은 13이에요. 30은 thirty예요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "연필 9자루에 2자루를 더 받으면 모두 몇 자루일까요? 영어로 알맞은 것은?",
+    "choices": [
+      "ten",
+      "twelve",
+      "eleven",
+      "seven"
+    ],
+    "answer": 2,
+    "explanation": "9에 2를 더하면 11이고, 11은 eleven이에요.",
+    "semester": 1,
+    "unit": "숫자 세기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Raise your hand.'의 뜻은?",
+    "choices": [
+      "손을 들어요.",
+      "손을 씻어요.",
+      "손뼉 쳐요.",
+      "손을 내려요."
+    ],
+    "answer": 0,
+    "explanation": "raise는 '들다', hand는 '손'이라서 손을 들라는 말이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "선생님이 'Line up, please.'라고 하셨어요. 알맞은 행동은?",
+    "choices": [
+      "책을 편다",
+      "자리에 앉는다",
+      "줄을 선다",
+      "손을 씻는다"
+    ],
+    "answer": 2,
+    "explanation": "Line up.은 줄을 서라는 말이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "창문을 닫아 달라고 부탁하는 말로 알맞은 것은?",
+    "choices": [
+      "Open the window, please.",
+      "Close the window, please.",
+      "Close the door, please.",
+      "Don't close the window."
+    ],
+    "answer": 1,
+    "explanation": "close는 닫다, window는 창문이에요. door는 문이라서 틀려요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'Listen carefully.'는 잘 들으라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "listen은 '듣다'라는 뜻이라서 잘 들으라는 말이에요.",
+    "semester": 1,
+    "unit": "교실 명령"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'bag'의 뜻은?",
+    "choices": [
+      "책",
+      "모자",
+      "공책",
+      "가방"
+    ],
+    "answer": 3,
+    "explanation": "bag은 물건을 넣어 들고 다니는 가방이에요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: What's this? B: It's my new ___. (글씨를 지울 때 쓰는 물건) 빈칸에 알맞은 말은?",
+    "choices": [
+      "ruler",
+      "scissors",
+      "bag",
+      "eraser"
+    ],
+    "answer": 3,
+    "explanation": "글씨를 지우는 물건은 지우개, eraser예요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'Is it a cap?'에 'No, it isn't.'라고 대답하면 그것은 모자가 아니라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "No, it isn't.는 '아니, 그렇지 않아.'라는 뜻이라서 모자가 아니에요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Is it a ruler? B: No, it isn't. It's a pencil. 대화 속 물건은 무엇일까요?",
+    "choices": [
+      "자",
+      "연필",
+      "자와 연필",
+      "지우개"
+    ],
+    "answer": 1,
+    "explanation": "자냐고 묻자 아니라고 하고 It's a pencil.이라고 했으니 연필이에요.",
+    "semester": 1,
+    "unit": "물건 묻기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'pink'와 'purple'은 첫소리가 같은 색깔 낱말이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "pink와 purple은 둘 다 /p/ 소리로 시작하는 색깔 낱말이에요.",
+    "semester": 1,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다리가 4개인 동물이 아닌 것은?",
+    "choices": [
+      "bird",
+      "dog",
+      "cat",
+      "cow"
+    ],
+    "answer": 0,
+    "explanation": "bird(새)는 다리가 2개예요. 개, 고양이, 소는 다리가 4개예요.",
+    "semester": 1,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'grape'의 뜻은?",
+    "choices": [
+      "배",
+      "자두",
+      "포도",
+      "귤"
+    ],
+    "answer": 2,
+    "explanation": "grape는 포도예요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'orange'가 과일 이름일 때의 뜻은?",
+    "choices": [
+      "배",
+      "감",
+      "오렌지",
+      "사과"
+    ],
+    "answer": 2,
+    "explanation": "과일 이름 orange는 오렌지예요. 사과는 apple이에요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'It's orange. It's round. It's a fruit.' 알맞은 과일은?",
+    "choices": [
+      "banana",
+      "grape",
+      "orange",
+      "strawberry"
+    ],
+    "answer": 2,
+    "explanation": "주황색이고 둥근 과일은 오렌지, orange예요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Do you like grapes? B: Yes, I do. B에 대해 알 수 있는 것은?",
+    "choices": [
+      "포도를 싫어한다",
+      "포도를 좋아한다",
+      "포도가 없다",
+      "포도를 처음 본다"
+    ],
+    "answer": 1,
+    "explanation": "Yes, I do.는 좋아한다는 대답이에요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'watermelon'은 수박이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "watermelon은 수박이에요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "초록색 껍질에 속이 빨갛고, 크고 둥근 과일을 영어로 하면?",
+    "choices": [
+      "melon",
+      "apple",
+      "cherry",
+      "watermelon"
+    ],
+    "answer": 3,
+    "explanation": "크고 둥글며 겉은 초록색, 속은 빨간 과일은 수박, watermelon이에요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: How many pears? B: ___ (배 4개) 빈칸에 알맞은 말은?",
+    "choices": [
+      "Four pear.",
+      "Four pearses.",
+      "A four pears.",
+      "Four pears."
+    ],
+    "answer": 3,
+    "explanation": "둘 이상일 때는 낱말 끝에 s를 붙여 pears라고 해요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 an이 아니라 a가 들어가는 것은?",
+    "choices": [
+      "___ apple",
+      "___ banana",
+      "___ orange",
+      "___ egg"
+    ],
+    "answer": 1,
+    "explanation": "banana는 b 소리로 시작해서 a를 써요. apple, orange, egg는 an을 써요.",
+    "semester": 1,
+    "unit": "과일"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'grandpa'의 뜻은?",
+    "choices": [
+      "할아버지",
+      "할머니",
+      "삼촌",
+      "아빠"
+    ],
+    "answer": 0,
+    "explanation": "grandpa는 할아버지예요. 할머니는 grandma예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: ___ B: He is my dad. 빈칸에 알맞은 질문은?",
+    "choices": [
+      "Who is she?",
+      "How are you?",
+      "Who is he?",
+      "What's this?"
+    ],
+    "answer": 2,
+    "explanation": "대답이 He로 시작하므로 남자를 가리키는 Who is he?가 알맞아요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "여자 형제를 소개할 때 'He is my sister.'라고 말해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "여자를 가리킬 때는 She를 써서 She is my sister.라고 해요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민지가 가족사진을 보며 남동생을 소개해요. 알맞은 말은?",
+    "choices": [
+      "This is my brother.",
+      "This is my sister.",
+      "She is my brother.",
+      "This is my baby sister."
+    ],
+    "answer": 0,
+    "explanation": "남자 형제는 brother예요. 남자를 가리킬 때는 She를 쓰지 않아요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'This is my ___.' 빈칸에 가족을 나타내는 말이 들어가려면?",
+    "choices": [
+      "pencil",
+      "apple",
+      "mom",
+      "desk"
+    ],
+    "answer": 2,
+    "explanation": "mom(엄마)은 가족이에요. 나머지는 물건이나 과일이에요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Is she your mom? B: No, she isn't. She's my aunt. 여자는 누구일까요?",
+    "choices": [
+      "엄마",
+      "이모나 고모",
+      "할머니",
+      "언니"
+    ],
+    "answer": 1,
+    "explanation": "엄마가 아니라고 하고 aunt라고 했어요. aunt는 이모나 고모예요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? A: Who is ___? B: He is my grandpa.",
+    "choices": [
+      "she",
+      "it",
+      "you",
+      "he"
+    ],
+    "answer": 3,
+    "explanation": "대답에 He를 썼으니 남자를 묻는 he가 알맞아요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 들어갈 말이 나머지와 다른 하나는?",
+    "choices": [
+      "___ is my dad.",
+      "___ is my brother.",
+      "___ is my grandpa.",
+      "___ is my mom."
+    ],
+    "answer": 3,
+    "explanation": "mom은 여자라서 She가 들어가요. 나머지는 모두 He가 들어가요.",
+    "semester": 2,
+    "unit": "가족 소개"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'How old are you?'는 무엇을 묻는 말일까요?",
+    "choices": [
+      "이름",
+      "나이",
+      "기분",
+      "좋아하는 것"
+    ],
+    "answer": 1,
+    "explanation": "How old are you?는 몇 살인지 나이를 묻는 말이에요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: How old are you? B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "I'm eight years old.",
+      "I'm Minsu.",
+      "I'm fine.",
+      "I like eight."
+    ],
+    "answer": 0,
+    "explanation": "나이를 물으면 I'm ~ years old.로 대답해요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: I'm nine. B: Me, too. B는 몇 살일까요?",
+    "choices": [
+      "8살",
+      "10살",
+      "9살",
+      "알 수 없다"
+    ],
+    "answer": 2,
+    "explanation": "Me, too.는 '나도 그래.'라는 뜻이라서 B도 9살이에요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'I'm seven years old.'는 일곱 살이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "seven은 7이라서 일곱 살이라는 말이에요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "동생은 7살이고 나는 동생보다 2살 많아요. 나의 나이를 말하는 문장은?",
+    "choices": [
+      "I'm nine.",
+      "I'm seven.",
+      "I'm eight.",
+      "I'm five."
+    ],
+    "answer": 0,
+    "explanation": "7에 2를 더하면 9살이니 I'm nine.이라고 해요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나이를 물을 때 빈칸에 알맞은 말은? How ___ are you?",
+    "choices": [
+      "many",
+      "color",
+      "old",
+      "name"
+    ],
+    "answer": 2,
+    "explanation": "나이를 물을 때는 How old are you?라고 해요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "대화 순서로 알맞은 것은? (a) I'm ten. And you? (b) How old are you? (c) I'm nine.",
+    "choices": [
+      "(a)-(b)-(c)",
+      "(b)-(a)-(c)",
+      "(c)-(b)-(a)",
+      "(b)-(c)-(a)"
+    ],
+    "answer": 1,
+    "explanation": "나이를 묻고(b), 10살이라며 되묻고(a), 9살이라고 답해요(c).",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'How old are you?'에 알맞지 않은 대답은?",
+    "choices": [
+      "I'm ten.",
+      "I'm nine years old.",
+      "I'm eight.",
+      "I'm fine."
+    ],
+    "answer": 3,
+    "explanation": "I'm fine.은 기분을 묻는 말에 하는 대답이에요.",
+    "semester": 2,
+    "unit": "나이 말하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'dance'의 뜻은?",
+    "choices": [
+      "노래하다",
+      "달리다",
+      "뛰다",
+      "춤추다"
+    ],
+    "answer": 3,
+    "explanation": "dance는 춤추다라는 뜻이에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'I can't jump.'의 뜻은?",
+    "choices": [
+      "나는 뛸 수 있어.",
+      "나는 뛸 수 없어.",
+      "나는 뛰는 것을 좋아해.",
+      "같이 뛰자."
+    ],
+    "answer": 1,
+    "explanation": "can't는 '~할 수 없다'라는 뜻이에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? A: ___ you run fast? B: Yes, I can.",
+    "choices": [
+      "Can",
+      "Do",
+      "Are",
+      "Is"
+    ],
+    "answer": 0,
+    "explanation": "Yes, I can.으로 대답했으니 Can으로 물어야 해요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "'Can you sing?'에 'Yes, I do.'라고 대답해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "Can으로 물으면 Yes, I can. 또는 No, I can't.로 대답해요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "수영은 할 수 있지만 스케이트는 못 타는 친구가 할 말은?",
+    "choices": [
+      "I can swim. I can skate.",
+      "I can't swim. I can skate.",
+      "I can swim. I can't skate.",
+      "I can't swim. I can't skate."
+    ],
+    "answer": 2,
+    "explanation": "할 수 있는 것은 can, 못하는 것은 can't를 써요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'ride a bike'의 뜻은?",
+    "choices": [
+      "자전거를 타다",
+      "자전거를 고치다",
+      "버스를 타다",
+      "공을 차다"
+    ],
+    "answer": 0,
+    "explanation": "ride는 타다, bike는 자전거예요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'sing'의 뜻은?",
+    "choices": [
+      "수영하다",
+      "춤추다",
+      "노래하다",
+      "그리다"
+    ],
+    "answer": 2,
+    "explanation": "sing은 노래하다라는 뜻이에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Can you ___?' 빈칸에 들어가기 알맞지 않은 말은?",
+    "choices": [
+      "swim",
+      "pizza",
+      "dance",
+      "skate"
+    ],
+    "answer": 1,
+    "explanation": "pizza는 음식 이름이라 할 수 있는 동작이 아니에요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'I can swim.'과 'I can't swim.'은 뜻이 반대예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "can은 할 수 있다, can't는 할 수 없다라서 뜻이 반대예요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Can you play the piano? B: ___ I can play it well. 빈칸에 알맞은 말은?",
+    "choices": [
+      "No, I can't.",
+      "Yes, I do.",
+      "No, I don't.",
+      "Yes, I can."
+    ],
+    "answer": 3,
+    "explanation": "뒤에 잘 칠 수 있다고 했으니 Yes, I can.이 알맞아요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I can play baseball.'에서 말하는 사람이 할 수 있는 운동은?",
+    "choices": [
+      "농구",
+      "축구",
+      "배구",
+      "야구"
+    ],
+    "answer": 3,
+    "explanation": "baseball은 야구예요.",
+    "semester": 2,
+    "unit": "할 수 있는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I like cats.'의 뜻은?",
+    "choices": [
+      "나는 고양이가 있어.",
+      "나는 고양이를 좋아해.",
+      "나는 고양이야.",
+      "고양이 좋아하니?"
+    ],
+    "answer": 1,
+    "explanation": "I like ~.는 '나는 ~을 좋아해.'라는 뜻이에요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구에게 수박을 좋아하는지 물어보는 말은?",
+    "choices": [
+      "Do you like watermelons?",
+      "I like watermelons.",
+      "Can you watermelons?",
+      "What's this?"
+    ],
+    "answer": 0,
+    "explanation": "좋아하는지 물을 때는 Do you like ~?라고 해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Do you like soccer? B: ___ I like baseball. 빈칸에 알맞은 말은?",
+    "choices": [
+      "Yes, I do.",
+      "Yes, I can.",
+      "No, I don't.",
+      "No, it isn't."
+    ],
+    "answer": 2,
+    "explanation": "뒤에 야구를 좋아한다고 했으니 축구는 좋아하지 않는다는 대답이 알맞아요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'I don't like chicken.'은 닭고기를 좋아한다는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "don't like는 좋아하지 않는다는 뜻이에요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: I like pizza. B: Me, too. 바르게 설명한 것은?",
+    "choices": [
+      "두 사람 모두 피자를 좋아한다",
+      "A만 피자를 좋아한다",
+      "B는 피자를 싫어한다",
+      "두 사람 모두 피자를 싫어한다"
+    ],
+    "answer": 0,
+    "explanation": "Me, too.는 '나도 그래.'라서 B도 피자를 좋아해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'milk'의 뜻은?",
+    "choices": [
+      "물",
+      "주스",
+      "우유",
+      "빵"
+    ],
+    "answer": 2,
+    "explanation": "milk는 우유예요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? I like ___. (사과라는 과일 전체를 좋아할 때)",
+    "choices": [
+      "apple",
+      "apples",
+      "an apples",
+      "a apples"
+    ],
+    "answer": 1,
+    "explanation": "어떤 과일을 좋아한다고 할 때는 보통 apples처럼 s를 붙여 말해요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Do you like ice cream? B: Yes, I do. 이어질 A의 말로 알맞은 것은?",
+    "choices": [
+      "I'm sorry.",
+      "Good night.",
+      "I'm nine.",
+      "Me, too."
+    ],
+    "answer": 3,
+    "explanation": "A도 좋아한다면 '나도 그래.'라는 뜻의 Me, too.가 자연스러워요.",
+    "semester": 1,
+    "unit": "좋아하는 것"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'black'의 뜻은?",
+    "choices": [
+      "흰색",
+      "회색",
+      "갈색",
+      "검은색"
+    ],
+    "answer": 3,
+    "explanation": "black은 검은색이에요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: ___ B: It's pink. 빈칸에 알맞은 질문은?",
+    "choices": [
+      "What's this?",
+      "What color is it?",
+      "How are you?",
+      "Who is she?"
+    ],
+    "answer": 1,
+    "explanation": "It's pink.는 색깔을 말하는 대답이라서 색깔을 묻는 말이 알맞아요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "무지개 색을 차례대로 말할 때 빈칸에 알맞은 것은? red, orange, ___, green",
+    "choices": [
+      "yellow",
+      "blue",
+      "purple",
+      "pink"
+    ],
+    "answer": 0,
+    "explanation": "무지개는 빨강, 주황, 노랑, 초록 순서라서 yellow가 들어가요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'gray'는 회색이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "gray는 회색이에요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'What color is it?'에 대한 대답으로 알맞지 않은 것은?",
+    "choices": [
+      "It's red.",
+      "It's blue.",
+      "It's a pen.",
+      "It's yellow."
+    ],
+    "answer": 2,
+    "explanation": "It's a pen.은 무엇인지 말하는 대답이지 색깔이 아니에요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "신호등에서 '멈춤'을 뜻하는 불의 색을 영어로 하면?",
+    "choices": [
+      "red",
+      "green",
+      "yellow",
+      "blue"
+    ],
+    "answer": 0,
+    "explanation": "신호등에서 빨간불은 멈추라는 뜻이고, 빨간색은 red예요.",
+    "semester": 2,
+    "unit": "색깔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'monkey'의 뜻은?",
+    "choices": [
+      "원숭이",
+      "코끼리",
+      "곰",
+      "기린"
+    ],
+    "answer": 0,
+    "explanation": "monkey는 원숭이예요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'It can jump. It has long ears.' 어떤 동물일까요?",
+    "choices": [
+      "snake",
+      "fish",
+      "rabbit",
+      "cow"
+    ],
+    "answer": 2,
+    "explanation": "귀가 길고 깡충깡충 뛰는 동물은 토끼, rabbit이에요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: Can it swim? B: Yes, it can. A: Can it fly? B: No, it can't. 알맞은 동물은?",
+    "choices": [
+      "a bird",
+      "a fish",
+      "a butterfly",
+      "a bee"
+    ],
+    "answer": 1,
+    "explanation": "헤엄칠 수 있고 날 수 없는 동물은 물고기예요. 새, 나비, 벌은 날 수 있어요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'bear'는 곰이라는 뜻이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "bear는 곰이에요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 바르지 않은 문장은?",
+    "choices": [
+      "A duck can swim.",
+      "A horse can run.",
+      "A rabbit can jump.",
+      "A cow can fly."
+    ],
+    "answer": 3,
+    "explanation": "소(cow)는 날 수 없어요. 나머지는 모두 맞는 말이에요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'lion'과 'tiger'는 무엇을 나타내는 말일까요?",
+    "choices": [
+      "과일",
+      "색깔",
+      "가족",
+      "동물"
+    ],
+    "answer": 3,
+    "explanation": "lion은 사자, tiger는 호랑이로 모두 동물이에요.",
+    "semester": 2,
+    "unit": "동물"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: What's this? B: It's a frog. A: Can it jump? B: ___ 빈칸에 알맞은 말은?",
+    "choices": [
+      "Yes, I can.",
+      "Yes, it can.",
+      "No, it isn't.",
+      "Yes, it is."
+    ],
+    "answer": 1,
+    "explanation": "개구리를 it으로 물었고 개구리는 뛸 수 있으니 Yes, it can.이에요.",
+    "semester": 2,
+    "unit": "동물"
+  }
+]

@@ -1,0 +1,3905 @@
+[
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "법을 만드는 일을 하는 국가 기관은 어디일까요?",
+    "choices": [
+      "국회",
+      "법원",
+      "정부",
+      "헌법재판소"
+    ],
+    "answer": 0,
+    "explanation": "국회는 국민의 대표로서 법을 만들어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "법에 따라 재판을 하는 국가 기관은 어디일까요?",
+    "choices": [
+      "국회",
+      "법원",
+      "정부",
+      "교육청"
+    ],
+    "answer": 1,
+    "explanation": "법원은 법에 따라 재판해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "법에 따라 나라의 살림을 맡아 하는 국가 기관은?",
+    "choices": [
+      "국회",
+      "법원",
+      "정부",
+      "지방 의회"
+    ],
+    "answer": 2,
+    "explanation": "정부는 법에 따라 나라 살림을 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "국가 권력을 국회, 정부, 법원이 나누어 맡는 것을 무엇이라 할까요?",
+    "choices": [
+      "지방 자치",
+      "다수결",
+      "국민 투표",
+      "삼권 분립"
+    ],
+    "answer": 3,
+    "explanation": "권력을 셋으로 나눈 것을 삼권 분립이라 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "아시아, 아메리카, 오세아니아 대륙 사이에 있는 대양은?",
+    "choices": [
+      "대서양",
+      "인도양",
+      "태평양",
+      "북극해"
+    ],
+    "answer": 2,
+    "explanation": "세계에서 가장 넓은 대양인 태평양이에요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "유럽과 아프리카 대륙 사이에 있는 바다는?",
+    "choices": [
+      "지중해",
+      "카리브해",
+      "동해",
+      "남중국해"
+    ],
+    "answer": 0,
+    "explanation": "지중해는 유럽과 아프리카 사이에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라의 위치를 바르게 설명한 것은?",
+    "choices": [
+      "유럽 대륙 서쪽, 남반구",
+      "아프리카 북쪽, 북반구",
+      "아시아 대륙 동쪽, 북반구",
+      "아시아 대륙 서쪽, 남반구"
+    ],
+    "answer": 2,
+    "explanation": "우리나라는 아시아 동쪽, 북반구에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세계 평화를 위해 1945년에 만들어진 국제기구는?",
+    "choices": [
+      "유럽 연합",
+      "세계 무역 기구",
+      "올림픽 위원회",
+      "국제 연합"
+    ],
+    "answer": 3,
+    "explanation": "국제 연합(UN)은 1945년에 만들어졌어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "선거에서는 누구나 한 사람이 한 표씩만 행사해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "한 사람이 한 표씩 갖는 것은 평등 선거 원칙이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "비밀 선거는 누구를 뽑았는지 남이 알 수 없게 하는 원칙이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "비밀 선거로 자유롭게 투표할 수 있어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "가정 살림을 꾸려 가며 주로 소비를 하는 경제 주체는?",
+    "choices": [
+      "가계",
+      "기업",
+      "시장",
+      "은행"
+    ],
+    "answer": 0,
+    "explanation": "가계는 가정 살림을 하는 경제 주체예요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "물건을 생산하여 이윤을 얻으려는 경제 주체는?",
+    "choices": [
+      "가계",
+      "기업",
+      "학교",
+      "보건소"
+    ],
+    "answer": 1,
+    "explanation": "기업은 생산으로 이윤을 얻으려 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "위도와 경도를 사용하는 까닭은?",
+    "choices": [
+      "나라의 크기를 재려고",
+      "기온을 재려고",
+      "인구를 세려고",
+      "지구 위의 위치를 정확히 나타내려고"
+    ],
+    "answer": 3,
+    "explanation": "위도와 경도로 위치를 정확히 나타내요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "위도 0도인 선을 무엇이라고 할까요?",
+    "choices": [
+      "본초 자오선",
+      "날짜 변경선",
+      "북회귀선",
+      "적도"
+    ],
+    "answer": 3,
+    "explanation": "적도는 위도 0도로, 지구의 한가운데를 지나요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "정부의 최고 책임자인 대통령을 뽑는 방법은?",
+    "choices": [
+      "국민이 직접 투표로 뽑는다",
+      "국회 의원이 뽑는다",
+      "법원이 임명한다",
+      "추첨으로 정한다"
+    ],
+    "answer": 0,
+    "explanation": "대통령은 국민이 직접 선거로 뽑아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "민주주의 국가에서 나라의 주인은 국민이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "민주주의에서 주권은 국민에게 있어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구 온난화의 주요 원인으로 알맞은 것은?",
+    "choices": [
+      "나무 심기",
+      "온실가스 증가",
+      "재활용",
+      "태양광 발전"
+    ],
+    "answer": 1,
+    "explanation": "온실가스가 늘어 지구가 더워져요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 세계의 대양이 아닌 것은?",
+    "choices": [
+      "태평양",
+      "대서양",
+      "지중해",
+      "인도양"
+    ],
+    "answer": 2,
+    "explanation": "지중해는 대양이 아니라 바다예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "아프리카는 대륙이 아니라 대양이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "아프리카는 대양이 아니라 대륙이에요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다른 나라에 물건을 파는 것을 무엇이라 할까요?",
+    "choices": [
+      "수입",
+      "소비",
+      "저축",
+      "수출"
+    ],
+    "answer": 3,
+    "explanation": "다른 나라에 파는 것이 수출이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 민주 선거의 기본 원칙이 아닌 것은?",
+    "choices": [
+      "대리 선거",
+      "보통 선거",
+      "평등 선거",
+      "직접 선거"
+    ],
+    "answer": 0,
+    "explanation": "민주 선거 원칙은 보통·평등·직접·비밀 선거예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "일정한 나이가 되면 누구나 투표할 수 있다는 선거 원칙은?",
+    "choices": [
+      "비밀 선거",
+      "보통 선거",
+      "평등 선거",
+      "직접 선거"
+    ],
+    "answer": 1,
+    "explanation": "보통 선거는 누구나 투표권을 가지는 거예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다른 사람이 대신하지 않고 자신이 직접 투표하는 원칙은?",
+    "choices": [
+      "보통 선거",
+      "평등 선거",
+      "직접 선거",
+      "비밀 선거"
+    ],
+    "answer": 2,
+    "explanation": "투표는 본인이 직접 해야 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "국회가 하는 일이 아닌 것은 무엇일까요?",
+    "choices": [
+      "법 만들기",
+      "예산안 심의하기",
+      "국정 감사하기",
+      "재판하기"
+    ],
+    "answer": 3,
+    "explanation": "재판은 법원이 하는 일이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "판결에 따르기 어려우면 급이 다른 법원에서 다시 재판받는 제도는?",
+    "choices": [
+      "심급 제도",
+      "삼권 분립",
+      "지방 자치",
+      "국민 투표"
+    ],
+    "answer": 0,
+    "explanation": "심급 제도로 공정한 재판을 받을 수 있어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "삼권 분립을 하는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "일을 느리게 하려고",
+      "권력 집중을 막기 위해",
+      "한 기관이 모두 하려고",
+      "선거를 없애려고"
+    ],
+    "answer": 1,
+    "explanation": "권력이 한곳에 몰리지 않게 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1960년대 우리나라에서 크게 발달한 산업은 무엇일까요?",
+    "choices": [
+      "반도체 산업",
+      "인공 지능 산업",
+      "섬유 등 경공업",
+      "우주 산업"
+    ],
+    "answer": 2,
+    "explanation": "1960년대에는 섬유 등 경공업이 발달했어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1970년대 정부가 집중해서 키운 산업은 무엇일까요?",
+    "choices": [
+      "가발 공업",
+      "농업",
+      "관광 산업",
+      "중화학 공업"
+    ],
+    "answer": 3,
+    "explanation": "1970년대에는 철강, 조선 등 중화학 공업을 키웠어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기업끼리 자유롭게 경쟁할 때 좋은 점은 무엇일까요?",
+    "choices": [
+      "좋은 품질의 물건이 나온다",
+      "물건값이 무조건 오른다",
+      "물건 종류가 줄어든다",
+      "기업이 하나만 남는다"
+    ],
+    "answer": 0,
+    "explanation": "경쟁하면 더 좋은 물건을 만들려고 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "나라와 나라 사이에 물건이나 서비스를 사고파는 것은?",
+    "choices": [
+      "저축",
+      "무역",
+      "세금",
+      "생산"
+    ],
+    "answer": 1,
+    "explanation": "나라 사이의 거래를 무역이라 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다른 나라에서 물건을 사 오는 것을 무엇이라 할까요?",
+    "choices": [
+      "수출",
+      "생산",
+      "수입",
+      "분배"
+    ],
+    "answer": 2,
+    "explanation": "다른 나라에서 사 오는 것이 수입이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "경도 0도인 본초 자오선이 지나는 도시는 어디일까요?",
+    "choices": [
+      "프랑스 파리",
+      "미국 뉴욕",
+      "대한민국 서울",
+      "영국 런던"
+    ],
+    "answer": 3,
+    "explanation": "본초 자오선은 런던의 그리니치 천문대를 지나요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "남아메리카 대륙에 있는 나라는 어디일까요?",
+    "choices": [
+      "브라질",
+      "이집트",
+      "인도",
+      "프랑스"
+    ],
+    "answer": 0,
+    "explanation": "브라질은 남아메리카에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "아프리카 대륙에 있는 나라는 어디일까요?",
+    "choices": [
+      "브라질",
+      "이집트",
+      "캐나다",
+      "독일"
+    ],
+    "answer": 1,
+    "explanation": "이집트는 아프리카에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "유럽 대륙에 있는 나라는 어디일까요?",
+    "choices": [
+      "칠레",
+      "케냐",
+      "프랑스",
+      "베트남"
+    ],
+    "answer": 2,
+    "explanation": "프랑스는 유럽 대륙에 있는 나라예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인구가 매우 많고 우리나라의 가장 큰 교역국 중 하나인 이웃 나라는?",
+    "choices": [
+      "몽골",
+      "중국",
+      "필리핀",
+      "뉴질랜드"
+    ],
+    "answer": 1,
+    "explanation": "중국은 인구가 많고 우리와 교역이 활발해요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정부가 아닌 개인이나 시민이 모여 만든 국제 협력 단체는?",
+    "choices": [
+      "비정부 기구",
+      "국제 연합",
+      "국회",
+      "법원"
+    ],
+    "answer": 0,
+    "explanation": "비정부 기구(NGO)는 시민이 만든 단체예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "국회 의원은 국민이 선거로 뽑아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "국회 의원은 국민이 직접 뽑아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "대통령은 법원의 최고 책임자예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "대통령은 정부의 최고 책임자예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "수입은 다른 나라에 물건을 파는 것이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "다른 나라에 파는 것은 수출이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "헌법재판소가 하는 일로 알맞은 것은?",
+    "choices": [
+      "법률 만들기",
+      "법률이 헌법에 맞는지 판단",
+      "세금 걷기",
+      "대통령 뽑기"
+    ],
+    "answer": 1,
+    "explanation": "헌법재판소는 법률이 헌법에 맞는지 판단해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나라의 중요한 일을 국민이 직접 투표로 정하는 제도는?",
+    "choices": [
+      "국정 감사",
+      "심급 제도",
+      "국민 투표",
+      "탄핵 심판"
+    ],
+    "answer": 2,
+    "explanation": "국민 투표로 국민이 직접 결정해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정치적 생각이 같은 사람들이 정권을 얻으려고 모인 단체는?",
+    "choices": [
+      "시민 단체",
+      "기업",
+      "법원",
+      "정당"
+    ],
+    "answer": 3,
+    "explanation": "정당은 정치적 뜻이 같은 사람들의 단체예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "경제 성장 과정에서 생긴 문제로 알맞은 것은?",
+    "choices": [
+      "빈부 격차 심화",
+      "생활의 편리함",
+      "소득 증가",
+      "교통 발달"
+    ],
+    "answer": 0,
+    "explanation": "경제가 성장하며 빈부 격차가 커지기도 했어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오늘날 우리나라 수출을 이끄는 대표적인 첨단 산업은?",
+    "choices": [
+      "가발 산업",
+      "반도체 산업",
+      "신발 산업",
+      "합판 산업"
+    ],
+    "answer": 1,
+    "explanation": "반도체는 우리나라 대표 수출품이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나라끼리 관세 등 무역 장벽을 줄이기로 맺는 협정은?",
+    "choices": [
+      "국민 투표",
+      "지방 자치",
+      "자유 무역 협정",
+      "삼권 분립"
+    ],
+    "answer": 2,
+    "explanation": "자유 무역 협정(FTA)으로 무역이 자유로워져요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시장 경제에서 정부가 하는 일로 알맞은 것은?",
+    "choices": [
+      "모든 가격 정하기",
+      "기업 대신 생산하기",
+      "소비 금지하기",
+      "불공정 거래 감시하기"
+    ],
+    "answer": 3,
+    "explanation": "정부는 공정한 경쟁이 되도록 감시해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "적도 부근 지역에서 주로 나타나는 기후는?",
+    "choices": [
+      "열대 기후",
+      "한대 기후",
+      "냉대 기후",
+      "건조 기후"
+    ],
+    "answer": 0,
+    "explanation": "적도 부근은 일 년 내내 더운 열대 기후예요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "북극이나 남극 가까운 곳에서 주로 나타나는 기후는?",
+    "choices": [
+      "열대 기후",
+      "한대 기후",
+      "온대 기후",
+      "건조 기후"
+    ],
+    "answer": 1,
+    "explanation": "극지방 가까이는 매우 추운 한대 기후예요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구의 가장 남쪽에 있으며 두꺼운 얼음으로 덮인 대륙은?",
+    "choices": [
+      "오세아니아",
+      "남아메리카",
+      "남극 대륙",
+      "아프리카"
+    ],
+    "answer": 2,
+    "explanation": "남극 대륙은 두꺼운 얼음으로 덮여 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오세아니아 대륙에 있는 대표적인 나라는 어디일까요?",
+    "choices": [
+      "아르헨티나",
+      "이집트",
+      "노르웨이",
+      "오스트레일리아"
+    ],
+    "answer": 3,
+    "explanation": "오스트레일리아는 오세아니아에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세계에서 영토가 가장 넓은 나라는 어디일까요?",
+    "choices": [
+      "러시아",
+      "중국",
+      "미국",
+      "캐나다"
+    ],
+    "answer": 0,
+    "explanation": "러시아는 영토가 가장 넓은 나라예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지구촌 갈등이 생기는 원인으로 알맞은 것은?",
+    "choices": [
+      "문화 교류",
+      "영토와 자원 다툼",
+      "국제 협력",
+      "자원봉사 활동"
+    ],
+    "answer": 1,
+    "explanation": "영토와 자원을 둘러싼 다툼이 갈등을 낳아요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구촌 환경 문제를 위해 개인이 실천할 일은?",
+    "choices": [
+      "일회용품 많이 쓰기",
+      "전등 켜 두기",
+      "에너지 아껴 쓰기",
+      "쓰레기 섞어 버리기"
+    ],
+    "answer": 2,
+    "explanation": "에너지를 아끼면 환경을 지킬 수 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나라마다 잘 만드는 물건을 생산해 서로 교환하는 까닭은?",
+    "choices": [
+      "자원과 기술이 달라서",
+      "모든 나라가 같아서",
+      "무역이 금지되어서",
+      "물건이 필요 없어서"
+    ],
+    "answer": 0,
+    "explanation": "나라마다 자원과 기술이 달라 무역을 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "우리나라는 북반구와 동반구에 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "우리나라는 적도 북쪽, 본초 자오선 동쪽에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "적도는 북극과 남극에서 같은 거리에 있는 선이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "적도는 두 극의 한가운데를 지나요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "국회 의원 선거에서 부모님이 자녀 대신 투표해 줄 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "직접 선거 원칙에 따라 본인이 투표해야 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "교육·과학·문화 분야에서 협력하고 세계 유산을 지정하는 기구는?",
+    "choices": [
+      "유니세프",
+      "유네스코",
+      "세계 보건 기구",
+      "세계 무역 기구"
+    ],
+    "answer": 1,
+    "explanation": "유네스코가 세계 유산을 지정해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4·19 혁명의 계기가 된 사건은?",
+    "choices": [
+      "6월 민주 항쟁",
+      "광복",
+      "3·15 부정 선거",
+      "6·25 전쟁"
+    ],
+    "answer": 2,
+    "explanation": "1960년 3·15 부정 선거에 맞서 일어났어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1987년 6월 민주 항쟁의 결과 바뀐 대통령 선거 방식은?",
+    "choices": [
+      "국회가 뽑는 간선제",
+      "추첨으로 뽑기",
+      "왕이 임명하기",
+      "국민이 직접 뽑는 직선제"
+    ],
+    "answer": 3,
+    "explanation": "6월 민주 항쟁으로 대통령 직선제가 되었어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1980년 신군부에 맞서 광주에서 일어난 민주화 운동은?",
+    "choices": [
+      "5·18 민주화 운동",
+      "4·19 혁명",
+      "3·1 운동",
+      "동학 농민 운동"
+    ],
+    "answer": 0,
+    "explanation": "1980년 광주에서 일어났어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지역 주민이 대표를 뽑아 지역 일을 스스로 처리하는 제도는?",
+    "choices": [
+      "삼권 분립",
+      "지방 자치 제도",
+      "심급 제도",
+      "국민 투표"
+    ],
+    "answer": 1,
+    "explanation": "주민이 지역 일을 스스로 결정해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "다수결의 원칙을 쓸 때에도 소수의 의견을 존중해야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "소수 의견도 존중하는 것이 민주적 태도예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "민주적 의사 결정 원리에 해당하지 않는 것은?",
+    "choices": [
+      "대화와 타협",
+      "다수결의 원칙",
+      "힘센 사람 뜻 따르기",
+      "소수 의견 존중"
+    ],
+    "answer": 2,
+    "explanation": "힘으로 정하는 것은 민주적이지 않아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "가계가 기업에 제공하는 것은?",
+    "choices": [
+      "상품",
+      "이윤",
+      "세금 고지서",
+      "노동력"
+    ],
+    "answer": 3,
+    "explanation": "가계는 기업에 일할 능력을 제공해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "인터넷 쇼핑처럼 눈에 보이지 않는 시장의 예는?",
+    "choices": [
+      "온라인 시장",
+      "전통 시장",
+      "대형 마트",
+      "편의점"
+    ],
+    "answer": 0,
+    "explanation": "온라인 시장은 직접 만나지 않고 거래해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "합리적인 선택을 하는 방법으로 알맞은 것은?",
+    "choices": [
+      "광고만 보고 산다",
+      "가격과 품질을 비교한다",
+      "친구가 산 것을 따라 산다",
+      "가장 비싼 것을 산다"
+    ],
+    "answer": 1,
+    "explanation": "여러 기준을 비교해 선택해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "우리나라는 자원이 부족해 무역이 중요한 나라예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "자원을 수입하고 제품을 수출해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지구본의 좋은 점으로 알맞은 것은?",
+    "choices": [
+      "전 세계를 한눈에 볼 수 있다",
+      "접어서 들고 다니기 쉽다",
+      "실제 지구 모양과 비슷하다",
+      "확대하기 쉽다"
+    ],
+    "answer": 2,
+    "explanation": "지구본은 둥근 지구를 그대로 줄였어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세계 지도의 좋은 점으로 알맞은 것은?",
+    "choices": [
+      "땅 모양이 전혀 왜곡되지 않는다",
+      "실제 지구처럼 둥글다",
+      "돌려 볼 수 있다",
+      "전 세계를 한눈에 볼 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "세계 지도는 전 세계를 한눈에 볼 수 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한반도와 국경이 맞닿아 있는 나라는?",
+    "choices": [
+      "중국",
+      "일본",
+      "미국",
+      "필리핀"
+    ],
+    "answer": 0,
+    "explanation": "한반도 북쪽은 중국, 러시아와 맞닿아 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "건조 기후 지역의 모습으로 알맞은 것은?",
+    "choices": [
+      "일 년 내내 눈이 온다",
+      "비가 적어 사막이 넓다",
+      "울창한 열대림이 있다",
+      "사계절 비가 많다"
+    ],
+    "answer": 1,
+    "explanation": "건조 기후는 강수량이 매우 적어요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "어린이의 권리를 지키기 위해 활동하는 국제 연합 기구는?",
+    "choices": [
+      "유네스코",
+      "세계 무역 기구",
+      "유니세프",
+      "국제 올림픽 위원회"
+    ],
+    "answer": 2,
+    "explanation": "유니세프는 어린이를 돕는 기구예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "지구촌 문제는 한 나라의 노력만으로 쉽게 해결할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "여러 나라가 함께 협력해야 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "남북 분단으로 겪는 어려움으로 알맞은 것은?",
+    "choices": [
+      "수출 증가",
+      "관광객 증가",
+      "날씨 변화",
+      "이산가족의 아픔"
+    ],
+    "answer": 3,
+    "explanation": "헤어진 가족을 만나지 못하는 아픔이 있어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "공정 무역 제품을 사는 까닭으로 알맞은 것은?",
+    "choices": [
+      "생산자가 정당한 대가를 받게 하려고",
+      "가장 싸기 때문에",
+      "수입을 막으려고",
+      "광고가 많아서"
+    ],
+    "answer": 0,
+    "explanation": "공정 무역은 생산자에게 정당한 값을 줘요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "시민이 정치에 참여하는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "공청회에 참여하기",
+      "다른 사람의 표를 사고팔기",
+      "누리집에 의견 올리기",
+      "서명 운동하기"
+    ],
+    "answer": 1,
+    "explanation": "표를 사고파는 것은 불법이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "서비스 산업에 해당하는 일은?",
+    "choices": [
+      "쌀농사 짓기",
+      "자동차 만들기",
+      "병원에서 진료하기",
+      "철광석 캐기"
+    ],
+    "answer": 2,
+    "explanation": "사람에게 도움을 주는 일이 서비스예요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "남반구에 있는 나라는?",
+    "choices": [
+      "일본",
+      "캐나다",
+      "영국",
+      "오스트레일리아"
+    ],
+    "answer": 3,
+    "explanation": "오스트레일리아는 적도 남쪽에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "태평양은 아시아와 아메리카 대륙 사이에 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "태평양은 두 대륙 사이의 큰 바다예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "민주화 운동을 일어난 순서대로 나열한 것은?",
+    "choices": [
+      "4·19→5·18→6월 항쟁",
+      "5·18→4·19→6월 항쟁",
+      "6월 항쟁→4·19→5·18",
+      "4·19→6월 항쟁→5·18"
+    ],
+    "answer": 0,
+    "explanation": "1960년, 1980년, 1987년 순이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지방 자치 제도가 필요한 까닭으로 알맞은 것은?",
+    "choices": [
+      "중앙 정부 권력을 키우려고",
+      "지역 사정을 잘 아는 주민이 결정하려고",
+      "선거를 줄이려고",
+      "모든 지역을 똑같이 만들려고"
+    ],
+    "answer": 1,
+    "explanation": "지역 문제는 그 지역 주민이 잘 알아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "선거에서 한 사람이 두 번 투표했다면 어긴 선거 원칙은?",
+    "choices": [
+      "비밀 선거",
+      "직접 선거",
+      "평등 선거",
+      "보통 선거"
+    ],
+    "answer": 2,
+    "explanation": "한 사람 한 표의 평등 선거를 어겼어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "투표소에서 남이 누구를 찍었는지 몰래 보고 적었다면 어긴 원칙은?",
+    "choices": [
+      "평등 선거",
+      "보통 선거",
+      "직접 선거",
+      "비밀 선거"
+    ],
+    "answer": 3,
+    "explanation": "투표 내용을 알 수 없게 하는 원칙이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정부에 속하는 기관이 아닌 것은?",
+    "choices": [
+      "대법원",
+      "교육부",
+      "국무총리",
+      "환경부"
+    ],
+    "answer": 0,
+    "explanation": "대법원은 법원에 속해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "법원에서 재판을 공개하는 까닭은?",
+    "choices": [
+      "재판을 빨리 끝내려고",
+      "공정한 재판을 위해",
+      "판사를 뽑으려고",
+      "법을 만들려고"
+    ],
+    "answer": 1,
+    "explanation": "공개 재판으로 공정함을 지켜요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "국회가 정부를 견제하는 방법은?",
+    "choices": [
+      "위헌 법률 심판",
+      "재판",
+      "국정 감사",
+      "법률안 거부"
+    ],
+    "answer": 2,
+    "explanation": "국회는 국정 감사로 정부가 하는 일을 살펴요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "대통령이 국회를 견제하는 방법은?",
+    "choices": [
+      "국정 감사",
+      "탄핵 소추",
+      "재판",
+      "법률안 거부권"
+    ],
+    "answer": 3,
+    "explanation": "대통령은 법률안 거부권을 가져요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "법원은 재판에 쓰일 법률이 헌법에 어긋나는지 헌법재판소에 심판을 요청할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "위헌 법률 심판을 제청할 수 있어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "학급 회의에서 의견이 팽팽히 맞설 때 먼저 해야 할 일은?",
+    "choices": [
+      "대화와 타협으로 차이를 좁힌다",
+      "바로 다수결로 정한다",
+      "선생님께 결정을 맡긴다",
+      "회의를 없앤다"
+    ],
+    "answer": 0,
+    "explanation": "충분히 대화한 뒤 다수결을 써요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기업이 이윤을 늘리기 위해 하는 바람직한 노력은?",
+    "choices": [
+      "품질을 낮추고 값을 올린다",
+      "새로운 기술을 개발한다",
+      "소비자 의견을 무시한다",
+      "광고를 거짓으로 한다"
+    ],
+    "answer": 1,
+    "explanation": "좋은 물건을 만들어 경쟁해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "여러 기업이 짜고 가격을 함께 올리면 생기는 문제는?",
+    "choices": [
+      "물건값이 싸진다",
+      "품질이 좋아진다",
+      "소비자가 피해를 본다",
+      "경쟁이 활발해진다"
+    ],
+    "answer": 2,
+    "explanation": "담합은 공정한 경쟁을 막아요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1980년대 이후 크게 발달한 산업으로 알맞은 것은?",
+    "choices": [
+      "가발 산업",
+      "합판 산업",
+      "신발 산업",
+      "자동차·전자 산업"
+    ],
+    "answer": 3,
+    "explanation": "1980년대에는 자동차·전자 산업이 성장했어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "경제 성장으로 달라진 생활 모습으로 알맞지 않은 것은?",
+    "choices": [
+      "굶는 사람이 크게 늘었다",
+      "교통이 편리해졌다",
+      "가전제품이 널리 쓰였다",
+      "소득이 늘었다"
+    ],
+    "answer": 0,
+    "explanation": "경제 성장으로 생활 수준이 높아졌어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "경제 성장 과정에서 생긴 환경 문제를 해결하는 방법은?",
+    "choices": [
+      "공장 폐수 방류",
+      "친환경 에너지 개발",
+      "쓰레기 무단 투기",
+      "숲 없애기"
+    ],
+    "answer": 1,
+    "explanation": "환경을 지키며 성장해야 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다른 나라가 수입품에 높은 관세를 매기면 우리 수출 기업은?",
+    "choices": [
+      "수출이 쉬워진다",
+      "세금이 없어진다",
+      "수출이 어려워진다",
+      "변화가 없다"
+    ],
+    "answer": 2,
+    "explanation": "관세가 높으면 값이 올라 덜 팔려요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "무역을 하면 우리나라에서 나지 않는 자원도 쓸 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "무역으로 부족한 자원을 들여와요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라가 원유를 주로 수입하는 까닭은?",
+    "choices": [
+      "값이 비싸서 팔려고",
+      "너무 많이 나서",
+      "수출이 금지되어서",
+      "국내에서 거의 나지 않아서"
+    ],
+    "answer": 3,
+    "explanation": "원유는 우리나라에서 거의 나지 않아요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "경선에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "북극과 남극을 잇는 세로선",
+      "적도와 나란한 가로선",
+      "위도 0°인 선",
+      "대륙의 경계선"
+    ],
+    "answer": 0,
+    "explanation": "경선은 북극과 남극을 이은 세로선이에요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "위도가 높아질수록 대체로 나타나는 변화는?",
+    "choices": [
+      "기온이 높아진다",
+      "기온이 낮아진다",
+      "비가 많아진다",
+      "낮이 항상 길어진다"
+    ],
+    "answer": 1,
+    "explanation": "극지방으로 갈수록 추워져요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "온대 기후 지역의 특징으로 알맞은 것은?",
+    "choices": [
+      "일 년 내내 덥다",
+      "일 년 내내 춥다",
+      "사계절이 뚜렷하다",
+      "비가 거의 안 온다"
+    ],
+    "answer": 2,
+    "explanation": "우리나라처럼 사계절이 나타나요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "열대 기후 지역의 전통 가옥 특징으로 알맞은 것은?",
+    "choices": [
+      "눈 벽돌로 짓는다",
+      "온돌을 깐다",
+      "지붕을 아주 두껍게 한다",
+      "바닥을 땅에서 띄워 짓는다"
+    ],
+    "answer": 3,
+    "explanation": "덥고 습해서 바닥을 띄워 지어요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "건조 기후 지역 사람들이 헐렁하고 긴 옷을 입는 까닭은?",
+    "choices": [
+      "햇볕과 모래바람을 막으려고",
+      "추위를 막으려고",
+      "비를 피하려고",
+      "멋을 내려고"
+    ],
+    "answer": 0,
+    "explanation": "강한 햇볕과 모래바람을 막아 줘요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "일본에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "세계에서 가장 넓은 나라다",
+      "섬나라로 지진과 화산이 잦다",
+      "바다가 없는 나라다",
+      "남반구에 있다"
+    ],
+    "answer": 1,
+    "explanation": "일본은 섬나라로 지진과 화산이 많아요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "중국에 대한 설명으로 알맞지 않은 것은?",
+    "choices": [
+      "인구가 많다",
+      "영토가 넓다",
+      "섬으로 이루어진 나라다",
+      "우리나라와 교류가 활발하다"
+    ],
+    "answer": 2,
+    "explanation": "중국은 대륙에 있는 나라예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "러시아에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "남반구에 있다",
+      "섬나라다",
+      "열대 기후만 나타난다",
+      "아시아와 유럽에 걸쳐 있다"
+    ],
+    "answer": 3,
+    "explanation": "러시아는 두 대륙에 걸쳐 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "미국은 우리나라와 국경이 맞닿아 있는 나라예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "미국은 태평양 건너에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "독도에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "우리나라 동쪽 끝의 우리 영토",
+      "주인이 없는 섬",
+      "서해에 있는 섬",
+      "사람이 갈 수 없는 섬"
+    ],
+    "answer": 0,
+    "explanation": "독도는 역사적으로나 국제법적으로 우리 영토예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "난민에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "여행을 떠난 사람",
+      "전쟁 등을 피해 고향을 떠난 사람",
+      "유학생",
+      "해외 출장 간 사람"
+    ],
+    "answer": 1,
+    "explanation": "박해나 전쟁을 피해 떠난 사람들이에요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "국제 연합(UN)이 하는 일로 알맞지 않은 것은?",
+    "choices": [
+      "분쟁 지역 평화 유지",
+      "난민 지원",
+      "각 나라 대통령 뽑기",
+      "국제 협력 돕기"
+    ],
+    "answer": 2,
+    "explanation": "대통령은 그 나라 국민이 뽑아요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "분쟁 지역에서 의료 활동을 하는 비정부 기구는?",
+    "choices": [
+      "세계 무역 기구",
+      "국제 통화 기금",
+      "유럽 연합",
+      "국경 없는 의사회"
+    ],
+    "answer": 3,
+    "explanation": "국경 없는 의사회는 대표적인 비정부 기구예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "남북 교류의 예로 알맞은 것은?",
+    "choices": [
+      "이산가족 상봉",
+      "휴전선 설치",
+      "국경 폐쇄",
+      "무역 금지"
+    ],
+    "answer": 0,
+    "explanation": "이산가족 상봉은 대표적인 교류예요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "통일이 되면 기대할 수 있는 점으로 알맞은 것은?",
+    "choices": [
+      "이산가족이 늘어난다",
+      "분단 비용을 다른 곳에 쓸 수 있다",
+      "전쟁 위험이 커진다",
+      "국토가 좁아진다"
+    ],
+    "answer": 1,
+    "explanation": "분단으로 드는 비용을 줄일 수 있어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "지속 가능한 발전은 미래 세대도 생각하며 발전하는 것이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "현재와 미래 세대를 함께 생각해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사막화가 심해지는 원인으로 알맞은 것은?",
+    "choices": [
+      "나무 심기",
+      "숲 가꾸기",
+      "지나친 방목과 벌목",
+      "재활용"
+    ],
+    "answer": 2,
+    "explanation": "풀과 나무가 사라지면 사막이 넓어져요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구 온난화로 나타나는 현상은?",
+    "choices": [
+      "빙하 증가",
+      "기온 하강",
+      "사막 감소",
+      "해수면 상승"
+    ],
+    "answer": 3,
+    "explanation": "빙하가 녹아 바닷물 높이가 올라가요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 나라의 영역을 이루는 세 가지는?",
+    "choices": [
+      "영토, 영해, 영공",
+      "영토, 국민, 주권",
+      "헌법, 법률, 명령",
+      "국회, 정부, 법원"
+    ],
+    "answer": 0,
+    "explanation": "땅, 바다, 하늘이 나라의 영역이에요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "국가 기관이 서로 견제하는 예로 알맞지 않은 것은?",
+    "choices": [
+      "국회가 국정 감사를 한다",
+      "정부가 국회 의원을 임명한다",
+      "대통령이 법률안 거부권을 쓴다",
+      "법원이 명령·규칙을 심사한다"
+    ],
+    "answer": 1,
+    "explanation": "국회 의원은 국민이 선거로 뽑아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4·19 혁명과 6월 민주 항쟁의 공통점은?",
+    "choices": [
+      "외국 군대와 싸웠다",
+      "왕을 몰아냈다",
+      "시민이 독재에 맞서 민주주의를 지켰다",
+      "일제에 맞섰다"
+    ],
+    "answer": 2,
+    "explanation": "둘 다 독재에 맞선 민주화 운동이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5·18 민주화 운동 기록물이 세계 기록 유산이 된 까닭은?",
+    "choices": [
+      "전쟁에서 이긴 기록이라서",
+      "왕의 기록이라서",
+      "경제 성장 기록이라서",
+      "민주주의와 인권의 중요한 자료라서"
+    ],
+    "answer": 3,
+    "explanation": "인권과 민주주의의 가치를 보여 줘요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "\"동네 공원에 놀이터를 만들어 주세요.\" 이 요구를 다루기 가장 알맞은 곳은?",
+    "choices": [
+      "지방 의회와 지방 자치 단체",
+      "대법원",
+      "헌법재판소",
+      "국제 연합"
+    ],
+    "answer": 0,
+    "explanation": "지역 문제는 지방 자치 단체가 다뤄요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "민주적 의사 결정 과정을 순서대로 나열한 것은?",
+    "choices": [
+      "결정-실천-문제 확인-방안 탐색",
+      "문제 확인-해결 방안 탐색-결정-실천",
+      "실천-결정-방안 탐색-문제 확인",
+      "방안 탐색-실천-문제 확인-결정"
+    ],
+    "answer": 1,
+    "explanation": "문제를 확인하고 방안을 찾아 결정한 뒤 실천해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "국민의 권리와 의무에 대한 설명으로 틀린 것은?",
+    "choices": [
+      "헌법에 기본권이 나와 있다",
+      "교육의 의무가 있다",
+      "의무는 지키지 않아도 된다",
+      "내 권리만큼 남의 권리도 존중한다"
+    ],
+    "answer": 2,
+    "explanation": "국민은 헌법에 정한 의무를 지켜야 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "다수결로 정한 결과는 언제나 옳아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "다수 의견도 틀릴 수 있어 소수 의견을 존중해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "심급 제도를 두는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "재판을 빨리 끝내려고",
+      "판사 수를 줄이려고",
+      "법을 새로 만들려고",
+      "잘못된 판결을 바로잡을 기회를 주려고"
+    ],
+    "answer": 3,
+    "explanation": "여러 번 재판받아 억울함을 줄여요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "공정한 경제 활동을 해친 사례는?",
+    "choices": [
+      "과장 광고로 소비자를 속였다",
+      "새 기술로 품질을 높였다",
+      "가격을 내려 경쟁했다",
+      "소비자 불만을 해결했다"
+    ],
+    "answer": 0,
+    "explanation": "허위·과장 광고는 불공정한 행위예요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 산업이 발달한 순서로 알맞은 것은?",
+    "choices": [
+      "첨단 산업→경공업→중화학 공업",
+      "경공업→중화학 공업→첨단 산업",
+      "중화학 공업→경공업→첨단 산업",
+      "경공업→첨단 산업→중화학 공업"
+    ],
+    "answer": 1,
+    "explanation": "1960년대, 1970년대, 1990년대 이후 순이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "칠레산 포도를 우리나라에서 전보다 싸게 살 수 있게 된 까닭은?",
+    "choices": [
+      "칠레와 무역을 금지해서",
+      "칠레 포도 생산이 줄어서",
+      "자유 무역 협정으로 관세가 줄어서",
+      "포도 수요가 사라져서"
+    ],
+    "answer": 2,
+    "explanation": "자유 무역 협정으로 관세가 줄었어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "값싼 농산물 수입으로 우리 농민이 어려울 때 정부가 할 일은?",
+    "choices": [
+      "모든 수입 무조건 허용",
+      "농업 없애기",
+      "농산물 수출 금지",
+      "피해 농가 지원 정책 마련"
+    ],
+    "answer": 3,
+    "explanation": "무역으로 피해를 입은 산업을 지원해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "노동자와 기업 사이의 갈등을 해결하는 바람직한 방법은?",
+    "choices": [
+      "대화와 법에 따른 합의",
+      "한쪽 주장만 따르기",
+      "공장 문 닫기",
+      "힘으로 밀어붙이기"
+    ],
+    "answer": 0,
+    "explanation": "대화와 타협으로 해결해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "다른 나라와 무역을 하면 우리나라는 항상 이익만 얻어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "무역 갈등이나 피해가 생기기도 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리 수출품이 다른 나라에서 부당하게 수입 제한을 받을 때 알맞은 대처는?",
+    "choices": [
+      "그 나라와 전쟁한다",
+      "국제기구를 통해 해결을 요구한다",
+      "모든 무역을 끊는다",
+      "수출품을 버린다"
+    ],
+    "answer": 1,
+    "explanation": "세계 무역 기구 등을 통해 해결해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "적도 부근의 높은 산지에 큰 도시가 발달한 까닭은?",
+    "choices": [
+      "바다와 가까워서",
+      "눈이 많이 와서",
+      "사막이라서",
+      "기온이 온화해 살기 좋아서"
+    ],
+    "answer": 3,
+    "explanation": "높은 곳은 서늘해 사람이 살기 좋아요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "순록을 기르며 이동하는 생활을 하는 지역은?",
+    "choices": [
+      "한대 기후 지역",
+      "열대 기후 지역",
+      "건조 기후 지역",
+      "온대 기후 지역"
+    ],
+    "answer": 0,
+    "explanation": "추운 툰드라 지역에서 순록을 길러요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오스트레일리아에서 크리스마스 무렵의 계절은?",
+    "choices": [
+      "겨울",
+      "여름",
+      "봄",
+      "가을"
+    ],
+    "answer": 1,
+    "explanation": "남반구는 북반구와 계절이 반대라 12월이 여름이에요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이웃 나라와 교류가 활발한 까닭으로 알맞지 않은 것은?",
+    "choices": [
+      "거리가 가까워서",
+      "경제적으로 서로 필요해서",
+      "기후와 문화가 완전히 같아서",
+      "오래전부터 교류해 와서"
+    ],
+    "answer": 2,
+    "explanation": "이웃 나라도 문화가 서로 달라요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "직사각형 세계 지도에서 그린란드가 실제보다 크게 보이는 까닭은?",
+    "choices": [
+      "그린란드가 가장 큰 섬이라서",
+      "지도를 잘못 인쇄해서",
+      "적도에 있어서",
+      "둥근 지구를 평면에 펴서 왜곡돼서"
+    ],
+    "answer": 3,
+    "explanation": "고위도로 갈수록 면적이 크게 늘어나 보여요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지구촌 갈등이 오래 이어지는 까닭으로 알맞은 것은?",
+    "choices": [
+      "역사·종교·자원 문제가 얽혀서",
+      "모든 나라 생각이 같아서",
+      "국제기구가 많아서",
+      "무역이 활발해서"
+    ],
+    "answer": 0,
+    "explanation": "여러 원인이 복잡하게 얽혀 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "일본이 독도를 자기 땅이라 주장할 때 우리가 할 일로 알맞은 것은?",
+    "choices": [
+      "무관심하게 지낸다",
+      "역사 자료로 우리 땅임을 알린다",
+      "일본과 모든 교류를 끊는다",
+      "독도를 포기한다"
+    ],
+    "answer": 1,
+    "explanation": "근거 자료로 올바르게 알려요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "국제기구와 비정부 기구의 차이로 알맞은 것은?",
+    "choices": [
+      "비정부 기구는 정부가 만든다",
+      "둘 다 한 나라만 참여한다",
+      "국제기구는 여러 나라 정부가 만든다",
+      "국제기구는 개인이 만든다"
+    ],
+    "answer": 2,
+    "explanation": "비정부 기구는 개인과 시민이 만들어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기후 변화를 막으려고 2015년 여러 나라가 맺은 협정은?",
+    "choices": [
+      "자유 무역 협정",
+      "휴전 협정",
+      "남북 기본 합의서",
+      "파리 협정"
+    ],
+    "answer": 3,
+    "explanation": "파리 협정으로 온실가스를 줄이기로 했어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "\"탄소 중립\"의 뜻으로 알맞은 것은?",
+    "choices": [
+      "내보낸 만큼 흡수해 배출을 0으로",
+      "탄소를 더 많이 쓰는 것",
+      "석탄만 쓰는 것",
+      "나무를 모두 베는 것"
+    ],
+    "answer": 0,
+    "explanation": "배출한 온실가스만큼 흡수해 실제 배출을 0으로 만들어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세계 시민으로서 바른 태도는?",
+    "choices": [
+      "우리 문화만 우수하다고 여긴다",
+      "다른 문화를 존중하고 편견을 버린다",
+      "다른 나라 일에 무관심하다",
+      "외국인을 차별한다"
+    ],
+    "answer": 1,
+    "explanation": "다양한 문화를 존중해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "남북한은 같은 말을 쓰지만 오랜 분단으로 쓰는 낱말에 차이가 생겼어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "오랜 분단으로 어휘 차이가 생겼어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "통일을 위해 개인이 할 수 있는 노력으로 알맞은 것은?",
+    "choices": [
+      "북한에 대한 편견을 키운다",
+      "통일 문제에 무관심하다",
+      "북한의 문화와 생활을 이해하려 한다",
+      "남북 교류를 반대한다"
+    ],
+    "answer": 2,
+    "explanation": "서로 이해하려는 노력이 필요해요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시민 단체가 하는 활동으로 알맞은 것은?",
+    "choices": [
+      "법률 만들기",
+      "재판하기",
+      "세금 걷기",
+      "환경 감시 활동"
+    ],
+    "answer": 3,
+    "explanation": "시민 단체는 공익을 위해 활동해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "국회가 만든 법률안을 대통령이 거부할 수 있는 것은 어떤 원리의 예일까요?",
+    "choices": [
+      "권력 분립에 따른 견제",
+      "국민 주권",
+      "지방 자치",
+      "다수결"
+    ],
+    "answer": 0,
+    "explanation": "기관이 서로 견제하는 권력 분립이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다수결로 결정할 때 함께 지켜야 할 태도는?",
+    "choices": [
+      "반대 의견은 무시한다",
+      "소수의 의견도 존중한다",
+      "한 사람이 결정한다",
+      "결과를 따르지 않는다"
+    ],
+    "answer": 1,
+    "explanation": "다수결에서도 소수 의견을 존중해야 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "6월 민주 항쟁의 결과로 이루어진 것은?",
+    "choices": [
+      "유신 헌법 제정",
+      "3·15 부정 선거",
+      "대한민국 정부 수립",
+      "대통령 직선제 개헌"
+    ],
+    "answer": 3,
+    "explanation": "국민이 대통령을 직접 뽑게 되었어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "3·15 부정 선거가 원인이 되어 일어난 사건은?",
+    "choices": [
+      "4·19 혁명",
+      "5·18 민주화 운동",
+      "6월 민주 항쟁",
+      "6·25 전쟁"
+    ],
+    "answer": 0,
+    "explanation": "부정 선거에 맞서 4·19 혁명이 일어났어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "국가 기관 때문에 헌법상 기본권을 침해당했을 때 심판을 청구할 수 있는 곳은?",
+    "choices": [
+      "국회",
+      "헌법재판소",
+      "지방 의회",
+      "선거관리위원회"
+    ],
+    "answer": 1,
+    "explanation": "헌법 소원은 헌법재판소가 다뤄요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가계가 기업에 주는 것과 기업에서 받는 것의 짝으로 알맞은 것은?",
+    "choices": [
+      "임금 - 노동",
+      "세금 - 공공 서비스",
+      "노동 - 임금",
+      "이윤 - 물건"
+    ],
+    "answer": 2,
+    "explanation": "가계는 노동을 주고 임금을 받아요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사과 값이 크게 오르자 사람들이 배를 더 많이 샀어요. 가장 알맞은 까닭은?",
+    "choices": [
+      "배가 항상 더 비싸서",
+      "기업이 배만 팔아서",
+      "정부가 사라고 해서",
+      "적은 비용으로 만족을 얻으려고"
+    ],
+    "answer": 3,
+    "explanation": "합리적 선택으로 대신할 물건을 샀어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리나라가 반도체를 수출하고 원유를 수입하는 까닭은?",
+    "choices": [
+      "원유가 남아돌아서",
+      "나라마다 자원과 기술이 달라서",
+      "반도체를 쓰지 않아서",
+      "무역이 금지되어서"
+    ],
+    "answer": 1,
+    "explanation": "잘하는 것은 팔고 부족한 것은 사요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "기업들이 몰래 짜고 가격을 함께 올리는 것이 문제인 까닭은?",
+    "choices": [
+      "물건값이 내려가서",
+      "품질이 좋아져서",
+      "공정한 경쟁을 막아 소비자가 손해 봐서",
+      "세금이 줄어들어서"
+    ],
+    "answer": 2,
+    "explanation": "담합은 공정한 경쟁을 해쳐요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "열대 기후 지역에서 바닥을 땅에서 띄운 집을 짓는 까닭은?",
+    "choices": [
+      "습기와 동물을 피하려고",
+      "눈이 많이 쌓여서",
+      "모래바람을 막으려고",
+      "추위를 막으려고"
+    ],
+    "answer": 0,
+    "explanation": "덥고 습해서 바닥을 띄워요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세계 지도와 비교한 지구본의 장점은?",
+    "choices": [
+      "전 세계를 한눈에 볼 수 있다",
+      "들고 다니기 쉽다",
+      "거리와 면적을 실제와 비슷하게 보여 준다",
+      "접어서 보관할 수 있다"
+    ],
+    "answer": 2,
+    "explanation": "지구본은 실제 지구 모양을 줄인 거예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "적도에서 극지방으로 갈 때 나타나는 기후 순서로 알맞은 것은?",
+    "choices": [
+      "한대→냉대→온대→열대",
+      "열대→냉대→온대→한대",
+      "온대→열대→냉대→한대",
+      "열대→온대→냉대→한대"
+    ],
+    "answer": 3,
+    "explanation": "적도에서 멀수록 기온이 낮아져요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "베트남에서 쌀국수 같은 쌀 음식이 발달한 까닭은?",
+    "choices": [
+      "덥고 비가 많아 벼농사가 잘되어서",
+      "추워서 밀만 자라서",
+      "사막이라 물이 없어서",
+      "바다와 닿아 있지 않아서"
+    ],
+    "answer": 0,
+    "explanation": "기후가 벼농사에 알맞아요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "전쟁을 피해 고향을 떠난 사람들을 보호하는 국제기구는?",
+    "choices": [
+      "세계 보건 기구",
+      "유엔 난민 기구",
+      "유네스코",
+      "국제 올림픽 위원회"
+    ],
+    "answer": 1,
+    "explanation": "난민 보호는 유엔 난민 기구가 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "비정부 기구(NGO)의 예로 알맞은 것은?",
+    "choices": [
+      "유엔",
+      "세계 보건 기구",
+      "그린피스",
+      "유니세프"
+    ],
+    "answer": 2,
+    "explanation": "그린피스는 개인들이 모인 비정부 기구예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "남북 분단으로 생긴 문제로 알맞지 않은 것은?",
+    "choices": [
+      "이산가족의 아픔",
+      "많은 국방비 부담",
+      "남북 언어 차이",
+      "세계 인구의 감소"
+    ],
+    "answer": 3,
+    "explanation": "세계 인구 감소는 분단과 관계없어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "통일이 되면 기대할 수 있는 점은?",
+    "choices": [
+      "철도가 대륙으로 이어진다",
+      "국방비가 늘어난다",
+      "이산가족이 늘어난다",
+      "남북 언어 차이가 커진다"
+    ],
+    "answer": 0,
+    "explanation": "육로로 대륙과 이어질 수 있어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지속 가능한 미래를 위한 행동으로 알맞은 것은?",
+    "choices": [
+      "일회용 컵 자주 쓰기",
+      "공정 무역 제품 사기",
+      "필요보다 많이 사기",
+      "빈방에 전등 켜 두기"
+    ],
+    "answer": 1,
+    "explanation": "생산자와 환경을 함께 생각한 소비예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "지구 온난화가 심해지면 해수면이 낮아져 섬나라 땅이 넓어져요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "빙하가 녹아 해수면이 높아져요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "전교 어린이회 선거에서 후보를 고르는 방법으로 가장 바람직한 것은?",
+    "choices": [
+      "공약이 실천 가능한지 따져 본다",
+      "가장 친한 친구를 뽑는다",
+      "인기가 많은 후보를 따라 뽑는다",
+      "간식을 나눠 준 후보를 뽑는다"
+    ],
+    "answer": 0,
+    "explanation": "선거에서는 후보의 공약과 실천 가능성을 꼼꼼히 비교해 뽑아야 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "선거에 참여하지 않는 것도 민주주의를 튼튼하게 하는 방법이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "투표에 참여해야 국민의 뜻이 정치에 반영되어 민주주의가 튼튼해져요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "신분, 성별, 재산 등에 따라 사람을 차별하지 않는다는 민주주의의 기본 가치는?",
+    "choices": [
+      "경쟁",
+      "평등",
+      "복종",
+      "효율"
+    ],
+    "answer": 1,
+    "explanation": "평등은 모든 사람이 차별받지 않고 똑같이 존중받는 것을 뜻해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "나와 생각이 다른 사람의 의견도 인정하고 너그럽게 받아들이는 태도는?",
+    "choices": [
+      "비판적 태도",
+      "다수결",
+      "관용",
+      "선거"
+    ],
+    "answer": 2,
+    "explanation": "관용은 다른 사람의 생각을 인정하고 너그럽게 받아들이는 태도예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "광고 속 주장을 그대로 믿지 않고 근거가 맞는지 따져 보는 태도는?",
+    "choices": [
+      "관용",
+      "양보와 타협",
+      "다수결",
+      "비판적 태도"
+    ],
+    "answer": 3,
+    "explanation": "비판적 태도는 어떤 주장이 옳은지 근거를 따져 살펴보는 태도예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "체험학습 장소로 다투던 두 모둠이 서로 조금씩 물러나 새 장소를 정했어요. 어떤 태도일까요?",
+    "choices": [
+      "양보와 타협",
+      "비판적 태도",
+      "다수결",
+      "무관심"
+    ],
+    "answer": 0,
+    "explanation": "서로 한 걸음씩 물러나 의견을 조정하는 것이 양보와 타협이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정부가 짠 나라 살림 계획인 예산안을 심의하고 확정하는 기관은?",
+    "choices": [
+      "정부",
+      "국회",
+      "법원",
+      "헌법재판소"
+    ],
+    "answer": 1,
+    "explanation": "예산안은 정부가 만들고, 국회가 꼼꼼히 살펴 확정해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "교육부, 외교부 같은 행정 각 부가 속한 국가 기관은?",
+    "choices": [
+      "국회",
+      "법원",
+      "정부",
+      "헌법재판소"
+    ],
+    "answer": 2,
+    "explanation": "행정 각 부는 정부에 속해 법에 따라 나라 살림을 맡아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이웃과 층간 소음으로 다투다 해결이 안 되어 법에 따른 판단을 받고 싶어요. 어느 기관을 찾아야 할까요?",
+    "choices": [
+      "국회",
+      "선거 관리 위원회",
+      "외교부",
+      "법원"
+    ],
+    "answer": 3,
+    "explanation": "다툼을 법에 따라 판단하고 해결해 주는 기관은 법원이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "대통령이 대법원장을 임명하는 것은 어느 기관이 어느 기관을 견제하는 예일까요?",
+    "choices": [
+      "정부가 법원을",
+      "국회가 정부를",
+      "법원이 국회를",
+      "법원이 정부를"
+    ],
+    "answer": 0,
+    "explanation": "대통령은 정부의 최고 책임자이고, 대법원장은 법원의 최고 책임자예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "법원은 정부가 만든 명령이나 규칙이 헌법·법률에 어긋나는지 심사할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "법원이 정부의 명령·규칙을 심사하는 것은 법원이 정부를 견제하는 방법이에요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "4·19 혁명의 결과로 알맞은 것은?",
+    "choices": [
+      "대통령 직선제로 헌법이 바뀌었다",
+      "이승만 정부가 물러났다",
+      "유신 헌법이 만들어졌다",
+      "5·18 민주화 운동이 일어났다"
+    ],
+    "answer": 1,
+    "explanation": "4·19 혁명으로 부정 선거를 저지른 이승만 정부가 물러났어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1972년 대통령의 권한을 크게 강화하고 대통령을 국민이 직접 뽑지 못하게 바꾼 헌법은?",
+    "choices": [
+      "제헌 헌법",
+      "6·29 선언",
+      "유신 헌법",
+      "지방 자치법"
+    ],
+    "answer": 2,
+    "explanation": "유신 헌법으로 대통령 권한이 커지고 국민의 자유가 제한되었어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1987년 6월 민주 항쟁이 일어난 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "3·15 부정 선거가 치러져서",
+      "유신 헌법이 처음 발표되어서",
+      "지방 자치 선거가 시작되어서",
+      "정부가 대통령 간선제를 지키려 해서"
+    ],
+    "answer": 3,
+    "explanation": "국민은 대통령을 직접 뽑기를 원했지만 정부가 간선제를 지키려 해 항쟁이 일어났어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5·18 민주화 운동 때 광주 시민들이 요구한 것으로 알맞은 것은?",
+    "choices": [
+      "계엄 해제와 민주주의 회복",
+      "대통령 직선제 폐지",
+      "유신 헌법 유지",
+      "국회 해산"
+    ],
+    "answer": 0,
+    "explanation": "광주 시민들은 신군부에 맞서 계엄 해제와 민주주의 회복을 요구했어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 시의 시장이나 군의 군수를 뽑는 사람은 누구일까요?",
+    "choices": [
+      "대통령",
+      "그 지역의 주민",
+      "국회 의원",
+      "대법원장"
+    ],
+    "answer": 1,
+    "explanation": "지방 자치 단체장은 그 지역 주민이 선거로 직접 뽑아요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "6월 민주 항쟁 이후 우리 사회에 나타난 변화로 알맞은 것은?",
+    "choices": [
+      "유신 헌법이 선포되었다",
+      "대통령 간선제가 도입되었다",
+      "지방 자치제가 다시 실시되었다",
+      "3·15 부정 선거가 일어났다"
+    ],
+    "answer": 2,
+    "explanation": "6월 민주 항쟁 뒤 민주주의가 발전하며 1990년대 초 지방 자치제가 다시 실시되었어요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "헌법은 나라의 최고 법이어서 다른 법률은 헌법에 어긋나면 안 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "헌법은 가장 높은 법이라 모든 법률은 헌법의 내용을 따라야 해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "선거에서 투표하거나 후보로 나설 수 있는 권리는 어떤 기본권일까요?",
+    "choices": [
+      "자유권",
+      "사회권",
+      "청구권",
+      "참정권"
+    ],
+    "answer": 3,
+    "explanation": "참정권은 국민이 나라의 정치에 참여할 수 있는 권리예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "선거가 공정하게 치러지도록 선거 관련 일을 관리하는 기관은?",
+    "choices": [
+      "선거 관리 위원회",
+      "국회",
+      "대법원",
+      "시민 단체"
+    ],
+    "answer": 0,
+    "explanation": "선거 관리 위원회는 투표와 개표 등 선거를 공정하게 관리해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민주적 의사 결정 과정에서 '해결 방안 결정하기' 바로 다음 단계는?",
+    "choices": [
+      "문제 확인하기",
+      "결정한 방안 실천하기",
+      "해결 방안 탐색하기",
+      "문제 원인 파악하기"
+    ],
+    "answer": 1,
+    "explanation": "해결 방안을 정했다면 다음에는 그 방안을 직접 실천해요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "새 도로 계획을 두고 주민과 전문가가 모여 의견을 듣고 나누는 모임은?",
+    "choices": [
+      "국정 감사",
+      "총선거",
+      "공청회",
+      "재판"
+    ],
+    "answer": 2,
+    "explanation": "공청회는 중요한 일을 정하기 전에 여러 사람의 의견을 듣는 자리예요.",
+    "semester": 1,
+    "unit": "민주주의와 시민 참여"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사람들의 욕구에 비해 그것을 채울 자원이 부족한 상태를 무엇이라 할까요?",
+    "choices": [
+      "생산성",
+      "공정성",
+      "다양성",
+      "희소성"
+    ],
+    "answer": 3,
+    "explanation": "원하는 것은 많은데 자원은 한정되어 있는 것을 희소성이라고 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 물 한 병이라도 사막에서는 훨씬 귀하게 여겨져요. 그 까닭은?",
+    "choices": [
+      "사막에서는 물의 희소성이 커서",
+      "사막의 물이 더 맛있어서",
+      "사막에는 물이 넘쳐 나서",
+      "물병의 모양이 달라서"
+    ],
+    "answer": 0,
+    "explanation": "구하기 어려울수록 희소성이 커져 더 귀하게 여겨져요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "5,000원으로 필통을 사요. A 3,000원·만족 보통, B 4,500원·만족 높음, C 7,000원·만족 매우 높음. 가진 돈 안에서 만족이 가장 큰 것은?",
+    "choices": [
+      "A 필통",
+      "B 필통",
+      "C 필통",
+      "아무것도 사지 않기"
+    ],
+    "answer": 1,
+    "explanation": "C는 가진 돈보다 비싸고, 살 수 있는 것 중 B의 만족이 가장 커요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 생산 활동에 해당하는 것은?",
+    "choices": [
+      "가게에서 과자를 산다",
+      "영화표를 사서 본다",
+      "농부가 쌀을 기른다",
+      "버스 요금을 낸다"
+    ],
+    "answer": 2,
+    "explanation": "생산은 필요한 물건을 만들거나 서비스를 제공하는 활동이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라 경제 활동의 특징으로 알맞은 것은?",
+    "choices": [
+      "정부가 모든 물건값을 정한다",
+      "나라가 직업을 정해 준다",
+      "기업끼리 경쟁할 수 없다",
+      "개인과 기업이 자유롭게 경제 활동을 한다"
+    ],
+    "answer": 3,
+    "explanation": "우리나라는 개인과 기업이 자유롭게 경쟁하며 경제 활동을 해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기업들의 불공정한 거래를 감시하고 바로잡는 정부 기관은?",
+    "choices": [
+      "공정 거래 위원회",
+      "선거 관리 위원회",
+      "헌법재판소",
+      "국회"
+    ],
+    "answer": 0,
+    "explanation": "공정 거래 위원회는 기업이 공정하게 경쟁하도록 감시해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "산 물건에 문제가 있어 피해를 입은 소비자가 도움을 요청할 수 있는 기관은?",
+    "choices": [
+      "국회",
+      "한국 소비자원",
+      "헌법재판소",
+      "선거 관리 위원회"
+    ],
+    "answer": 1,
+    "explanation": "한국 소비자원은 소비자의 피해를 상담하고 해결을 도와요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "6·25 전쟁 직후 우리나라 경제 모습으로 알맞은 것은?",
+    "choices": [
+      "반도체를 많이 수출했다",
+      "자동차 수출 세계 1위였다",
+      "외국의 원조에 많이 의존했다",
+      "첨단 산업이 발달했다"
+    ],
+    "answer": 2,
+    "explanation": "전쟁으로 산업 시설이 크게 파괴되어 외국의 도움에 기대야 했어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1960년대에 우리나라가 가발, 옷 같은 경공업 제품을 주로 수출한 까닭은?",
+    "choices": [
+      "첨단 기술이 매우 뛰어나서",
+      "지하자원이 아주 풍부해서",
+      "큰 제철소가 많아서",
+      "기술은 부족했지만 일할 사람이 많아서"
+    ],
+    "answer": 3,
+    "explanation": "경공업은 큰 기술이나 돈보다 많은 일손이 필요한 산업이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리나라 기업이 다른 나라에 공장을 세우는 까닭으로 알맞은 것은?",
+    "choices": [
+      "물건을 팔 시장과 가깝고 생산비를 줄이려고",
+      "우리나라에서는 물건을 팔 수 없어서",
+      "관세를 더 많이 내려고",
+      "우리나라에 일할 사람이 전혀 없어서"
+    ],
+    "answer": 0,
+    "explanation": "현지에서 만들면 운송비를 줄이고 그 나라 시장에 팔기 쉬워요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1970년대 중화학 공업을 키우는 과정에서 세워진 시설로 알맞은 것은?",
+    "choices": [
+      "인공지능 연구소",
+      "포항의 제철소",
+      "우주 발사체 기지",
+      "인터넷 데이터 센터"
+    ],
+    "answer": 1,
+    "explanation": "1970년대에 철강 생산을 위해 포항에 큰 제철소가 세워졌어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1970년에 개통되어 서울과 부산을 빠르게 잇게 된 도로는?",
+    "choices": [
+      "호남 고속 철도",
+      "영동 고속 국도",
+      "경부 고속 국도",
+      "인천 국제공항"
+    ],
+    "answer": 2,
+    "explanation": "경부 고속 국도가 개통되어 물자와 사람의 이동이 빨라졌어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "케이팝, 드라마 같은 문화 콘텐츠 산업은 오늘날 우리나라 경제에도 도움을 줘요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "문화 콘텐츠는 수출도 되고 관광객도 불러와 경제에 도움이 돼요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "경제 성장 과정에서 많은 사람이 일자리를 찾아 도시로 몰리며 생긴 문제는?",
+    "choices": [
+      "농촌 인구의 급격한 증가",
+      "도시 일자리의 증가",
+      "공장 수의 감소",
+      "도시의 주택 부족과 교통 혼잡"
+    ],
+    "answer": 3,
+    "explanation": "도시에 사람이 몰리자 집이 부족하고 교통이 복잡해졌어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세계 경제가 나빠지면 우리나라 경제도 큰 영향을 받는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "수출과 수입이 경제에서 차지하는 비중이 커서",
+      "우리나라가 무역을 거의 하지 않아서",
+      "자원이 매우 풍부해서",
+      "국내에서 모든 물건을 만들어서"
+    ],
+    "answer": 0,
+    "explanation": "무역 비중이 큰 나라는 다른 나라 경제가 흔들리면 함께 영향을 받아요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 생활에서 볼 수 있는 나라 사이 경제 교류의 예는?",
+    "choices": [
+      "텃밭에서 기른 배추를 먹는다",
+      "마트에서 외국산 바나나를 산다",
+      "동네 빵집에서 빵을 산다",
+      "친구와 책을 바꿔 본다"
+    ],
+    "answer": 1,
+    "explanation": "외국에서 들여온 물건을 사는 것은 나라 사이 경제 교류의 예예요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A나라는 석유가 풍부하고 B나라는 자동차 기술이 뛰어나요. 두 나라가 모두 이익을 얻는 무역은?",
+    "choices": [
+      "A는 자동차를, B는 석유를 수출한다",
+      "두 나라 모두 석유만 수출한다",
+      "A는 석유를, B는 자동차를 수출한다",
+      "두 나라가 무역을 멈춘다"
+    ],
+    "answer": 2,
+    "explanation": "각자 잘하는 것을 수출하고 부족한 것을 수입하면 모두 이익이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리나라가 일부 외국 농산물에 관세를 매기는 까닭으로 알맞은 것은?",
+    "choices": [
+      "수입을 늘리려고",
+      "외국 농산물값을 낮추려고",
+      "외국 농민을 도우려고",
+      "국내 농민을 보호하려고"
+    ],
+    "answer": 3,
+    "explanation": "관세를 매기면 수입품값이 올라 국내 농산물이 경쟁하기 쉬워져요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "자유 무역 협정을 맺으면 두 나라 사이 상품에 붙는 관세가 늘어나요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "자유 무역 협정은 관세 같은 무역 장벽을 줄이거나 없애는 약속이에요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "기업이 새 공장 위치를 정할 때 고려할 점으로 알맞지 않은 것은?",
+    "choices": [
+      "사장의 고향과의 거리",
+      "교통이 편리한지",
+      "땅값이 적당한지",
+      "일할 사람을 구하기 쉬운지"
+    ],
+    "answer": 0,
+    "explanation": "합리적인 기업은 비용과 이익을 따져 공장 위치를 정해요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1960년대와 비교한 오늘날 생활 모습으로 알맞은 것은?",
+    "choices": [
+      "대부분 초가집에 산다",
+      "집집마다 가전제품을 쓴다",
+      "대부분 농사를 짓는다",
+      "여가 생활이 줄었다"
+    ],
+    "answer": 1,
+    "explanation": "경제가 성장하며 생활이 편리해지고 여가를 즐기는 사람도 늘었어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기업이 이윤의 일부를 사회에 돌려주는 활동의 예로 알맞은 것은?",
+    "choices": [
+      "물건값을 몰래 올린다",
+      "과장 광고를 한다",
+      "어려운 학생에게 장학금을 준다",
+      "폐수를 강에 버린다"
+    ],
+    "answer": 2,
+    "explanation": "기업은 이윤을 나누며 사회에 대한 책임을 다할 수 있어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "수입 고기를 국내산이라고 속여 파는 것은 소비자의 합리적 선택을 방해하는 행동이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "원산지를 속이면 소비자가 정확한 정보로 선택할 수 없어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1970년대 농촌의 생활 환경을 개선하려고 펼친 운동은?",
+    "choices": [
+      "국채 보상 운동",
+      "물산 장려 운동",
+      "3·1 운동",
+      "새마을 운동"
+    ],
+    "answer": 3,
+    "explanation": "새마을 운동으로 농촌의 길과 지붕 등을 고치고 소득을 늘리려 했어요.",
+    "semester": 2,
+    "unit": "시장경제와 국가 간 거래"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세계의 대양 가운데 가장 넓은 대양은?",
+    "choices": [
+      "태평양",
+      "대서양",
+      "인도양",
+      "북극해"
+    ],
+    "answer": 0,
+    "explanation": "태평양은 세계에서 가장 넓은 바다예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "아시아 남쪽에 있으며 아프리카와 오세아니아 사이에 있는 대양은?",
+    "choices": [
+      "대서양",
+      "인도양",
+      "북극해",
+      "남극해"
+    ],
+    "answer": 1,
+    "explanation": "인도양은 아시아 남쪽, 아프리카와 오세아니아 사이에 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "북아메리카 대륙에 있는 나라는?",
+    "choices": [
+      "아르헨티나",
+      "케냐",
+      "캐나다",
+      "인도"
+    ],
+    "answer": 2,
+    "explanation": "캐나다는 북아메리카 대륙의 북쪽에 있는 나라예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "북위 37°, 동경 127° 가까이에 있는 도시는?",
+    "choices": [
+      "시드니",
+      "런던",
+      "뉴욕",
+      "서울"
+    ],
+    "answer": 3,
+    "explanation": "서울은 북반구, 본초 자오선 동쪽에 있어요. 시드니는 남위, 뉴욕은 서경이에요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "적도를 기준으로 북쪽으로 0°에서 90°까지 나타낸 것은?",
+    "choices": [
+      "북위",
+      "남위",
+      "동경",
+      "서경"
+    ],
+    "answer": 0,
+    "explanation": "적도 북쪽의 위도는 북위, 남쪽의 위도는 남위라고 해요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 도시의 위치가 남위 34°, 서경 58°예요. 이 도시가 있는 곳은?",
+    "choices": [
+      "북반구이면서 동반구",
+      "남반구이면서 서반구",
+      "남반구이면서 동반구",
+      "북반구이면서 서반구"
+    ],
+    "answer": 1,
+    "explanation": "남위는 적도 남쪽, 서경은 본초 자오선 서쪽을 뜻해요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "디지털 영상 지도의 좋은 점으로 알맞은 것은?",
+    "choices": [
+      "전기가 없어도 볼 수 있다",
+      "실제 지구처럼 둥글다",
+      "확대·축소하며 원하는 곳을 볼 수 있다",
+      "종이로 되어 있어 가볍다"
+    ],
+    "answer": 2,
+    "explanation": "디지털 영상 지도는 확대·축소와 검색이 쉬워요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "위도가 같은 곳은 경도가 달라도 기후가 항상 똑같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "위도가 같아도 바다와의 거리, 높이 등에 따라 기후가 달라요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "겨울이 길고 매우 추우며 침엽수림이 넓게 나타나는 기후는?",
+    "choices": [
+      "열대 기후",
+      "건조 기후",
+      "온대 기후",
+      "냉대 기후"
+    ],
+    "answer": 3,
+    "explanation": "냉대 기후 지역은 겨울이 길고 추워 침엽수림이 넓게 자라요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "건조 기후 지역에서 물과 풀을 찾아 가축과 함께 옮겨 다니는 생활은?",
+    "choices": [
+      "유목",
+      "벼농사",
+      "어업",
+      "고랭지 농업"
+    ],
+    "answer": 0,
+    "explanation": "비가 적은 초원·사막에서는 가축을 몰고 옮겨 다니는 유목을 해요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사막에서 물을 구할 수 있어 마을과 농사가 발달한 곳은?",
+    "choices": [
+      "빙하",
+      "오아시스",
+      "열대 우림",
+      "툰드라"
+    ],
+    "answer": 1,
+    "explanation": "오아시스는 사막에서 물이 솟아 사람이 모여 사는 곳이에요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "기후와 생활 모습을 바르게 짝지은 것은?",
+    "choices": [
+      "열대 기후 - 두꺼운 털옷",
+      "한대 기후 - 얇고 짧은 옷",
+      "건조 기후 - 흙벽돌집",
+      "온대 기후 - 일 년 내내 눈"
+    ],
+    "answer": 2,
+    "explanation": "건조 기후 지역은 나무가 적어 흙으로 벽돌을 만들어 집을 지어요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "남반구 칠레에 사는 친구가 7월에 우리나라로 여행을 와요. 우리나라 날씨에 맞게 챙길 옷은?",
+    "choices": [
+      "두꺼운 겨울옷",
+      "털모자와 장갑",
+      "두꺼운 목도리",
+      "얇은 여름옷"
+    ],
+    "answer": 3,
+    "explanation": "7월에 칠레는 겨울이지만 북반구인 우리나라는 여름이에요.",
+    "semester": 2,
+    "unit": "세계의 자연환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라와 바다를 사이에 두고 동쪽에 있는 섬나라는?",
+    "choices": [
+      "일본",
+      "중국",
+      "러시아",
+      "몽골"
+    ],
+    "answer": 0,
+    "explanation": "일본은 우리나라 동쪽 바다 건너에 있는 섬나라예요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "중국 인구가 동쪽 해안 지역에 많이 모여 사는 까닭으로 알맞은 것은?",
+    "choices": [
+      "높은 산지와 사막이 많아서",
+      "평야가 넓고 교통이 편리해서",
+      "일 년 내내 매우 추워서",
+      "바다와 멀리 떨어져 있어서"
+    ],
+    "answer": 1,
+    "explanation": "중국은 서쪽이 높고 동쪽이 낮아 동쪽에 평야와 도시가 발달했어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "러시아의 모스크바와 동쪽 끝 블라디보스토크를 잇는 긴 철도는?",
+    "choices": [
+      "경부선 철도",
+      "대륙 횡단 고속 국도",
+      "시베리아 횡단 철도",
+      "알프스 산악 철도"
+    ],
+    "answer": 2,
+    "explanation": "시베리아 횡단 철도는 러시아의 동쪽과 서쪽을 길게 이어 줘요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라, 중국, 일본에서 공통으로 볼 수 있는 문화로 알맞은 것은?",
+    "choices": [
+      "모두 같은 언어 사용",
+      "모두 같은 화폐 사용",
+      "모두 같은 전통 옷",
+      "젓가락 사용과 한자 문화"
+    ],
+    "answer": 3,
+    "explanation": "세 나라는 가까이 있어 젓가락, 한자 같은 비슷한 문화가 있어요.",
+    "semester": 1,
+    "unit": "지구, 대륙 그리고 국가들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "국제 연합(UN)의 본부가 있는 도시는 어디일까요?",
+    "choices": [
+      "파리",
+      "뉴욕",
+      "베이징",
+      "서울"
+    ],
+    "answer": 1,
+    "explanation": "국제 연합 본부는 미국 뉴욕에 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "분쟁 지역에 파견되어 평화를 지키는 국제 연합의 부대는?",
+    "choices": [
+      "구조대",
+      "소방대",
+      "평화 유지군",
+      "의용군"
+    ],
+    "answer": 2,
+    "explanation": "평화 유지군은 분쟁 지역의 평화와 안전을 지키는 활동을 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "우리나라는 1991년에 북한과 함께 국제 연합에 가입했어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "1991년 남북한이 동시에 국제 연합 회원국이 되었어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "전염병 예방 등 세계 사람들의 건강을 위해 일하는 국제기구는?",
+    "choices": [
+      "세계 무역 기구",
+      "유네스코",
+      "국제 올림픽 위원회",
+      "세계 보건 기구"
+    ],
+    "answer": 3,
+    "explanation": "세계 보건 기구(WHO)는 세계 사람들의 건강을 지키는 일을 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구촌 갈등 해결을 위해 어린이가 할 수 있는 일로 알맞은 것은?",
+    "choices": [
+      "평화 캠페인에 참여한다",
+      "다른 나라를 무시한다",
+      "갈등 소식을 외면한다",
+      "편견을 가진 글을 퍼뜨린다"
+    ],
+    "answer": 0,
+    "explanation": "작은 관심과 참여도 지구촌 평화에 도움이 돼요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "독도가 우리 땅임을 보여 주는 조선 시대의 옛 기록으로 알맞은 것은?",
+    "choices": [
+      "동의보감",
+      "세종실록 지리지",
+      "훈민정음 해례본",
+      "난중일기"
+    ],
+    "answer": 1,
+    "explanation": "세종실록 지리지에는 울릉도와 독도가 우리 땅으로 기록되어 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "독도는 어느 행정 구역에 속할까요?",
+    "choices": [
+      "강원특별자치도 강릉시",
+      "제주특별자치도",
+      "경상북도 울릉군",
+      "전라남도 신안군"
+    ],
+    "answer": 2,
+    "explanation": "독도의 주소는 경상북도 울릉군 울릉읍 독도리예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "독도는 동도와 서도, 그리고 여러 작은 바위섬으로 이루어져 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "독도는 큰 섬인 동도·서도와 주변의 작은 바위섬들로 되어 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "난민 문제를 해결하려는 노력으로 알맞은 것은?",
+    "choices": [
+      "난민을 모두 돌려보낸다",
+      "난민 소식을 모른 척한다",
+      "난민을 차별한다",
+      "머물 곳과 교육을 지원한다"
+    ],
+    "answer": 3,
+    "explanation": "난민이 안전하게 살 수 있도록 머물 곳과 교육을 지원해야 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 강을 함께 쓰는 두 나라 중 위쪽 나라가 댐을 지어 아래쪽 나라의 물이 줄었어요. 갈등의 주된 원인은?",
+    "choices": [
+      "자원",
+      "종교",
+      "언어",
+      "인종"
+    ],
+    "answer": 0,
+    "explanation": "강물이라는 자원을 두고 이해관계가 부딪쳐 생긴 갈등이에요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "굶주리는 사람들에게 식량을 지원하는 국제 연합 기구는?",
+    "choices": [
+      "세계 보건 기구",
+      "세계 식량 계획",
+      "국제 원자력 기구",
+      "유네스코"
+    ],
+    "answer": 1,
+    "explanation": "세계 식량 계획(WFP)은 굶주림을 겪는 사람들에게 식량을 보내요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지구촌 갈등을 해결하기 위해 국가가 할 수 있는 노력으로 가장 알맞은 것은?",
+    "choices": [
+      "군사력으로 상대를 누른다",
+      "다른 나라와 교류를 끊는다",
+      "다른 나라와 대화하고 협약을 맺는다",
+      "자기 나라 이익만 주장한다"
+    ],
+    "answer": 2,
+    "explanation": "국가는 외교와 협약으로 갈등을 평화롭게 풀어 나가야 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라가 지구촌 평화를 위해 하는 일로 알맞은 것은?",
+    "choices": [
+      "다른 나라 영토를 차지한다",
+      "국제기구에서 탈퇴한다",
+      "분쟁 지역 소식을 막는다",
+      "어려운 나라에 교육·의료를 지원한다"
+    ],
+    "answer": 3,
+    "explanation": "우리나라는 개발 협력과 평화 유지 활동 등으로 지구촌을 도와요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "우리나라는 과거에 원조를 받던 나라였지만 지금은 다른 나라를 돕는 나라가 되었어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "경제가 성장한 우리나라는 이제 다른 나라에 원조를 주고 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1950년에 일어나 남북 분단을 더욱 굳어지게 만든 전쟁은?",
+    "choices": [
+      "6·25 전쟁",
+      "임진왜란",
+      "병자호란",
+      "제1차 세계 대전"
+    ],
+    "answer": 0,
+    "explanation": "6·25 전쟁으로 남북 사이 불신이 깊어져 분단이 굳어졌어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "휴전선을 따라 남북으로 각각 2km씩 군대를 두지 않기로 한 지역은?",
+    "choices": [
+      "개발 제한 구역",
+      "비무장 지대",
+      "경제 특구",
+      "국립 공원"
+    ],
+    "answer": 1,
+    "explanation": "비무장 지대(DMZ)는 군사 시설을 두지 않기로 한 지역이에요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "남한 기업이 북한 개성에서 북한 노동자와 함께 물건을 만들었던 곳은?",
+    "choices": [
+      "판문점",
+      "금강산",
+      "개성 공단",
+      "비무장 지대"
+    ],
+    "answer": 2,
+    "explanation": "개성 공단은 남북 경제 협력의 대표적인 사례였어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "남북한 정상이 처음으로 만나 회담을 연 해는 2000년이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "2000년 평양에서 처음으로 남북 정상 회담이 열렸어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "남북 스포츠 교류의 예로 알맞은 것은?",
+    "choices": [
+      "남북 이산가족 상봉",
+      "개성 공단 운영",
+      "금강산 관광",
+      "국제 대회에서 한반도기를 들고 함께 입장"
+    ],
+    "answer": 3,
+    "explanation": "국제 대회 공동 입장은 스포츠를 통한 남북 교류예요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "분단 때문에 남북이 군사비 등으로 계속 쓰게 되는 비용을 무엇이라 할까요?",
+    "choices": [
+      "분단 비용",
+      "통일 비용",
+      "관세",
+      "생산 비용"
+    ],
+    "answer": 0,
+    "explanation": "분단 비용은 분단 상태가 이어지는 동안 계속 드는 비용이에요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "통일 후 북한의 지하자원과 남한의 기술이 합쳐지면 기대할 수 있는 점은?",
+    "choices": [
+      "군사비가 더 늘어난다",
+      "경제가 더 크게 발전할 수 있다",
+      "이산가족이 늘어난다",
+      "무역이 줄어든다"
+    ],
+    "answer": 1,
+    "explanation": "서로의 자원과 기술을 함께 쓰면 경제가 더 발전할 수 있어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "남북 학자들이 함께 '겨레말큰사전'을 만드는 일은 어떤 분야의 교류일까요?",
+    "choices": [
+      "경제 교류",
+      "스포츠 교류",
+      "언어·학술 교류",
+      "군사 교류"
+    ],
+    "answer": 2,
+    "explanation": "함께 우리말 사전을 만드는 것은 언어와 학술 분야의 교류예요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "통일을 이루는 방법으로 가장 바람직한 것은?",
+    "choices": [
+      "무력으로 상대를 누른다",
+      "서로 연락을 끊는다",
+      "한쪽이 일방적으로 정한다",
+      "대화와 교류로 평화롭게 이룬다"
+    ],
+    "answer": 3,
+    "explanation": "통일은 대화와 교류를 통해 평화적으로 이루어야 해요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "휴전선 위에 있으며 남북 회담이 열리기도 한 곳은?",
+    "choices": [
+      "판문점",
+      "개성 공단",
+      "금강산",
+      "독도"
+    ],
+    "answer": 0,
+    "explanation": "판문점은 휴전선 위에 있어 남북 회담 장소로 쓰였어요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "남한 관광객이 북한의 이름난 산을 방문했던 남북 교류는?",
+    "choices": [
+      "백두산 등반 대회",
+      "금강산 관광",
+      "한라산 관광",
+      "설악산 관광"
+    ],
+    "answer": 1,
+    "explanation": "금강산 관광은 남한 사람이 북한 땅을 여행한 대표 교류예요.",
+    "semester": 1,
+    "unit": "통일 노력, 민주화와 산업화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "쓰레기를 줄이는 생활 습관으로 알맞은 것은?",
+    "choices": [
+      "일회용 컵 자주 쓰기",
+      "음식 많이 남기기",
+      "장바구니와 텀블러 쓰기",
+      "비닐봉지 여러 겹 쓰기"
+    ],
+    "answer": 2,
+    "explanation": "다시 쓸 수 있는 물건을 쓰면 쓰레기를 줄일 수 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "바다에 버려진 플라스틱은 잘게 부서져 바다 생물의 몸속에 쌓일 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "잘게 부서진 미세 플라스틱을 바다 생물이 먹이로 착각해 먹기도 해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "열대 우림이 줄어들면 지구 온난화가 더 심해지는 까닭은?",
+    "choices": [
+      "비가 너무 많이 내려서",
+      "바닷물이 차가워져서",
+      "사막이 줄어들어서",
+      "이산화 탄소를 흡수할 나무가 줄어서"
+    ],
+    "answer": 3,
+    "explanation": "나무는 이산화 탄소를 흡수하는데, 숲이 줄면 온실가스가 늘어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지속 가능한 미래를 위한 에너지로 알맞은 것은?",
+    "choices": [
+      "태양광과 풍력",
+      "석탄",
+      "석유",
+      "천연가스"
+    ],
+    "answer": 0,
+    "explanation": "태양광·풍력은 다시 쓸 수 있고 온실가스를 적게 내보내요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "국제 연합이 2015년에 정한, 2030년까지 함께 이루려는 17가지 목표는?",
+    "choices": [
+      "파리 협정",
+      "지속 가능 발전 목표",
+      "세계 인권 선언",
+      "공정 무역 인증"
+    ],
+    "answer": 1,
+    "explanation": "지속 가능 발전 목표(SDGs)는 빈곤, 환경 등 17가지 목표예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세계 시민의 자세로 알맞지 않은 것은?",
+    "choices": [
+      "지구촌 문제에 관심을 갖는다",
+      "다른 문화를 존중한다",
+      "우리 문화만 뛰어나다고 여긴다",
+      "환경 보호를 실천한다"
+    ],
+    "answer": 2,
+    "explanation": "자기 문화만 뛰어나다고 여기는 것은 편견이에요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "친구가 손으로 밥을 먹는 나라 이야기를 듣고 '이상하다'고 했어요. 알맞은 조언은?",
+    "choices": [
+      "우리 방식이 가장 옳아",
+      "그런 나라와는 교류하지 말자",
+      "모든 나라가 같은 방식으로 먹어야 해",
+      "그 나라의 환경과 전통에서 생긴 문화야"
+    ],
+    "answer": 3,
+    "explanation": "문화는 환경과 전통에 따라 다르므로 옳고 그름으로 판단하지 않아요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "미세 먼지나 황사 문제를 여러 나라가 함께 해결해야 하는 까닭은?",
+    "choices": [
+      "바람을 타고 국경을 넘어 이동해서",
+      "한 나라에서만 생기는 문제라서",
+      "비가 오면 모두 사라져서",
+      "바다에서만 생기는 문제라서"
+    ],
+    "answer": 0,
+    "explanation": "대기 오염 물질은 국경을 넘나들어 여러 나라의 협력이 필요해요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "생물 종이 줄어드는 것은 사람의 생활과 전혀 관계가 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "사람은 식량, 약 등을 생물에서 얻어 생물 다양성이 줄면 피해를 봐요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지속 가능한 발전의 예로 가장 알맞은 것은?",
+    "choices": [
+      "숲을 모두 베어 공장을 짓는다",
+      "물고기가 알 낳는 시기에는 잡지 않는다",
+      "지하수를 마음껏 끌어 쓴다",
+      "일회용품을 더 많이 만든다"
+    ],
+    "answer": 1,
+    "explanation": "자원이 다시 생겨날 수 있게 아껴 써야 미래 세대도 쓸 수 있어요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "지속 가능한 미래를 위해서는 경제 발전을 완전히 멈추고 환경만 생각해야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "지속 가능한 발전은 환경 보전과 경제 발전을 함께 생각하는 거예요.",
+    "semester": 2,
+    "unit": "지구촌 사람들"
+  }
+]

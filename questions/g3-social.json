@@ -1,0 +1,3931 @@
+[
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날에 불과 연기로 먼 곳에 급한 소식을 알리던 통신 수단은?",
+    "choices": [
+      "봉수",
+      "파발",
+      "전화",
+      "편지"
+    ],
+    "answer": 0,
+    "explanation": "봉수는 불과 연기로 소식을 전했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도로가 꽉 막히는 출근 시간에 약속 시간을 지키기 가장 좋은 교통수단은?",
+    "choices": [
+      "택시",
+      "지하철",
+      "자가용",
+      "오토바이"
+    ],
+    "answer": 1,
+    "explanation": "지하철은 땅속으로 다녀 도로가 막혀도 제시간에 갈 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날에 사람이 타고 여러 사람이 메어 옮기던 탈것은 무엇일까요?",
+    "choices": [
+      "기차",
+      "버스",
+      "가마",
+      "자동차"
+    ],
+    "answer": 2,
+    "explanation": "가마는 사람이 메어서 옮기던 탈것이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 사람들이 물을 길어 쓰던 곳으로 알맞은 것은?",
+    "choices": [
+      "수도꼭지",
+      "정수기",
+      "냉장고",
+      "우물"
+    ],
+    "answer": 3,
+    "explanation": "옛날에는 우물에서 물을 길어 썼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "멀리 있는 사람과 얼굴을 보며 대화할 수 있는 통신 방법은?",
+    "choices": [
+      "영상 통화",
+      "봉수",
+      "파발",
+      "편지"
+    ],
+    "answer": 0,
+    "explanation": "영상 통화로 얼굴을 보며 이야기할 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 부엌에서 불을 때어 밥을 짓던 곳은 무엇일까요?",
+    "choices": [
+      "전자레인지",
+      "가스레인지",
+      "전기밥솥",
+      "아궁이"
+    ],
+    "answer": 3,
+    "explanation": "옛날에는 아궁이에 불을 때어 밥을 지었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날에 곡식을 갈아 가루로 만들 때 쓰던 도구는?",
+    "choices": [
+      "맷돌",
+      "믹서기",
+      "세탁기",
+      "청소기"
+    ],
+    "answer": 0,
+    "explanation": "맷돌은 곡식을 가는 도구예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "옛날에는 말을 타고 소식을 전하는 파발이 있었어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "파발은 사람이나 말로 소식을 전했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "물건을 사거나 정보를 찾을 때 오늘날 많이 쓰는 통신 수단은?",
+    "choices": [
+      "봉수",
+      "인터넷",
+      "파발",
+      "북"
+    ],
+    "answer": 1,
+    "explanation": "인터넷으로 정보를 찾고 물건도 사요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사람이나 물건을 다른 곳으로 옮겨 주는 수단을 무엇이라고 할까요?",
+    "choices": [
+      "통신 수단",
+      "생활 도구",
+      "교통수단",
+      "문화유산"
+    ],
+    "answer": 2,
+    "explanation": "사람과 물건을 옮기는 수단은 교통수단이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다리가 없는 섬에 자동차를 싣고 들어갈 때 이용하는 교통수단은?",
+    "choices": [
+      "기차",
+      "버스",
+      "비행기",
+      "카페리(배)"
+    ],
+    "answer": 3,
+    "explanation": "카페리는 사람과 자동차를 함께 싣고 바다를 건너는 배예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 소가 끌어 짐을 나르던 수레는 무엇일까요?",
+    "choices": [
+      "달구지",
+      "자전거",
+      "택시",
+      "트럭"
+    ],
+    "answer": 0,
+    "explanation": "달구지는 소나 말이 끄는 수레예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "교통이 발달하면서 달라진 점으로 알맞은 것은?",
+    "choices": [
+      "이동 시간이 늘었다",
+      "먼 곳도 빨리 갈 수 있다",
+      "물건 옮기기가 어려워졌다",
+      "다른 고장에 가기 힘들어졌다"
+    ],
+    "answer": 1,
+    "explanation": "교통이 발달해 먼 곳도 빨리 갈 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "통신 수단이 발달하면서 달라진 점으로 알맞은 것은?",
+    "choices": [
+      "소식 전달이 느려졌다",
+      "정보를 얻기 어려워졌다",
+      "소식을 바로 주고받는다",
+      "편지만 쓸 수 있다"
+    ],
+    "answer": 2,
+    "explanation": "이제는 멀리 있어도 소식을 바로 주고받아요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 방바닥을 데워 집을 따뜻하게 하던 시설은?",
+    "choices": [
+      "에어컨",
+      "선풍기",
+      "냉장고",
+      "온돌"
+    ],
+    "answer": 3,
+    "explanation": "온돌은 방바닥을 데우는 난방 시설이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 빨래를 두드려 빨 때 쓰던 도구는 무엇일까요?",
+    "choices": [
+      "빨래 방망이",
+      "맷돌",
+      "절구",
+      "호미"
+    ],
+    "answer": 0,
+    "explanation": "빨래 방망이로 옷을 두드려 빨았어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 곡식을 까불러 티끌이나 쭉정이를 골라내던 도구는?",
+    "choices": [
+      "호미",
+      "키",
+      "낫",
+      "지게"
+    ],
+    "answer": 1,
+    "explanation": "키로 곡식을 까불러 티끌을 골라냈어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 무거운 짐을 등에 지고 나르던 도구는 무엇일까요?",
+    "choices": [
+      "키",
+      "맷돌",
+      "지게",
+      "가마"
+    ],
+    "answer": 2,
+    "explanation": "지게는 짐을 등에 지는 도구예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "고장의 중심지에는 시장, 버스 터미널처럼 사람이 많이 모이는 곳이 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "중심지에는 사람들이 모이는 시설이 많아요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "음력 8월 15일로, 햇곡식과 햇과일로 차례를 지내는 명절은?",
+    "choices": [
+      "설날",
+      "추석",
+      "단오",
+      "한식"
+    ],
+    "answer": 1,
+    "explanation": "추석은 음력 8월 15일이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "설날에 먹는 대표적인 음식은 송편이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "설날에는 떡국을 먹고, 송편은 추석 음식이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "추석에 빚어 먹는 대표적인 떡은 무엇일까요?",
+    "choices": [
+      "가래떡",
+      "시루떡",
+      "송편",
+      "인절미"
+    ],
+    "answer": 2,
+    "explanation": "추석에는 송편을 빚어 먹어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "버스, 지하철처럼 여러 사람이 함께 이용하는 교통수단은?",
+    "choices": [
+      "자가용",
+      "자전거",
+      "오토바이",
+      "대중교통"
+    ],
+    "answer": 3,
+    "explanation": "여러 사람이 함께 타는 교통수단은 대중교통이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "교통수단이 발달하면서 고장 사이의 이동 시간이 늘어났어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "교통이 발달해 이동 시간이 줄어들었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "봉수는 낮에는 연기로, 밤에는 무엇으로 신호를 보냈을까요?",
+    "choices": [
+      "깃발",
+      "북소리",
+      "편지",
+      "불빛"
+    ],
+    "answer": 3,
+    "explanation": "봉수는 밤에 불빛으로 신호를 보냈어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "파발 가운데 말을 타고 소식을 전하는 것을 기발이라고 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "말을 타면 기발, 걸어서 전하면 보발이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 사람들이 큰 강을 건널 때 주로 이용한 교통수단은?",
+    "choices": [
+      "나룻배",
+      "지하철",
+      "고속 열차",
+      "비행기"
+    ],
+    "answer": 0,
+    "explanation": "옛날에는 나룻배로 강을 건넜어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "볏짚으로 지붕을 엮어 덮은 옛날 집은 무엇일까요?",
+    "choices": [
+      "기와집",
+      "초가집",
+      "아파트",
+      "너와집"
+    ],
+    "answer": 1,
+    "explanation": "초가집은 볏짚으로 지붕을 덮은 집이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "교통수단이 발달하면서 생긴 문제로 알맞은 것은?",
+    "choices": [
+      "이동 시간 단축",
+      "여행이 쉬워짐",
+      "물건 운반이 편해짐",
+      "교통 체증과 대기 오염"
+    ],
+    "answer": 3,
+    "explanation": "자동차가 늘어 교통 체증과 대기 오염이 생겼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "통신 수단이 발달하면서 생긴 문제로 알맞은 것은?",
+    "choices": [
+      "개인 정보 유출",
+      "빠른 정보 검색",
+      "원격 수업",
+      "영상 통화"
+    ],
+    "answer": 0,
+    "explanation": "개인 정보가 새어 나가지 않게 조심해야 해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 밤을 밝히던 호롱불의 역할을 오늘날 대신하는 것은?",
+    "choices": [
+      "냉장고",
+      "전등",
+      "세탁기",
+      "휴대 전화"
+    ],
+    "answer": 1,
+    "explanation": "오늘날에는 전등으로 밤을 밝혀요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "섬에 사는 사람들이 육지로 갈 때 주로 이용하는 교통수단은?",
+    "choices": [
+      "지하철",
+      "시내버스",
+      "배",
+      "고속 열차"
+    ],
+    "answer": 2,
+    "explanation": "섬과 육지 사이는 주로 배로 오가요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "단오에 즐기던 대표적인 민속놀이는 무엇일까요?",
+    "choices": [
+      "쥐불놀이",
+      "그네뛰기",
+      "강강술래",
+      "연날리기"
+    ],
+    "answer": 1,
+    "explanation": "단오에는 그네뛰기와 씨름을 즐겼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정월 대보름에 먹는 대표적인 음식은 무엇일까요?",
+    "choices": [
+      "송편",
+      "떡국",
+      "오곡밥",
+      "팥죽"
+    ],
+    "answer": 2,
+    "explanation": "정월 대보름에는 오곡밥과 부럼을 먹어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "밤이 가장 긴 날인 동지에 먹는 대표적인 음식은?",
+    "choices": [
+      "떡국",
+      "송편",
+      "오곡밥",
+      "팥죽"
+    ],
+    "answer": 3,
+    "explanation": "밤이 가장 긴 동지에는 팥죽을 먹어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "휴대 전화가 없던 옛날에는 먼 곳에 소식을 전할 방법이 전혀 없었어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "옛날에도 봉수, 파발, 편지로 소식을 전했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고장의 장소를 직접 찾아가 살펴보며 조사하는 방법은?",
+    "choices": [
+      "답사",
+      "면담",
+      "설문",
+      "토론"
+    ],
+    "answer": 0,
+    "explanation": "직접 가서 살펴보는 것을 답사라고 해요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "장소에 대한 경험과 느낌이 드러난 말은 무엇일까요?",
+    "choices": [
+      "놀이터는 친구와 놀아서 즐거운 곳이다",
+      "놀이터는 학교 옆에 있다",
+      "놀이터에는 그네가 2개 있다",
+      "놀이터는 오후 6시에 닫는다"
+    ],
+    "answer": 0,
+    "explanation": "'즐거운 곳'처럼 자신의 경험과 느낌이 드러나 있어요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사람마다 고장의 장소를 떠올리는 모습이 다른 까닭으로 알맞은 것은?",
+    "choices": [
+      "지도가 서로 달라서",
+      "장소에서 겪은 경험이 달라서",
+      "장소가 날마다 옮겨져서",
+      "사는 나라가 달라서"
+    ],
+    "answer": 1,
+    "explanation": "같은 장소라도 겪은 일이 달라 떠오르는 모습이 달라요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고장의 모습을 알아보는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "디지털 영상 지도 보기",
+      "직접 답사하기",
+      "다른 나라 날씨 뉴스 보기",
+      "어른께 여쭙기"
+    ],
+    "answer": 2,
+    "explanation": "다른 나라 날씨로는 우리 고장의 모습을 알 수 없어요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "답사 과정을 순서대로 바르게 늘어놓은 것은?",
+    "choices": [
+      "계획-답사-정리-발표",
+      "답사-계획-발표-정리",
+      "계획-발표-답사-정리",
+      "정리-계획-답사-발표"
+    ],
+    "answer": 0,
+    "explanation": "계획을 세우고 답사한 뒤 정리하여 발표해요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 교통수단의 특징으로 알맞은 것은?",
+    "choices": [
+      "전기로 움직였다",
+      "하늘을 날았다",
+      "매우 빨랐다",
+      "사람이나 동물의 힘을 주로 이용했다"
+    ],
+    "answer": 3,
+    "explanation": "가마, 달구지처럼 사람이나 동물의 힘을 이용했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오늘날 교통수단이 옛날과 다른 점은?",
+    "choices": [
+      "기계의 힘으로 빠르게 움직인다",
+      "동물의 힘을 이용한다",
+      "한 번에 적은 짐만 옮긴다",
+      "먼 곳에 가기 어렵다"
+    ],
+    "answer": 0,
+    "explanation": "오늘날에는 기계의 힘으로 빠르게 많이 옮겨요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "무거운 짐을 먼 나라로 한꺼번에 많이 보낼 때 가장 알맞은 교통수단은?",
+    "choices": [
+      "자전거",
+      "화물선",
+      "택시",
+      "오토바이"
+    ],
+    "answer": 1,
+    "explanation": "화물선은 무거운 짐을 한꺼번에 많이 실어 날라요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "섬에서 다친 사람을 큰 병원으로 가장 빨리 옮기는 방법은?",
+    "choices": [
+      "나룻배",
+      "달구지",
+      "응급 헬리콥터",
+      "자전거"
+    ],
+    "answer": 2,
+    "explanation": "헬리콥터는 바다를 건너 빠르게 이동할 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고속 철도가 생기면서 달라진 생활 모습으로 알맞은 것은?",
+    "choices": [
+      "이웃 고장에 가기 어려워졌다",
+      "물건을 옮기기 불편해졌다",
+      "여행하는 사람이 줄었다",
+      "먼 지역도 하루 만에 다녀올 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "이동 시간이 줄어 먼 곳도 하루에 오갈 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 통신 수단인 '서찰'은 오늘날의 무엇과 비슷할까요?",
+    "choices": [
+      "편지",
+      "불빛 신호",
+      "북소리",
+      "깃발"
+    ],
+    "answer": 0,
+    "explanation": "서찰은 글을 적어 보내는 편지예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오늘날 주로 쓰는 통신 수단이 아닌 것은?",
+    "choices": [
+      "휴대 전화",
+      "봉수",
+      "인터넷",
+      "텔레비전"
+    ],
+    "answer": 1,
+    "explanation": "봉수는 옛날에 불과 연기로 소식을 전하던 방법이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "봉수에서 올리는 횃불의 개수가 많을수록 무엇을 뜻했을까요?",
+    "choices": [
+      "날씨가 맑다",
+      "손님이 온다",
+      "상황이 더 위급하다",
+      "잔치가 열린다"
+    ],
+    "answer": 2,
+    "explanation": "평소엔 1개, 적이 가까워질수록 횃불 수를 늘렸어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "통신 수단을 바르게 이용하는 태도가 아닌 것은?",
+    "choices": [
+      "바른말을 쓴다",
+      "개인 정보를 지킨다",
+      "정보가 사실인지 확인한다",
+      "밤늦게 친구에게 여러 번 전화한다"
+    ],
+    "answer": 3,
+    "explanation": "밤늦은 전화는 다른 사람에게 피해를 줄 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "오늘날에는 인공위성을 이용해 먼 나라와도 바로 소식을 주고받을 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "인공위성 덕분에 세계 곳곳과 바로 통신할 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "교통수단이 발달하면서 교통 체증과 대기 오염 같은 문제가 생겼어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "자동차가 많아지며 길이 막히고 공기가 나빠졌어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "미래 교통수단의 모습을 예상한 것으로 알맞은 것은?",
+    "choices": [
+      "운전자 없이 스스로 달리는 자동차",
+      "소가 끄는 달구지",
+      "사람이 메는 가마",
+      "노를 젓는 뗏목"
+    ],
+    "answer": 0,
+    "explanation": "자율 주행 자동차처럼 더 편리해질 거예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "하는 일이 비슷한 옛날과 오늘날 통신 수단을 바르게 짝지은 것은?",
+    "choices": [
+      "봉수 - 가마",
+      "파발 - 문자 메시지",
+      "서찰 - 지하철",
+      "북 - 자동차"
+    ],
+    "answer": 1,
+    "explanation": "둘 다 먼 곳에 소식을 전하는 통신 수단이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "장소와 그곳에서 이용하는 교통수단의 짝이 알맞지 않은 것은?",
+    "choices": [
+      "공항 - 비행기",
+      "역 - 기차",
+      "항구 - 기차",
+      "터미널 - 버스"
+    ],
+    "answer": 2,
+    "explanation": "항구에서는 배를 타요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "교통 약자를 위한 시설이 아닌 것은?",
+    "choices": [
+      "저상 버스",
+      "엘리베이터",
+      "점자 블록",
+      "자동차 전용 도로"
+    ],
+    "answer": 3,
+    "explanation": "저상 버스, 엘리베이터, 점자 블록이 교통 약자를 도와요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "먼 곳에 편지나 소포를 보낼 때 이용하는 곳은?",
+    "choices": [
+      "우체국",
+      "소방서",
+      "경찰서",
+      "보건소"
+    ],
+    "answer": 0,
+    "explanation": "우체국에서 편지와 소포를 보내요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "두 사람이 동시에 말을 주고받으며 이야기할 수 있는 통신 수단은?",
+    "choices": [
+      "편지",
+      "전화",
+      "신문",
+      "게시판"
+    ],
+    "answer": 1,
+    "explanation": "전화는 바로 대화를 주고받을 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지역 사이를 자동차로 빠르게 연결해 주는 교통 시설은?",
+    "choices": [
+      "골목길",
+      "놀이터",
+      "고속 도로",
+      "도서관"
+    ],
+    "answer": 2,
+    "explanation": "고속 도로는 먼 지역을 빠르게 이어 줘요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 사람들이 곡식을 넣고 찧거나 빻을 때 쓰던 도구는?",
+    "choices": [
+      "키",
+      "절구",
+      "지게",
+      "호미"
+    ],
+    "answer": 1,
+    "explanation": "절구에 곡식을 넣고 공이로 찧었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "하는 일이 비슷한 옛날 도구와 오늘날 도구를 짝지은 것은?",
+    "choices": [
+      "아궁이 - 선풍기",
+      "호롱불 - 세탁기",
+      "맷돌 - 믹서",
+      "빨래 방망이 - 전등"
+    ],
+    "answer": 2,
+    "explanation": "맷돌과 믹서는 모두 음식 재료를 갈아요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 도구가 오늘날 도구로 바뀌면서 달라진 점은?",
+    "choices": [
+      "집안일이 더 힘들어졌다",
+      "전기를 쓰지 않게 되었다",
+      "빨래를 손으로만 한다",
+      "집안일에 드는 시간과 힘이 줄었다"
+    ],
+    "answer": 3,
+    "explanation": "전기 도구 덕분에 집안일이 편해졌어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기와집의 지붕은 무엇으로 덮었을까요?",
+    "choices": [
+      "흙을 구워 만든 기와",
+      "볏짚",
+      "나무껍질",
+      "천"
+    ],
+    "answer": 0,
+    "explanation": "기와는 흙을 구워 만들어 튼튼해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "초가집 지붕을 1~2년마다 새로 얹은 까닭은?",
+    "choices": [
+      "기와가 무거워서",
+      "볏짚이 썩거나 낡기 때문에",
+      "비가 오지 않아서",
+      "겨울이 짧아서"
+    ],
+    "answer": 1,
+    "explanation": "볏짚은 시간이 지나면 썩어서 새로 갈아야 했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 사람들이 밭의 잡초를 뽑을 때 쓰던 농기구는?",
+    "choices": [
+      "키",
+      "맷돌",
+      "호미",
+      "다듬잇방망이"
+    ],
+    "answer": 2,
+    "explanation": "호미로 김을 매고 잡초를 뽑았어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 사람들이 여름을 시원하게 보내려고 한 일은?",
+    "choices": [
+      "에어컨 켜기",
+      "전기선풍기 틀기",
+      "온돌에 불 때기",
+      "대청마루에서 부채질하기"
+    ],
+    "answer": 3,
+    "explanation": "바람이 잘 통하는 대청마루에서 부채를 부쳤어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "오늘날에도 옛날 도구의 원리를 이어받은 도구가 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "맷돌의 가는 원리가 믹서에 이어졌어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날과 오늘날 음식을 보관하는 방법을 바르게 짝지은 것은?",
+    "choices": [
+      "김칫독 - 김치냉장고",
+      "아궁이 - 세탁기",
+      "맷돌 - 청소기",
+      "키 - 텔레비전"
+    ],
+    "answer": 0,
+    "explanation": "땅에 묻은 김칫독의 역할을 김치냉장고가 해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 사람들이 음식을 오래 보관하려고 한 방법이 아닌 것은?",
+    "choices": [
+      "소금에 절이기",
+      "냉동실에 얼리기",
+      "햇볕에 말리기",
+      "땅에 묻은 독에 보관하기"
+    ],
+    "answer": 1,
+    "explanation": "냉동실은 전기가 있는 오늘날의 방법이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "설날에 웃어른께 절을 하며 드리는 인사는?",
+    "choices": [
+      "제사",
+      "성묘",
+      "세배",
+      "혼례"
+    ],
+    "answer": 2,
+    "explanation": "설날 아침에 웃어른께 세배를 드려요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "설날에 즐기던 대표적인 민속놀이는?",
+    "choices": [
+      "그네뛰기",
+      "강강술래",
+      "쥐불놀이",
+      "윷놀이"
+    ],
+    "answer": 3,
+    "explanation": "설날에는 가족이 모여 윷놀이를 했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정월 대보름에 한 해의 부스럼을 막으려고 깨물어 먹던 것은?",
+    "choices": [
+      "부럼",
+      "송편",
+      "팥죽",
+      "떡국"
+    ],
+    "answer": 0,
+    "explanation": "호두, 땅콩 같은 부럼을 깨물었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "동지에 팥죽을 먹은 까닭으로 전해지는 것은?",
+    "choices": [
+      "팥이 가장 비싸서",
+      "붉은 팥이 나쁜 기운을 막는다고 여겨서",
+      "추석을 기념하려고",
+      "비를 내리게 하려고"
+    ],
+    "answer": 1,
+    "explanation": "붉은색이 나쁜 기운을 쫓는다고 믿었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세시 풍속을 바르게 설명한 것은?",
+    "choices": [
+      "하루에 한 번 하는 일",
+      "외국에서 들어온 놀이",
+      "해마다 일정한 때에 되풀이한 풍속",
+      "학교에서만 하는 행사"
+    ],
+    "answer": 2,
+    "explanation": "명절처럼 해마다 같은 때에 되풀이하는 풍속이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "추석에는 보름달을 보며 소원을 빌고 강강술래를 하기도 했어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "추석 밤에는 달맞이와 강강술래를 즐겼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세시 풍속 중에 농사와 관련된 것이 많은 까닭은?",
+    "choices": [
+      "도시에 사람이 많아서",
+      "기계가 많아서",
+      "바다가 가까워서",
+      "옛날에는 대부분 농사를 지어서"
+    ],
+    "answer": 3,
+    "explanation": "농사가 생활의 중심이라 풍년을 비는 풍속이 많았어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "단오에 여자들이 머리를 감던 물은?",
+    "choices": [
+      "창포물",
+      "소금물",
+      "꿀물",
+      "보리차"
+    ],
+    "answer": 0,
+    "explanation": "단오에는 창포 삶은 물에 머리를 감았어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "음력 날짜가 빠른 것부터 차례대로 늘어놓은 것은?",
+    "choices": [
+      "단오-설날-추석-동지",
+      "설날-단오-추석-동지",
+      "설날-추석-단오-동지",
+      "추석-설날-단오-동지"
+    ],
+    "answer": 1,
+    "explanation": "설날 1월 1일, 단오 5월 5일, 추석 8월 15일, 동지는 11월쯤이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 5일마다 열리던 시장은?",
+    "choices": [
+      "오일장",
+      "편의점",
+      "백화점",
+      "대형 마트"
+    ],
+    "answer": 0,
+    "explanation": "5일마다 열려서 오일장이라고 불렀어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 아이들이 즐기던 놀이가 아닌 것은?",
+    "choices": [
+      "제기차기",
+      "딱지치기",
+      "팽이치기",
+      "컴퓨터 게임"
+    ],
+    "answer": 3,
+    "explanation": "컴퓨터 게임은 오늘날의 놀이예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "섬과 육지를 잇는 다리가 생긴 뒤의 변화로 알맞은 것은?",
+    "choices": [
+      "배가 더 많이 필요하다",
+      "섬에 가기 더 어렵다",
+      "자동차로 육지를 오갈 수 있다",
+      "섬 주민이 줄어든다"
+    ],
+    "answer": 2,
+    "explanation": "다리로 날씨에 덜 구애받고 차로 오가요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "산이 많은 고장에 터널을 뚫었을 때 좋은 점은?",
+    "choices": [
+      "산이 더 높아진다",
+      "차가 더 느려진다",
+      "길이 더 멀어진다",
+      "이동 시간과 거리가 줄어든다"
+    ],
+    "answer": 3,
+    "explanation": "산을 돌아가지 않아 빠르게 갈 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "봉수에서 올리는 불이나 연기의 개수로 알린 것은?",
+    "choices": [
+      "위급한 정도",
+      "그날의 날씨",
+      "하루의 시각",
+      "곡식의 양"
+    ],
+    "answer": 0,
+    "explanation": "적이 가까울수록 더 많이 올렸어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "옛날에 먼 곳에 편지로 소식을 전할 때 불편한 점은?",
+    "choices": [
+      "글자를 쓸 수 없었다",
+      "소식이 닿기까지 오래 걸렸다",
+      "돈이 전혀 들지 않았다",
+      "바로 답장을 받았다"
+    ],
+    "answer": 1,
+    "explanation": "사람이 직접 전하니 시간이 오래 걸렸어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "누리 소통망(SNS)의 발달로 생긴 문제점은?",
+    "choices": [
+      "소식을 빨리 전한다",
+      "멀리 있는 사람과 대화한다",
+      "거짓 정보가 빠르게 퍼진다",
+      "사진을 쉽게 나눈다"
+    ],
+    "answer": 2,
+    "explanation": "빠른 전달은 좋지만 거짓 정보도 빨리 퍼져요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고속 열차가 생긴 뒤 달라진 생활 모습은?",
+    "choices": [
+      "가까운 곳에 가기 어려워졌다",
+      "여행을 가지 않게 되었다",
+      "걸어서 다니게 되었다",
+      "먼 곳도 하루에 다녀올 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "이동 시간이 줄어 먼 곳도 빨리 오가요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "아궁이에 불을 때면 방바닥까지 따뜻해진 까닭은?",
+    "choices": [
+      "방에 난로가 있어서",
+      "벽이 두꺼워서",
+      "햇볕이 들어와서",
+      "불의 열기가 구들 밑을 지나서"
+    ],
+    "answer": 3,
+    "explanation": "아궁이의 열기가 구들을 데워 방이 따뜻해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빨랫방망이 대신 세탁기를 쓰면서 달라진 점은?",
+    "choices": [
+      "빨래하는 시간과 힘이 줄었다",
+      "빨래를 냇가에서 하게 되었다",
+      "빨래를 더 오래 하게 되었다",
+      "옷을 빨지 않게 되었다"
+    ],
+    "answer": 0,
+    "explanation": "세탁기가 빨래를 대신해 시간과 힘이 줄었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "추석에 송편을 빚고 차례를 지내는 까닭은?",
+    "choices": [
+      "새해 첫날을 맞으려고",
+      "농사를 거둔 것에 감사하려고",
+      "더위를 이기려고",
+      "봄을 맞으려고"
+    ],
+    "answer": 1,
+    "explanation": "추석은 수확에 감사하는 명절이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정월 대보름에 부럼을 깨무는 까닭은?",
+    "choices": [
+      "이를 튼튼하게 닦으려고",
+      "배고픔을 달래려고",
+      "부스럼이 나지 않기를 빌려고",
+      "새해 인사를 하려고"
+    ],
+    "answer": 2,
+    "explanation": "한 해 동안 부스럼이 나지 않기를 빌었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민지: \"도서관은 조용해서 편안한 곳이야.\" 준호: \"도서관은 시험 공부로 힘들었던 곳이야.\" 두 사람의 말로 알 수 있는 것은?",
+    "choices": [
+      "도서관의 위치가 서로 다르다",
+      "같은 장소도 경험에 따라 느낌이 다르다",
+      "두 사람은 도서관에 가 본 적이 없다",
+      "도서관은 모두에게 힘든 곳이다"
+    ],
+    "answer": 1,
+    "explanation": "같은 장소라도 그곳에서 겪은 일이 다르면 떠오르는 느낌이 달라요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "여러 사람에게 같은 질문지를 나누어 주고 답을 모아 고장을 조사하는 방법은?",
+    "choices": [
+      "답사",
+      "면담",
+      "관찰",
+      "설문 조사"
+    ],
+    "answer": 3,
+    "explanation": "같은 질문에 여러 사람이 답하게 해서 모으는 방법은 설문 조사예요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "고장의 장소를 직접 찾아가 조사할 때에는 안전 수칙을 지키고 어른과 함께 가요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "답사할 때는 안전이 가장 중요해서 어른과 함께 가요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고장 답사를 갈 때 챙길 준비물로 알맞지 않은 것은 무엇일까요?",
+    "choices": [
+      "필기도구",
+      "고장 지도",
+      "사진기",
+      "베개"
+    ],
+    "answer": 3,
+    "explanation": "답사에는 기록할 도구와 지도가 필요하고, 베개는 필요하지 않아요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "좋아하는 고장 장소를 조사했더니 공원 12명, 도서관 7명, 시장 9명이었어요. 두 번째로 많이 고른 곳은?",
+    "choices": [
+      "공원",
+      "도서관",
+      "시장",
+      "알 수 없다"
+    ],
+    "answer": 2,
+    "explanation": "많은 순서대로 12명, 9명, 7명이라서 두 번째는 시장이에요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고장의 옛 모습을 잘 아는 어르신을 만나 묻고 답을 듣는 조사 방법은 무엇일까요?",
+    "choices": [
+      "면담",
+      "답사",
+      "설문 조사",
+      "관찰"
+    ],
+    "answer": 0,
+    "explanation": "사람을 직접 만나 질문하고 이야기를 듣는 방법은 면담이에요.",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "주문한 물건을 택배로 다음 날 받을 수 있게 된 까닭과 가장 관계 깊은 것은?",
+    "choices": [
+      "세시 풍속이 바뀌어서",
+      "가족 수가 줄어서",
+      "지명이 바뀌어서",
+      "교통과 통신이 발달해서"
+    ],
+    "answer": 3,
+    "explanation": "주문은 통신으로 빠르게 하고, 배달은 발달한 교통으로 빠르게 해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "편지와 소포를 집집마다 배달해 주는 사람은 누구일까요?",
+    "choices": [
+      "집배원",
+      "소방관",
+      "경찰관",
+      "의사"
+    ],
+    "answer": 0,
+    "explanation": "집배원은 우편물을 받는 사람에게 전해 줘요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "제주도에서 서울까지 오늘 안에 가장 빨리 가려면 어떤 교통수단이 알맞을까요?",
+    "choices": [
+      "고속버스",
+      "비행기",
+      "지하철",
+      "자전거"
+    ],
+    "answer": 1,
+    "explanation": "제주도는 바다 건너 섬이라서 비행기로 가는 것이 가장 빨라요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "반 친구 모두에게 같은 소식을 한꺼번에 빠르게 알리기에 가장 알맞은 방법은?",
+    "choices": [
+      "손 편지 쓰기",
+      "집마다 찾아가기",
+      "단체 문자 메시지 보내기",
+      "봉수 올리기"
+    ],
+    "answer": 2,
+    "explanation": "단체 문자는 여러 사람에게 한 번에 빠르게 소식을 보낼 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "누리 소통망에 올린 글과 사진은 한번 퍼지면 완전히 지우기 어려워요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "다른 사람이 퍼 가면 다 지우기 어려우니 올리기 전에 신중해야 해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리나라에서 교통수단이 처음 쓰인 차례대로 바르게 늘어놓은 것은?",
+    "choices": [
+      "가마-기차-비행기",
+      "비행기-가마-기차",
+      "기차-가마-비행기",
+      "가마-비행기-기차"
+    ],
+    "answer": 0,
+    "explanation": "가마는 아주 옛날부터, 기차는 그다음, 비행기는 가장 나중에 쓰였어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 통신 수단 가운데 가장 나중에 생긴 것은 무엇일까요?",
+    "choices": [
+      "편지",
+      "봉수",
+      "유선 전화",
+      "스마트폰"
+    ],
+    "answer": 3,
+    "explanation": "스마트폰은 가장 최근에 나온 통신 수단이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "스마트폰을 너무 오래 사용하면 생길 수 있는 문제는 무엇일까요?",
+    "choices": [
+      "키가 갑자기 커진다",
+      "눈이 피로하고 잠이 부족해진다",
+      "날씨가 바뀐다",
+      "교통사고가 줄어든다"
+    ],
+    "answer": 1,
+    "explanation": "화면을 오래 보면 눈이 피로해지고 잠잘 시간이 줄어들어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고장의 교통 체증을 줄이는 방법으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "자가용을 더 많이 탄다",
+      "대중교통을 이용한다",
+      "도로에 차를 세워 둔다",
+      "모두 같은 시간에 출발한다"
+    ],
+    "answer": 1,
+    "explanation": "여러 사람이 함께 타는 대중교통을 이용하면 도로 위 차가 줄어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "통신 수단을 쓸 때 개인 정보를 지키는 방법으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "모르는 사람에게 주소를 알려 준다",
+      "비밀번호를 친구와 나눈다",
+      "모르는 사람이 보낸 링크는 누르지 않는다",
+      "내 사진을 아무나 보게 올린다"
+    ],
+    "answer": 2,
+    "explanation": "모르는 링크를 누르면 개인 정보가 빠져나갈 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "드론으로 물건을 나르는 것처럼 새로운 교통 기술이 생활에 쓰이고 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "드론 배송처럼 새로운 기술로 물건을 옮기기도 해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "옛날의 '역(역참)'에서 하던 일로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "기차를 타고 내리던 곳",
+      "말을 갈아타고 쉬어 가던 곳",
+      "비행기가 뜨고 내리던 곳",
+      "버스를 기다리던 곳"
+    ],
+    "answer": 1,
+    "explanation": "옛날 역은 소식을 전하는 사람이 말을 갈아타고 쉬던 곳이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "배와 비행기를 비교한 것으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "배가 비행기보다 빠르다",
+      "비행기는 바다를 건널 수 없다",
+      "배는 느리지만 짐을 많이 나른다",
+      "둘 다 도로 위를 달린다"
+    ],
+    "answer": 2,
+    "explanation": "배는 비행기보다 느리지만 무거운 짐을 한꺼번에 많이 실어 날라요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날에 쌀 같은 곡식을 넣어 두던 나무 궤짝은 무엇일까요?",
+    "choices": [
+      "가마솥",
+      "장독",
+      "지게",
+      "뒤주"
+    ],
+    "answer": 3,
+    "explanation": "뒤주는 쌀 같은 곡식을 담아 두던 나무 상자예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 소가 끌게 하여 논밭의 흙을 갈아엎던 농기구는 무엇일까요?",
+    "choices": [
+      "낫",
+      "호미",
+      "쟁기",
+      "도리깨"
+    ],
+    "answer": 2,
+    "explanation": "쟁기는 소의 힘을 빌려 논밭을 가는 농기구예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "옛날 사람들이 물레와 베틀을 차례대로 써서 한 일은 무엇일까요?",
+    "choices": [
+      "곡식을 털어 가루 내기",
+      "실을 뽑아 옷감 짜기",
+      "밥 짓고 반찬 만들기",
+      "논을 갈고 모 심기"
+    ],
+    "answer": 1,
+    "explanation": "물레로 실을 뽑고, 베틀로 그 실을 엮어 옷감을 짰어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 불에 달구어 옷의 작은 주름이나 솔기를 펴던 도구는 무엇일까요?",
+    "choices": [
+      "인두",
+      "호미",
+      "키",
+      "절구"
+    ],
+    "answer": 0,
+    "explanation": "인두는 불에 달구어 옷의 구김을 펴던 도구예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "옛날 사람들이 다듬잇돌 위에 옷감을 올리고 방망이로 두드린 까닭은?",
+    "choices": [
+      "곡식을 빻으려고",
+      "불을 피우려고",
+      "옷감을 반듯하고 부드럽게 하려고",
+      "물을 길으려고"
+    ],
+    "answer": 2,
+    "explanation": "옷감을 두드려 구김을 펴고 부드럽게 만들었어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날에 다 익은 벼나 보리를 벨 때 쓰던 농기구는 무엇일까요?",
+    "choices": [
+      "키",
+      "지게",
+      "맷돌",
+      "낫"
+    ],
+    "answer": 3,
+    "explanation": "낫은 곡식이나 풀을 베는 농기구예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 콩이나 보리 이삭을 두드려 낟알을 떨어내던 농기구는 무엇일까요?",
+    "choices": [
+      "도리깨",
+      "쟁기",
+      "호미",
+      "절구"
+    ],
+    "answer": 0,
+    "explanation": "도리깨를 휘둘러 이삭을 두드리면 낟알이 떨어져요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 마을 사람들이 바쁠 때 서로 일을 도와주고 되갚던 풍습은?",
+    "choices": [
+      "세배",
+      "차례",
+      "성묘",
+      "품앗이"
+    ],
+    "answer": 3,
+    "explanation": "품앗이는 일을 서로 거들어 주고 되갚는 풍습이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 집에서 간장, 된장을 담은 항아리를 모아 두던 곳은 어디일까요?",
+    "choices": [
+      "장독대",
+      "대청마루",
+      "아궁이",
+      "우물"
+    ],
+    "answer": 0,
+    "explanation": "장독대는 장을 담은 독을 모아 두던 곳이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "옛날 사람들은 짚으로 짚신이나 멍석 같은 생활용품을 만들어 썼어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "짚은 구하기 쉬워서 신발, 깔개 등을 만드는 데 썼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "초가집과 기와집을 비교한 것으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "초가집 지붕은 흙을 구워 만들었다",
+      "기와집 지붕은 해마다 새로 얹었다",
+      "기와집 지붕이 초가집 지붕보다 오래간다",
+      "두 집 모두 지붕을 볏짚으로 덮었다"
+    ],
+    "answer": 2,
+    "explanation": "구운 기와는 볏짚보다 튼튼해서 오래 쓸 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날 가마솥과 하는 일이 가장 비슷한 오늘날 도구는 무엇일까요?",
+    "choices": [
+      "세탁기",
+      "청소기",
+      "냉장고",
+      "전기밥솥"
+    ],
+    "answer": 3,
+    "explanation": "가마솥과 전기밥솥은 모두 밥을 짓는 데 써요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "옛날의 부채·죽부인과 오늘날의 선풍기·에어컨의 공통점은 무엇일까요?",
+    "choices": [
+      "겨울을 따뜻하게 보내려고 쓴다",
+      "여름 더위를 이기려고 쓴다",
+      "음식을 오래 보관하려고 쓴다",
+      "빨래를 하려고 쓴다"
+    ],
+    "answer": 1,
+    "explanation": "모두 여름에 시원하게 지내려고 쓰는 물건이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "옛날에 방 안에 두고 숯불을 담아 방을 데우던 그릇은 무엇일까요?",
+    "choices": [
+      "화로",
+      "뒤주",
+      "장독",
+      "키"
+    ],
+    "answer": 0,
+    "explanation": "화로에 숯불을 담아 방을 데우거나 음식을 데웠어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "옛날 생활 도구를 직접 보며 조사하기에 가장 알맞은 곳은 어디일까요?",
+    "choices": [
+      "수영장",
+      "놀이공원",
+      "민속 박물관",
+      "영화관"
+    ],
+    "answer": 2,
+    "explanation": "민속 박물관에서는 옛날 도구를 직접 볼 수 있어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "설날에 떡국을 먹으면 어떻게 된다고 여겼을까요?",
+    "choices": [
+      "키가 커진다",
+      "더위를 먹지 않는다",
+      "부스럼이 나지 않는다",
+      "나이를 한 살 더 먹는다"
+    ],
+    "answer": 3,
+    "explanation": "설날 떡국을 먹으면 한 살을 더 먹는다고 여겼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "설날에 새해를 맞아 새로 마련해 입는 옷을 무엇이라고 할까요?",
+    "choices": [
+      "설빔",
+      "잠옷",
+      "교복",
+      "비옷"
+    ],
+    "answer": 0,
+    "explanation": "새해를 맞아 새 옷을 입었는데, 이 옷을 설빔이라고 해요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정월 대보름 아침에 친구 이름을 불러 대답하면 \"내 더위 사 가라.\"라고 외치는 풍속은?",
+    "choices": [
+      "부럼 깨기",
+      "더위팔기",
+      "쥐불놀이",
+      "세배"
+    ],
+    "answer": 1,
+    "explanation": "더위팔기는 그해 여름 더위를 먹지 않기를 바라는 풍속이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "단오에 샅바를 잡고 서로 힘을 겨루던 민속놀이는 무엇일까요?",
+    "choices": [
+      "그네뛰기",
+      "윷놀이",
+      "씨름",
+      "강강술래"
+    ],
+    "answer": 2,
+    "explanation": "씨름은 샅바를 잡고 상대를 넘어뜨리는 단오의 대표 놀이예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "불을 피우지 않고 찬 음식을 먹으며 조상의 묘를 돌보던 날은?",
+    "choices": [
+      "한식",
+      "단오",
+      "동지",
+      "추석"
+    ],
+    "answer": 0,
+    "explanation": "한식에는 불을 쓰지 않고 찬 음식을 먹으며 성묘를 했어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "동지가 지나면 낮의 길이가 조금씩 길어져요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "동지는 밤이 가장 긴 날이라서 그 뒤로는 낮이 점점 길어져요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "음력 3월 3일 삼짇날에 진달래꽃을 올려 부쳐 먹던 음식은 무엇일까요?",
+    "choices": [
+      "화전",
+      "송편",
+      "떡국",
+      "팥죽"
+    ],
+    "answer": 0,
+    "explanation": "화전은 꽃을 올려 부친 전으로, 봄을 맞아 즐겼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "견우와 직녀가 오작교에서 만난다는 이야기가 전해지는 날은 언제일까요?",
+    "choices": [
+      "칠석",
+      "설날",
+      "한식",
+      "동지"
+    ],
+    "answer": 0,
+    "explanation": "음력 7월 7일 칠석에 견우와 직녀가 만난다고 전해져요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 세시 풍속 가운데 여름에 있는 것은 무엇일까요?",
+    "choices": [
+      "설날",
+      "정월 대보름",
+      "동지",
+      "단오"
+    ],
+    "answer": 3,
+    "explanation": "단오는 음력 5월 5일로 초여름에 있는 명절이에요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오늘날 세시 풍속이 달라진 모습으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "멀리 사는 가족과 영상 통화로 세배한다",
+      "봉수로 새해 소식을 알린다",
+      "가마를 타고 성묘를 간다",
+      "명절에 아무것도 하지 않는다"
+    ],
+    "answer": 0,
+    "explanation": "통신이 발달해 멀리서도 영상 통화로 새해 인사를 나눠요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "연날리기는 주로 무더운 한여름에 즐기던 놀이예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "연날리기는 주로 설날부터 정월 대보름 무렵의 겨울에 즐겼어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "입춘에 대문에 '입춘대길' 같은 글을 써 붙인 까닭은 무엇일까요?",
+    "choices": [
+      "더위를 쫓으려고",
+      "새해 나이를 세려고",
+      "봄을 맞아 좋은 일이 생기길 빌려고",
+      "조상의 묘를 돌보려고"
+    ],
+    "answer": 2,
+    "explanation": "입춘은 봄이 시작되는 날로, 한 해의 복을 빌며 글을 붙였어요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정월 대보름 밤에 논둑의 마른 풀에 불을 놓으며 놀던 놀이는?",
+    "choices": [
+      "그네뛰기",
+      "씨름",
+      "강강술래",
+      "쥐불놀이"
+    ],
+    "answer": 3,
+    "explanation": "쥐불놀이는 해충을 없애고 풍년을 빌던 놀이예요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "저출산·고령화가 계속될 때 나타날 수 있는 모습은?",
+    "choices": [
+      "일할 사람이 줄어듦",
+      "어린이가 크게 늘어남",
+      "노인 인구가 줄어듦",
+      "학교가 모자람"
+    ],
+    "answer": 0,
+    "explanation": "일할 수 있는 사람이 줄어들 수 있어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "정보화 사회의 모습으로 알맞은 것은?",
+    "choices": [
+      "봉수로 소식 전하기",
+      "인터넷으로 물건 사기",
+      "가마 타고 이동하기",
+      "호롱불 켜기"
+    ],
+    "answer": 1,
+    "explanation": "정보화 사회에서는 인터넷을 많이 이용해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다른 나라 문화를 대하는 바른 태도는 무엇일까요?",
+    "choices": [
+      "놀리기",
+      "무시하기",
+      "편견 없이 존중하기",
+      "차별하기"
+    ],
+    "answer": 2,
+    "explanation": "다른 문화도 편견 없이 존중해야 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어떤 집단을 잘 알지 못한 채 한쪽으로 치우쳐 판단하는 생각은?",
+    "choices": [
+      "존중",
+      "배려",
+      "공감",
+      "편견"
+    ],
+    "answer": 3,
+    "explanation": "편견은 차별로 이어질 수 있어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "저출산 문제를 해결하려는 노력으로 알맞은 것은?",
+    "choices": [
+      "육아 지원 늘리기",
+      "어린이집 줄이기",
+      "출산 휴가 없애기",
+      "학교 없애기"
+    ],
+    "answer": 0,
+    "explanation": "아이를 키우기 좋은 환경을 만들어야 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고령화에 대비하는 노력으로 알맞은 것은?",
+    "choices": [
+      "노인 일자리 줄이기",
+      "노인 복지 시설 늘리기",
+      "병원 줄이기",
+      "경로당 없애기"
+    ],
+    "answer": 1,
+    "explanation": "노인이 편하게 생활하도록 도와야 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고령화란 무엇일까요?",
+    "choices": [
+      "아기가 많이 태어나는 것",
+      "도시가 커지는 것",
+      "전체 인구 중 노인 비율이 높아지는 것",
+      "인터넷이 발달하는 것"
+    ],
+    "answer": 2,
+    "explanation": "노인 인구의 비율이 높아지는 현상이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "저출산이란 무엇일까요?",
+    "choices": [
+      "노인이 늘어나는 것",
+      "외국인이 늘어나는 것",
+      "학교가 늘어나는 것",
+      "태어나는 아기 수가 줄어드는 것"
+    ],
+    "answer": 3,
+    "explanation": "아이를 적게 낳는 현상이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정보화로 생긴 문제로 알맞은 것은?",
+    "choices": [
+      "개인 정보 유출",
+      "가마 이용 증가",
+      "봉수 사용",
+      "편지 증가"
+    ],
+    "answer": 0,
+    "explanation": "인터넷 사용이 늘며 개인 정보가 새어 나가기도 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "비밀번호를 친구와 공유하면 생길 수 있는 문제는?",
+    "choices": [
+      "컴퓨터가 빨라져요",
+      "개인 정보가 도용될 수 있어요",
+      "인터넷 요금이 줄어요",
+      "아무 문제도 없어요"
+    ],
+    "answer": 1,
+    "explanation": "비밀번호는 나만 알고 있어야 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세계화로 볼 수 있는 모습은?",
+    "choices": [
+      "다른 나라와 교류가 끊겨요",
+      "외국어를 배울 수 없어요",
+      "외국 음식을 쉽게 먹어요",
+      "수입품이 사라져요"
+    ],
+    "answer": 2,
+    "explanation": "여러 나라가 가깝게 교류하는 모습이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "문화 다양성을 존중하는 행동은?",
+    "choices": [
+      "다른 음식을 놀려요",
+      "우리 문화만 옳다고 해요",
+      "다른 말을 흉내 내며 웃어요",
+      "친구 나라의 명절을 함께 알아봐요"
+    ],
+    "answer": 3,
+    "explanation": "다른 문화를 알고 존중하는 태도예요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "편견이 담긴 말은 무엇일까요?",
+    "choices": [
+      "여자는 축구를 못 해.",
+      "나는 축구를 좋아해.",
+      "오늘 축구를 하자.",
+      "축구공은 둥글어."
+    ],
+    "answer": 0,
+    "explanation": "성별로 능력을 단정 짓는 것은 편견이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "차별의 예로 알맞은 것은?",
+    "choices": [
+      "차례대로 줄 서기",
+      "피부색이 다르다고 놀이에서 빼기",
+      "모두에게 기회 주기",
+      "친구 도와주기"
+    ],
+    "answer": 1,
+    "explanation": "다르다는 까닭으로 불리하게 대하는 것이 차별이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "다른 문화를 가진 사람도 우리 사회의 구성원이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "함께 살아가는 이웃으로 존중해야 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'어린이 수는 줄고 노인 수는 늘어요.' 앞으로 더 필요해질 시설은?",
+    "choices": [
+      "새 초등학교",
+      "어린이 놀이터",
+      "노인 복지관",
+      "산부인과"
+    ],
+    "answer": 2,
+    "explanation": "노인 인구가 늘면 노인을 위한 시설이 더 필요해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "교통의 발달로 달라진 생활 모습은?",
+    "choices": [
+      "걸어서만 다녀요",
+      "소식이 느려졌어요",
+      "이웃 마을에 못 가요",
+      "먼 곳도 빠르게 이동해요"
+    ],
+    "answer": 3,
+    "explanation": "기차, 비행기로 먼 곳도 빨리 가요.",
+    "semester": 2,
+    "unit": "옛날과 오늘날의 생활 모습"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인공지능 스피커와 무인 계산대가 늘어난 것과 관계 깊은 변화는?",
+    "choices": [
+      "정보화",
+      "고령화",
+      "저출산",
+      "도시 쇠퇴"
+    ],
+    "answer": 0,
+    "explanation": "정보 통신 기술의 발달로 생긴 변화예요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "문화는 옳고 그름으로 나눌 수 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "문화는 각자의 환경에 맞게 생긴 생활 방식이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "문화 차이로 생긴 오해를 줄이는 방법은?",
+    "choices": [
+      "무조건 우리 방식을 따르게 해요",
+      "그 문화의 뜻과 배경을 알아봐요",
+      "대화를 피해요",
+      "다른 문화를 금지해요"
+    ],
+    "answer": 1,
+    "explanation": "문화의 뜻을 알면 오해가 줄어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세계화가 진행되며 나타나는 모습이 아닌 것은?",
+    "choices": [
+      "외국 여행객이 늘어요",
+      "수입 과일을 쉽게 사요",
+      "다른 나라와 교류가 줄어요",
+      "외국 친구와 영상 통화해요"
+    ],
+    "answer": 2,
+    "explanation": "세계화로 나라 사이 교류는 늘어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "노인 인구가 늘어나면 일할 수 있는 사람의 비율은 높아져요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "노인 비율이 늘면 일하는 나이 인구 비율은 줄어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "편견을 줄이기 위한 방법으로 알맞은 것은?",
+    "choices": [
+      "소문만 듣고 판단하기",
+      "한 사람을 보고 모두 판단하기",
+      "다른 사람을 피하기",
+      "상대를 직접 알아가며 대화하기"
+    ],
+    "answer": 3,
+    "explanation": "직접 알아가면 잘못된 생각을 고칠 수 있어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "저출생이 계속될 때 생길 수 있는 문제는?",
+    "choices": [
+      "초등학생이 늘어난다",
+      "일할 사람이 줄어든다",
+      "노인이 줄어든다",
+      "학교가 부족해진다"
+    ],
+    "answer": 1,
+    "explanation": "태어나는 아이가 줄면 일할 사람도 줄어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정보화로 생긴 문제와 해결 방법이 알맞게 짝지어진 것은?",
+    "choices": [
+      "인터넷 중독-사용 시간 늘리기",
+      "악성 댓글-더 많이 달기",
+      "개인 정보 유출-비밀번호 관리",
+      "가짜 뉴스-바로 퍼뜨리기"
+    ],
+    "answer": 2,
+    "explanation": "비밀번호를 잘 관리해 정보를 지켜요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "외국에서 온 친구가 자기 나라 인사법을 소개할 때 알맞은 태도는?",
+    "choices": [
+      "이상하다고 웃어요",
+      "관심을 가지고 들어요",
+      "못 들은 척해요",
+      "따라 하며 놀려요"
+    ],
+    "answer": 1,
+    "explanation": "다른 문화를 관심 있게 알아보는 것이 존중하는 태도예요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "정보화 사회에서는 인터넷으로 먼 곳의 사람과도 쉽게 소식을 주고받아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "인터넷과 스마트폰으로 멀리 있어도 빠르게 소식을 나눠요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사람과 물건, 문화가 나라 사이를 활발히 오가는 현상은?",
+    "choices": [
+      "고령화",
+      "저출산",
+      "세계화",
+      "도시화"
+    ],
+    "answer": 2,
+    "explanation": "나라 사이의 교류가 활발해지는 것을 세계화라고 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "온라인 대화방에서 지켜야 할 예절로 알맞은 것은?",
+    "choices": [
+      "친구 사진을 허락 없이 올려요",
+      "모르는 사람에게 주소를 알려 줘요",
+      "화가 나면 욕을 써요",
+      "바르고 고운 말을 써요"
+    ],
+    "answer": 3,
+    "explanation": "얼굴이 안 보여도 상대를 배려하며 고운 말을 써요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "스마트폰 앱으로 버스 도착 시간을 확인하는 것과 관계 깊은 변화는?",
+    "choices": [
+      "정보화",
+      "고령화",
+      "저출산",
+      "세계화"
+    ],
+    "answer": 0,
+    "explanation": "정보 기술의 발달로 생활이 편리해진 모습이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 전체 초등학생 수가 10년마다 크게 줄고 있어요. 가장 관계 깊은 변화는?",
+    "choices": [
+      "정보화",
+      "저출산",
+      "세계화",
+      "도시화"
+    ],
+    "answer": 1,
+    "explanation": "태어나는 아기가 줄면 학생 수도 줄어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "누리 소통망에서 깜짝 놀랄 소식을 봤을 때 알맞은 행동은?",
+    "choices": [
+      "바로 친구들에게 퍼뜨려요",
+      "제목만 보고 믿어요",
+      "믿을 만한 곳에서 사실인지 확인해요",
+      "댓글로 화를 내요"
+    ],
+    "answer": 2,
+    "explanation": "가짜 뉴스일 수 있으니 먼저 사실인지 확인해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "노인 일자리를 늘리는 것은 어떤 변화에 대비하는 노력일까요?",
+    "choices": [
+      "정보화",
+      "세계화",
+      "저출산",
+      "고령화"
+    ],
+    "answer": 3,
+    "explanation": "노인 인구 비율이 높아지는 고령화에 대비하는 노력이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "세계화 시대에도 각 나라는 고유한 전통문화를 지키고 알리려고 노력해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "교류가 늘어도 자기 문화의 소중함을 지키려고 노력해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다른 나라에서 온 가족이 우리 이웃이 되는 경우가 늘어나는 것과 관계 깊은 변화는?",
+    "choices": [
+      "세계화",
+      "고령화",
+      "저출산",
+      "정보화"
+    ],
+    "answer": 0,
+    "explanation": "나라 사이에 사람이 활발히 오가는 세계화로 다양한 이웃이 늘어요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 나라에서는 손으로 음식을 먹어요. 이에 대한 생각으로 알맞은 것은?",
+    "choices": [
+      "예의 없는 행동이에요",
+      "그 나라의 환경과 생활에 맞게 생긴 문화예요",
+      "우리 방식으로 바꿔야 해요",
+      "틀린 문화라서 따라 하면 안 돼요"
+    ],
+    "answer": 1,
+    "explanation": "문화는 환경과 생활에 따라 달라지므로 다름을 존중해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 편견이 아닌 사실을 말한 것은?",
+    "choices": [
+      "남자는 울면 안 돼요",
+      "할머니들은 스마트폰을 못 써요",
+      "우리 반에서 수학을 좋아하는 친구는 12명이에요",
+      "키가 작으면 농구를 못 해요"
+    ],
+    "answer": 2,
+    "explanation": "조사한 수를 말한 것은 사실이고, 나머지는 일부만 보고 판단한 편견이에요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "편견이 행동으로 나타나 누군가를 부당하게 대하는 것을 무엇이라고 할까요?",
+    "choices": [
+      "존중",
+      "배려",
+      "협력",
+      "차별"
+    ],
+    "answer": 3,
+    "explanation": "편견 때문에 불공정하게 대하는 행동을 차별이라고 해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "종교 때문에 급식의 어떤 음식을 먹지 못하는 친구를 배려하는 방법은?",
+    "choices": [
+      "먹을 수 있는 다른 음식을 마련해요",
+      "억지로 먹게 해요",
+      "급식을 먹지 못하게 해요",
+      "이유를 묻지 않고 굶게 해요"
+    ],
+    "answer": 0,
+    "explanation": "문화와 종교의 차이를 존중해 함께 생활할 방법을 찾아요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "스마트폰에 익숙하지 않은 어르신이 무인 주문기를 쓰기 어려운 문제를 줄이는 방법은?",
+    "choices": [
+      "무인 주문기를 더 어렵게 만들어요",
+      "사용법을 알려 주고 쉬운 화면을 만들어요",
+      "어르신은 가게에 오지 않게 해요",
+      "모든 주문을 인터넷으로만 받아요"
+    ],
+    "answer": 1,
+    "explanation": "정보화에서 소외되는 사람이 없도록 교육과 쉬운 기술이 필요해요.",
+    "semester": 2,
+    "unit": "사회 변화와 다양한 문화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "어떤 장소에 대해 사람이 갖는 느낌이나 생각을 무엇이라고 할까요?",
+    "choices": [
+      "장소감",
+      "생활감",
+      "거리감",
+      "방향감"
+    ],
+    "answer": 0,
+    "explanation": "장소에서 겪은 경험으로 생긴 느낌을 장소감이라고 해요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "같은 장소라도 사람마다 느끼는 감정은 다를 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "사람마다 그 장소에서 겪은 경험이 달라서 느낌도 달라요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "장소에 대한 경험과 느낌을 표현하는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "그림 그리기",
+      "글쓰기",
+      "사진 찍기",
+      "장소 이름만 외우기"
+    ],
+    "answer": 3,
+    "explanation": "이름만 외우면 그 장소에서 느낀 점이 드러나지 않아요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구가 \"놀이터는 무서운 곳이야.\"라고 말했어요. 알맞은 태도는?",
+    "choices": [
+      "친구 생각이 틀렸다고 말한다",
+      "왜 그렇게 느꼈는지 들어 본다",
+      "못 들은 척한다",
+      "내 생각을 따르라고 한다"
+    ],
+    "answer": 1,
+    "explanation": "장소감이 다를 때는 까닭을 듣고 존중해요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "집, 학교, 공원처럼 우리가 생활하며 머무르는 곳을 무엇이라고 할까요?",
+    "choices": [
+      "날씨",
+      "장소",
+      "계절",
+      "시간"
+    ],
+    "answer": 1,
+    "explanation": "우리가 생활하며 경험하는 곳을 장소라고 해요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'학교 앞 문구점은 친구들과 수다 떨던 즐거운 곳이야.'에서 느낌을 나타낸 낱말은?",
+    "choices": [
+      "학교",
+      "문구점",
+      "친구들",
+      "즐거운"
+    ],
+    "answer": 3,
+    "explanation": "'즐거운'이 그 장소에 대한 느낌을 나타내요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "좋아하는 장소를 소개하는 글에 들어갈 내용으로 알맞지 않은 것은?",
+    "choices": [
+      "그 장소에서 한 일",
+      "그 장소에서 느낀 점",
+      "그 장소를 좋아하는 까닭",
+      "친구 집 전화번호"
+    ],
+    "answer": 3,
+    "explanation": "장소 소개 글에는 경험과 느낌, 좋아하는 까닭을 써요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "장소감은 그 장소에서 겪은 경험에 따라 달라질 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "즐거운 일을 겪은 곳은 좋은 곳으로 느껴지기 쉬워요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "강아지에게 물릴 뻔한 뒤로 공원이 싫어졌어요. 이 일로 알 수 있는 것은?",
+    "choices": [
+      "경험에 따라 장소감이 바뀔 수 있다",
+      "장소감은 한번 정하면 안 바뀐다",
+      "공원은 모두 위험한 곳이다",
+      "장소감은 누구나 같다"
+    ],
+    "answer": 0,
+    "explanation": "새로운 경험을 하면 장소에 대한 느낌이 바뀔 수 있어요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "장소감을 나누는 활동을 할 때 가장 바람직한 모습은?",
+    "choices": [
+      "내 느낌만 길게 말한다",
+      "다른 느낌을 들으면 비웃는다",
+      "서로 다른 느낌을 존중하며 듣는다",
+      "모두 같은 느낌을 말하게 한다"
+    ],
+    "answer": 2,
+    "explanation": "장소감은 사람마다 달라서 서로 존중하며 나눠요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리가 사는 곳을 더 살기 좋게 만들려면 먼저 무엇을 해야 할까요?",
+    "choices": [
+      "불편하거나 고칠 점을 찾는다",
+      "무조건 새 건물을 짓는다",
+      "다른 고장으로 이사한다",
+      "아무것도 하지 않는다"
+    ],
+    "answer": 0,
+    "explanation": "먼저 불편한 점을 찾아야 알맞은 방안을 생각할 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "밤에 어두워 다니기 무서운 골목을 더 좋게 바꾸는 방안은?",
+    "choices": [
+      "벽에 낙서를 한다",
+      "쓰레기통을 없앤다",
+      "가로등을 설치한다",
+      "골목을 막아 버린다"
+    ],
+    "answer": 2,
+    "explanation": "가로등을 달면 밤에도 밝고 안전하게 다닐 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "휠체어를 탄 사람이 건물에 쉽게 들어가도록 계단 옆에 만드는 것은?",
+    "choices": [
+      "담장",
+      "울타리",
+      "화단",
+      "경사로"
+    ],
+    "answer": 3,
+    "explanation": "경사로가 있으면 휠체어나 유모차도 편하게 다녀요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "우리가 사는 곳을 살기 좋게 만드는 일은 어른들만 할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "어린이도 불편한 점을 찾고 의견을 내며 함께할 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "놀이터 그네가 고장 났어요. 어린이가 할 수 있는 알맞은 행동은?",
+    "choices": [
+      "직접 그네를 고친다",
+      "고장 난 그네를 계속 탄다",
+      "어른이나 관리하는 곳에 알린다",
+      "못 본 척 지나간다"
+    ],
+    "answer": 2,
+    "explanation": "위험하니 타지 말고 고칠 수 있는 곳에 알려요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "동네를 더 살기 좋게 만드는 방안을 제안하는 순서로 알맞은 것은?",
+    "choices": [
+      "제안하기→문제 찾기→까닭 알기→방안 정하기",
+      "문제 찾기→까닭 알기→방안 정하기→제안하기",
+      "방안 정하기→제안하기→문제 찾기→까닭 알기",
+      "까닭 알기→제안하기→방안 정하기→문제 찾기"
+    ],
+    "answer": 1,
+    "explanation": "문제와 까닭을 알아야 알맞은 방안을 정해 제안할 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "여러 사람이 함께 쓰는 공원을 가꾸는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "쓰레기를 되가져간다",
+      "꽃과 나무를 아낀다",
+      "시설을 소중히 쓴다",
+      "의자에 이름을 새긴다"
+    ],
+    "answer": 3,
+    "explanation": "시설에 이름을 새기면 망가지고 다른 사람이 불편해요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "학교 앞 횡단보도에서 차가 빨리 달려 위험해요. 알맞은 해결 방안은?",
+    "choices": [
+      "학생들이 뛰어서 건넌다",
+      "과속 방지 턱 설치를 제안한다",
+      "횡단보도를 지운다",
+      "길을 건너지 않는다"
+    ],
+    "answer": 1,
+    "explanation": "과속 방지 턱이 있으면 차가 속도를 줄여 더 안전해요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "일부 사람만 불편을 느끼는 장소는 고치지 않아도 괜찮아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "어린이, 노인, 장애인 등 누구나 편하게 이용하도록 고쳐야 해요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 동네에서 책을 빌려 읽을 수 있는 장소는?",
+    "choices": [
+      "도서관",
+      "소방서",
+      "주차장",
+      "정류장"
+    ],
+    "answer": 0,
+    "explanation": "도서관에서는 책을 빌리거나 읽을 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "몸이 아플 때 진료를 받으러 가는 장소는?",
+    "choices": [
+      "우체국",
+      "병원",
+      "도서관",
+      "공원"
+    ],
+    "answer": 1,
+    "explanation": "병원에서 아픈 곳을 진료받을 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "장소와 그곳에서 하는 일을 바르게 짝지은 것은?",
+    "choices": [
+      "우체국-책 빌리기",
+      "도서관-편지 부치기",
+      "소방서-불 끄기",
+      "병원-물건 사기"
+    ],
+    "answer": 2,
+    "explanation": "소방서는 불을 끄고 사람을 구하는 일을 해요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "장소를 떠올리며 들린 소리, 맡은 냄새도 함께 적으면 좋은 점은?",
+    "choices": [
+      "장소의 넓이를 알 수 있다",
+      "장소의 느낌을 생생하게 전한다",
+      "장소의 주소를 알 수 있다",
+      "장소가 생긴 해를 알 수 있다"
+    ],
+    "answer": 1,
+    "explanation": "여러 감각을 함께 쓰면 그 장소의 느낌이 잘 전해져요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "장소에 대한 느낌은 노래나 몸짓으로도 표현할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "그림, 글, 사진, 노래, 몸짓 등 여러 방법으로 표현해요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어떤 장소에서의 (   )과 느낌이 쌓여 장소감이 생겨요. 빈칸에 알맞은 말은?",
+    "choices": [
+      "경험",
+      "가격",
+      "크기",
+      "주소"
+    ],
+    "answer": 0,
+    "explanation": "그곳에서 겪은 경험이 장소감을 만들어요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "새로 이사 온 친구가 동네를 '낯선 곳'이라고 했어요. 친구의 장소감을 바꾸는 데 가장 도움이 되는 일은?",
+    "choices": [
+      "함께 동네를 다니며 추억을 만든다",
+      "동네 이름만 알려 준다",
+      "동네가 싫으면 떠나라고 한다",
+      "집 안에만 있게 한다"
+    ],
+    "answer": 0,
+    "explanation": "좋은 경험이 쌓이면 낯선 곳도 친근한 곳이 돼요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "동네 그림에 '가장 좋아하는 곳' 스티커를 붙였어요. 이 활동으로 알 수 있는 것은?",
+    "choices": [
+      "장소 사이의 정확한 거리",
+      "장소를 만든 사람",
+      "친구들의 장소감",
+      "건물의 높이"
+    ],
+    "answer": 2,
+    "explanation": "어느 곳을 좋아하는지로 친구들의 장소감을 알 수 있어요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 고장 사람들이 함께 쓰는 장소가 아닌 것은?",
+    "choices": [
+      "공원",
+      "도서관",
+      "우리 집 거실",
+      "버스 정류장"
+    ],
+    "answer": 2,
+    "explanation": "우리 집 거실은 가족이 쓰는 곳이에요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "누구나 이용하기 편한 장소를 만들려는 노력으로 알맞지 않은 것은?",
+    "choices": [
+      "점자 블록 설치",
+      "엘리베이터 설치",
+      "낮은 손잡이 설치",
+      "출입구 계단 높이기"
+    ],
+    "answer": 3,
+    "explanation": "계단을 높이면 다니기가 더 불편해져요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공원에 쓰레기가 많아 조사해 보니 쓰레기통이 멀리 하나뿐이었어요. 가장 알맞은 제안은?",
+    "choices": [
+      "쓰레기통을 알맞은 곳에 더 둔다",
+      "공원 문을 닫는다",
+      "산책을 금지한다",
+      "나무를 모두 벤다"
+    ],
+    "answer": 0,
+    "explanation": "문제의 까닭에 맞는 방안을 제안해야 해요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "살기 좋은 곳을 만들려면 그곳을 이용하는 여러 사람의 의견을 들어 보는 것이 좋아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "여러 사람의 의견을 들으면 모두에게 알맞은 방안을 찾을 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "동네의 좋은 점과 고칠 점을 조사했어요. '고칠 점'에 해당하는 것은?",
+    "choices": [
+      "공원에 나무 그늘이 많다",
+      "도서관이 가깝다",
+      "인도에 주차한 차가 많다",
+      "시장이 깨끗하다"
+    ],
+    "answer": 2,
+    "explanation": "인도에 차가 있으면 사람이 다니기 불편하고 위험해요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "놀이터에 대한 느낌을 시로 표현한 것으로 가장 알맞은 것은?",
+    "choices": [
+      "놀이터는 ○○동에 있다",
+      "놀이터에 그네가 두 개 있다",
+      "미끄럼틀은 바람 가르는 비행기",
+      "놀이터는 저녁 6시에 닫는다"
+    ],
+    "answer": 2,
+    "explanation": "미끄럼틀을 탈 때의 신나는 느낌이 시에 드러나요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구들과 장소감을 나누는 까닭으로 알맞은 것은?",
+    "choices": [
+      "서로의 생각과 느낌을 이해하려고",
+      "장소의 값을 매기려고",
+      "누가 이기는지 겨루려고",
+      "장소 이름을 바꾸려고"
+    ],
+    "answer": 0,
+    "explanation": "장소감을 나누면 서로를 더 잘 이해할 수 있어요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "어떤 장소가 나에게 즐거운 곳이면 다른 사람에게도 반드시 즐거운 곳이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "같은 장소라도 사람마다 느낌이 다를 수 있어요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "재활용품이 뒤섞여 버려져요. 어린이가 실천할 수 있는 방안은?",
+    "choices": [
+      "재활용 공장을 새로 짓는다",
+      "쓰레기 수거 차를 새로 산다",
+      "도로를 넓힌다",
+      "분리배출 안내문을 만들어 붙인다"
+    ],
+    "answer": 3,
+    "explanation": "안내문을 만들어 알리는 일은 어린이도 할 수 있어요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공원을 '더 살기 좋은 곳'으로 바꾼 사례로 보기 어려운 것은?",
+    "choices": [
+      "어두운 산책로에 조명을 달았다",
+      "낡은 의자를 고쳤다",
+      "어린이 놀이 시설을 모두 없앴다",
+      "나무 그늘 쉼터를 만들었다"
+    ],
+    "answer": 2,
+    "explanation": "놀이 시설을 없애면 어린이가 이용하기 불편해져요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "장소에 대한 경험을 사진으로 나누면 좋은 점은?",
+    "choices": [
+      "장소의 냄새를 전할 수 있다",
+      "장소의 모습을 그대로 보여 준다",
+      "장소의 소리를 들려준다",
+      "장소의 온도를 느끼게 한다"
+    ],
+    "answer": 1,
+    "explanation": "사진은 장소의 모습을 눈으로 보여 줄 수 있어요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리가 사는 곳을 바꾸는 방안을 정할 때 가장 먼저 생각할 점은?",
+    "choices": [
+      "돈이 가장 많이 드는 방법",
+      "그곳을 이용하는 사람들의 불편",
+      "내가 좋아하는 색깔",
+      "한 사람의 의견만"
+    ],
+    "answer": 1,
+    "explanation": "이용하는 사람들이 무엇을 불편해하는지 먼저 살펴요.",
+    "standard": "[4사01-02]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'운동장은 친구들과 뛰어놀아 신나는 곳이야.'라는 말에서 장소를 나타낸 낱말은?",
+    "choices": [
+      "친구들",
+      "신나는",
+      "뛰어놀아",
+      "운동장"
+    ],
+    "answer": 3,
+    "explanation": "운동장이 장소이고, '신나는'은 그곳에 대한 느낌이에요.",
+    "standard": "[4사01-01]",
+    "semester": 1,
+    "unit": "우리가 사는 곳"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지금보다 앞선 때, 이미 지나간 때를 뜻하는 말은?",
+    "choices": [
+      "과거",
+      "현재",
+      "미래",
+      "내일"
+    ],
+    "answer": 0,
+    "explanation": "이미 지나간 때를 과거라고 해요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "앞으로 다가올 때를 뜻하는 말은?",
+    "choices": [
+      "과거",
+      "어제",
+      "미래",
+      "작년"
+    ],
+    "answer": 2,
+    "explanation": "앞으로 올 때를 미래라고 해요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "바로 지금 이때를 뜻하는 말은?",
+    "choices": [
+      "과거",
+      "현재",
+      "미래",
+      "옛날"
+    ],
+    "answer": 1,
+    "explanation": "지금 이때를 현재라고 해요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'작년'은 올해보다 한 해 앞선 해예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "작년은 지난해, 내년은 다음 해예요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "시간의 흐름에 맞게 순서대로 늘어놓은 것은?",
+    "choices": [
+      "내일→오늘→어제",
+      "오늘→어제→내일",
+      "어제→내일→오늘",
+      "어제→오늘→내일"
+    ],
+    "answer": 3,
+    "explanation": "시간은 어제, 오늘, 내일 순서로 흘러요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "올해가 2026년이라면 10년 전은 몇 년일까요?",
+    "choices": [
+      "2016년",
+      "2006년",
+      "2036년",
+      "2025년"
+    ],
+    "answer": 0,
+    "explanation": "2026에서 10을 빼면 2016이에요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "2020년에 태어난 아이는 2030년 생일이 지나면 만 몇 살일까요?",
+    "choices": [
+      "8살",
+      "9살",
+      "10살",
+      "20살"
+    ],
+    "answer": 2,
+    "explanation": "2030-2020=10이라서 생일이 지나면 만 10살이에요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지나간 일을 일어난 순서대로 정리해 나타낸 표는?",
+    "choices": [
+      "시간표",
+      "식단표",
+      "연표",
+      "가격표"
+    ],
+    "answer": 2,
+    "explanation": "연표는 일어난 일을 시간 순서대로 정리한 표예요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "연표를 보면 일이 일어난 순서를 한눈에 알 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "연표는 일을 시간 순서대로 적어서 흐름을 알기 쉬워요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "나의 연표를 만들 때 가장 먼저 적을 일은?",
+    "choices": [
+      "초등학교 입학",
+      "태어남",
+      "유치원 입학",
+      "3학년 진급"
+    ],
+    "answer": 1,
+    "explanation": "내가 태어난 일이 가장 먼저 일어난 일이에요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "연표: 동생 태어남(2020), 초등학교 입학(2023), 나 태어남(2017), 유치원 입학(2021). 두 번째로 일어난 일은?",
+    "choices": [
+      "나 태어남",
+      "동생 태어남",
+      "유치원 입학",
+      "초등학교 입학"
+    ],
+    "answer": 1,
+    "explanation": "해를 차례대로 놓으면 2017, 2020 순이라 동생이 태어난 일이에요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민수는 2022년에 수영을 시작했고 2024년에 동생이 태어났어요. 수영을 시작하고 몇 년 뒤에 동생이 태어났나요?",
+    "choices": [
+      "1년",
+      "2년",
+      "3년",
+      "5년"
+    ],
+    "answer": 1,
+    "explanation": "2024-2022=2라서 2년 뒤예요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "과거의 모습을 알 수 있는 자료로 알맞지 않은 것은?",
+    "choices": [
+      "오래된 사진",
+      "할머니의 옛 일기",
+      "옛날 신문",
+      "내일 날씨 예보"
+    ],
+    "answer": 3,
+    "explanation": "내일 날씨 예보는 앞으로의 일을 알려 줘요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "부모님이 어렸을 때의 모습을 알아보기에 가장 알맞은 자료는?",
+    "choices": [
+      "부모님 어린 시절 사진",
+      "오늘 산 새 공책",
+      "내일 일정표",
+      "새로 나온 게임기"
+    ],
+    "answer": 0,
+    "explanation": "어린 시절 사진에 그때 모습이 담겨 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "오래된 물건을 살펴보면 그 물건을 쓰던 때의 생활 모습을 짐작할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "오래된 물건에는 그때 사람들의 생활이 담겨 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "할아버지 초등학교 앨범 속 교실 사진 가운데에 난로가 있었어요. 알 수 있는 것은?",
+    "choices": [
+      "그때 교실은 냉방이 잘 됐다",
+      "그때 교실은 난로로 난방을 했다",
+      "그때는 겨울이 없었다",
+      "그때는 학교가 없었다"
+    ],
+    "answer": 1,
+    "explanation": "사진 속 물건으로 그때 교실 생활을 짐작할 수 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "내가 아기였을 때의 모습을 알아보는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "아기 때 사진 보기",
+      "가족에게 여쭤보기",
+      "아기 수첩 살펴보기",
+      "친구의 새 옷 보기"
+    ],
+    "answer": 3,
+    "explanation": "친구의 새 옷으로는 내 아기 때 모습을 알 수 없어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "과거에 쓰던 물건이나 기록처럼 과거의 모습을 알려 주는 것을 (   )(이)라고 해요. 빈칸에 알맞은 말은?",
+    "choices": [
+      "미래 계획",
+      "광고지",
+      "역사 자료",
+      "사용 설명서"
+    ],
+    "answer": 2,
+    "explanation": "과거를 알려 주는 물건과 기록을 역사 자료라고 해요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "오래된 물건은 낡았으니 과거를 알아보는 데 쓸모가 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "낡은 물건도 과거 생활을 알려 주는 소중한 자료예요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 가족이 오래 간직해 온 물건으로 알 수 있는 것은?",
+    "choices": [
+      "가족의 추억과 지난 생활",
+      "내일 날씨",
+      "친구의 생일",
+      "다음 달 급식 메뉴"
+    ],
+    "answer": 0,
+    "explanation": "오래 간직한 물건에는 가족의 지난 이야기가 담겨 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'옛날'과 뜻이 가장 비슷한 말은?",
+    "choices": [
+      "과거",
+      "미래",
+      "내일",
+      "나중"
+    ],
+    "answer": 0,
+    "explanation": "옛날은 이미 지나간 때라서 과거와 뜻이 비슷해요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "시간을 나타내는 말을 바르게 쓴 문장은?",
+    "choices": [
+      "어제 나는 공원에 갈 거야.",
+      "내일 나는 공원에 갔어.",
+      "어제 나는 공원에 갔어.",
+      "작년에 나는 공원에 갈 거야."
+    ],
+    "answer": 2,
+    "explanation": "'어제'는 지나간 때라서 '갔어'와 어울려요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "오늘이 2026년 5월 5일이면 '3년 전 오늘'은 언제일까요?",
+    "choices": [
+      "2029년 5월 5일",
+      "2026년 2월 5일",
+      "2023년 2월 5일",
+      "2023년 5월 5일"
+    ],
+    "answer": 3,
+    "explanation": "해에서 3을 빼면 2023년이고 날짜는 그대로예요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "과거를 나타내는 말이 아닌 것은?",
+    "choices": [
+      "그저께",
+      "지난달",
+      "작년",
+      "다음 주"
+    ],
+    "answer": 3,
+    "explanation": "'다음 주'는 앞으로 올 때를 나타내요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "일상에서 시간의 흐름을 느낄 수 있는 경우로 알맞지 않은 것은?",
+    "choices": [
+      "키가 자라 옷이 작아졌다",
+      "어린 나무가 큰 나무가 됐다",
+      "새 연필이 닳아 짧아졌다",
+      "교실 칠판 위치가 늘 같다"
+    ],
+    "answer": 3,
+    "explanation": "변하지 않는 모습으로는 시간의 흐름을 느끼기 어려워요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리 학교 첫 졸업생의 사진을 찾았어요. 이 사진으로 알아볼 수 있는 것은?",
+    "choices": [
+      "학교의 옛 모습",
+      "내일 시간표",
+      "내년 입학생 수",
+      "새로 지을 건물"
+    ],
+    "answer": 0,
+    "explanation": "오래된 사진으로 학교의 옛 모습을 알 수 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오래된 사진을 보고 과거를 알아볼 때 먼저 확인할 점으로 가장 알맞은 것은?",
+    "choices": [
+      "액자의 가격",
+      "사진의 크기",
+      "사진을 찍은 때와 장소",
+      "사진을 준 사람의 키"
+    ],
+    "answer": 2,
+    "explanation": "언제, 어디서 찍었는지 알아야 사진 속 과거를 이해해요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "옛날과 오늘날 사진을 비교해 변화를 알아볼 때 알맞은 방법은?",
+    "choices": [
+      "아무 사진이나 비교한다",
+      "같은 장소를 찍은 사진끼리 비교한다",
+      "색깔만 비교한다",
+      "사진 크기만 비교한다"
+    ],
+    "answer": 1,
+    "explanation": "같은 장소를 비교해야 무엇이 달라졌는지 알 수 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어르신께 옛날 이야기를 여쭈어 과거를 알아볼 때 알맞은 태도는?",
+    "choices": [
+      "어르신 말을 자주 끊는다",
+      "휴대 전화만 본다",
+      "대답을 빨리 하라고 재촉한다",
+      "궁금한 점을 미리 정리해 간다"
+    ],
+    "answer": 3,
+    "explanation": "질문을 미리 정리하고 예의 바르게 들어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "과거의 모습은 오래된 신문이나 영상 기록으로도 알아볼 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "신문, 영상, 일기 등 여러 기록이 과거를 알려 줘요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "100년 전 신문 광고로 알 수 있는 것과 가장 거리가 먼 것은?",
+    "choices": [
+      "그때 팔던 물건",
+      "그때 물건의 값",
+      "그때 쓰던 글자 모습",
+      "2050년에 유행할 옷"
+    ],
+    "answer": 3,
+    "explanation": "옛날 신문으로는 앞으로의 일을 알 수 없어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가족 사진첩을 시간 순서대로 정리할 때 기준으로 알맞은 것은?",
+    "choices": [
+      "사진을 찍은 때",
+      "사진의 크기",
+      "사진의 색깔",
+      "사진 속 사람 수"
+    ],
+    "answer": 0,
+    "explanation": "찍은 때를 기준으로 놓아야 시간 순서가 돼요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지윤이가 8살 때 쓴 일기를 11살에 읽었어요. 이 일기는 몇 년 전의 기록일까요?",
+    "choices": [
+      "3년 전",
+      "2년 전",
+      "8년 전",
+      "11년 전"
+    ],
+    "answer": 0,
+    "explanation": "11-8=3이라서 3년 전 기록이에요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "시간의 흐름을 알 수 있는 기록으로 가장 알맞은 것은?",
+    "choices": [
+      "방금 산 지우개",
+      "새로 뜯은 과자",
+      "해마다 키를 잰 기록",
+      "빈 상자"
+    ],
+    "answer": 2,
+    "explanation": "해마다 잰 키를 보면 자라 온 흐름을 알 수 있어요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "사람의 기억에만 의지하면 과거 일을 틀리게 떠올릴 수도 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "기억은 흐려질 수 있어 사진, 기록과 함께 살펴보면 좋아요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "과거를 더 정확하게 알아보는 방법으로 가장 알맞은 것은?",
+    "choices": [
+      "한 사람 말만 믿는다",
+      "여러 자료를 함께 비교해 본다",
+      "짐작만으로 정한다",
+      "최근 자료만 본다"
+    ],
+    "answer": 1,
+    "explanation": "여러 자료를 비교하면 더 정확하게 알 수 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "㉠ 학교 입학 ㉡ 태어남 ㉢ 3학년 진급 ㉣ 걸음마 시작. 일어난 순서대로 늘어놓은 것은?",
+    "choices": [
+      "㉣→㉡→㉠→㉢",
+      "㉠→㉡→㉣→㉢",
+      "㉡→㉣→㉠→㉢",
+      "㉡→㉠→㉣→㉢"
+    ],
+    "answer": 2,
+    "explanation": "태어난 뒤 걸음마를 하고, 학교에 들어가 3학년이 돼요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "태어나서 지금까지 자라 온 모습을 사진과 함께 정리한 것은?",
+    "choices": [
+      "요리책",
+      "성장 앨범",
+      "지도책",
+      "국어사전"
+    ],
+    "answer": 1,
+    "explanation": "성장 앨범으로 내가 자라 온 과정을 볼 수 있어요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "마을 입구 표지석에 '1970년 도로 개통'이라고 쓰여 있어요. 알 수 있는 것은?",
+    "choices": [
+      "도로가 1970개 있다",
+      "1970명이 살았다",
+      "이 도로는 1970년에 처음 열렸다",
+      "이 도로는 올해 생겼다"
+    ],
+    "answer": 2,
+    "explanation": "주변에 남은 표지석으로도 과거를 알 수 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "연표를 시간 순서대로 적을 때 맨 처음에 오는 일은?",
+    "choices": [
+      "가장 먼저 일어난 일",
+      "가장 중요한 일",
+      "가장 나중에 일어난 일",
+      "가장 재미있는 일"
+    ],
+    "answer": 0,
+    "explanation": "연표는 먼저 일어난 일부터 차례대로 적어요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "10년이 10번 모이면 몇 년일까요?",
+    "choices": [
+      "20년",
+      "50년",
+      "100년",
+      "1000년"
+    ],
+    "answer": 2,
+    "explanation": "10년씩 10번이면 100년이에요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "엄마는 1990년, 나는 2020년에 태어났어요. 엄마는 나보다 몇 년 먼저 태어났나요?",
+    "choices": [
+      "10년",
+      "20년",
+      "30년",
+      "40년"
+    ],
+    "answer": 2,
+    "explanation": "1990년에서 10년씩 세어 2000년, 2010년, 2020년이 되니 30년 먼저 태어났어요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "연표에는 일어난 일과 그 일이 일어난 때를 함께 적어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "언제 무슨 일이 있었는지 함께 적어야 흐름을 알 수 있어요.",
+    "standard": "[4사02-01]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "과거를 알아보는 자료와 그 자료로 알 수 있는 것을 바르게 짝지은 것은?",
+    "choices": [
+      "내일 일기 예보-옛날 날씨",
+      "새 교과서-옛날 수업 모습",
+      "올해 달력-옛날 명절",
+      "졸업 앨범-그때 학교 모습"
+    ],
+    "answer": 3,
+    "explanation": "졸업 앨범에는 그때 학교와 학생들의 모습이 담겨 있어요.",
+    "standard": "[4사02-02]",
+    "semester": 1,
+    "unit": "일상에서 만나는 과거"
+  }
+]

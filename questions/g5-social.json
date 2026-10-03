@@ -1,0 +1,4283 @@
+[
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 영역 중 영해에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "영토 주변 바다로 주권이 미친다",
+      "누구나 쓸 수 있는 공해이다",
+      "영토 위의 하늘을 말한다",
+      "외국 배가 마음대로 조업한다"
+    ],
+    "answer": 0,
+    "explanation": "영해는 영토에 붙은 바다로 우리 주권이 미쳐요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "독도에 대한 설명으로 알맞지 않은 것은?",
+    "choices": [
+      "동도와 서도 등으로 이루어졌다",
+      "우리나라 가장 서쪽 끝 섬이다",
+      "우리나라 가장 동쪽 끝 섬이다",
+      "경상북도 울릉군에 속한다"
+    ],
+    "answer": 1,
+    "explanation": "독도는 우리나라 가장 동쪽 끝에 있는 섬이에요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 나라의 영역을 이루는 세 가지로 알맞은 것은?",
+    "choices": [
+      "영토, 공해, 대기",
+      "육지, 섬, 산맥",
+      "영토, 영해, 영공",
+      "영해, 공해, 호수"
+    ],
+    "answer": 2,
+    "explanation": "영역은 영토·영해·영공으로 이루어져요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고조선 8조법으로 알 수 있는 사회 모습이 아닌 것은?",
+    "choices": [
+      "사람의 생명을 중요하게 여겼다",
+      "개인의 재산을 인정했다",
+      "노비가 있는 신분 사회였다",
+      "모든 사람의 신분이 같았다"
+    ],
+    "answer": 3,
+    "explanation": "도둑질하면 노비로 삼았으니 신분 차이가 있었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세종 대왕이 훈민정음을 만든 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "백성이 쉽게 글을 쓰게 하려고",
+      "중국과 무역을 하려고",
+      "양반만 글을 쓰게 하려고",
+      "외국어를 가르치려고"
+    ],
+    "answer": 0,
+    "explanation": "한자를 모르는 백성도 쉽게 쓰도록 만들었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이순신이 학익진으로 왜군을 크게 물리친 전투는?",
+    "choices": [
+      "행주 대첩",
+      "한산도 대첩",
+      "살수 대첩",
+      "귀주 대첩"
+    ],
+    "answer": 1,
+    "explanation": "이순신은 한산도 앞바다에서 학익진으로 이겼어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "인권에 대한 설명으로 알맞지 않은 것은?",
+    "choices": [
+      "태어날 때부터 누구나 가진다",
+      "남에게 넘겨줄 수 없다",
+      "나이가 어리면 인권이 없다",
+      "다른 사람의 인권도 존중한다"
+    ],
+    "answer": 2,
+    "explanation": "인권은 나이와 상관없이 모두에게 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "헌법에 대한 설명으로 알맞지 않은 것은?",
+    "choices": [
+      "나라 운영의 기본 원칙을 담는다",
+      "국민의 기본권을 보장한다",
+      "고칠 때 국민 투표를 거친다",
+      "다른 법보다 낮은 법이다"
+    ],
+    "answer": 3,
+    "explanation": "헌법은 모든 법의 바탕이 되는 최고의 법이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "법은 사회 질서를 지키고 사람들의 권리를 보호하는 역할을 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "법은 질서를 유지하고 권리를 지켜 줘요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고구려, 백제를 물리치고 삼국을 통일한 나라는?",
+    "choices": [
+      "신라",
+      "고구려",
+      "백제",
+      "가야"
+    ],
+    "answer": 0,
+    "explanation": "신라가 삼국 통일을 이루었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "온조가 세운 백제가 처음 자리 잡은 곳은 어느 강 유역일까요?",
+    "choices": [
+      "대동강",
+      "한강",
+      "낙동강",
+      "압록강"
+    ],
+    "answer": 1,
+    "explanation": "백제는 한강 유역의 위례성에서 시작했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고려가 후삼국을 통일한 과정으로 알맞은 것은?",
+    "choices": [
+      "후백제 멸망 → 신라 항복",
+      "발해 건국 → 고려 건국",
+      "신라 항복 → 후백제 멸망",
+      "조선 건국 → 고려 건국"
+    ],
+    "answer": 2,
+    "explanation": "신라가 먼저 항복하고 이듬해 후백제가 망했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이성계가 위화도에서 군대를 돌린 뒤 일어난 일은?",
+    "choices": [
+      "고려를 세웠다",
+      "발해를 세웠다",
+      "삼국을 통일했다",
+      "조선을 세웠다"
+    ],
+    "answer": 3,
+    "explanation": "위화도 회군 뒤 이성계는 조선을 세웠어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "고구려의 광개토 대왕은 영토를 크게 넓혔어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "광개토 대왕은 고구려의 영토를 크게 넓혔어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "우리나라는 여름에 비가 많이 오고 겨울에는 적게 오는 편이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "강수량이 여름에 집중되는 편이에요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 큰 강이 대부분 서해나 남해로 흐르는 까닭은?",
+    "choices": [
+      "동쪽이 높고 서쪽이 낮아서",
+      "서쪽에 산맥이 많아서",
+      "바닷물이 높아서",
+      "비가 서쪽에만 와서"
+    ],
+    "answer": 0,
+    "explanation": "동고서저 지형이라 강이 서·남쪽으로 흘러요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "조선 후기에 대동여지도를 만든 사람은 누구일까요?",
+    "choices": [
+      "정약용",
+      "김정호",
+      "장영실",
+      "김홍도"
+    ],
+    "answer": 1,
+    "explanation": "김정호가 대동여지도를 만들었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "어린이날을 만들고 어린이 인권을 위해 힘쓴 사람은?",
+    "choices": [
+      "안중근",
+      "유관순",
+      "방정환",
+      "윤봉길"
+    ],
+    "answer": 2,
+    "explanation": "방정환은 어린이 인권을 위해 힘썼어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "부처의 힘으로 몽골을 물리치려고 팔만대장경을 만든 나라는?",
+    "choices": [
+      "조선",
+      "신라",
+      "백제",
+      "고려"
+    ],
+    "answer": 3,
+    "explanation": "고려 사람들이 팔만대장경을 만들었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "독도 주변 바다는 난류와 한류가 만나 좋은 어장이 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "조경 수역이라 물고기가 많아요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고조선 사회의 모습을 알 수 있는 법은 무엇일까요?",
+    "choices": [
+      "8조법",
+      "경국대전",
+      "훈민정음",
+      "직지심체요절"
+    ],
+    "answer": 0,
+    "explanation": "고조선에는 8조법이 있었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고구려를 세운 사람은 누구일까요?",
+    "choices": [
+      "온조",
+      "주몽",
+      "박혁거세",
+      "왕건"
+    ],
+    "answer": 1,
+    "explanation": "고구려는 부여에서 내려온 주몽이 세웠어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "살수에서 수나라 대군을 크게 물리친 고구려 장군은?",
+    "choices": [
+      "강감찬",
+      "이순신",
+      "을지문덕",
+      "권율"
+    ],
+    "answer": 2,
+    "explanation": "을지문덕이 살수 대첩을 이끌었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고구려 출신 대조영이 세운 나라는 무엇일까요?",
+    "choices": [
+      "고려",
+      "가야",
+      "후백제",
+      "발해"
+    ],
+    "answer": 3,
+    "explanation": "고구려 출신 대조영이 발해를 세웠어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "금속 활자로 인쇄한 책 중 현재 남아 있는 가장 오래된 책은?",
+    "choices": [
+      "직지심체요절",
+      "팔만대장경",
+      "훈민정음 해례본",
+      "삼국사기"
+    ],
+    "answer": 0,
+    "explanation": "고려 때 인쇄한 직지심체요절이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고려 시대를 대표하는 도자기는 무엇일까요?",
+    "choices": [
+      "백자 달항아리",
+      "상감 청자",
+      "분청사기",
+      "옹기"
+    ],
+    "answer": 1,
+    "explanation": "고려는 상감 청자로 유명해요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "조선의 기본 법전으로 성종 때 완성된 것은?",
+    "choices": [
+      "8조법",
+      "대동여지도",
+      "경국대전",
+      "삼국유사"
+    ],
+    "answer": 2,
+    "explanation": "경국대전은 조선의 기본 법전이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세종 때 비가 내린 양을 재려고 만든 도구는?",
+    "choices": [
+      "앙부일구",
+      "자격루",
+      "혼천의",
+      "측우기"
+    ],
+    "answer": 3,
+    "explanation": "측우기로 비의 양을 쟀어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "임진왜란 때 행주산성에서 왜군을 크게 물리친 장군은?",
+    "choices": [
+      "권율",
+      "이순신",
+      "을지문덕",
+      "강감찬"
+    ],
+    "answer": 0,
+    "explanation": "권율 장군이 행주 대첩을 이끌었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "일제에 맞서 전국에서 만세 운동인 3·1 운동이 일어난 해는?",
+    "choices": [
+      "1945년",
+      "1919년",
+      "1392년",
+      "1950년"
+    ],
+    "answer": 1,
+    "explanation": "3·1 운동은 1919년에 일어났어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라가 일제로부터 광복을 맞은 해는 언제일까요?",
+    "choices": [
+      "1919년",
+      "1910년",
+      "1945년",
+      "1950년"
+    ],
+    "answer": 2,
+    "explanation": "1945년 8월 15일에 광복을 맞았어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "하얼빈에서 이토 히로부미를 처단한 독립운동가는?",
+    "choices": [
+      "윤봉길",
+      "김구",
+      "유관순",
+      "안중근"
+    ],
+    "answer": 3,
+    "explanation": "안중근 의사가 하얼빈 의거를 일으켰어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "우리나라는 대체로 동쪽이 높고 서쪽이 낮은 지형이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "우리나라는 동쪽이 높고 서쪽이 낮아요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "자기 생각을 자유롭게 말할 수 있는 권리는 어느 기본권일까요?",
+    "choices": [
+      "자유권",
+      "참정권",
+      "청구권",
+      "사회권"
+    ],
+    "answer": 0,
+    "explanation": "표현의 자유는 자유권에 속해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라 겨울에 부는 차갑고 건조한 바람은?",
+    "choices": [
+      "남동 계절풍",
+      "북서 계절풍",
+      "높새바람",
+      "해풍"
+    ],
+    "answer": 1,
+    "explanation": "겨울에는 북서 계절풍이 불어 추워요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라에 태풍이 주로 찾아오는 시기는 언제일까요?",
+    "choices": [
+      "한겨울",
+      "이른 봄",
+      "여름~초가을",
+      "늦겨울"
+    ],
+    "answer": 2,
+    "explanation": "태풍은 주로 여름부터 초가을에 와요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "인권은 돈이 많은 사람에게만 보장돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "인권은 모든 사람에게 똑같이 보장돼요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "세종 때 해시계인 앙부일구를 만들었어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "앙부일구는 세종 때 만든 해시계예요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "조선 후기 실학자로 거중기를 설계한 사람은 누구일까요?",
+    "choices": [
+      "김정호",
+      "장영실",
+      "이황",
+      "정약용"
+    ],
+    "answer": 3,
+    "explanation": "정약용은 거중기를 설계했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고조선, 고구려, 백제, 신라 중 가장 먼저 세워진 나라는?",
+    "choices": [
+      "고조선",
+      "고구려",
+      "백제",
+      "신라"
+    ],
+    "answer": 0,
+    "explanation": "고조선은 우리 역사 최초의 나라예요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 헌법에 나온 국민의 의무가 아닌 것은?",
+    "choices": [
+      "국방의 의무",
+      "투표의 의무",
+      "납세의 의무",
+      "교육의 의무"
+    ],
+    "answer": 1,
+    "explanation": "투표는 국민의 의무가 아니라 권리예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "권리를 침해당했을 때 국가에 해결을 요구할 수 있는 권리는?",
+    "choices": [
+      "참정권",
+      "평등권",
+      "청구권",
+      "자유권"
+    ],
+    "answer": 2,
+    "explanation": "청구권으로 국가에 구제를 요구해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "선거에 참여하거나 공무원이 될 수 있는 권리는?",
+    "choices": [
+      "청구권",
+      "사회권",
+      "자유권",
+      "참정권"
+    ],
+    "answer": 3,
+    "explanation": "참정권은 나라 일에 참여하는 권리예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "당나라 세력을 몰아내고 삼국 통일을 완성한 신라의 왕은?",
+    "choices": [
+      "문무왕",
+      "진흥왕",
+      "법흥왕",
+      "선덕 여왕"
+    ],
+    "answer": 0,
+    "explanation": "문무왕 때 삼국 통일을 완성했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "거란 장수와 외교 담판을 벌여 강동 6주를 얻은 고려 신하는?",
+    "choices": [
+      "강감찬",
+      "서희",
+      "최영",
+      "정몽주"
+    ],
+    "answer": 1,
+    "explanation": "서희는 말로 강동 6주를 얻었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "귀주에서 거란군을 크게 물리친 고려의 장군은?",
+    "choices": [
+      "서희",
+      "을지문덕",
+      "강감찬",
+      "권율"
+    ],
+    "answer": 2,
+    "explanation": "강감찬이 귀주 대첩을 이끌었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "조선이 도읍으로 정해 궁궐을 세운 곳은 어디일까요?",
+    "choices": [
+      "개경",
+      "경주",
+      "평양",
+      "한양"
+    ],
+    "answer": 3,
+    "explanation": "조선은 한양을 도읍으로 정하고 궁궐을 세웠어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "병자호란 때 인조가 피란하여 청군에 맞선 곳은?",
+    "choices": [
+      "남한산성",
+      "행주산성",
+      "수원 화성",
+      "강화 교동"
+    ],
+    "answer": 0,
+    "explanation": "인조는 남한산성에서 청군에 맞섰어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "영조와 정조가 여러 세력의 인재를 고루 뽑으려 한 정책은?",
+    "choices": [
+      "쇄국 정책",
+      "탕평책",
+      "과거 폐지",
+      "사민 정책"
+    ],
+    "answer": 1,
+    "explanation": "탕평책으로 인재를 고루 등용했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정조가 거중기 등을 이용해 쌓은 성은 무엇일까요?",
+    "choices": [
+      "남한산성",
+      "행주산성",
+      "수원 화성",
+      "한양 도성"
+    ],
+    "answer": 2,
+    "explanation": "정조는 수원 화성을 쌓았어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "흥선 대원군이 서양과 통상하지 않겠다는 뜻으로 세운 비는?",
+    "choices": [
+      "광개토 대왕릉비",
+      "진흥왕 순수비",
+      "독립문",
+      "척화비"
+    ],
+    "answer": 3,
+    "explanation": "척화비에는 통상 거부의 뜻이 담겨 있어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "동학 농민 운동을 이끈 지도자는 누구일까요?",
+    "choices": [
+      "전봉준",
+      "김옥균",
+      "흥선 대원군",
+      "안창호"
+    ],
+    "answer": 0,
+    "explanation": "전봉준이 동학 농민 운동을 이끌었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1919년 대한민국 임시 정부가 세워진 곳은 어디일까요?",
+    "choices": [
+      "하얼빈",
+      "상하이",
+      "도쿄",
+      "베이징"
+    ],
+    "answer": 1,
+    "explanation": "임시 정부는 중국 상하이에 세워졌어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "6·25 전쟁이 일어난 해는 언제일까요?",
+    "choices": [
+      "1945년",
+      "1919년",
+      "1950년",
+      "1953년"
+    ],
+    "answer": 2,
+    "explanation": "6·25 전쟁은 1950년에 일어났어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "환경을 보전하며 미래 세대도 누릴 수 있게 하는 발전은?",
+    "choices": [
+      "무분별한 개발",
+      "자원 낭비",
+      "급속한 개발",
+      "지속 가능한 발전"
+    ],
+    "answer": 3,
+    "explanation": "지속 가능한 발전은 미래 세대를 생각해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "조선 시대 신분 중 가장 높은 계층은 양반이었어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "조선은 양반, 중인, 상민, 천민으로 나뉘었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "고려는 불교를, 조선은 유교를 중요한 사상으로 삼았어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "고려는 불교, 조선은 유교를 중시했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "대동여지도는 세종의 명령으로 조선 초기에 만들어졌어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "대동여지도는 조선 후기에 김정호가 만들었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인권 침해를 조사하고 바로잡도록 권고하는 국가 기관은?",
+    "choices": [
+      "국가인권위원회",
+      "국회",
+      "대법원",
+      "선거관리위원회"
+    ],
+    "answer": 0,
+    "explanation": "국가인권위원회가 인권 보호를 위해 일해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "6·25 전쟁 이후 달라진 우리 민족의 상황으로 알맞은 것은?",
+    "choices": [
+      "남북이 통일되었다",
+      "남북 분단이 굳어졌다",
+      "일제가 다시 지배했다",
+      "조선이 세워졌다"
+    ],
+    "answer": 1,
+    "explanation": "전쟁 뒤 남북 분단이 굳어졌어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라 영공은 어디까지를 말할까요?",
+    "choices": [
+      "영토와 영해 위의 하늘",
+      "모든 나라의 하늘",
+      "구름이 있는 곳까지",
+      "바다 위 하늘만"
+    ],
+    "answer": 0,
+    "explanation": "영공은 영토와 영해 위의 하늘이에요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "위도와 경도를 이용하면 알 수 있는 것은?",
+    "choices": [
+      "그 지역의 인구",
+      "지구에서의 정확한 위치",
+      "땅의 높이",
+      "그 지역의 역사"
+    ],
+    "answer": 1,
+    "explanation": "위도와 경도로 위치를 정확히 나타내요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라가 대륙과 바다로 모두 나아가기 좋은 까닭은?",
+    "choices": [
+      "섬나라라서",
+      "적도에 가까워서",
+      "반도에 자리 잡고 있어서",
+      "바다가 없어서"
+    ],
+    "answer": 2,
+    "explanation": "반도는 대륙과 바다 양쪽으로 열려 있어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라 행정 구역 중 특별시는 어디일까요?",
+    "choices": [
+      "부산",
+      "세종",
+      "제주",
+      "서울"
+    ],
+    "answer": 3,
+    "explanation": "특별시는 서울 한 곳이에요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "등고선이 촘촘하게 그려진 곳의 땅 모습은?",
+    "choices": [
+      "경사가 급하다",
+      "경사가 완만하다",
+      "평평한 들판이다",
+      "바다와 높이가 같다"
+    ],
+    "answer": 0,
+    "explanation": "등고선 간격이 좁을수록 경사가 급해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "서해안에 갯벌이 넓게 발달한 까닭은?",
+    "choices": [
+      "파도가 매우 세서",
+      "밀물과 썰물 차이가 커서",
+      "수심이 매우 깊어서",
+      "화산이 많아서"
+    ],
+    "answer": 1,
+    "explanation": "조차가 크고 수심이 얕아 갯벌이 넓어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "동해안의 특징으로 알맞은 것은?",
+    "choices": [
+      "갯벌이 넓게 발달했다",
+      "섬이 매우 많다",
+      "해안선이 단조롭고 수심이 깊다",
+      "조차가 매우 크다"
+    ],
+    "answer": 2,
+    "explanation": "동해안은 해안선이 단조롭고 바다가 깊어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "섬이 매우 많아 다도해라고 불리는 해안은?",
+    "choices": [
+      "동해안",
+      "울릉도 해안",
+      "독도 해안",
+      "남해안"
+    ],
+    "answer": 3,
+    "explanation": "남해안은 섬이 많아 다도해라고 해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "여름에 남동 계절풍이 불 때 우리나라 날씨는?",
+    "choices": [
+      "덥고 습하다",
+      "춥고 건조하다",
+      "눈이 많이 온다",
+      "서늘하고 맑다"
+    ],
+    "answer": 0,
+    "explanation": "바다에서 부는 바람이라 덥고 습해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "북쪽 지방이 남쪽보다 겨울 기온이 낮은 주된 까닭은?",
+    "choices": [
+      "바다와 가까워서",
+      "위도가 높아서",
+      "인구가 많아서",
+      "경도가 달라서"
+    ],
+    "answer": 1,
+    "explanation": "위도가 높을수록 기온이 낮아져요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 위도에서 동해안이 서해안보다 겨울에 따뜻한 까닭은?",
+    "choices": [
+      "동해안이 더 남쪽이라서",
+      "서해에 난류가 흘러서",
+      "태백산맥이 찬바람을 막아서",
+      "동해안에 공장이 많아서"
+    ],
+    "answer": 2,
+    "explanation": "태백산맥이 북서풍을 막아 줘요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "여름에 비가 몰리는 우리나라에서 물을 고르게 쓰는 방법은?",
+    "choices": [
+      "강을 모두 메운다",
+      "숲을 없앤다",
+      "빗물을 바로 바다로 보낸다",
+      "댐과 저수지를 만든다"
+    ],
+    "answer": 3,
+    "explanation": "댐에 물을 모아 두었다가 필요할 때 써요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지우네 고장은 높은 산지이고 여름에 서늘해요. 발달하기 좋은 농업은?",
+    "choices": [
+      "고랭지 채소 재배",
+      "넓은 평야의 벼농사",
+      "갯벌 양식",
+      "열대 과일 재배"
+    ],
+    "answer": 0,
+    "explanation": "서늘한 산지는 고랭지 채소 재배에 알맞아요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "산업화 이후 나타난 인구 이동으로 알맞은 것은?",
+    "choices": [
+      "도시 인구가 크게 줄었다",
+      "농촌 사람들이 도시로 옮겼다",
+      "농촌 인구가 크게 늘었다",
+      "모두 섬으로 이사했다"
+    ],
+    "answer": 1,
+    "explanation": "일자리를 찾아 도시로 많이 옮겼어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "저출생·고령화가 계속될 때 나타날 문제로 알맞지 않은 것은?",
+    "choices": [
+      "일할 사람이 줄어든다",
+      "노인 복지 비용이 늘어난다",
+      "학생 수가 크게 늘어난다",
+      "문 닫는 학교가 생긴다"
+    ],
+    "answer": 2,
+    "explanation": "아이가 적게 태어나면 학생 수는 줄어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고속 철도가 생기면서 달라진 생활로 알맞은 것은?",
+    "choices": [
+      "지역 간 교류가 줄었다",
+      "먼 곳에 가기 어려워졌다",
+      "물건 나르기가 어려워졌다",
+      "지역 간 이동 시간이 줄었다"
+    ],
+    "answer": 3,
+    "explanation": "빠른 교통으로 이동 시간이 줄었어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "황사는 주로 봄철에 중국 쪽 사막에서 날아와요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "봄에 편서풍을 타고 모래먼지가 와요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "폭염에 대비하는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "한낮에 밖에서 오래 운동한다",
+      "물을 자주 마신다",
+      "그늘에서 쉰다",
+      "가벼운 옷을 입는다"
+    ],
+    "answer": 0,
+    "explanation": "한낮 야외 활동은 피해야 해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도시 문제와 해결 방법을 바르게 짝지은 것은?",
+    "choices": [
+      "쓰레기 증가 - 몰래 버리기",
+      "교통 혼잡 - 대중교통 늘리기",
+      "대기 오염 - 자동차 늘리기",
+      "주택 부족 - 공원에 집짓기 금지"
+    ],
+    "answer": 1,
+    "explanation": "대중교통을 늘리면 교통 혼잡이 줄어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지진이 일어나 흔들릴 때 알맞은 행동은?",
+    "choices": [
+      "엘리베이터로 빨리 내려가기",
+      "흔들릴 때 바로 뛰어나가기",
+      "튼튼한 탁자 아래에서 몸 보호",
+      "유리창 옆에 서 있기"
+    ],
+    "answer": 2,
+    "explanation": "흔들릴 땐 탁자 아래에서 머리를 보호해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "남한의 국토 면적은 약 10만 ㎢예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "남한 면적은 약 10만 ㎢예요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "서해안은 동해안보다 밀물과 썰물의 차이가 작아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "서해안이 조차가 훨씬 커요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 헌법에서 나라의 주권은 누구에게 있을까요?",
+    "choices": [
+      "대통령",
+      "국회",
+      "법원",
+      "국민"
+    ],
+    "answer": 3,
+    "explanation": "주권은 국민에게 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "공공 기관에 장애인 경사로를 만든 것은 어떤 노력일까요?",
+    "choices": [
+      "인권을 보장하려는 노력",
+      "세금을 걷는 노력",
+      "국방을 위한 노력",
+      "문화재를 지키는 노력"
+    ],
+    "answer": 0,
+    "explanation": "누구나 편하게 다니도록 인권을 지키는 노력이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "성별이나 종교로 차별받지 않을 권리는 무엇일까요?",
+    "choices": [
+      "참정권",
+      "평등권",
+      "청구권",
+      "자유권"
+    ],
+    "answer": 1,
+    "explanation": "차별받지 않을 권리는 평등권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인간다운 생활을 보장해 달라고 요구할 수 있는 권리는?",
+    "choices": [
+      "자유권",
+      "참정권",
+      "사회권",
+      "평등권"
+    ],
+    "answer": 2,
+    "explanation": "사회권은 인간다운 생활을 누릴 권리예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "18세가 된 민수가 국회 의원 선거에서 투표했어요. 누린 기본권은?",
+    "choices": [
+      "사회권",
+      "청구권",
+      "평등권",
+      "참정권"
+    ],
+    "answer": 3,
+    "explanation": "선거에 참여하는 권리는 참정권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "억울한 피해를 입은 사람이 재판을 해 달라고 했어요. 어떤 기본권일까요?",
+    "choices": [
+      "청구권",
+      "자유권",
+      "참정권",
+      "사회권"
+    ],
+    "answer": 0,
+    "explanation": "재판 청구는 청구권에 해당해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 사회권에 해당하는 예는?",
+    "choices": [
+      "종교를 고를 자유",
+      "교육을 받을 권리",
+      "선거에서 투표할 권리",
+      "재판을 받을 권리"
+    ],
+    "answer": 1,
+    "explanation": "교육받을 권리는 사회권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "국민의 기본권을 제한할 수 있는 경우로 알맞은 것은?",
+    "choices": [
+      "대통령이 원할 때",
+      "이웃이 싫어할 때",
+      "공공복리를 위해 법률로 정할 때",
+      "언제든지 마음대로"
+    ],
+    "answer": 2,
+    "explanation": "공공복리 등을 위해 법률로만 제한할 수 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 헌법에 나온 국민의 의무는?",
+    "choices": [
+      "투표의 의무",
+      "저축의 의무",
+      "운동의 의무",
+      "환경 보전의 의무"
+    ],
+    "answer": 3,
+    "explanation": "헌법에는 환경 보전의 의무가 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "권리와 의무의 관계를 바르게 말한 것은?",
+    "choices": [
+      "권리와 의무는 조화를 이뤄야 한다",
+      "권리만 누리면 된다",
+      "의무는 어른만 지킨다",
+      "의무를 지키면 권리가 사라진다"
+    ],
+    "answer": 0,
+    "explanation": "권리를 누리며 의무도 함께 지켜야 해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 권리이면서 동시에 의무인 것은?",
+    "choices": [
+      "납세",
+      "교육",
+      "국방",
+      "투표"
+    ],
+    "answer": 1,
+    "explanation": "교육은 받을 권리이자 받게 할 의무예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "법의 역할로 알맞지 않은 것은?",
+    "choices": [
+      "사회 질서를 유지한다",
+      "다툼을 해결한다",
+      "힘센 사람만 보호한다",
+      "개인의 권리를 보호한다"
+    ],
+    "answer": 2,
+    "explanation": "법은 모든 사람을 공정하게 보호해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "생활 속에서 법을 지키는 모습으로 알맞은 것은?",
+    "choices": [
+      "아침에 줄넘기를 한다",
+      "친구와 간식을 나눈다",
+      "방 청소를 한다",
+      "횡단보도 신호를 지킨다"
+    ],
+    "answer": 3,
+    "explanation": "교통 신호는 법으로 정해져 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "법과 도덕의 차이로 알맞은 것은?",
+    "choices": [
+      "법은 어기면 제재를 받는다",
+      "도덕은 국가가 강제한다",
+      "법은 안 지켜도 된다",
+      "도덕은 국회에서 만든다"
+    ],
+    "answer": 0,
+    "explanation": "법은 강제성이 있어 어기면 제재를 받아요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "‘도덕을 어기면 반드시 벌금을 낸다.’ 이 말이 틀린 까닭은?",
+    "choices": [
+      "도덕이 법보다 강해서",
+      "도덕은 강제성이 없어서",
+      "벌금은 도덕이 정해서",
+      "도덕은 어린이만 지켜서"
+    ],
+    "answer": 1,
+    "explanation": "도덕은 양심에 맡기고 벌금이 없어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "개인 정보 보호법이 지켜 주려는 것은?",
+    "choices": [
+      "도로 교통 질서",
+      "문화재",
+      "사생활의 비밀",
+      "자연환경"
+    ],
+    "answer": 2,
+    "explanation": "개인 정보와 사생활을 보호하는 법이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "학교 주변에서 차가 천천히 다니도록 정한 구역은?",
+    "choices": [
+      "개발 제한 구역",
+      "군사 보호 구역",
+      "공업 지역",
+      "어린이 보호 구역"
+    ],
+    "answer": 3,
+    "explanation": "어린이 보호 구역에서는 천천히 달려요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구 사진을 허락 없이 인터넷에 올렸어요. 침해한 권리는?",
+    "choices": [
+      "초상권",
+      "참정권",
+      "청구권",
+      "근로권"
+    ],
+    "answer": 0,
+    "explanation": "내 얼굴이 함부로 쓰이지 않을 권리가 초상권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다른 사람의 글이나 사진을 쓸 때 알맞은 태도는?",
+    "choices": [
+      "내 것처럼 쓴다",
+      "출처를 밝히고 허락받는다",
+      "마음대로 고쳐 판다",
+      "출처를 지운다"
+    ],
+    "answer": 1,
+    "explanation": "저작권을 지켜 출처를 밝혀야 해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "조선의 신문고와 오늘날 가장 비슷한 역할을 하는 것은?",
+    "choices": [
+      "국회 의원 선거",
+      "국방의 의무",
+      "국민 신문고",
+      "납세 제도"
+    ],
+    "answer": 2,
+    "explanation": "둘 다 억울한 일을 나라에 알리는 제도예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "인권 신장에 힘쓴 인물과 한 일을 바르게 짝지은 것은?",
+    "choices": [
+      "세종 - 동학 창시",
+      "전봉준 - 훈민정음 창제",
+      "최제우 - 어린이날 제정",
+      "방정환 - 어린이날 제정"
+    ],
+    "answer": 3,
+    "explanation": "방정환은 어린이날을 만들었어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "헌법은 한 번 만들어지면 절대 고칠 수 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "국민 투표를 거쳐 고칠 수 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "재판은 원칙적으로 공개하여 공정하게 진행해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "재판을 공개해 공정함을 지켜요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "국민의 기본권은 어떤 경우에도 절대 제한할 수 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "공공복리 등을 위해 법률로 제한할 수 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "헌법 재판소가 하는 일로 알맞은 것은?",
+    "choices": [
+      "법이 헌법에 맞는지 판단한다",
+      "법을 새로 만든다",
+      "세금을 걷는다",
+      "학교를 세운다"
+    ],
+    "answer": 0,
+    "explanation": "법이 헌법에 어긋나는지 판단해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "“모든 국민은 법 앞에 평등하다.” 이 조항과 관련 깊은 기본권은?",
+    "choices": [
+      "참정권",
+      "평등권",
+      "청구권",
+      "사회권"
+    ],
+    "answer": 1,
+    "explanation": "법 앞의 평등은 평등권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "“모든 국민은 종교의 자유를 가진다.” 이 조항이 보장하는 기본권은?",
+    "choices": [
+      "평등권",
+      "사회권",
+      "자유권",
+      "청구권"
+    ],
+    "answer": 2,
+    "explanation": "종교의 자유는 자유권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고조선의 청동기 문화를 보여 주는 대표 유물은?",
+    "choices": [
+      "금속 활자",
+      "거북선",
+      "상감 청자",
+      "비파형 동검"
+    ],
+    "answer": 3,
+    "explanation": "비파형 동검은 고조선의 대표 유물이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "고인돌은 청동기 시대 지배자의 무덤이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "큰 돌을 옮길 만큼 힘센 지배자의 무덤이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "나라가 세워진 순서로 알맞은 것은?",
+    "choices": [
+      "고조선→발해→고려→조선",
+      "고려→고조선→발해→조선",
+      "고조선→고려→발해→조선",
+      "발해→고조선→조선→고려"
+    ],
+    "answer": 0,
+    "explanation": "고조선, 발해, 고려, 조선 순이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "백제 근초고왕 때의 모습으로 알맞은 것은?",
+    "choices": [
+      "삼국을 통일했다",
+      "마한을 통합하고 전성기를 누렸다",
+      "한글을 만들었다",
+      "거란을 물리쳤다"
+    ],
+    "answer": 1,
+    "explanation": "근초고왕 때 백제는 전성기를 맞았어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "신라 진흥왕이 한 일로 알맞은 것은?",
+    "choices": [
+      "고조선을 세웠다",
+      "발해를 세웠다",
+      "한강 유역을 차지했다",
+      "훈민정음을 만들었다"
+    ],
+    "answer": 2,
+    "explanation": "진흥왕은 한강 유역을 차지했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "삼국이 한강 유역을 차지하려 한 까닭으로 알맞지 않은 것은?",
+    "choices": [
+      "땅이 기름져 농사가 잘돼서",
+      "중국과 교류하기 좋아서",
+      "교통이 편리해서",
+      "사막이 넓어 자원이 많아서"
+    ],
+    "answer": 3,
+    "explanation": "한강 유역은 사막이 아니라 기름진 땅이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "신라가 삼국 통일을 위해 손잡은 나라는?",
+    "choices": [
+      "당",
+      "수",
+      "몽골",
+      "청"
+    ],
+    "answer": 0,
+    "explanation": "신라는 당과 연합했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "통일 신라 때 만들어진 불교 문화유산은?",
+    "choices": [
+      "팔만대장경",
+      "석굴암",
+      "수원 화성",
+      "경복궁"
+    ],
+    "answer": 1,
+    "explanation": "석굴암은 통일 신라의 문화유산이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "발해가 고구려를 이었다고 볼 수 있는 근거로 알맞은 것은?",
+    "choices": [
+      "신라 왕이 나라를 세웠다",
+      "당나라 사람만 살았다",
+      "고구려 유민이 나라를 세웠다",
+      "불교를 금지했다"
+    ],
+    "answer": 2,
+    "explanation": "대조영 등 고구려 유민이 세웠어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "견훤과 궁예가 세운 나라를 순서대로 바르게 짝지은 것은?",
+    "choices": [
+      "고려 - 발해",
+      "후고구려 - 후백제",
+      "가야 - 백제",
+      "후백제 - 후고구려"
+    ],
+    "answer": 3,
+    "explanation": "견훤은 후백제, 궁예는 후고구려를 세웠어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고려 시대 벽란도에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "외국 상인이 오가던 무역항",
+      "조선의 궁궐",
+      "고구려의 성",
+      "신라의 절"
+    ],
+    "answer": 0,
+    "explanation": "벽란도는 고려의 국제 무역항이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "‘코리아’라는 이름이 서양에 알려진 것과 관련 깊은 것은?",
+    "choices": [
+      "흥선 대원군의 통상 거부",
+      "고려의 활발한 국제 무역",
+      "고인돌 건축",
+      "6·25 전쟁"
+    ],
+    "answer": 1,
+    "explanation": "고려 때 아라비아 상인과 교류했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "몽골이 침입하자 고려가 도읍을 옮긴 곳은?",
+    "choices": [
+      "제주도",
+      "한양",
+      "강화도",
+      "경주"
+    ],
+    "answer": 2,
+    "explanation": "고려는 강화도로 도읍을 옮겼어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "삼별초에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "조선을 세웠다",
+      "거란과 외교 담판을 했다",
+      "훈민정음을 만들었다",
+      "끝까지 몽골에 맞서 싸웠다"
+    ],
+    "answer": 3,
+    "explanation": "삼별초는 진도·제주로 옮기며 항쟁했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고려 청자와 조선 백자를 바르게 비교한 것은?",
+    "choices": [
+      "백자는 깨끗하고 소박하다",
+      "청자는 흰색이다",
+      "백자는 푸른빛이다",
+      "둘 다 고조선 때 만들었다"
+    ],
+    "answer": 0,
+    "explanation": "청자는 푸른빛, 백자는 소박한 흰빛이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "조선이 나라를 다스리는 기본 사상으로 삼은 것은?",
+    "choices": [
+      "불교",
+      "유교",
+      "동학",
+      "천주교"
+    ],
+    "answer": 1,
+    "explanation": "조선은 유교를 바탕으로 다스렸어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세종 때 장영실 등이 만든 물시계는?",
+    "choices": [
+      "앙부일구",
+      "혼천의",
+      "자격루",
+      "거중기"
+    ],
+    "answer": 2,
+    "explanation": "자격루는 스스로 시각을 알리는 물시계예요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세종 때 측우기 같은 과학 기구를 만든 까닭으로 알맞은 것은?",
+    "choices": [
+      "무기를 팔려고",
+      "외국에 자랑하려고",
+      "양반 놀이를 위해",
+      "농사에 도움을 주려고"
+    ],
+    "answer": 3,
+    "explanation": "날씨와 시간을 알아 농사에 도움을 줬어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "임진왜란과 병자호란에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "임진왜란이 먼저 일어났다",
+      "병자호란은 일본이 침입했다",
+      "임진왜란은 청이 침입했다",
+      "두 전쟁은 고려 때 일어났다"
+    ],
+    "answer": 0,
+    "explanation": "임진왜란(1592)이 병자호란(1636)보다 먼저예요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "임진왜란 때 의병에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "나라에서 뽑은 정규군이다",
+      "백성이 스스로 일어나 싸웠다",
+      "일본 편에서 싸웠다",
+      "몽골과 싸웠다"
+    ],
+    "answer": 1,
+    "explanation": "의병은 나라를 지키려 스스로 일어난 백성이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "조선 후기 실학자들이 중요하게 여긴 것은?",
+    "choices": [
+      "서양과의 교류 금지",
+      "농사 금지",
+      "백성 생활에 도움 되는 학문",
+      "신분제 강화"
+    ],
+    "answer": 2,
+    "explanation": "실학은 실제 생활에 쓸모 있는 학문이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "조선 후기 서민 문화의 모습으로 알맞지 않은 것은?",
+    "choices": [
+      "판소리 공연",
+      "탈놀이",
+      "한글 소설 유행",
+      "팔만대장경 제작"
+    ],
+    "answer": 3,
+    "explanation": "팔만대장경은 고려 때 만들었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "김홍도와 신윤복이 그린 그림의 종류는?",
+    "choices": [
+      "풍속화",
+      "불화",
+      "지도",
+      "벽화"
+    ],
+    "answer": 0,
+    "explanation": "사람들의 생활 모습을 그린 풍속화예요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "흥선 대원군이 한 일로 알맞은 것은?",
+    "choices": [
+      "훈민정음을 만들었다",
+      "경복궁을 다시 지었다",
+      "개항을 적극 추진했다",
+      "탕평책을 처음 폈다"
+    ],
+    "answer": 1,
+    "explanation": "흥선 대원군은 경복궁을 다시 지었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 사건을 일어난 순서대로 바르게 나열한 것은?",
+    "choices": [
+      "병자호란→임진왜란→강화도 조약",
+      "강화도 조약→임진왜란→병자호란",
+      "임진왜란→병자호란→강화도 조약",
+      "임진왜란→강화도 조약→병자호란"
+    ],
+    "answer": 2,
+    "explanation": "1592년, 1636년, 1876년 순이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1876년 조선이 일본과 맺은 불평등 조약은?",
+    "choices": [
+      "을사늑약",
+      "한일 병합 조약",
+      "정전 협정",
+      "강화도 조약"
+    ],
+    "answer": 3,
+    "explanation": "강화도 조약으로 항구를 열었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "동학 농민 운동에서 농민들이 내세운 주장은?",
+    "choices": [
+      "탐관오리를 벌하라",
+      "신분제를 강화하라",
+      "일본과 손잡자",
+      "세금을 더 걷자"
+    ],
+    "answer": 0,
+    "explanation": "농민들은 부패한 관리를 벌하라고 했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고종이 황제로 즉위하며 정한 나라 이름은?",
+    "choices": [
+      "대한민국",
+      "대한 제국",
+      "조선 공화국",
+      "고려"
+    ],
+    "answer": 1,
+    "explanation": "1897년 대한 제국을 선포했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "을사늑약으로 일본이 대한 제국에서 빼앗은 것은?",
+    "choices": [
+      "훈민정음",
+      "한강",
+      "외교권",
+      "교육의 의무"
+    ],
+    "answer": 2,
+    "explanation": "을사늑약으로 외교권을 빼앗겼어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나라 빚을 갚아 주권을 지키려고 벌인 운동은?",
+    "choices": [
+      "새마을 운동",
+      "3·1 운동",
+      "동학 농민 운동",
+      "국채 보상 운동"
+    ],
+    "answer": 3,
+    "explanation": "국민이 돈을 모아 나라 빚을 갚으려 했어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "3·1 운동이 끼친 영향으로 알맞은 것은?",
+    "choices": [
+      "대한민국 임시 정부 수립",
+      "고려 건국",
+      "6·25 전쟁 발발",
+      "강화도 조약 체결"
+    ],
+    "answer": 0,
+    "explanation": "3·1 운동 뒤 임시 정부가 세워졌어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "3·1 운동 때 아우내 장터에서 만세를 부른 인물은?",
+    "choices": [
+      "안중근",
+      "유관순",
+      "윤봉길",
+      "방정환"
+    ],
+    "answer": 1,
+    "explanation": "유관순은 아우내 장터 만세 운동을 이끌었어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "상하이 훙커우 공원에서 일본군 행사장에 폭탄을 던진 인물은?",
+    "choices": [
+      "안중근",
+      "김구",
+      "윤봉길",
+      "유관순"
+    ],
+    "answer": 2,
+    "explanation": "윤봉길 의사가 1932년에 의거했어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "일제가 우리 민족을 없애려고 한 일로 알맞은 것은?",
+    "choices": [
+      "한글 사용 장려",
+      "독립문 건설",
+      "우리 역사 교육 확대",
+      "일본식 이름 강요"
+    ],
+    "answer": 3,
+    "explanation": "일제는 창씨개명을 강요했어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "청산리 전투에서 일본군을 크게 물리친 인물은?",
+    "choices": [
+      "김좌진",
+      "권율",
+      "강감찬",
+      "서희"
+    ],
+    "answer": 0,
+    "explanation": "김좌진 등이 청산리에서 크게 이겼어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "광복 이후 일어난 일을 순서대로 나열한 것은?",
+    "choices": [
+      "6·25 전쟁→광복→정부 수립",
+      "광복→정부 수립→6·25 전쟁",
+      "정부 수립→광복→6·25 전쟁",
+      "광복→6·25 전쟁→정부 수립"
+    ],
+    "answer": 1,
+    "explanation": "1945년, 1948년, 1950년 순이에요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1948년 5월 10일 우리나라에서 처음 실시된 것은?",
+    "choices": [
+      "3·1 운동",
+      "임시 정부 수립",
+      "민주적인 총선거",
+      "한글 창제"
+    ],
+    "answer": 2,
+    "explanation": "5·10 총선거로 제헌 국회가 구성됐어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "발해는 고구려 사람과 말갈 사람이 함께 살았던 나라예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "발해에는 고구려인과 말갈인이 살았어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "직지심체요절은 조선 세종 때 인쇄한 책이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "직지는 고려 때 금속 활자로 인쇄했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "팔만대장경은 지금 합천 해인사에 보관되어 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "해인사 장경판전에 보관되어 있어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "몽골이 침입했을 때 고려가 도읍을 강화도로 옮긴 까닭은?",
+    "choices": [
+      "강화도가 가장 넓은 땅이라서",
+      "몽골과 친하게 지내려고",
+      "몽골군이 바다 싸움에 약해서",
+      "농사짓기 가장 좋아서"
+    ],
+    "answer": 2,
+    "explanation": "초원에서 온 몽골군은 바다를 건너는 싸움에 약했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라가 자리 잡은 대륙은 어디일까요?",
+    "choices": [
+      "아시아",
+      "유럽",
+      "아프리카",
+      "남아메리카"
+    ],
+    "answer": 0,
+    "explanation": "우리나라는 아시아 대륙의 동쪽 끝에 있는 반도 국가예요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라의 위치를 위도로 나타낸 것으로 알맞은 것은?",
+    "choices": [
+      "남위 약 33°~43°",
+      "북위 약 33°~43°",
+      "북위 약 60°~70°",
+      "적도 바로 근처"
+    ],
+    "answer": 1,
+    "explanation": "우리나라는 적도의 북쪽, 대략 북위 33°에서 43° 사이에 있어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "적도에서 북극 쪽으로 갈수록 대체로 나타나는 변화는?",
+    "choices": [
+      "기온이 높아진다",
+      "해안선이 길어진다",
+      "기온이 낮아진다",
+      "비가 반드시 많아진다"
+    ],
+    "answer": 2,
+    "explanation": "위도가 높아질수록 햇볕을 비스듬히 받아 대체로 기온이 낮아져요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "섬이 많은 서해안과 남해안의 영해를 정하는 방법으로 알맞은 것은?",
+    "choices": [
+      "모든 해안에서 3해리",
+      "해안선에서 24해리",
+      "육지 안쪽 강까지",
+      "바깥 섬을 이은 선에서 12해리"
+    ],
+    "answer": 3,
+    "explanation": "섬이 많은 서·남해안은 가장 바깥 섬들을 이은 직선에서 12해리까지가 영해예요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "대한 해협은 일본과 가까워서 영해를 3해리까지로 정했어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "대한 해협은 폭이 좁아 일본과의 사이를 고려해 3해리를 영해로 정했어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리나라에서 가장 남쪽 끝에 있는 섬은?",
+    "choices": [
+      "마라도",
+      "독도",
+      "울릉도",
+      "강화도"
+    ],
+    "answer": 0,
+    "explanation": "제주도 남쪽의 마라도가 우리나라 가장 남쪽 끝 섬이에요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "독도가 우리 땅이었음을 보여 주는 조선 시대 기록은?",
+    "choices": [
+      "팔만대장경",
+      "세종실록 지리지",
+      "농사직설",
+      "동의보감"
+    ],
+    "answer": 1,
+    "explanation": "세종실록 지리지에 울릉도와 함께 우산(독도)이 우리 땅으로 적혀 있어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 광역시가 아닌 도시는 어디일까요?",
+    "choices": [
+      "부산",
+      "대구",
+      "수원",
+      "광주"
+    ],
+    "answer": 2,
+    "explanation": "수원은 경기도에 속한 시예요. 부산·대구·광주는 광역시예요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세종특별자치시에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "우리나라의 수도",
+      "섬으로 이루어진 도",
+      "인구가 가장 많은 도시",
+      "많은 정부 기관이 옮겨 온 도시"
+    ],
+    "answer": 3,
+    "explanation": "세종특별자치시는 행정 중심 복합 도시로 여러 정부 기관이 옮겨 왔어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "제주특별자치도는 우리나라에서 가장 큰 섬을 중심으로 한 행정 구역이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "제주도는 우리나라에서 가장 큰 섬이고, 제주특별자치도로 불러요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "큰 강의 하류에 넓고 평평하게 펼쳐진 땅을 무엇이라 할까요?",
+    "choices": [
+      "평야",
+      "산맥",
+      "고원",
+      "해협"
+    ],
+    "answer": 0,
+    "explanation": "강이 실어 온 흙이 쌓여 강 하류에 넓고 평평한 평야가 만들어져요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 서쪽으로 흘러 서해로 들어가는 강은?",
+    "choices": [
+      "낙동강",
+      "한강",
+      "섬진강",
+      "두만강"
+    ],
+    "answer": 1,
+    "explanation": "한강은 서쪽으로 흘러 서해로 가요. 낙동강·섬진강은 남해, 두만강은 동해로 가요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지형도에서 초록색으로 칠한 곳은 대체로 어떤 곳일까요?",
+    "choices": [
+      "높은 산지",
+      "깊은 바다",
+      "낮고 평평한 땅",
+      "큰 도시"
+    ],
+    "answer": 2,
+    "explanation": "지형도는 낮은 곳을 초록색, 높아질수록 노란색·갈색으로 나타내요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "해안의 특징과 이용 모습을 바르게 짝지은 것은?",
+    "choices": [
+      "동해안 - 넓은 갯벌 체험",
+      "남해안 - 섬이 거의 없음",
+      "서해안 - 수심 깊은 해수욕장만 있음",
+      "서해안 갯벌 - 염전과 양식"
+    ],
+    "answer": 3,
+    "explanation": "서해안은 갯벌이 넓어 염전을 만들거나 조개 등을 양식해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "여름철에 오랫동안 많은 비가 계속 내리는 기간을 무엇이라 할까요?",
+    "choices": [
+      "장마",
+      "황사",
+      "한파",
+      "가뭄"
+    ],
+    "answer": 0,
+    "explanation": "초여름에 오랫동안 비가 이어지는 기간을 장마라고 해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1월 평균 기온이 중강진 영하 16℃쯤, 서울 영하 2℃쯤, 서귀포 영상 7℃쯤이에요. 알 수 있는 것은?",
+    "choices": [
+      "겨울에 모든 지역 기온이 같다",
+      "겨울에 남북의 기온 차가 크다",
+      "북쪽일수록 겨울이 따뜻하다",
+      "섬 지역이 가장 춥다"
+    ],
+    "answer": 1,
+    "explanation": "북쪽 중강진과 남쪽 서귀포의 기온 차가 20℃가 넘어 겨울 남북 기온 차가 커요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "우리나라는 봄, 여름, 가을, 겨울 사계절이 뚜렷한 편이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "우리나라는 중위도에 있어서 사계절의 변화가 뚜렷해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "겨울에 눈이 아주 많이 오는 울릉도의 옛집에서 볼 수 있는 시설은?",
+    "choices": [
+      "대청마루",
+      "터돋움집",
+      "우데기",
+      "고상 가옥"
+    ],
+    "answer": 2,
+    "explanation": "우데기는 눈이 쌓여도 집 둘레를 다닐 수 있게 집 바깥에 친 벽이에요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "제주도 옛집이 돌담을 쌓고 지붕을 줄로 단단히 묶은 까닭은?",
+    "choices": [
+      "눈이 매우 많이 와서",
+      "겨울이 몹시 추워서",
+      "비가 거의 오지 않아서",
+      "바람이 강하게 불어서"
+    ],
+    "answer": 3,
+    "explanation": "제주도는 바람이 강해서 돌담을 쌓고 지붕을 줄로 묶어 날아가지 않게 했어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "홍수에 대비하는 방법으로 알맞은 것은?",
+    "choices": [
+      "배수 시설을 미리 점검한다",
+      "물이 불어난 하천에 다가간다",
+      "하천 둑을 허문다",
+      "빗물받이를 막아 둔다"
+    ],
+    "answer": 0,
+    "explanation": "배수 시설을 미리 살피면 빗물이 잘 빠져 홍수 피해를 줄일 수 있어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가뭄 피해를 줄이는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "저수지에 물을 모아 둔다",
+      "숲을 없애 땅을 넓힌다",
+      "빗물을 받아 다시 쓴다",
+      "물을 아껴 쓴다"
+    ],
+    "answer": 1,
+    "explanation": "숲은 빗물을 머금어 두는 역할을 해서, 숲을 없애면 가뭄에 더 약해져요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "대설 특보가 내리면 비닐하우스에 쌓인 눈을 미리 치워야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "눈이 무겁게 쌓이면 비닐하우스가 무너질 수 있어 미리 치워야 해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1970년대에 ‘딸 아들 구별 말고 둘만 낳아 잘 기르자’는 표어가 나온 까닭은?",
+    "choices": [
+      "인구가 빠르게 줄어서",
+      "노인 인구가 너무 많아서",
+      "인구가 빠르게 늘어서",
+      "외국으로 떠난 사람이 많아서"
+    ],
+    "answer": 2,
+    "explanation": "그때는 인구가 빠르게 늘어 자녀 수를 줄이자는 가족계획을 펼쳤어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "요즘 정부가 아이 낳기를 장려하는 정책을 펴는 까닭은?",
+    "choices": [
+      "인구가 너무 빨리 늘어서",
+      "학교 교실이 모자라서",
+      "도시에 일자리가 없어서",
+      "태어나는 아이 수가 줄어서"
+    ],
+    "answer": 3,
+    "explanation": "출생아 수가 크게 줄어 앞으로 일할 사람이 부족해질까 봐 출산을 장려해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 인구의 절반쯤이 수도권에 사는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "일자리와 편의 시설이 많아서",
+      "높은 산지가 많아서",
+      "바다와 멀리 떨어져서",
+      "기온이 가장 낮아서"
+    ],
+    "answer": 0,
+    "explanation": "수도권에는 회사, 학교, 병원 같은 시설이 많아 사람들이 모여들었어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "촌락에서 젊은 사람이 떠나 노인 비율이 높아지면 생기기 쉬운 일은?",
+    "choices": [
+      "교통이 매우 혼잡해진다",
+      "농사일 할 사람이 부족해진다",
+      "집값이 크게 오른다",
+      "학교가 새로 많이 생긴다"
+    ],
+    "answer": 1,
+    "explanation": "젊은 사람이 줄면 농사일을 할 일손이 모자라게 돼요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "대도시 주변에 신도시를 만드는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "농촌 인구를 늘리려고",
+      "공장을 모두 없애려고",
+      "대도시에 몰린 인구를 나누려고",
+      "산을 그대로 두려고"
+    ],
+    "answer": 2,
+    "explanation": "신도시는 대도시에 몰린 사람과 기능을 나누어 도시 문제를 줄이려고 만들어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "교통이 발달하면서 나타난 변화로 알맞지 않은 것은?",
+    "choices": [
+      "먼 곳도 하루에 오갈 수 있다",
+      "물건을 빨리 나를 수 있다",
+      "관광하는 사람이 늘었다",
+      "지역 사이 교류가 줄었다"
+    ],
+    "answer": 3,
+    "explanation": "교통이 발달하면 지역 사이를 오가기 쉬워져 교류가 오히려 늘어나요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도로 위나 아래에 ‘생태 통로’를 만드는 까닭은?",
+    "choices": [
+      "끊긴 동물의 이동 길을 이으려고",
+      "차가 더 빨리 달리게 하려고",
+      "관광객을 모으려고",
+      "공장을 세우려고"
+    ],
+    "answer": 0,
+    "explanation": "생태 통로는 도로 때문에 끊긴 숲을 이어 동물이 안전하게 다니게 해요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "갯벌을 보전해야 하는 까닭으로 알맞지 않은 것은?",
+    "choices": [
+      "다양한 생물이 살아서",
+      "넓은 공장 부지로 쓰기 좋아서",
+      "오염 물질을 걸러 주어서",
+      "홍수 때 물을 머금어 주어서"
+    ],
+    "answer": 1,
+    "explanation": "갯벌은 생물의 집이고 자연 정화를 해요. 공장 부지로 쓰는 것은 보전과 반대예요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "위도가 같으면 지구 어느 곳이든 기후가 모두 똑같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "위도가 같아도 바다와의 거리, 지형, 바람에 따라 기후가 달라요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "서해 5도 가운데 하나로 우리나라 서북쪽 바다에 있는 섬은?",
+    "choices": [
+      "거제도",
+      "울릉도",
+      "백령도",
+      "진도"
+    ],
+    "answer": 2,
+    "explanation": "백령도는 서해 5도 중 하나로 서북쪽 바다에 있어요. 거제도·진도는 남해에 있어요.",
+    "semester": 1,
+    "unit": "우리나라 국토 여행"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사람이라면 누구나 태어날 때부터 가지는 기본적인 권리는?",
+    "choices": [
+      "의무",
+      "벌칙",
+      "세금",
+      "인권"
+    ],
+    "answer": 3,
+    "explanation": "인권은 사람답게 살기 위해 누구나 태어날 때부터 가지는 권리예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "조선 시대에 ‘홍길동전’을 지어 신분 차별을 비판한 사람은?",
+    "choices": [
+      "허균",
+      "정약용",
+      "김정호",
+      "방정환"
+    ],
+    "answer": 0,
+    "explanation": "허균은 홍길동전에서 서자라는 이유로 받는 차별을 비판했어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "‘○○는 키가 작아서 농구를 못 할 거야.’ 이 말에서 문제가 되는 점은?",
+    "choices": [
+      "운동 규칙을 알려 주었다",
+      "신체 특징으로 미리 판단했다",
+      "친구를 칭찬했다",
+      "사실만 정확히 전했다"
+    ],
+    "answer": 1,
+    "explanation": "키 같은 신체 특징으로 할 수 있는 일을 미리 정하는 것은 차별이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어린이의 쉴 권리, 놀 권리 등을 정한 국제 약속은?",
+    "choices": [
+      "파리 기후 협정",
+      "올림픽 헌장",
+      "유엔 아동 권리 협약",
+      "강화도 조약"
+    ],
+    "answer": 2,
+    "explanation": "유엔 아동 권리 협약에는 어린이의 생존, 보호, 발달, 참여 권리가 담겨 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "세계 인권 선언은 제2차 세계 대전이 끝난 뒤 국제 연합(유엔)에서 발표했어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "전쟁으로 많은 인권이 짓밟힌 뒤 1948년 유엔에서 세계 인권 선언을 발표했어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "헌법을 고치려면 마지막에 반드시 거쳐야 하는 절차는?",
+    "choices": [
+      "대통령 혼자 결정",
+      "국회 의원 한 명의 결정",
+      "시장의 허락",
+      "국민 투표"
+    ],
+    "answer": 3,
+    "explanation": "헌법은 가장 중요한 법이라 고칠 때 국민 투표로 국민의 뜻을 물어야 해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "제헌절은 무엇을 기념하는 날일까요?",
+    "choices": [
+      "헌법을 만들어 널리 알린 날",
+      "한글을 만들어 알린 날",
+      "나라를 되찾은 날",
+      "나라를 처음 세운 날"
+    ],
+    "answer": 0,
+    "explanation": "제헌절(7월 17일)은 1948년 헌법을 만들어 널리 알린 것을 기념해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "기본권과 그 예를 바르게 짝지은 것은?",
+    "choices": [
+      "참정권 - 교육을 받는다",
+      "자유권 - 원하는 직업을 고른다",
+      "평등권 - 재판을 청구한다",
+      "사회권 - 선거에서 투표한다"
+    ],
+    "answer": 1,
+    "explanation": "직업을 스스로 고르는 것은 자유권이에요. 교육은 사회권, 투표는 참정권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 나머지 셋과 다른 기본권에 속하는 것은?",
+    "choices": [
+      "살 곳을 스스로 정한다",
+      "종교를 스스로 고른다",
+      "선거에서 투표한다",
+      "원하는 직업을 고른다"
+    ],
+    "answer": 2,
+    "explanation": "투표는 참정권이고, 나머지 셋은 스스로 선택하는 자유권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "나라 살림에 필요한 돈을 내는 국민의 의무는?",
+    "choices": [
+      "국방의 의무",
+      "교육의 의무",
+      "근로의 의무",
+      "납세의 의무"
+    ],
+    "answer": 3,
+    "explanation": "세금을 내는 의무를 납세의 의무라고 해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "국방의 의무를 지키는 모습으로 알맞은 것은?",
+    "choices": [
+      "군대에 가서 나라를 지킨다",
+      "세금을 성실히 낸다",
+      "자녀를 학교에 보낸다",
+      "쓰레기를 분리해서 버린다"
+    ],
+    "answer": 0,
+    "explanation": "국방의 의무는 나라를 지키는 의무로, 군대에 가는 것이 대표적이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "밤늦게 윗집 피아노 소리로 아랫집이 잠을 못 자요. 알맞은 해결 방법은?",
+    "choices": [
+      "더 큰 소리로 음악을 튼다",
+      "서로 이야기해 연주 시간을 정한다",
+      "무조건 피아노를 버리게 한다",
+      "아무 말 없이 참기만 한다"
+    ],
+    "answer": 1,
+    "explanation": "권리가 부딪칠 때는 대화로 서로의 권리를 존중하는 방법을 찾아요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "반려견과 공원을 산책할 때 지켜야 할 일로 알맞은 것은?",
+    "choices": [
+      "목줄을 풀어 마음껏 뛰게 한다",
+      "배설물을 그대로 둔다",
+      "목줄을 하고 배설물을 치운다",
+      "어린이 놀이터에 풀어 둔다"
+    ],
+    "answer": 2,
+    "explanation": "내 권리를 누리면서 다른 사람에게 피해를 주지 않도록 규칙을 지켜야 해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "법이 없다면 생길 수 있는 일로 가장 알맞은 것은?",
+    "choices": [
+      "모두가 더 안전해진다",
+      "질서가 더 잘 지켜진다",
+      "약한 사람이 더 잘 보호된다",
+      "다툼을 공정하게 풀기 어렵다"
+    ],
+    "answer": 3,
+    "explanation": "법이 없으면 공정한 기준이 없어 다툼을 해결하기 어렵고 질서가 무너져요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "음식점이 재료의 원산지를 표시하도록 한 법이 지켜 주는 것은?",
+    "choices": [
+      "소비자가 알고 고를 권리",
+      "가게 주인의 비밀",
+      "음식 값을 올릴 자유",
+      "식당의 영업 시간"
+    ],
+    "answer": 0,
+    "explanation": "원산지를 알려 주면 소비자가 정확한 정보를 보고 물건을 고를 수 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 개인 정보에 해당하지 않는 것은?",
+    "choices": [
+      "집 주소",
+      "학교 급식 식단표",
+      "휴대 전화 번호",
+      "이름과 생년월일"
+    ],
+    "answer": 1,
+    "explanation": "급식 식단표는 누구인지 알 수 있는 정보가 아니라서 개인 정보가 아니에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "나이, 장애와 상관없이 모두가 쓰기 편하게 처음부터 만드는 설계는?",
+    "choices": [
+      "패스트 패션",
+      "스마트 팜",
+      "유니버설 디자인",
+      "인공 지능"
+    ],
+    "answer": 2,
+    "explanation": "유니버설 디자인은 누구나 편하게 쓸 수 있도록 처음부터 고려한 설계예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "남자와 여자는 할 수 있는 직업이 정해져 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "성별과 상관없이 누구나 원하는 직업을 가질 수 있어요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "다른 나라에서 와서 우리나라에 사는 사람도 인권을 존중받아야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "인권은 국적과 관계없이 모든 사람이 누려야 하는 권리예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "‘모든 국민은 거주·이전의 자유를 가진다.’ 이 조항 덕분에 할 수 있는 일은?",
+    "choices": [
+      "세금을 내지 않는다",
+      "재판을 받지 않는다",
+      "투표를 두 번 한다",
+      "원하는 곳으로 이사한다"
+    ],
+    "answer": 3,
+    "explanation": "거주·이전의 자유는 살 곳을 스스로 정하고 옮길 수 있는 자유권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "‘국가는 노인과 청소년의 복지를 높이는 정책을 펴야 한다.’ 이 조항과 관련된 기본권은?",
+    "choices": [
+      "사회권",
+      "자유권",
+      "참정권",
+      "청구권"
+    ],
+    "answer": 0,
+    "explanation": "국가에 인간다운 생활을 보장받는 권리는 사회권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구의 인권을 존중하는 말로 가장 알맞은 것은?",
+    "choices": [
+      "늦게 온 사람은 빼고 하자",
+      "생각이 달라도 끝까지 들어 줄게",
+      "내 마음대로 정할게",
+      "너는 말하지 말고 듣기만 해"
+    ],
+    "answer": 1,
+    "explanation": "다른 생각도 끝까지 들어 주는 것은 친구의 의견을 존중하는 태도예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인권을 보장하려고 국가가 하는 일로 알맞지 않은 것은?",
+    "choices": [
+      "인권 관련 법을 만든다",
+      "인권 교육을 한다",
+      "국민의 의견 표현을 막는다",
+      "차별 사례를 조사한다"
+    ],
+    "answer": 2,
+    "explanation": "국가는 인권을 지키는 법과 제도를 만들어요. 의견 표현을 막는 것은 인권 침해예요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "헌법에는 국민의 권리뿐 아니라 국가 기관을 어떻게 만들고 운영할지도 담겨 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "헌법은 국민의 기본권과 함께 국회, 정부, 법원 같은 국가 기관의 구성도 정해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "청소년에게 술과 담배를 팔지 못하게 한 법의 목적은?",
+    "choices": [
+      "가게 매출을 늘리려고",
+      "세금을 더 걷으려고",
+      "어른만 편하게 하려고",
+      "청소년의 건강을 보호하려고"
+    ],
+    "answer": 3,
+    "explanation": "술과 담배는 성장기 청소년 건강에 해로워서 법으로 판매를 막아요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "평등권이 지켜지는 모습으로 알맞은 것은?",
+    "choices": [
+      "성별과 관계없이 회장 후보가 된다",
+      "원하는 종교를 믿는다",
+      "학교에서 교육을 받는다",
+      "잘못된 처분에 재판을 청구한다"
+    ],
+    "answer": 0,
+    "explanation": "성별로 차별받지 않고 같은 기회를 얻는 것이 평등권이에요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "자신의 인권은 다른 사람의 인권을 침해하면서까지 마음대로 누릴 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "내 인권이 소중한 만큼 다른 사람의 인권도 존중하며 누려야 해요.",
+    "semester": 1,
+    "unit": "법과 인권의 보장"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "신석기 시대 사람들이 음식을 저장하거나 조리할 때 쓴 토기는?",
+    "choices": [
+      "상감 청자",
+      "빗살무늬 토기",
+      "조선 백자",
+      "비파형 동검"
+    ],
+    "answer": 1,
+    "explanation": "신석기 사람들은 빗살무늬 토기에 곡식을 담거나 음식을 익혔어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "구석기와 신석기 시대를 비교한 것으로 알맞은 것은?",
+    "choices": [
+      "구석기 때 청동 도구를 썼다",
+      "신석기 때 금속 활자를 만들었다",
+      "신석기 때 농사를 짓기 시작했다",
+      "구석기 때 큰 성을 쌓았다"
+    ],
+    "answer": 2,
+    "explanation": "구석기 사람들은 사냥과 채집을 했고, 신석기 때 농사를 짓고 정착했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "도구가 쓰이기 시작한 순서로 알맞은 것은?",
+    "choices": [
+      "간석기 → 뗀석기 → 청동기",
+      "청동기 → 뗀석기 → 간석기",
+      "뗀석기 → 청동기 → 간석기",
+      "뗀석기 → 간석기 → 청동기"
+    ],
+    "answer": 3,
+    "explanation": "돌을 깨뜨린 뗀석기, 갈아 만든 간석기, 그다음 청동기 순서로 쓰였어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고조선을 세웠다고 전해지는 사람은?",
+    "choices": [
+      "단군왕검",
+      "주몽",
+      "온조",
+      "박혁거세"
+    ],
+    "answer": 0,
+    "explanation": "단군왕검이 고조선을 세웠다고 전해져요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "신라를 세운 사람으로 알려진 인물은?",
+    "choices": [
+      "김수로",
+      "박혁거세",
+      "대조영",
+      "왕건"
+    ],
+    "answer": 1,
+    "explanation": "신라는 박혁거세가 세웠다고 전해져요. 김수로는 금관가야를 세웠어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "철이 풍부했고 작은 나라들이 연맹을 이루다가 신라에 통합된 나라는?",
+    "choices": [
+      "부여",
+      "발해",
+      "가야",
+      "고려"
+    ],
+    "answer": 2,
+    "explanation": "가야는 철이 많이 나서 철기 문화가 발달했지만 결국 신라에 통합되었어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "백제의 뛰어난 금속 공예 기술을 보여 주는 문화유산은?",
+    "choices": [
+      "석굴암",
+      "첨성대",
+      "수원 화성",
+      "백제 금동 대향로"
+    ],
+    "answer": 3,
+    "explanation": "백제 금동 대향로는 섬세한 장식으로 백제의 공예 기술을 잘 보여 줘요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "신라 선덕 여왕 때 세운 것으로, 하늘을 관측한 건축물로 알려진 것은?",
+    "choices": [
+      "첨성대",
+      "석굴암",
+      "경복궁",
+      "수원 화성"
+    ],
+    "answer": 0,
+    "explanation": "첨성대는 신라 선덕 여왕 때 별을 관측하려고 세운 것으로 알려져 있어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고구려 사람들의 사냥, 춤 같은 생활 모습을 알 수 있는 자료는?",
+    "choices": [
+      "훈민정음",
+      "고분 벽화",
+      "대동여지도",
+      "측우기"
+    ],
+    "answer": 1,
+    "explanation": "고구려 무덤 안 벽화에 사냥하고 춤추는 모습이 그려져 있어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "통일 신라 때 세운 불국사에 있는 두 탑은?",
+    "choices": [
+      "첨성대와 석빙고",
+      "숭례문과 흥인지문",
+      "다보탑과 석가탑",
+      "경복궁과 창덕궁"
+    ],
+    "answer": 2,
+    "explanation": "불국사에는 화려한 다보탑과 단정한 석가탑이 나란히 서 있어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "발해가 크게 번성하자 이웃 나라에서 부른 이름은?",
+    "choices": [
+      "동방예의지국",
+      "삼한",
+      "대한 제국",
+      "해동성국"
+    ],
+    "answer": 3,
+    "explanation": "해동성국은 ‘바다 동쪽의 번성한 나라’라는 뜻으로 발해를 부른 이름이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "후삼국을 통일하고 고려를 세운 사람은?",
+    "choices": [
+      "왕건",
+      "견훤",
+      "궁예",
+      "이성계"
+    ],
+    "answer": 0,
+    "explanation": "왕건이 고려를 세우고 후삼국을 통일했어요. 이성계는 조선을 세웠어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고려에 침입한 세력을 먼저 쳐들어온 순서대로 나열한 것은?",
+    "choices": [
+      "몽골 → 거란",
+      "거란 → 몽골",
+      "수나라 → 몽골",
+      "청 → 거란"
+    ],
+    "answer": 1,
+    "explanation": "고려는 먼저 거란의 침입을 막아 냈고, 그 뒤 몽골의 침입을 받았어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고려 상감 청자를 만든 상감 기법에 대한 설명으로 알맞은 것은?",
+    "choices": [
+      "쇠를 녹여 활자를 만들었다",
+      "나무판에 글자를 새겼다",
+      "무늬를 판 자리에 다른 색 흙을 채웠다",
+      "흰 흙만으로 무늬 없이 구웠다"
+    ],
+    "answer": 2,
+    "explanation": "상감 기법은 그릇에 무늬를 파고 흰 흙, 붉은 흙을 메워 굽는 방법이에요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "이성계를 도와 조선의 기틀을 마련하고 한양 도읍 설계에 힘쓴 인물은?",
+    "choices": [
+      "이순신",
+      "김정호",
+      "정약용",
+      "정도전"
+    ],
+    "answer": 3,
+    "explanation": "정도전은 조선 건국을 이끌고 한양의 궁궐과 도읍 설계에 힘썼어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "조선이 한양에 가장 먼저 지은 으뜸 궁궐은?",
+    "choices": [
+      "경복궁",
+      "창덕궁",
+      "덕수궁",
+      "경희궁"
+    ],
+    "answer": 0,
+    "explanation": "경복궁은 조선을 세운 뒤 한양에 가장 먼저 지은 궁궐이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세종 대왕 때 학자들이 모여 연구하던 기관은?",
+    "choices": [
+      "성균관",
+      "집현전",
+      "향교",
+      "서당"
+    ],
+    "answer": 1,
+    "explanation": "세종은 집현전에 학자들을 모아 여러 연구를 하게 했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세종 때 우리 땅에 맞는 농사 방법을 모아 펴낸 책은?",
+    "choices": [
+      "동의보감",
+      "목민심서",
+      "농사직설",
+      "경국대전"
+    ],
+    "answer": 2,
+    "explanation": "농사직설은 농민들의 경험을 모아 우리 실정에 맞는 농사법을 정리한 책이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "조선 시대에 통역, 의학 같은 기술직을 주로 맡은 신분은?",
+    "choices": [
+      "양반",
+      "상민",
+      "천민",
+      "중인"
+    ],
+    "answer": 3,
+    "explanation": "중인은 양반과 상민 사이 신분으로 통역관, 의원 같은 일을 맡았어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "임진왜란 때 조선에 군대를 보내 도운 나라는?",
+    "choices": [
+      "명",
+      "청",
+      "몽골",
+      "거란"
+    ],
+    "answer": 0,
+    "explanation": "임진왜란 때 명나라가 군대를 보내 조선을 도왔어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "병자호란의 결과로 알맞은 것은?",
+    "choices": [
+      "조선이 일본을 물리치고 영토를 넓혔다",
+      "조선이 청에 항복했다",
+      "고려가 새로 세워졌다",
+      "훈민정음이 만들어졌다"
+    ],
+    "answer": 1,
+    "explanation": "병자호란 때 인조는 남한산성에서 버티다 결국 청에 항복했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "조선 후기 모내기법이 널리 퍼지면서 나타난 변화는?",
+    "choices": [
+      "농사를 짓는 사람이 사라졌다",
+      "쌀 생산이 크게 줄었다",
+      "같은 땅에서 거두는 곡식이 늘었다",
+      "벼농사를 금지했다"
+    ],
+    "answer": 2,
+    "explanation": "모내기법으로 일손이 줄고 수확이 늘어 농업 생산이 크게 늘었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "광해군 때 허준이 완성한 의학 책은?",
+    "choices": [
+      "농사직설",
+      "목민심서",
+      "훈민정음 해례본",
+      "동의보감"
+    ],
+    "answer": 3,
+    "explanation": "허준은 여러 의학 지식을 모아 동의보감을 완성했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정약용이 지방 관리가 백성을 다스릴 때 지킬 도리를 쓴 책은?",
+    "choices": [
+      "목민심서",
+      "동의보감",
+      "경국대전",
+      "농사직설"
+    ],
+    "answer": 0,
+    "explanation": "목민심서는 관리가 백성을 바르게 돌보는 방법을 담은 정약용의 책이에요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "조선 후기 서민들이 즐기며 양반을 풍자하기도 한 놀이는?",
+    "choices": [
+      "과거 시험",
+      "탈놀이",
+      "종묘 제례",
+      "궁중 잔치"
+    ],
+    "answer": 1,
+    "explanation": "탈을 쓰고 춤추는 탈놀이에서 서민들은 양반의 잘못을 풍자했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "흥선 대원군 때 서양 세력이 강화도에 쳐들어온 두 사건은?",
+    "choices": [
+      "임진왜란과 정유재란",
+      "살수 대첩과 귀주 대첩",
+      "병인양요와 신미양요",
+      "봉오동 전투와 청산리 전투"
+    ],
+    "answer": 2,
+    "explanation": "프랑스가 침입한 병인양요, 미국이 침입한 신미양요를 조선이 막아 냈어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "독립 협회가 자주독립의 뜻을 담아 세운 문은?",
+    "choices": [
+      "숭례문",
+      "흥인지문",
+      "광화문",
+      "독립문"
+    ],
+    "answer": 3,
+    "explanation": "독립 협회는 청의 사신을 맞던 영은문 자리 근처에 독립문을 세웠어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "나라를 지키려고 백성들이 스스로 무기를 들고 일본에 맞서 싸운 군대를 무엇이라 할까요?",
+    "choices": [
+      "의병",
+      "삼별초",
+      "별기군",
+      "화랑"
+    ],
+    "answer": 0,
+    "explanation": "을사늑약 뒤 전국 곳곳에서 의병이 일어나 일본에 맞서 싸웠어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1910년 일제가 대한 제국의 주권을 완전히 빼앗은 일을 무엇이라 할까요?",
+    "choices": [
+      "3·1 운동",
+      "국권 피탈",
+      "광복",
+      "갑오개혁"
+    ],
+    "answer": 1,
+    "explanation": "1910년 일제가 대한 제국의 국권을 빼앗아 식민 지배를 시작했어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "독립운동가와 한 일을 바르게 짝지은 것은?",
+    "choices": [
+      "김좌진 - 하얼빈 의거",
+      "유관순 - 청산리 전투",
+      "김구 - 한인 애국단 조직",
+      "윤봉길 - 대동여지도 제작"
+    ],
+    "answer": 2,
+    "explanation": "김구는 임시 정부에서 한인 애국단을 만들어 독립운동을 이끌었어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "일제 강점기에 조선어 학회가 우리말 사전을 만들려고 한 까닭은?",
+    "choices": [
+      "일본어를 널리 퍼뜨리려고",
+      "외국과 무역을 늘리려고",
+      "과거 시험을 준비하려고",
+      "우리말을 지켜 민족정신을 이으려고"
+    ],
+    "answer": 3,
+    "explanation": "일제가 우리말을 못 쓰게 하자 우리말을 지켜 민족정신을 이으려 했어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "광복 뒤 우리 땅이 남과 북으로 나뉘게 된 까닭은?",
+    "choices": [
+      "38도선을 경계로 미군과 소련군이 들어와서",
+      "임진왜란이 일어나서",
+      "고려가 세워져서",
+      "휴전선이 먼저 그어져서"
+    ],
+    "answer": 0,
+    "explanation": "광복 뒤 38도선 남쪽에는 미군, 북쪽에는 소련군이 들어오며 나뉘었어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "6·25 전쟁이 멈추면서 남과 북 사이에 그어진 경계선은?",
+    "choices": [
+      "38도선",
+      "휴전선",
+      "적도",
+      "본초 자오선"
+    ],
+    "answer": 1,
+    "explanation": "1953년 정전 협정으로 휴전선이 그어져 오늘날 남북의 경계가 되었어요.",
+    "semester": 2,
+    "unit": "식민 통치와 저항, 전쟁"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "문화유산이 만들어진 시대 순서로 알맞은 것은?",
+    "choices": [
+      "팔만대장경 → 첨성대 → 수원 화성",
+      "수원 화성 → 첨성대 → 팔만대장경",
+      "첨성대 → 팔만대장경 → 수원 화성",
+      "첨성대 → 수원 화성 → 팔만대장경"
+    ],
+    "answer": 2,
+    "explanation": "첨성대는 신라, 팔만대장경은 고려, 수원 화성은 조선 후기에 만들었어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "인물이 활동한 시대가 이른 순서로 알맞은 것은?",
+    "choices": [
+      "강감찬 → 을지문덕 → 이순신",
+      "이순신 → 강감찬 → 을지문덕",
+      "을지문덕 → 이순신 → 강감찬",
+      "을지문덕 → 강감찬 → 이순신"
+    ],
+    "answer": 3,
+    "explanation": "을지문덕은 고구려, 강감찬은 고려, 이순신은 조선 때 활동했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "첨성대는 고려 시대에 세워졌어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "첨성대는 신라 선덕 여왕 때 세워졌어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "훈민정음은 처음 만들었을 때 모두 28자였어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "훈민정음은 자음 17자, 모음 11자로 모두 28자였어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "거북선은 병자호란 때 처음 만들어 싸움에 썼어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "거북선은 이순신이 임진왜란 무렵 만들어 왜군과의 싸움에 썼어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세종 때 북쪽 여진을 몰아내고 국경을 넓히며 설치한 것은?",
+    "choices": [
+      "4군 6진",
+      "강동 6주",
+      "천리장성",
+      "척화비"
+    ],
+    "answer": 0,
+    "explanation": "세종 때 최윤덕, 김종서가 여진을 몰아내고 4군 6진을 설치했어요.",
+    "semester": 2,
+    "unit": "달라지는 시대와 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "고조선이 멸망하게 된 까닭으로 알맞은 것은?",
+    "choices": [
+      "몽골의 침입",
+      "중국 한나라의 침입",
+      "일본의 침입",
+      "청의 침입"
+    ],
+    "answer": 1,
+    "explanation": "고조선은 중국 한나라의 공격을 받아 멸망했어요.",
+    "semester": 2,
+    "unit": "옛사람들의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 지역의 달마다 평균 기온과 강수량을 나타낸 그래프는?",
+    "choices": [
+      "기후 그래프",
+      "인구 분포도",
+      "등고선 지도",
+      "축척 막대"
+    ],
+    "answer": 0,
+    "explanation": "기후 그래프로 한 지역의 기온과 강수량을 알아봐요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "기후 그래프에서 막대로 주로 나타내는 것은?",
+    "choices": [
+      "기온",
+      "인구",
+      "강수량",
+      "바람 방향"
+    ],
+    "answer": 2,
+    "explanation": "보통 막대는 강수량, 꺾은선은 기온을 나타내요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어느 도시의 1월 평균 기온이 영하 2℃, 8월이 26℃예요. 두 달의 기온 차는?",
+    "choices": [
+      "24℃",
+      "26℃",
+      "2℃",
+      "28℃"
+    ],
+    "answer": 3,
+    "explanation": "영하 2℃에서 0℃까지 2℃, 0℃에서 26℃까지 26℃라서 모두 28℃ 차이가 나요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "봄에 따뜻하다가 갑자기 찬 공기가 내려와 추워지는 현상은?",
+    "choices": [
+      "열대야",
+      "장마",
+      "폭염",
+      "꽃샘추위"
+    ],
+    "answer": 3,
+    "explanation": "꽃이 필 무렵 찾아오는 추위를 꽃샘추위라고 해요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "밤에도 기온이 25℃ 아래로 내려가지 않아 잠들기 어려운 현상은?",
+    "choices": [
+      "꽃샘추위",
+      "열대야",
+      "황사",
+      "한파"
+    ],
+    "answer": 1,
+    "explanation": "밤 최저 기온이 25℃ 이상이면 열대야라고 해요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 가을 날씨의 특징으로 알맞은 것은?",
+    "choices": [
+      "장마로 비가 계속 와요",
+      "매우 춥고 눈이 많아요",
+      "하늘이 맑고 선선해요",
+      "찜통더위가 이어져요"
+    ],
+    "answer": 2,
+    "explanation": "가을에는 맑고 선선한 날이 많아요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "겨울에 기온이 갑자기 크게 떨어져 매우 추운 현상은?",
+    "choices": [
+      "한파",
+      "열대야",
+      "폭염",
+      "장마"
+    ],
+    "answer": 0,
+    "explanation": "한파가 오면 수도관이 얼 수 있어 대비해야 해요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "계절과 대비 방법을 짝지은 것 중 알맞지 않은 것은?",
+    "choices": [
+      "여름 - 두꺼운 외투 준비",
+      "봄 - 미세 먼지 마스크 쓰기",
+      "여름 - 배수로 미리 점검",
+      "겨울 - 수도관 얼지 않게 감싸기"
+    ],
+    "answer": 0,
+    "explanation": "두꺼운 외투는 추운 겨울에 필요해요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오랜 시간에 걸쳐 지구의 평균 기온이 오르는 등 기후가 달라지는 것은?",
+    "choices": [
+      "일교차",
+      "계절풍",
+      "기후변화",
+      "해륙풍"
+    ],
+    "answer": 2,
+    "explanation": "기후가 오랜 기간에 걸쳐 바뀌는 것을 기후변화라고 해요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기후변화의 주된 원인으로 알맞은 것은?",
+    "choices": [
+      "나무를 많이 심어서",
+      "석탄·석유를 많이 태워 온실가스가 늘어서",
+      "사람들이 많이 걸어서",
+      "달이 지구에 가까워져서"
+    ],
+    "answer": 1,
+    "explanation": "온실가스가 늘면 지구의 평균 기온이 올라가요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "기후변화로 우리나라에 나타나는 변화로 알맞지 않은 것은?",
+    "choices": [
+      "사과 재배지가 북쪽으로 옮겨 가요",
+      "열대 과일을 기르는 곳이 늘어요",
+      "봄꽃이 피는 시기가 빨라져요",
+      "여름이 짧아지고 겨울이 길어져요"
+    ],
+    "answer": 3,
+    "explanation": "기후변화로 여름은 길어지고 겨울은 짧아지고 있어요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "100여 년 전과 최근을 비교하니 여름은 98일→118일, 겨울은 109일→87일이에요. 알 수 있는 것은?",
+    "choices": [
+      "여름과 겨울 모두 길어졌어요",
+      "여름은 짧아지고 겨울은 길어졌어요",
+      "계절 길이는 변하지 않았어요",
+      "여름은 길어지고 겨울은 짧아졌어요"
+    ],
+    "answer": 3,
+    "explanation": "여름은 20일쯤 늘고 겨울은 20일쯤 줄었어요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "기온이 오르면서 사과를 많이 기르는 곳이 점점 남쪽으로 옮겨 가고 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "사과는 서늘한 곳을 좋아해 재배지가 북쪽으로 옮겨 가요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "짧은 시간에 좁은 지역에 비가 한꺼번에 많이 쏟아지는 것은?",
+    "choices": [
+      "가뭄",
+      "집중 호우",
+      "황사",
+      "한파"
+    ],
+    "answer": 1,
+    "explanation": "집중 호우가 내리면 홍수나 산사태가 날 수 있어요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기후변화로 폭염, 집중 호우 같은 재해가 잦아지면 생길 수 있는 일은?",
+    "choices": [
+      "재해 대비가 필요 없어져요",
+      "날씨가 1년 내내 같아져요",
+      "사람과 재산 피해가 커질 수 있어요",
+      "농작물 수확이 늘 늘어나요"
+    ],
+    "answer": 2,
+    "explanation": "자연재해가 잦아지고 강해지면 피해가 커질 수 있어요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "온실가스를 줄이고 흡수해 실제 배출량을 0으로 만들려는 노력은?",
+    "choices": [
+      "탄소 중립",
+      "도시화",
+      "인구 이동",
+      "지역 축제"
+    ],
+    "answer": 0,
+    "explanation": "배출한 만큼 줄이거나 흡수해 0을 만드는 것이 탄소 중립이에요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "기후변화를 늦추려는 생활 속 실천으로 알맞은 것은?",
+    "choices": [
+      "가까운 곳은 걷거나 자전거로 가요",
+      "에어컨을 켜고 문을 열어 둬요",
+      "일회용 컵을 날마다 써요",
+      "쓰지 않는 전등을 켜 둬요"
+    ],
+    "answer": 0,
+    "explanation": "걷거나 자전거를 타면 온실가스를 줄일 수 있어요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "기후변화는 먼 나라 일이라서 우리 생활과는 관계가 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "기후변화는 우리 날씨와 농사, 생활에도 영향을 줘요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "바닷물의 높이가 높아지는 것도 기후변화로 나타날 수 있는 현상이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "기온이 오르면 빙하가 녹아 해수면이 높아질 수 있어요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "폭염 특보가 내렸을 때 지역에서 할 대책으로 가장 알맞은 것은?",
+    "choices": [
+      "공원 그늘막을 치워요",
+      "혼자 사는 노인 방문을 줄여요",
+      "무더위 쉼터를 열어요",
+      "한낮 야외 행사를 늘려요"
+    ],
+    "answer": 2,
+    "explanation": "무더위 쉼터는 더위를 피할 곳을 마련해 줘요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A 도시는 1월 -10℃, 연 강수량 600㎜, B 도시는 1월 5℃, 연 강수량 1,800㎜예요. 알맞은 해석은?",
+    "choices": [
+      "A가 B보다 겨울이 따뜻해요",
+      "B가 A보다 겨울이 따뜻하고 비가 많아요",
+      "A가 B보다 비가 많이 와요",
+      "두 도시의 기후는 같아요"
+    ],
+    "answer": 1,
+    "explanation": "B는 1월 기온이 높고 강수량도 많아요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "오늘 우리 동네에 비가 왔다는 것은 우리 지역의 기후를 나타내요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "기후는 오랜 기간의 평균 날씨라 하루 날씨와 달라요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리 지역 기온이 정말 올랐는지 탐구할 때 가장 알맞은 자료는?",
+    "choices": [
+      "어제 하루의 기온",
+      "내일 날씨 예보",
+      "친구가 느낀 더위",
+      "수십 년 동안의 평균 기온 기록"
+    ],
+    "answer": 3,
+    "explanation": "기후변화는 오랜 기간의 기록으로 확인해요.",
+    "standard": "[6사02-01]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1㎢ 넓이에 사는 사람 수를 무엇이라고 할까요?",
+    "choices": [
+      "인구 이동",
+      "강수량",
+      "해발 고도",
+      "인구 밀도"
+    ],
+    "answer": 3,
+    "explanation": "인구 밀도로 사람이 얼마나 모여 사는지 알 수 있어요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라에서 대체로 인구가 적게 사는 곳은?",
+    "choices": [
+      "넓은 평야",
+      "높고 험한 산지",
+      "대도시",
+      "교통이 편리한 곳"
+    ],
+    "answer": 1,
+    "explanation": "산지는 교통이 불편하고 땅이 험해 인구가 적어요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라 인구가 많이 모여 사는 곳의 지형으로 알맞은 것은?",
+    "choices": [
+      "동쪽의 높은 산지",
+      "높은 고원",
+      "서쪽·남쪽의 평야와 해안",
+      "깊은 산골짜기"
+    ],
+    "answer": 2,
+    "explanation": "평야와 해안은 농사와 교통에 유리해 사람이 많이 살아요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "서울, 인천, 경기도를 함께 부르는 말은?",
+    "choices": [
+      "수도권",
+      "영남권",
+      "호남권",
+      "충청권"
+    ],
+    "answer": 0,
+    "explanation": "서울과 그 주변 인천, 경기도를 수도권이라고 해요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "넓이 10㎢인 곳에 5,000명이 살아요. 이곳의 인구 밀도는?",
+    "choices": [
+      "1㎢당 500명",
+      "1㎢당 50명",
+      "1㎢당 5,000명",
+      "1㎢당 50,000명"
+    ],
+    "answer": 0,
+    "explanation": "5,000÷10=500이라서 1㎢당 500명이에요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A 지역은 100㎢에 2만 명, B 지역은 20㎢에 1만 명이 살아요. 알맞은 것은?",
+    "choices": [
+      "A가 B보다 인구 밀도가 높아요",
+      "두 지역 인구 밀도가 같아요",
+      "B가 A보다 인구 밀도가 높아요",
+      "인구가 많은 A가 늘 더 붐벼요"
+    ],
+    "answer": 2,
+    "explanation": "A는 1㎢당 200명, B는 500명이라 B가 더 높아요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인구가 너무 많이 몰린 대도시의 문제로 알맞지 않은 것은?",
+    "choices": [
+      "길이 자주 막혀요",
+      "학생이 줄어 학교가 문을 닫아요",
+      "집이 부족하고 값이 올라요",
+      "쓰레기와 오염이 늘어요"
+    ],
+    "answer": 1,
+    "explanation": "학교가 문을 닫는 것은 인구가 줄어든 촌락의 문제예요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "인구가 크게 줄어든 촌락에서 나타나기 쉬운 문제는?",
+    "choices": [
+      "차가 몰려 길이 막혀요",
+      "집이 모자라 값이 올라요",
+      "쓰레기가 넘쳐나요",
+      "학생이 줄어 학교가 문을 닫아요"
+    ],
+    "answer": 3,
+    "explanation": "촌락은 인구가 줄어 학교와 시설이 문을 닫기도 해요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "촌락에 병원·문화 시설이 부족해 젊은 사람이 떠나면 이어서 생기기 쉬운 일은?",
+    "choices": [
+      "시설이 저절로 늘어나요",
+      "인구가 갑자기 늘어나요",
+      "교통 체증이 심해져요",
+      "시설이 더 줄어드는 일이 되풀이돼요"
+    ],
+    "answer": 3,
+    "explanation": "사람이 떠나면 시설이 더 줄고 다시 사람이 떠나기 쉬워요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지역 간 인구 차이를 줄이려는 노력으로 알맞은 것은?",
+    "choices": [
+      "모든 기업을 서울로 모아요",
+      "공공기관을 지방으로 옮겨요",
+      "촌락 버스 노선을 줄여요",
+      "지방 학교를 없애요"
+    ],
+    "answer": 1,
+    "explanation": "공공기관을 지방으로 옮기면 일자리가 생겨 인구가 늘 수 있어요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도시 사람이 촌락으로 옮겨 농사를 짓도록 돕는 정책은?",
+    "choices": [
+      "도시 재개발",
+      "통행료 인상",
+      "귀농 지원",
+      "공장 이전 금지"
+    ],
+    "answer": 2,
+    "explanation": "귀농 지원은 촌락 인구를 늘리는 데 도움이 돼요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "우리나라 인구는 모든 지역에 고르게 퍼져 살고 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "인구는 수도권과 대도시에 많이 몰려 있어요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "인구 밀도가 높은 곳은 같은 넓이에 사는 사람이 많은 곳이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "인구 밀도가 높으면 사람이 빽빽하게 모여 살아요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시·도별 인구 분포를 한눈에 비교하려면 어떤 자료가 가장 알맞을까요?",
+    "choices": [
+      "인구 분포 지도",
+      "기후 그래프",
+      "등고선 지형도",
+      "여행 사진"
+    ],
+    "answer": 0,
+    "explanation": "인구 분포 지도는 지역별 인구를 색이나 점으로 보여 줘요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "도시에 사는 인구 비율이 1970년 약 50%에서 2020년 약 90%가 됐어요. 알 수 있는 것은?",
+    "choices": [
+      "도시에 사는 사람 비율이 크게 늘었어요",
+      "촌락에 사는 사람 비율이 늘었어요",
+      "비율에 변화가 없었어요",
+      "도시 인구 비율이 줄었어요"
+    ],
+    "answer": 0,
+    "explanation": "50년 사이 도시 인구 비율이 크게 높아졌어요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "인구가 한 지역에 지나치게 몰리지 않게 해야 하는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "대도시를 더 크게 만들려고",
+      "촌락을 모두 없애려고",
+      "모든 지역 주민이 고르게 좋은 환경에서 살도록",
+      "인구 밀도를 더 높이려고"
+    ],
+    "answer": 2,
+    "explanation": "인구가 고르게 퍼져야 지역 모두 살기 좋아져요.",
+    "standard": "[6사02-02]",
+    "semester": 1,
+    "unit": "우리나라 지리 탐구"
+  }
+]

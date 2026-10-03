@@ -1,0 +1,3703 @@
+[
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "선분을 양쪽으로 끝없이 늘인 곧은 선을 무엇이라고 할까요?",
+    "choices": [
+      "곡선",
+      "선분",
+      "직선",
+      "반직선"
+    ],
+    "answer": 2,
+    "explanation": "양쪽으로 끝없이 늘인 곧은 선은 직선이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "길이가 가장 긴 것은 무엇일까요?",
+    "choices": [
+      "9cm",
+      "95mm",
+      "9cm 4mm",
+      "90mm"
+    ],
+    "answer": 1,
+    "explanation": "모두 mm로 바꾸면 90, 95, 94, 90mm라서 95mm가 가장 길어요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1km와 같은 거리는 무엇일까요?",
+    "choices": [
+      "100m를 1번 간 거리",
+      "10m를 10번 간 거리",
+      "200m를 5번 간 거리",
+      "500m를 3번 간 거리"
+    ],
+    "answer": 2,
+    "explanation": "200m씩 5번 가면 200m, 400m, 600m, 800m, 1000m라서 1000m = 1km예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3분 15초는 몇 초일까요?",
+    "choices": [
+      "315초",
+      "185초",
+      "135초",
+      "195초"
+    ],
+    "answer": 3,
+    "explanation": "3분은 180초이므로 180 + 15 = 195초예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "네 각이 모두 직각이고 네 변의 길이가 모두 같은 사각형은 무엇일까요?",
+    "choices": [
+      "사다리꼴",
+      "직사각형",
+      "정사각형",
+      "삼각형"
+    ],
+    "answer": 2,
+    "explanation": "네 각이 직각이고 네 변이 같으면 정사각형이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "원의 중심을 지나고 원 위의 두 점을 이은 선분을 무엇이라고 할까요?",
+    "choices": [
+      "중심",
+      "지름",
+      "둘레",
+      "반지름"
+    ],
+    "answer": 1,
+    "explanation": "원의 중심을 지나는 양 끝 선분은 지름이에요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "반지름이 5cm인 원의 지름은 몇 cm일까요?",
+    "choices": [
+      "15cm",
+      "5cm",
+      "10cm",
+      "25cm"
+    ],
+    "answer": 2,
+    "explanation": "지름은 반지름의 2배라서 5×2=10(cm)예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "들이가 1L보다 적은 것은 무엇일까요?",
+    "choices": [
+      "900mL",
+      "1L 100mL",
+      "1200mL",
+      "1L 5mL"
+    ],
+    "answer": 0,
+    "explanation": "1L = 1000mL이므로 900mL가 1L보다 적어요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "무게가 가장 무거운 것은 무엇일까요?",
+    "choices": [
+      "2kg 50g",
+      "2005g",
+      "2kg",
+      "1990g"
+    ],
+    "answer": 0,
+    "explanation": "g으로 바꾸면 2050g, 2005g, 2000g, 1990g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "피자 한 판을 똑같이 4조각으로 나눈 것 중 1조각은 전체의 얼마일까요?",
+    "choices": [
+      "4/1",
+      "1/3",
+      "1/4",
+      "3/4"
+    ],
+    "answer": 2,
+    "explanation": "전체를 똑같이 4로 나눈 것 중 1이니 1/4이에요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.1이 7개인 수는 얼마일까요?",
+    "choices": [
+      "0.07",
+      "0.7",
+      "7",
+      "1.7"
+    ],
+    "answer": 1,
+    "explanation": "0.1이 7개면 0.7이에요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사탕 12개를 3명이 똑같이 나누고 한 명이 자기 몫에서 2개를 먹었어요. 그 사람에게 남은 사탕은?",
+    "choices": [
+      "4개",
+      "36개",
+      "2개",
+      "10개"
+    ],
+    "answer": 2,
+    "explanation": "12 ÷ 3 = 4개씩 나누고, 4 - 2 = 2개가 남아요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "직사각형은 네 각이 모두 직각이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "직사각형은 네 각이 모두 직각인 사각형이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "한 원에서 반지름은 모두 길이가 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "원의 중심에서 원 위까지의 거리는 모두 같아요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "삼각형 하나에 직각이 2개 있을 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "삼각형의 세 각 중 직각은 많아야 1개예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "각을 이루는 두 반직선을 무엇이라고 할까요?",
+    "choices": [
+      "변",
+      "중심",
+      "꼭짓점",
+      "지름"
+    ],
+    "answer": 0,
+    "explanation": "각을 이루는 두 반직선을 각의 변이라고 해요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1/5과 1/3 중 더 큰 분수는 무엇일까요?",
+    "choices": [
+      "알 수 없어요",
+      "두 분수가 같아요",
+      "1/3",
+      "1/5"
+    ],
+    "answer": 2,
+    "explanation": "단위분수는 분모가 작을수록 더 커요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지금은 3시 10분이에요. 20분 뒤는 몇 시 몇 분일까요?",
+    "choices": [
+      "3시 30분",
+      "3시 40분",
+      "3시 20분",
+      "4시 10분"
+    ],
+    "answer": 0,
+    "explanation": "10분에 20분을 더하면 30분, 3시 30분이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 무게를 나타내는 단위가 아닌 것은 무엇일까요?",
+    "choices": [
+      "g",
+      "kg",
+      "t",
+      "mL"
+    ],
+    "answer": 3,
+    "explanation": "mL는 들이를 나타내는 단위예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2cm 5mm는 몇 mm일까요?",
+    "choices": [
+      "7mm",
+      "205mm",
+      "250mm",
+      "25mm"
+    ],
+    "answer": 3,
+    "explanation": "2cm는 20mm이니 20+5=25(mm)예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3km 400m는 몇 m일까요?",
+    "choices": [
+      "3400m",
+      "3040m",
+      "30400m",
+      "340m"
+    ],
+    "answer": 0,
+    "explanation": "3km는 3000m이니 3000+400=3400(m)예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "150초는 몇 분 몇 초일까요?",
+    "choices": [
+      "15분",
+      "1분 50초",
+      "1분 30초",
+      "2분 30초"
+    ],
+    "answer": 3,
+    "explanation": "120초가 2분이니 150초는 2분 30초예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2L 300mL는 몇 mL일까요?",
+    "choices": [
+      "230mL",
+      "23000mL",
+      "2300mL",
+      "2030mL"
+    ],
+    "answer": 2,
+    "explanation": "2L는 2000mL이니 2000+300=2300(mL)예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4kg 50g은 몇 g일까요?",
+    "choices": [
+      "4050g",
+      "450g",
+      "4005g",
+      "4500g"
+    ],
+    "answer": 0,
+    "explanation": "4kg은 4000g이니 4000+50=4050(g)이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지름이 16cm인 원의 반지름은 몇 cm일까요?",
+    "choices": [
+      "8cm",
+      "4cm",
+      "16cm",
+      "32cm"
+    ],
+    "answer": 0,
+    "explanation": "반지름은 지름의 반이라 16÷2=8(cm)예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사과 20개를 한 봉지에 4개씩 담으면 몇 봉지가 될까요?",
+    "choices": [
+      "4봉지",
+      "80봉지",
+      "5봉지",
+      "16봉지"
+    ],
+    "answer": 2,
+    "explanation": "20÷4=5이니 5봉지가 돼요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2/7, 5/7, 3/7, 1/7 중 가장 큰 분수는 무엇일까요?",
+    "choices": [
+      "2/7",
+      "5/7",
+      "1/7",
+      "3/7"
+    ],
+    "answer": 1,
+    "explanation": "분모가 같으면 분자가 클수록 큰 분수예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "분수 1/10을 소수로 나타내면 얼마일까요?",
+    "choices": [
+      "1.0",
+      "10",
+      "0.1",
+      "0.01"
+    ],
+    "answer": 2,
+    "explanation": "1/10은 소수로 0.1이라고 써요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 변이 6cm인 정사각형의 네 변의 길이를 모두 더하면 몇 cm일까요?",
+    "choices": [
+      "36cm",
+      "18cm",
+      "12cm",
+      "24cm"
+    ],
+    "answer": 3,
+    "explanation": "네 변이 모두 6cm라 6×4=24(cm)예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가로 7cm, 세로 4cm인 직사각형의 네 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "18cm",
+      "28cm",
+      "11cm",
+      "22cm"
+    ],
+    "answer": 3,
+    "explanation": "7+4+7+4=22(cm)예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "8시 40분에 집에서 출발해 35분 걸려 학교에 도착했어요. 도착한 시각은?",
+    "choices": [
+      "8시 75분",
+      "9시 15분",
+      "9시 5분",
+      "9시 25분"
+    ],
+    "answer": 1,
+    "explanation": "40분+35분=75분=1시간 15분, 9시 15분이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "직사각형은 모두 정사각형이라고 할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "네 변의 길이가 모두 같아야 정사각형이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "정사각형은 직사각형이라고 할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "정사각형도 네 각이 모두 직각이라 직사각형이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "0.3은 1/10이 3개인 수예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "1/10은 0.1이니 3개면 0.3이에요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1시간 20분은 몇 분일까요?",
+    "choices": [
+      "60분",
+      "120분",
+      "80분",
+      "70분"
+    ],
+    "answer": 2,
+    "explanation": "1시간은 60분이니 60+20=80(분)이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 상자에 연필이 12자루씩 들어 있어요. 5상자에는 모두 몇 자루일까요?",
+    "choices": [
+      "50자루",
+      "17자루",
+      "72자루",
+      "60자루"
+    ],
+    "answer": 3,
+    "explanation": "12×5=60이니 60자루예요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "물 1L 중에서 350mL를 마셨어요. 남은 물은 몇 mL일까요?",
+    "choices": [
+      "1350mL",
+      "350mL",
+      "750mL",
+      "650mL"
+    ],
+    "answer": 3,
+    "explanation": "1L=1000mL이니 1000−350=650(mL)예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "좋아하는 과일 조사: 사과 8명, 포도 5명, 딸기 11명, 귤 6명. 가장 많은 과일은?",
+    "choices": [
+      "사과",
+      "귤",
+      "딸기",
+      "포도"
+    ],
+    "answer": 2,
+    "explanation": "11명으로 딸기를 좋아하는 학생이 가장 많아요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "반지름이 3cm인 원 4개를 겹치지 않게 한 줄로 맞닿게 놓았어요. 전체 길이는?",
+    "choices": [
+      "18cm",
+      "30cm",
+      "24cm",
+      "12cm"
+    ],
+    "answer": 2,
+    "explanation": "원 하나의 지름은 6cm라서 6×4=24(cm)예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "길이가 1m인 끈을 20cm씩 자르면 몇 도막이 될까요?",
+    "choices": [
+      "5도막",
+      "50도막",
+      "4도막",
+      "20도막"
+    ],
+    "answer": 0,
+    "explanation": "1m는 100cm예요. 20cm씩 자르면 20, 40, 60, 80, 100cm로 5도막이 돼요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5km 길 중에서 1km 300m를 걸었어요. 남은 거리는 얼마일까요?",
+    "choices": [
+      "3km 300m",
+      "3km 700m",
+      "4km 700m",
+      "4km 300m"
+    ],
+    "answer": 1,
+    "explanation": "5000m−1300m=3700m, 3km 700m예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "2시 45분에 시작한 영화가 1시간 50분 동안 상영했어요. 끝난 시각은?",
+    "choices": [
+      "4시 25분",
+      "3시 35분",
+      "4시 35분",
+      "4시 15분"
+    ],
+    "answer": 2,
+    "explanation": "45분+50분=1시간 35분, 2시+2시간=4시 35분이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3kg 200g인 가방에 1kg 900g인 책을 넣었어요. 모두 몇 kg 몇 g일까요?",
+    "choices": [
+      "5kg 100g",
+      "5kg 900g",
+      "4kg 900g",
+      "4kg 100g"
+    ],
+    "answer": 0,
+    "explanation": "200g+900g=1100g=1kg 100g이라 5kg 100g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "구슬 24개의 1/4은 몇 개일까요?",
+    "choices": [
+      "4개",
+      "8개",
+      "12개",
+      "6개"
+    ],
+    "answer": 3,
+    "explanation": "24를 4묶음으로 나눈 1묶음이라 24÷4=6(개)예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "18의 2/3는 얼마일까요?",
+    "choices": [
+      "6",
+      "12",
+      "27",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "18의 1/3은 6이니 2/3는 6×2=12예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3.7, 3.2, 4.1, 2.9 중 두 번째로 큰 수는 무엇일까요?",
+    "choices": [
+      "3.2",
+      "3.7",
+      "2.9",
+      "4.1"
+    ],
+    "answer": 1,
+    "explanation": "큰 순서로 4.1, 3.7, 3.2, 2.9라 둘째는 3.7이에요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "네 변의 길이의 합이 36cm인 정사각형의 한 변은 몇 cm일까요?",
+    "choices": [
+      "6cm",
+      "12cm",
+      "18cm",
+      "9cm"
+    ],
+    "answer": 3,
+    "explanation": "네 변이 같으니 36÷4=9(cm)예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "네 변의 길이의 합이 30cm이고 가로가 9cm인 직사각형의 세로는 몇 cm일까요?",
+    "choices": [
+      "21cm",
+      "3cm",
+      "6cm",
+      "12cm"
+    ],
+    "answer": 2,
+    "explanation": "가로+세로=15cm이니 세로는 15−9=6(cm)예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 변이 4cm인 정사각형 3개를 한 줄로 붙여 만든 직사각형의 네 변의 합은?",
+    "choices": [
+      "24cm",
+      "48cm",
+      "32cm",
+      "36cm"
+    ],
+    "answer": 2,
+    "explanation": "가로 12cm, 세로 4cm라 12+4+12+4=32(cm)예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "초콜릿 45개를 한 명에게 6개씩 주면 몇 명에게 주고 몇 개가 남을까요?",
+    "choices": [
+      "7명, 3개 남아요",
+      "7명, 2개 남아요",
+      "6명, 9개 남아요",
+      "8명, 0개 남아요"
+    ],
+    "answer": 0,
+    "explanation": "45÷6=7…3이라 7명에게 주고 3개 남아요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1L 500mL 물과 900mL 물을 합하면 모두 얼마일까요?",
+    "choices": [
+      "10L 400mL",
+      "1L 400mL",
+      "2L 500mL",
+      "2L 400mL"
+    ],
+    "answer": 3,
+    "explanation": "500+900=1400mL=1L 400mL라 2L 400mL예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "1/6은 1/8보다 커요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "단위분수는 분모가 작을수록 커서 1/6이 더 커요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "2km 50m는 2500m와 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "2km 50m는 2000+50=2050m예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "3시간 10분은 190분과 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "3시간은 180분이니 180+10=190분이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리 반 30명 중 1/3이 안경을 써요. 안경을 쓰지 않은 학생은 몇 명일까요?",
+    "choices": [
+      "10명",
+      "27명",
+      "20명",
+      "3명"
+    ],
+    "answer": 2,
+    "explanation": "30의 1/3은 10명이니 30−10=20(명)이에요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "그림그래프에서 큰 그림은 10명, 작은 그림은 1명이에요. 큰 그림 2개, 작은 그림 3개는?",
+    "choices": [
+      "32명",
+      "23명",
+      "5명",
+      "203명"
+    ],
+    "answer": 1,
+    "explanation": "10×2+1×3=23(명)이에요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "345 + 232는 얼마일까요?",
+    "choices": [
+      "567",
+      "577",
+      "587",
+      "477"
+    ],
+    "answer": 1,
+    "explanation": "일의 자리부터 더하면 345 + 232 = 577이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "468 + 275는 얼마일까요?",
+    "choices": [
+      "733",
+      "743",
+      "643",
+      "753"
+    ],
+    "answer": 1,
+    "explanation": "받아올림에 주의하면 468 + 275 = 743이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "702 - 358은 얼마일까요?",
+    "choices": [
+      "344",
+      "454",
+      "356",
+      "444"
+    ],
+    "answer": 0,
+    "explanation": "받아내림을 두 번 하면 702 - 358 = 344예요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "도서관에 책이 925권 있었어요. 187권을 빌려 가고 64권이 반납되었어요. 지금 책은 몇 권일까요?",
+    "choices": [
+      "674권",
+      "802권",
+      "1176권",
+      "812권"
+    ],
+    "answer": 1,
+    "explanation": "925 - 187 = 738, 738 + 64 = 802권이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에 256을 더해야 할 것을 잘못하여 뺐더니 419가 되었어요. 바르게 계산하면?",
+    "choices": [
+      "675",
+      "163",
+      "912",
+      "931"
+    ],
+    "answer": 3,
+    "explanation": "어떤 수는 419 + 256 = 675, 바른 답은 675 + 256 = 931이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "계산이 틀린 것은 무엇일까요?",
+    "choices": [
+      "467 + 285 = 742",
+      "125 + 376 = 501",
+      "238 + 419 = 657",
+      "609 + 193 = 802"
+    ],
+    "answer": 0,
+    "explanation": "467 + 285 = 752예요. 십의 자리 받아올림을 빠뜨렸어요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가장 큰 세 자리 수와 가장 작은 세 자리 수의 차는?",
+    "choices": [
+      "900",
+      "899",
+      "999",
+      "889"
+    ],
+    "answer": 1,
+    "explanation": "999 - 100 = 899예요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "숫자 카드 3, 7, 1로 만들 수 있는 가장 큰 세 자리 수와 가장 작은 세 자리 수의 합은?",
+    "choices": [
+      "594",
+      "848",
+      "878",
+      "868"
+    ],
+    "answer": 3,
+    "explanation": "가장 큰 수 731, 가장 작은 수 137이므로 합은 868이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "498 + 305를 어림하면 약 얼마일까요?",
+    "choices": [
+      "약 800",
+      "약 700",
+      "약 900",
+      "약 600"
+    ],
+    "answer": 0,
+    "explanation": "498은 약 500, 305는 약 300이라서 약 800이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "500 - 267의 계산 결과는 233이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "500 - 267 = 233이 맞아요. 267 + 233 = 500으로 확인해요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 점에서 시작하여 한쪽으로 끝없이 늘인 곧은 선은?",
+    "choices": [
+      "선분",
+      "반직선",
+      "직선",
+      "곡선"
+    ],
+    "answer": 1,
+    "explanation": "한쪽으로만 끝없이 늘인 곧은 선은 반직선이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "직각삼각형에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "세 각이 모두 직각이에요",
+      "변이 4개예요",
+      "꼭짓점이 4개예요",
+      "한 각이 직각인 삼각형이에요"
+    ],
+    "answer": 3,
+    "explanation": "직각삼각형은 한 각이 직각인 삼각형이에요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "직사각형 모양 종이를 한 꼭짓점에서 마주 보는 꼭짓점까지 곧게 자르면 생기는 도형은?",
+    "choices": [
+      "직각삼각형 2개",
+      "정사각형 2개",
+      "직사각형 2개",
+      "원 2개"
+    ],
+    "answer": 0,
+    "explanation": "직사각형의 직각이 남아 직각삼각형 2개가 생겨요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가로 12cm, 세로 8cm인 직사각형 종이를 잘라 가장 큰 정사각형 1개를 만들면 한 변은?",
+    "choices": [
+      "12cm",
+      "8cm",
+      "4cm",
+      "20cm"
+    ],
+    "answer": 1,
+    "explanation": "짧은 변인 8cm가 정사각형의 한 변이 돼요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "네 변의 길이의 합이 28cm인 직사각형이 있어요. 가로가 세로보다 4cm 길다면 가로는?",
+    "choices": [
+      "5cm",
+      "10cm",
+      "7cm",
+      "9cm"
+    ],
+    "answer": 3,
+    "explanation": "가로 + 세로 = 14cm, 차가 4cm이므로 가로 9cm, 세로 5cm예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "각을 이루는 두 변의 길이가 길수록 각의 크기가 커져요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "각의 크기는 두 변이 벌어진 정도로 정해져요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시계의 긴바늘과 짧은바늘이 이루는 각이 직각인 시각은?",
+    "choices": [
+      "3시",
+      "6시",
+      "12시",
+      "1시"
+    ],
+    "answer": 0,
+    "explanation": "3시에는 두 바늘이 직각을 이뤄요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "36 ÷ 4의 몫은 얼마일까요?",
+    "choices": [
+      "8",
+      "9",
+      "7",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "4 × 9 = 36이므로 몫은 9예요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나눗셈식 42 ÷ 7 = 6을 곱셈식으로 바르게 나타낸 것은?",
+    "choices": [
+      "42 × 7 = 6",
+      "6 ÷ 7 = 42",
+      "42 × 6 = 7",
+      "7 × 6 = 42"
+    ],
+    "answer": 3,
+    "explanation": "나누는 수 × 몫 = 나누어지는 수예요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "공책 48권을 6모둠에 똑같이 나누면 한 모둠에 몇 권일까요?",
+    "choices": [
+      "8권",
+      "7권",
+      "9권",
+      "54권"
+    ],
+    "answer": 0,
+    "explanation": "48 ÷ 6 = 8권이에요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "쿠키 64개를 한 봉지에 8개씩 담고, 봉지를 2개씩 한 상자에 넣었어요. 상자는 몇 개일까요?",
+    "choices": [
+      "8개",
+      "4개",
+      "16개",
+      "32개"
+    ],
+    "answer": 1,
+    "explanation": "64 ÷ 8 = 8봉지, 8 ÷ 2 = 4상자예요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "□ ÷ 6 = 7일 때 □에 알맞은 수는?",
+    "choices": [
+      "13",
+      "1",
+      "36",
+      "42"
+    ],
+    "answer": 3,
+    "explanation": "6 × 7 = 42이므로 □는 42예요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "24 ÷ 3과 24 ÷ 4의 몫은 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "24 ÷ 3 = 8, 24 ÷ 4 = 6이라서 몫이 달라요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "색종이 45장을 5명이 똑같이 나눈 뒤, 한 명이 받은 것을 다시 3명에게 똑같이 나누면 한 명은 몇 장?",
+    "choices": [
+      "3장",
+      "9장",
+      "15장",
+      "5장"
+    ],
+    "answer": 0,
+    "explanation": "45 ÷ 5 = 9장, 9 ÷ 3 = 3장이에요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "23 × 3은 얼마일까요?",
+    "choices": [
+      "66",
+      "69",
+      "96",
+      "26"
+    ],
+    "answer": 1,
+    "explanation": "20 × 3 = 60, 3 × 3 = 9이므로 69예요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "47 × 6은 얼마일까요?",
+    "choices": [
+      "242",
+      "272",
+      "2442",
+      "282"
+    ],
+    "answer": 3,
+    "explanation": "40 × 6 = 240, 7 × 6 = 42, 합은 282예요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 줄에 16명씩 7줄로 섰어요. 모두 몇 명일까요?",
+    "choices": [
+      "112명",
+      "102명",
+      "122명",
+      "23명"
+    ],
+    "answer": 0,
+    "explanation": "16 × 7 = 112명이에요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 봉지에 25개씩 든 사탕 4봉지와 낱개 13개가 있어요. 사탕은 모두 몇 개일까요?",
+    "choices": [
+      "100개",
+      "113개",
+      "42개",
+      "123개"
+    ],
+    "answer": 1,
+    "explanation": "25 × 4 = 100, 100 + 13 = 113개예요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "18 × □ < 100에서 □ 안에 들어갈 수 있는 가장 큰 한 자리 수는 무엇일까요?",
+    "choices": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "18 × 5 = 90, 18 × 6 = 108이므로 5까지 돼요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에 6을 곱해야 할 것을 잘못하여 6을 더했더니 21이 되었어요. 바르게 계산하면?",
+    "choices": [
+      "90",
+      "126",
+      "27",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "어떤 수는 21 - 6 = 15, 바른 답은 15 × 6 = 90이에요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "새 연필의 길이로 알맞은 것은?",
+    "choices": [
+      "약 15mm",
+      "약 15cm",
+      "약 15m",
+      "약 15km"
+    ],
+    "answer": 1,
+    "explanation": "연필은 한 뼘쯤이라 약 15cm예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "서울에서 부산까지의 거리를 나타낼 때 알맞은 단위는?",
+    "choices": [
+      "mm",
+      "cm",
+      "mL",
+      "km"
+    ],
+    "answer": 3,
+    "explanation": "아주 먼 거리는 km로 나타내요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4cm 7mm + 3cm 8mm는 얼마일까요?",
+    "choices": [
+      "8cm 5mm",
+      "7cm 5mm",
+      "8cm 1mm",
+      "9cm 5mm"
+    ],
+    "answer": 0,
+    "explanation": "7mm + 8mm = 15mm = 1cm 5mm, 4 + 3 + 1 = 8cm예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "8km 200m - 3km 650m는 얼마일까요?",
+    "choices": [
+      "5km 550m",
+      "4km 550m",
+      "4km 450m",
+      "5km 450m"
+    ],
+    "answer": 1,
+    "explanation": "1km를 받아내려 1200 - 650 = 550m, 7 - 3 = 4km예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "5시 20분 40초에서 2시간 35분 50초 전의 시각은?",
+    "choices": [
+      "3시 45분 10초",
+      "2시 45분 50초",
+      "2시 44분 50초",
+      "3시 44분 50초"
+    ],
+    "answer": 2,
+    "explanation": "초, 분에서 받아내림하면 2시 44분 50초예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1분 25초 + 2분 50초는 얼마일까요?",
+    "choices": [
+      "4분 25초",
+      "3분 15초",
+      "4분 5초",
+      "4분 15초"
+    ],
+    "answer": 3,
+    "explanation": "25초 + 50초 = 75초 = 1분 15초라서 4분 15초예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민지는 200m 트랙을 7바퀴 돌았어요. 1km보다 몇 m 더 달렸을까요?",
+    "choices": [
+      "400m",
+      "200m",
+      "1400m",
+      "300m"
+    ],
+    "answer": 0,
+    "explanation": "200m씩 7번이면 200, 400, 600, 800, 1000, 1200, 1400m예요. 1km = 1000m보다 400m 더 달렸어요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "1시간 30분은 130분이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "1시간은 60분이므로 60 + 30 = 90분이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "달리기 기록이 가장 빠른 사람은? (가 58초, 나 1분 3초, 다 1분, 라 62초)",
+    "choices": [
+      "나",
+      "가",
+      "다",
+      "라"
+    ],
+    "answer": 1,
+    "explanation": "초로 바꾸면 58, 63, 60, 62초라서 가가 가장 빨라요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.5와 크기가 같은 분수는 무엇일까요?",
+    "choices": [
+      "1/5",
+      "5/100",
+      "5/10",
+      "10/5"
+    ],
+    "answer": 2,
+    "explanation": "0.5는 0.1이 5개, 즉 1/10이 5개인 5/10이에요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1/8, 1/3, 1/5, 1/2 중 가장 작은 분수는?",
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/5",
+      "1/8"
+    ],
+    "answer": 3,
+    "explanation": "분자가 1일 때 분모가 클수록 작은 수예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2.4는 0.1이 몇 개인 수일까요?",
+    "choices": [
+      "24개",
+      "2개",
+      "4개",
+      "240개"
+    ],
+    "answer": 0,
+    "explanation": "2는 0.1이 20개, 0.4는 4개라서 24개예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3cm 6mm를 소수로 나타내면 몇 cm일까요?",
+    "choices": [
+      "36cm",
+      "3.6cm",
+      "0.36cm",
+      "3.06cm"
+    ],
+    "answer": 1,
+    "explanation": "1mm = 0.1cm이므로 6mm = 0.6cm, 3.6cm예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1m 끈을 똑같이 10도막으로 나누어 7도막을 썼어요. 남은 끈은 몇 m일까요?",
+    "choices": [
+      "0.7m",
+      "3m",
+      "0.3m",
+      "0.03m"
+    ],
+    "answer": 2,
+    "explanation": "한 도막은 0.1m, 남은 3도막은 0.3m예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "5/9는 1/9이 5개인 수예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "5/9는 1/9을 5번 모은 수예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1/7 < 1/□ < 1/3에서 □에 들어갈 수 있는 수는 모두 몇 개일까요?",
+    "choices": [
+      "4개",
+      "5개",
+      "2개",
+      "3개"
+    ],
+    "answer": 3,
+    "explanation": "□는 3보다 크고 7보다 작아야 해서 4, 5, 6으로 3개예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4/7보다 크고 6/7보다 작은, 분모가 7인 분수는?",
+    "choices": [
+      "5/7",
+      "3/7",
+      "7/7",
+      "5/6"
+    ],
+    "answer": 0,
+    "explanation": "분모가 같으면 분자를 비교해요. 4와 6 사이는 5예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "케이크를 똑같이 8조각으로 나누어 형이 3조각, 동생이 2조각 먹었어요. 남은 케이크는 전체의 얼마?",
+    "choices": [
+      "5/8",
+      "3/8",
+      "2/8",
+      "1/8"
+    ],
+    "answer": 1,
+    "explanation": "8 - 3 - 2 = 3조각이 남아 전체의 3/8이에요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "213 × 3은 얼마일까요?",
+    "choices": [
+      "636",
+      "693",
+      "639",
+      "216"
+    ],
+    "answer": 2,
+    "explanation": "각 자리에 3을 곱하면 639예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "425 × 4는 얼마일까요?",
+    "choices": [
+      "1600",
+      "1620",
+      "1720",
+      "1700"
+    ],
+    "answer": 3,
+    "explanation": "400 × 4 = 1600, 25 × 4 = 100, 합은 1700이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "36 × 24는 얼마일까요?",
+    "choices": [
+      "864",
+      "144",
+      "854",
+      "764"
+    ],
+    "answer": 0,
+    "explanation": "36 × 20 = 720, 36 × 4 = 144, 합은 864예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "하루에 줄넘기를 125번씩 해요. 1주일 동안 하면 모두 몇 번일까요?",
+    "choices": [
+      "875번",
+      "1750번",
+      "132번",
+      "725번"
+    ],
+    "answer": 0,
+    "explanation": "1주일은 7일이므로 125 × 7 = 875번이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사과가 32개씩 든 상자 15개 중 3상자를 팔았어요. 남은 사과는 몇 개일까요?",
+    "choices": [
+      "480개",
+      "96개",
+      "384개",
+      "448개"
+    ],
+    "answer": 2,
+    "explanation": "남은 상자는 12개, 32 × 12 = 384개예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "40 × 30은 4 × 3의 몇 배일까요?",
+    "choices": [
+      "10배",
+      "1000배",
+      "12배",
+      "100배"
+    ],
+    "answer": 3,
+    "explanation": "40 × 30 = 1200, 4 × 3 = 12이므로 100배예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "50 × 60은 300이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "5 × 6 = 30에 0을 2개 붙여 3000이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "계산이 틀린 곱셈식은 무엇일까요?",
+    "choices": [
+      "23 × 41 = 933",
+      "15 × 12 = 180",
+      "25 × 16 = 400",
+      "32 × 30 = 960"
+    ],
+    "answer": 0,
+    "explanation": "23 × 41 = 920 + 23 = 943이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "80 ÷ 4의 몫은 얼마일까요?",
+    "choices": [
+      "2",
+      "20",
+      "40",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": "8 ÷ 4 = 2이므로 80 ÷ 4 = 20이에요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "75 ÷ 5의 몫은 얼마일까요?",
+    "choices": [
+      "14",
+      "25",
+      "15",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "5 × 15 = 75이므로 몫은 15예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "58 ÷ 6의 몫과 나머지는?",
+    "choices": [
+      "몫 8, 나머지 10",
+      "몫 9, 나머지 2",
+      "몫 10, 나머지 2",
+      "몫 9, 나머지 4"
+    ],
+    "answer": 3,
+    "explanation": "6 × 9 = 54, 58 - 54 = 4예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "학생 50명이 한 대에 6명씩 보트를 타요. 모두 타려면 보트는 적어도 몇 대 필요할까요?",
+    "choices": [
+      "9대",
+      "8대",
+      "7대",
+      "10대"
+    ],
+    "answer": 0,
+    "explanation": "50 ÷ 6 = 8 … 2라서 남은 2명도 타려면 9대예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수를 7로 나누었더니 몫이 12, 나머지가 3이었어요. 어떤 수는?",
+    "choices": [
+      "84",
+      "87",
+      "81",
+      "91"
+    ],
+    "answer": 1,
+    "explanation": "7 × 12 = 84, 84 + 3 = 87이에요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "나눗셈에서 나머지는 나누는 수보다 항상 작아야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "나머지가 나누는 수보다 크면 더 나눌 수 있어요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "연필 94자루를 8명에게 남김없이 똑같이 나누려면 적어도 몇 자루가 더 있어야 할까요?",
+    "choices": [
+      "6자루",
+      "4자루",
+      "2자루",
+      "8자루"
+    ],
+    "answer": 2,
+    "explanation": "94 ÷ 8 = 11 … 6이라서 2자루 더 있으면 96 ÷ 8 = 12예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "63 ÷ 3 = 21을 맞게 계산했는지 확인하는 식은?",
+    "choices": [
+      "63 × 3 = 189",
+      "21 ÷ 3 = 7",
+      "63 + 3 = 66",
+      "3 × 21 = 63"
+    ],
+    "answer": 3,
+    "explanation": "나누는 수와 몫을 곱해 나누어지는 수가 되면 맞아요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "원의 중심과 원 위의 한 점을 이은 선분은?",
+    "choices": [
+      "반지름",
+      "지름",
+      "중심",
+      "둘레"
+    ],
+    "answer": 0,
+    "explanation": "중심에서 원 위의 한 점까지 이은 선분은 반지름이에요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 원에서 지름은 반지름의 몇 배일까요?",
+    "choices": [
+      "3배",
+      "2배",
+      "4배",
+      "같아요"
+    ],
+    "answer": 1,
+    "explanation": "지름은 반지름의 2배예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "원 안에 그을 수 있는 가장 긴 선분은?",
+    "choices": [
+      "반지름",
+      "원의 중심",
+      "지름",
+      "모두 길이가 같아요"
+    ],
+    "answer": 2,
+    "explanation": "원의 중심을 지나는 지름이 가장 긴 선분이에요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "크기가 같은 원 3개를 맞닿게 한 줄로 놓았더니 전체 길이가 36cm였어요. 원 하나의 반지름은?",
+    "choices": [
+      "12cm",
+      "18cm",
+      "9cm",
+      "6cm"
+    ],
+    "answer": 3,
+    "explanation": "지름 3개가 36cm이므로 지름 12cm, 반지름 6cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가로 20cm, 세로 12cm인 직사각형 안에 그릴 수 있는 가장 큰 원의 반지름은?",
+    "choices": [
+      "6cm",
+      "10cm",
+      "12cm",
+      "20cm"
+    ],
+    "answer": 0,
+    "explanation": "지름이 짧은 변 12cm까지 되므로 반지름은 6cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "컴퍼스를 5cm만큼 벌려 원을 그리면 지름이 5cm인 원이 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "컴퍼스를 벌린 길이는 반지름이라서 지름은 10cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "반지름이 7cm인 원과 지름이 12cm인 원 중 더 큰 원은?",
+    "choices": [
+      "지름 12cm인 원",
+      "반지름 7cm인 원",
+      "두 원이 같아요",
+      "알 수 없어요"
+    ],
+    "answer": 1,
+    "explanation": "반지름 7cm인 원의 지름은 14cm라서 더 커요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "12의 1/3은 얼마일까요?",
+    "choices": [
+      "3",
+      "9",
+      "4",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "12를 3묶음으로 나눈 1묶음은 4예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "7/4를 대분수로 나타내면?",
+    "choices": [
+      "3과 1/4",
+      "1과 4/7",
+      "7과 1/4",
+      "1과 3/4"
+    ],
+    "answer": 3,
+    "explanation": "4/4가 1이므로 7/4 = 1과 3/4예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2와 1/5을 가분수로 나타내면?",
+    "choices": [
+      "11/5",
+      "7/5",
+      "10/5",
+      "21/5"
+    ],
+    "answer": 0,
+    "explanation": "2 = 10/5이므로 10/5 + 1/5 = 11/5예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "진분수는 무엇일까요?",
+    "choices": [
+      "8/3",
+      "3/8",
+      "5/5",
+      "1과 1/2"
+    ],
+    "answer": 1,
+    "explanation": "분자가 분모보다 작은 분수가 진분수예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1시간의 1/4은 몇 분일까요?",
+    "choices": [
+      "25분",
+      "40분",
+      "15분",
+      "4분"
+    ],
+    "answer": 2,
+    "explanation": "60분을 4로 나눈 하나는 15분이에요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "색 테이프 40cm 중 3/5를 사용했어요. 남은 길이는 몇 cm일까요?",
+    "choices": [
+      "24cm",
+      "8cm",
+      "15cm",
+      "16cm"
+    ],
+    "answer": 3,
+    "explanation": "1/5은 8cm, 남은 2/5는 16cm예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "9/4, 2와 1/4, 11/4 중 가장 큰 수는?",
+    "choices": [
+      "11/4",
+      "9/4",
+      "2와 1/4",
+      "모두 같아요"
+    ],
+    "answer": 0,
+    "explanation": "2와 1/4 = 9/4이므로 11/4가 가장 커요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "5/3은 1보다 커요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "3/3이 1이므로 5/3은 1보다 커요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수의 1/6이 5일 때, 어떤 수의 2/3는 얼마일까요?",
+    "choices": [
+      "10",
+      "20",
+      "15",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "어떤 수는 5 × 6 = 30, 30의 2/3는 20이에요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "작은 생수병 하나의 들이로 알맞은 것은?",
+    "choices": [
+      "약 500L",
+      "약 5mL",
+      "약 500mL",
+      "약 50L"
+    ],
+    "answer": 2,
+    "explanation": "작은 생수병은 약 500mL예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3L 400mL - 1L 700mL는 얼마일까요?",
+    "choices": [
+      "2L 300mL",
+      "1L 300mL",
+      "2L 700mL",
+      "1L 700mL"
+    ],
+    "answer": 3,
+    "explanation": "1L를 받아내려 1400 - 700 = 700mL, 2 - 1 = 1L예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "코끼리의 무게를 나타내기에 가장 알맞은 단위는?",
+    "choices": [
+      "t",
+      "g",
+      "mL",
+      "cm"
+    ],
+    "answer": 0,
+    "explanation": "아주 무거운 것은 t(톤)으로 나타내요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "설탕 1kg에서 매일 150g씩 5일 동안 썼어요. 남은 설탕은 몇 g일까요?",
+    "choices": [
+      "750g",
+      "250g",
+      "850g",
+      "150g"
+    ],
+    "answer": 1,
+    "explanation": "150 × 5 = 750g, 1000 - 750 = 250g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "300mL 컵으로 4번, 500mL 컵으로 2번 물을 부었어요. 모두 몇 L 몇 mL일까요?",
+    "choices": [
+      "1L 200mL",
+      "2L 800mL",
+      "2L 200mL",
+      "22L"
+    ],
+    "answer": 2,
+    "explanation": "1200 + 1000 = 2200mL = 2L 200mL예요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "1t은 1000kg이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "1000kg을 1t이라고 해요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "큰 그림은 100개, 작은 그림은 10개를 나타내요. 340개를 나타낼 때 작은 그림은 몇 개일까요?",
+    "choices": [
+      "3개",
+      "34개",
+      "7개",
+      "4개"
+    ],
+    "answer": 3,
+    "explanation": "큰 그림 3개(300개)와 작은 그림 4개(40개)예요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "마을별 사과 수확량이 가 230상자, 나 150상자, 다 320상자예요. 모두 몇 상자일까요?",
+    "choices": [
+      "700상자",
+      "600상자",
+      "690상자",
+      "710상자"
+    ],
+    "answer": 0,
+    "explanation": "230 + 150 + 320 = 700상자예요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1반 24명, 2반 27명, 3반은 1반보다 3명 적어요. 가장 많은 반과 가장 적은 반의 차는?",
+    "choices": [
+      "3명",
+      "6명",
+      "27명",
+      "9명"
+    ],
+    "answer": 1,
+    "explanation": "3반은 21명, 27 - 21 = 6명이에요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빈 바구니의 무게는 400g이에요. 사과를 담았더니 2kg 100g이 되었어요. 사과만의 무게는?",
+    "choices": [
+      "2kg 500g",
+      "1kg 300g",
+      "1kg 700g",
+      "1kg 600g"
+    ],
+    "answer": 2,
+    "explanation": "2100g - 400g = 1700g = 1kg 700g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "연필이 12자루씩 든 상자 6개가 있어요. 그중 15자루를 나누어 주면 남는 연필은?",
+    "choices": [
+      "57자루",
+      "67자루",
+      "87자루",
+      "53자루"
+    ],
+    "answer": 0,
+    "explanation": "12 × 6 = 72, 72 - 15 = 57이에요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사탕 48개를 한 봉지에 6개씩 담아 한 명에게 2봉지씩 주면 몇 명에게 줄 수 있을까요?",
+    "choices": [
+      "8명",
+      "4명",
+      "12명",
+      "3명"
+    ],
+    "answer": 1,
+    "explanation": "48 ÷ 6 = 8봉지, 8 ÷ 2 = 4명이에요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "리본 전체의 2/5가 12cm예요. 리본 전체의 길이는?",
+    "choices": [
+      "24cm",
+      "60cm",
+      "30cm",
+      "18cm"
+    ],
+    "answer": 2,
+    "explanation": "1/5이 6cm이니 전체는 6 × 5 = 30cm예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "3L 물통에 물이 1L 400mL 있어요. 800mL씩 몇 번 더 부어야 가득 찰까요?",
+    "choices": [
+      "3번",
+      "4번",
+      "1번",
+      "2번"
+    ],
+    "answer": 3,
+    "explanation": "3L = 3000mL이므로 더 필요한 물은 3000 - 1400 = 1600mL예요. 800mL를 2번 부으면 800 + 800 = 1600mL라서 2번이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "526 + 143은 얼마일까요?",
+    "choices": [
+      "669",
+      "659",
+      "679",
+      "569"
+    ],
+    "answer": 0,
+    "explanation": "일의 자리 9, 십의 자리 6, 백의 자리 6이라서 669예요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "837 - 469는 얼마일까요?",
+    "choices": [
+      "468",
+      "368",
+      "378",
+      "432"
+    ],
+    "answer": 1,
+    "explanation": "일의 자리와 십의 자리에서 받아내림을 하면 368이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에서 178을 빼야 할 것을 잘못하여 더했더니 603이 되었어요. 바르게 계산하면 얼마일까요?",
+    "choices": [
+      "425",
+      "781",
+      "247",
+      "347"
+    ],
+    "answer": 2,
+    "explanation": "어떤 수는 603 - 178 = 425이고, 바르게 하면 425 - 178 = 247이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "줄넘기를 1모둠은 356번, 2모둠은 1모둠보다 89번 적게 했어요. 두 모둠이 한 줄넘기는 모두 몇 번일까요?",
+    "choices": [
+      "445번",
+      "712번",
+      "613번",
+      "623번"
+    ],
+    "answer": 3,
+    "explanation": "2모둠은 356 - 89 = 267번이라서 모두 356 + 267 = 623번이에요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "600 - 348의 계산 결과는 300보다 작아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "600 - 348 = 252이므로 300보다 작아요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "475 + □ < 900에서 □ 안에 들어갈 수 있는 가장 큰 수는 무엇일까요?",
+    "choices": [
+      "424",
+      "425",
+      "426",
+      "375"
+    ],
+    "answer": 0,
+    "explanation": "475 + 425 = 900이므로 900보다 작으려면 □는 424까지 될 수 있어요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "받아올림이 두 번 있는 덧셈은 무엇일까요?",
+    "choices": [
+      "214 + 353",
+      "158 + 267",
+      "346 + 128",
+      "562 + 271"
+    ],
+    "answer": 1,
+    "explanation": "158 + 267은 일의 자리와 십의 자리에서 모두 받아올림이 있어요.",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "선분 ㄱㄴ을 바르게 설명한 것은 무엇일까요?",
+    "choices": [
+      "점 ㄱ에서 한쪽으로 끝없이 늘인 선",
+      "두 점 ㄱ, ㄴ을 굽게 이은 선",
+      "두 점 ㄱ, ㄴ을 곧게 이은 선",
+      "양쪽으로 끝없이 늘인 곧은 선"
+    ],
+    "answer": 2,
+    "explanation": "두 점을 곧게 이은 선을 선분이라고 해요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "반직선 ㄱㄴ과 반직선 ㄴㄱ은 같은 반직선이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "반직선 ㄱㄴ은 점 ㄱ에서, 반직선 ㄴㄱ은 점 ㄴ에서 시작해서 서로 달라요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "직사각형은 마주 보는 두 변의 길이가 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "직사각형은 마주 보는 변끼리 길이가 같아요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "직각의 개수가 나머지와 다른 도형은 무엇일까요?",
+    "choices": [
+      "정사각형",
+      "직사각형",
+      "네 각이 모두 직각인 사각형",
+      "직각삼각형"
+    ],
+    "answer": 3,
+    "explanation": "직각삼각형은 직각이 1개이고, 나머지는 모두 4개예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "점 4개가 있고 어느 세 점도 한 직선 위에 있지 않아요. 두 점씩 이어 그을 수 있는 선분은 모두 몇 개일까요?",
+    "choices": [
+      "6개",
+      "4개",
+      "8개",
+      "12개"
+    ],
+    "answer": 0,
+    "explanation": "한 점에서 3개씩 그으면 12개인데, 같은 선분을 두 번 셌으니 6개예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 변이 6cm인 정사각형 2개를 붙여 만든 직사각형과 네 변의 길이의 합이 같은 정사각형의 한 변은 몇 cm일까요?",
+    "choices": [
+      "12cm",
+      "9cm",
+      "6cm",
+      "18cm"
+    ],
+    "answer": 1,
+    "explanation": "직사각형은 12 + 6 + 12 + 6 = 36cm이고, 36을 4로 나누면 9cm예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정사각형 2개와 직각삼각형 3개에 있는 직각은 모두 몇 개일까요?",
+    "choices": [
+      "10개",
+      "14개",
+      "11개",
+      "5개"
+    ],
+    "answer": 2,
+    "explanation": "정사각형은 직각이 4개씩 8개, 직각삼각형은 1개씩 3개라서 11개예요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "직선, 선분, 반직선 중에서 길이를 잴 수 있는 것은 무엇일까요?",
+    "choices": [
+      "직선",
+      "반직선",
+      "셋 다 잴 수 있어요",
+      "선분"
+    ],
+    "answer": 3,
+    "explanation": "선분은 양 끝이 있어서 길이를 잴 수 있어요. 나머지는 끝없이 늘어나요.",
+    "semester": 1,
+    "unit": "평면도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "56 ÷ 8의 몫은 얼마일까요?",
+    "choices": [
+      "7",
+      "6",
+      "8",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "8 × 7 = 56이므로 56 ÷ 8의 몫은 7이에요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "곱셈식 8 × 4 = 32를 나눗셈식으로 바르게 나타낸 것은 무엇일까요?",
+    "choices": [
+      "8 ÷ 4 = 32",
+      "32 ÷ 8 = 4",
+      "32 ÷ 4 = 7",
+      "4 ÷ 32 = 8"
+    ],
+    "answer": 1,
+    "explanation": "8 × 4 = 32는 32 ÷ 8 = 4 또는 32 ÷ 4 = 8로 나타낼 수 있어요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "귤 35개를 한 명에게 7개씩 나누어 주면 몇 명에게 줄 수 있을까요?",
+    "choices": [
+      "6명",
+      "28명",
+      "5명",
+      "42명"
+    ],
+    "answer": 2,
+    "explanation": "35 ÷ 7 = 5이므로 5명에게 줄 수 있어요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "몫이 가장 큰 나눗셈은 무엇일까요?",
+    "choices": [
+      "42 ÷ 7",
+      "45 ÷ 9",
+      "32 ÷ 4",
+      "54 ÷ 6"
+    ],
+    "answer": 3,
+    "explanation": "몫은 차례로 6, 5, 8, 9라서 54 ÷ 6의 몫이 가장 커요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수를 4로 나누어야 할 것을 잘못하여 4를 곱했더니 32가 되었어요. 바르게 계산한 몫은 얼마일까요?",
+    "choices": [
+      "2",
+      "8",
+      "128",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "어떤 수는 32 ÷ 4 = 8이고, 바르게 하면 8 ÷ 4 = 2예요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "□ ÷ 9 = 4일 때, □ ÷ 6의 몫은 얼마일까요?",
+    "choices": [
+      "4",
+      "6",
+      "36",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "□는 9 × 4 = 36이고, 36 ÷ 6 = 6이에요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "63cm 리본을 9cm씩 모두 자르려면 가위로 몇 번 잘라야 할까요?",
+    "choices": [
+      "7번",
+      "8번",
+      "6번",
+      "9번"
+    ],
+    "answer": 2,
+    "explanation": "63 ÷ 9 = 7도막이 생기고, 7도막을 만들려면 6번만 자르면 돼요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "나눗셈 18 ÷ 6 = 3에서 6을 몫이라고 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "6은 나누는 수이고, 3이 몫이에요.",
+    "semester": 1,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "32 × 3은 얼마일까요?",
+    "choices": [
+      "69",
+      "35",
+      "86",
+      "96"
+    ],
+    "answer": 3,
+    "explanation": "30 × 3 = 90, 2 × 3 = 6을 더하면 96이에요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "58 × 4는 얼마일까요?",
+    "choices": [
+      "232",
+      "202",
+      "222",
+      "2032"
+    ],
+    "answer": 0,
+    "explanation": "50 × 4 = 200, 8 × 4 = 32를 더하면 232예요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "곱이 가장 큰 것은 무엇일까요?",
+    "choices": [
+      "34 × 5",
+      "29 × 6",
+      "43 × 4",
+      "57 × 3"
+    ],
+    "answer": 1,
+    "explanation": "곱은 차례로 170, 174, 172, 171이라서 29 × 6이 가장 커요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "숫자 카드 2, 5, 7을 한 번씩 써서 (두 자리 수) × (한 자리 수)를 만들 때 가장 큰 곱은 얼마일까요?",
+    "choices": [
+      "360",
+      "175",
+      "364",
+      "150"
+    ],
+    "answer": 2,
+    "explanation": "52 × 7 = 364, 72 × 5 = 360이라서 52 × 7이 가장 커요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "24 × 3은 20 × 3과 4 × 3을 더한 것과 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "24를 20과 4로 나누어 곱한 뒤 더하면 60 + 12 = 72로 같아요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "15 × 6과 곱이 같은 것은 무엇일까요?",
+    "choices": [
+      "16 × 5",
+      "12 × 8",
+      "14 × 7",
+      "30 × 3"
+    ],
+    "answer": 3,
+    "explanation": "15 × 6 = 90이고 30 × 3도 90이에요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "49 × 5를 어림하여 계산하면 약 얼마일까요?",
+    "choices": [
+      "약 250",
+      "약 200",
+      "약 300",
+      "약 450"
+    ],
+    "answer": 0,
+    "explanation": "49를 50으로 어림하면 50 × 5 = 250이에요.",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "6km 90m는 몇 m일까요?",
+    "choices": [
+      "690m",
+      "6090m",
+      "6900m",
+      "6009m"
+    ],
+    "answer": 1,
+    "explanation": "6km는 6000m이므로 6000 + 90 = 6090m예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "집에서 도서관까지 1km 800m, 도서관에서 학교까지 950m예요. 도서관을 거쳐 가면 바로 가는 길 2km 100m보다 얼마나 더 멀까요?",
+    "choices": [
+      "750m",
+      "1km 650m",
+      "650m",
+      "550m"
+    ],
+    "answer": 2,
+    "explanation": "거쳐 가면 2km 750m이고, 2km 750m - 2km 100m = 650m예요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오전 10시 35분에 출발해 오후 1시 10분에 도착했어요. 걸린 시간은 얼마일까요?",
+    "choices": [
+      "3시간 35분",
+      "2시간 45분",
+      "3시간 25분",
+      "2시간 35분"
+    ],
+    "answer": 3,
+    "explanation": "10시 35분부터 12시 35분까지 2시간, 1시 10분까지 35분이라 2시간 35분이에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "초바늘이 시계를 한 바퀴 도는 데 걸리는 시간은 얼마일까요?",
+    "choices": [
+      "1분",
+      "1초",
+      "1시간",
+      "12초"
+    ],
+    "answer": 0,
+    "explanation": "초바늘이 한 바퀴 돌면 60초, 즉 1분이 지나요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "길이 단위 사이의 관계가 틀린 것은 무엇일까요?",
+    "choices": [
+      "1cm = 10mm",
+      "1km = 100m",
+      "1m = 100cm",
+      "1km = 1000m"
+    ],
+    "answer": 1,
+    "explanation": "1km는 1000m예요. 100m가 아니에요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지우는 3분 20초, 태호는 190초 동안 달렸어요. 누가 몇 초 더 오래 달렸을까요?",
+    "choices": [
+      "태호가 10초 더",
+      "지우가 30초 더",
+      "지우가 10초 더",
+      "태호가 130초 더"
+    ],
+    "answer": 2,
+    "explanation": "3분 20초는 200초이므로 지우가 200 - 190 = 10초 더 달렸어요.",
+    "semester": 1,
+    "unit": "길이와 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "전체를 똑같이 6으로 나눈 것 중의 5를 분수로 나타내면 무엇일까요?",
+    "choices": [
+      "6/5",
+      "1/5",
+      "1/6",
+      "5/6"
+    ],
+    "answer": 3,
+    "explanation": "전체를 6으로 나눈 것 중 5는 5/6이라고 써요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "피자를 크기가 서로 다르게 3조각으로 나누었을 때 그중 1조각은 1/3이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "분수는 똑같이 나누었을 때만 쓸 수 있어요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "4.5는 1이 4개, 0.1이 몇 개인 수일까요?",
+    "choices": [
+      "5개",
+      "45개",
+      "4개",
+      "50개"
+    ],
+    "answer": 0,
+    "explanation": "4.5는 1이 4개, 0.1이 5개인 수예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "소수 □.6이 3.2보다 크고 4.1보다 작을 때 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "3.6은 3.2보다 크고 4.1보다 작아요. 4.6은 4.1보다 커요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가장 긴 끈은 무엇일까요? (가 5cm 3mm, 나 5.8cm, 다 61mm, 라 6cm)",
+    "choices": [
+      "가",
+      "나",
+      "다",
+      "라"
+    ],
+    "answer": 2,
+    "explanation": "cm로 바꾸면 5.3, 5.8, 6.1, 6이라서 61mm인 다가 가장 길어요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "소수 0.□가 3/10보다 크고 7/10보다 작을 때 □에 들어갈 수 있는 수는 모두 몇 개일까요?",
+    "choices": [
+      "4개",
+      "5개",
+      "2개",
+      "3개"
+    ],
+    "answer": 3,
+    "explanation": "3/10은 0.3, 7/10은 0.7이라서 □는 4, 5, 6으로 3개예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "132 × 2는 얼마일까요?",
+    "choices": [
+      "264",
+      "234",
+      "262",
+      "134"
+    ],
+    "answer": 0,
+    "explanation": "백, 십, 일의 자리를 각각 2배 하면 264예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "27 × 30은 얼마일까요?",
+    "choices": [
+      "81",
+      "810",
+      "8100",
+      "570"
+    ],
+    "answer": 1,
+    "explanation": "27 × 3 = 81이고, 30을 곱하면 0을 하나 붙여 810이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "52 × 18은 얼마일까요?",
+    "choices": [
+      "416",
+      "946",
+      "936",
+      "836"
+    ],
+    "answer": 2,
+    "explanation": "52 × 10 = 520, 52 × 8 = 416을 더하면 936이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "책 한 쪽에 글자가 245자씩 있어요. 8쪽에는 글자가 모두 몇 자 있을까요?",
+    "choices": [
+      "1660자",
+      "1860자",
+      "253자",
+      "1960자"
+    ],
+    "answer": 3,
+    "explanation": "245 × 8 = 1960이므로 1960자예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "곱이 1000에 가장 가까운 것은 무엇일까요?",
+    "choices": [
+      "143 × 7",
+      "248 × 4",
+      "199 × 5",
+      "334 × 3"
+    ],
+    "answer": 0,
+    "explanation": "곱은 1001, 992, 995, 1002라서 143 × 7이 1000과 1만큼 차이 나요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "□ × 40이 1000보다 클 때, □에 들어갈 수 있는 가장 작은 수는 무엇일까요?",
+    "choices": [
+      "25",
+      "26",
+      "24",
+      "30"
+    ],
+    "answer": 1,
+    "explanation": "25 × 40 = 1000이라 1000보다 크려면 □는 26부터예요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "46 × 25와 25 × 46의 곱은 서로 달라요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "곱하는 두 수의 순서를 바꾸어도 곱은 같아요. 둘 다 1150이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사과가 24개씩 12상자, 배가 18개씩 15상자 있어요. 어느 것이 몇 개 더 많을까요?",
+    "choices": [
+      "배가 18개 더 많아요",
+      "사과가 28개 더 많아요",
+      "사과가 18개 더 많아요",
+      "사과와 배가 같아요"
+    ],
+    "answer": 2,
+    "explanation": "사과는 24 × 12 = 288개, 배는 18 × 15 = 270개라서 사과가 18개 더 많아요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "숫자 카드 3, 4, 5, 6을 한 번씩 써서 (두 자리 수) × (두 자리 수)를 만들 때 가장 큰 곱은?",
+    "choices": [
+      "3392",
+      "2835",
+      "2795",
+      "3402"
+    ],
+    "answer": 3,
+    "explanation": "63 × 54 = 3402로 가장 커요. 64 × 53 = 3392보다 커요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "7 × 80은 얼마일까요?",
+    "choices": [
+      "560",
+      "56",
+      "5600",
+      "87"
+    ],
+    "answer": 0,
+    "explanation": "7 × 8 = 56이고, 80을 곱하면 0을 하나 붙여 560이에요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "18 × 21을 계산할 때 18 × 20에 얼마를 더하면 될까요?",
+    "choices": [
+      "21",
+      "18",
+      "20",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "18 × 21은 18 × 20과 18 × 1을 더한 것이라서 18을 더하면 돼요.",
+    "semester": 2,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "60 ÷ 3의 몫은 얼마일까요?",
+    "choices": [
+      "2",
+      "30",
+      "20",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "6 ÷ 3 = 2이므로 60 ÷ 3 = 20이에요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "29 ÷ 4의 나머지는 얼마일까요?",
+    "choices": [
+      "3",
+      "7",
+      "2",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "4 × 7 = 28이고 29 - 28 = 1이라서 나머지는 1이에요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "486 ÷ 3의 몫은 얼마일까요?",
+    "choices": [
+      "162",
+      "152",
+      "172",
+      "1458"
+    ],
+    "answer": 0,
+    "explanation": "3 × 162 = 486이므로 몫은 162예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어떤 수를 6으로 나누었을 때 나머지가 될 수 없는 수는 무엇일까요?",
+    "choices": [
+      "1",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "나머지는 나누는 수 6보다 작아야 해서 6은 나머지가 될 수 없어요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "학생 76명이 한 줄에 7명씩 줄을 서요. 마지막 줄에는 몇 명이 서게 될까요?",
+    "choices": [
+      "7명",
+      "10명",
+      "6명",
+      "1명"
+    ],
+    "answer": 2,
+    "explanation": "76 ÷ 7 = 10 … 6이라서 7명씩 10줄, 마지막 줄은 6명이에요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수를 5로 나누었더니 몫이 14, 나머지가 3이었어요. 이 수를 8로 나누면 나머지는 얼마일까요?",
+    "choices": [
+      "3",
+      "9",
+      "5",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "어떤 수는 5 × 14 + 3 = 73이고, 73 ÷ 8 = 9 … 1이에요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "몫이 가장 작은 나눗셈은 무엇일까요?",
+    "choices": [
+      "96 ÷ 6",
+      "84 ÷ 4",
+      "75 ÷ 3",
+      "72 ÷ 4"
+    ],
+    "answer": 0,
+    "explanation": "몫은 차례로 16, 21, 25, 18이라서 96 ÷ 6이 가장 작아요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "54 ÷ 4의 몫은 13, 나머지는 2예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "4 × 13 = 52이고 54 - 52 = 2라서 맞아요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "□ ÷ 5의 몫이 7이고 나머지가 될 수 있는 수 중 가장 클 때, □는 얼마일까요?",
+    "choices": [
+      "35",
+      "39",
+      "40",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "나머지는 5보다 작아서 가장 큰 나머지는 4예요. 5 × 7 + 4 = 39예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "두 자리 수 7□를 3으로 나누면 나누어떨어져요. □에 들어갈 수 있는 수는 모두 몇 개일까요?",
+    "choices": [
+      "2개",
+      "4개",
+      "3개",
+      "1개"
+    ],
+    "answer": 2,
+    "explanation": "72, 75, 78이 3으로 나누어떨어져서 3개예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "90m 길의 처음부터 끝까지 6m 간격으로 나무를 심으면 나무는 모두 몇 그루 필요할까요?",
+    "choices": [
+      "15그루",
+      "14그루",
+      "17그루",
+      "16그루"
+    ],
+    "answer": 3,
+    "explanation": "간격은 90 ÷ 6 = 15군데이고, 처음에도 심으니 15 + 1 = 16그루예요.",
+    "semester": 2,
+    "unit": "나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "컴퍼스로 원을 그릴 때 침을 꽂은 곳은 원의 무엇이 될까요?",
+    "choices": [
+      "원의 중심",
+      "지름",
+      "반지름",
+      "꼭짓점"
+    ],
+    "answer": 0,
+    "explanation": "컴퍼스 침을 꽂은 점이 원의 중심이 돼요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "한 원에서 지름은 1개만 그을 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "원의 중심을 지나는 선분은 셀 수 없이 많이 그을 수 있어요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가장 큰 원은 무엇일까요? (가 반지름 6cm, 나 지름 14cm, 다 지름 10cm, 라 반지름 8cm)",
+    "choices": [
+      "가",
+      "라",
+      "나",
+      "다"
+    ],
+    "answer": 1,
+    "explanation": "반지름으로 비교하면 6, 7, 5, 8cm라서 라가 가장 커요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지름이 20cm인 큰 원 안에 같은 크기의 작은 원 2개를 큰 원의 지름을 따라 꼭 맞게 나란히 그렸어요. 작은 원의 반지름은?",
+    "choices": [
+      "10cm",
+      "20cm",
+      "5cm",
+      "4cm"
+    ],
+    "answer": 2,
+    "explanation": "작은 원의 지름은 20 ÷ 2 = 10cm이고, 반지름은 그 절반인 5cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "반지름 4cm인 원 5개를 이웃한 원의 중심이 서로의 원 위에 오게 한 줄로 겹쳐 그렸어요. 왼쪽 끝에서 오른쪽 끝까지 길이는?",
+    "choices": [
+      "40cm",
+      "20cm",
+      "32cm",
+      "24cm"
+    ],
+    "answer": 3,
+    "explanation": "중심 사이가 4cm씩 4번이고 양 끝 반지름을 더해 16 + 8 = 24cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "반지름이 7cm인 원이 꼭 맞게 들어가는 정사각형이 있어요. 정사각형의 네 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "56cm",
+      "28cm",
+      "49cm",
+      "42cm"
+    ],
+    "answer": 0,
+    "explanation": "정사각형의 한 변은 원의 지름 14cm라서 14 × 4 = 56cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "원에 대한 설명으로 틀린 것은 무엇일까요?",
+    "choices": [
+      "한 원에서 지름은 길이가 모두 같아요",
+      "반지름은 지름의 2배예요",
+      "지름은 원을 똑같이 둘로 나눠요",
+      "한 원에서 원의 중심은 1개예요"
+    ],
+    "answer": 1,
+    "explanation": "지름이 반지름의 2배예요. 반지름은 지름의 절반이에요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "원 위의 두 점을 이은 선분 중 원의 중심을 지나지 않는 선분은 지름보다 짧아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "원 안에 그을 수 있는 가장 긴 선분은 중심을 지나는 지름이에요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "띠 종이와 누름 못으로 원을 그렸어요. 누름 못에서 연필을 꽂은 구멍까지 6cm였다면 원의 지름은?",
+    "choices": [
+      "6cm",
+      "3cm",
+      "12cm",
+      "18cm"
+    ],
+    "answer": 2,
+    "explanation": "누름 못에서 연필까지가 반지름 6cm이므로 지름은 12cm예요.",
+    "semester": 2,
+    "unit": "원"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "가분수는 무엇일까요?",
+    "choices": [
+      "3/4",
+      "1과 1/3",
+      "2/9",
+      "7/5"
+    ],
+    "answer": 3,
+    "explanation": "분자가 분모와 같거나 큰 분수를 가분수라고 해요. 7/5가 가분수예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "16을 4씩 묶으면 12는 16의 얼마일까요?",
+    "choices": [
+      "3/4",
+      "4/3",
+      "12/4",
+      "1/4"
+    ],
+    "answer": 0,
+    "explanation": "16은 4묶음이고 12는 그중 3묶음이라서 3/4이에요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "35의 3/7은 얼마일까요?",
+    "choices": [
+      "5",
+      "15",
+      "21",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "35의 1/7은 5이고, 3/7은 5의 3배인 15예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "20cm의 3/4과 24cm의 2/3 중 어느 것이 몇 cm 더 길까요?",
+    "choices": [
+      "20cm의 3/4이 1cm 더 길어요",
+      "두 길이가 같아요",
+      "24cm의 2/3가 1cm 더 길어요",
+      "24cm의 2/3가 4cm 더 길어요"
+    ],
+    "answer": 2,
+    "explanation": "20cm의 3/4은 15cm, 24cm의 2/3는 16cm라서 1cm 차이예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "대분수 3과 2/5는 가분수 17/5와 크기가 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "3은 15/5이고 2/5를 더하면 17/5라서 같아요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "분모가 6인 가분수 중에서 분자가 가장 작은 분수는 무엇일까요?",
+    "choices": [
+      "7/6",
+      "1/6",
+      "5/6",
+      "6/6"
+    ],
+    "answer": 3,
+    "explanation": "분자가 분모와 같은 6/6도 가분수예요. 그래서 6/6이 답이에요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "하루 24시간 중 1/3은 잠을 자고, 1/4은 학교에 있어요. 나머지 시간은 몇 시간일까요?",
+    "choices": [
+      "10시간",
+      "14시간",
+      "8시간",
+      "12시간"
+    ],
+    "answer": 0,
+    "explanation": "잠 8시간, 학교 6시간이라서 24 - 8 - 6 = 10시간이에요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "13/4, 3과 3/4, 4, 17/4 중 가장 작은 수는 무엇일까요?",
+    "choices": [
+      "3과 3/4",
+      "13/4",
+      "4",
+      "17/4"
+    ],
+    "answer": 1,
+    "explanation": "모두 가분수로 바꾸면 13/4, 15/4, 16/4, 17/4라서 13/4가 가장 작아요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "8의 1/4은 얼마일까요?",
+    "choices": [
+      "4",
+      "32",
+      "2",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "8을 똑같이 4묶음으로 나누면 한 묶음은 2예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "바구니에 있던 사과의 1/5을 먹었더니 12개가 남았어요. 처음 바구니에 있던 사과는 몇 개일까요?",
+    "choices": [
+      "60개",
+      "17개",
+      "10개",
+      "15개"
+    ],
+    "answer": 3,
+    "explanation": "남은 12개가 4/5이므로 1/5은 3개, 처음은 3 × 5 = 15개예요.",
+    "semester": 2,
+    "unit": "분수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1kg은 몇 g일까요?",
+    "choices": [
+      "1000g",
+      "100g",
+      "10g",
+      "10000g"
+    ],
+    "answer": 0,
+    "explanation": "1kg은 1000g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사과 한 개의 무게로 가장 알맞은 것은 무엇일까요?",
+    "choices": [
+      "약 3kg",
+      "약 300g",
+      "약 30kg",
+      "약 3t"
+    ],
+    "answer": 1,
+    "explanation": "사과 한 개는 손으로 쉽게 드는 정도로 약 300g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "주전자에 가득 담긴 물을 가 컵으로 부으면 5번, 나 컵으로 부으면 8번에 모두 옮겨져요. 들이가 더 큰 컵은?",
+    "choices": [
+      "나 컵",
+      "두 컵이 같아요",
+      "가 컵",
+      "알 수 없어요"
+    ],
+    "answer": 2,
+    "explanation": "같은 양을 더 적은 횟수로 옮긴 가 컵의 들이가 더 커요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "2kg 400g + 1kg 750g - 900g은 얼마일까요?",
+    "choices": [
+      "3kg 350g",
+      "4kg 150g",
+      "2kg 250g",
+      "3kg 250g"
+    ],
+    "answer": 3,
+    "explanation": "2kg 400g + 1kg 750g = 4kg 150g이고, 900g을 빼면 3kg 250g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "크기가 큰 물건은 크기가 작은 물건보다 항상 더 무거워요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "솜 한 봉지처럼 크지만 가벼운 물건도 있어서 항상 그렇지는 않아요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가방이 2kg 300g, 필통이 450g, 무게가 600g인 책이 3권 있어요. 모두 합하면 몇 kg 몇 g일까요?",
+    "choices": [
+      "4kg 550g",
+      "3kg 350g",
+      "4kg 450g",
+      "5kg 550g"
+    ],
+    "answer": 0,
+    "explanation": "책은 600 × 3 = 1800g이고, 2300 + 450 + 1800 = 4550g이에요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사과는 바둑돌 30개, 배는 바둑돌 42개와 무게가 같아요. 배는 사과보다 바둑돌 몇 개만큼 더 무거울까요?",
+    "choices": [
+      "72개",
+      "12개",
+      "30개",
+      "42개"
+    ],
+    "answer": 1,
+    "explanation": "42 - 30 = 12이므로 바둑돌 12개만큼 더 무거워요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "욕조에 가득 담기는 물의 양으로 가장 알맞은 것은 무엇일까요?",
+    "choices": [
+      "약 200mL",
+      "약 2L",
+      "약 200L",
+      "약 20mL"
+    ],
+    "answer": 2,
+    "explanation": "욕조는 아주 커서 약 200L 정도의 물이 담겨요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물 3L를 800mL 병에 가득가득 나누어 담으면 몇 병을 채우고 몇 mL가 남을까요?",
+    "choices": [
+      "4병, 200mL 남아요",
+      "3병, 200mL 남아요",
+      "2병, 1400mL 남아요",
+      "3병, 600mL 남아요"
+    ],
+    "answer": 3,
+    "explanation": "3L는 3000mL이고 800mL씩 3병이면 2400mL라서 600mL가 남아요.",
+    "semester": 2,
+    "unit": "들이와 무게"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "그림그래프의 좋은 점으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "많고 적음을 한눈에 알 수 있어요",
+      "조사한 사람의 이름을 알 수 있어요",
+      "그림이 작을수록 수가 커요",
+      "자료를 글로만 나타내요"
+    ],
+    "answer": 0,
+    "explanation": "그림그래프는 그림의 크기와 개수로 많고 적음을 한눈에 보여 줘요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "큰 그림은 10권, 작은 그림은 1권이에요. 42권을 가장 적은 수의 그림으로 나타내면 그림은 모두 몇 개일까요?",
+    "choices": [
+      "42개",
+      "6개",
+      "8개",
+      "24개"
+    ],
+    "answer": 1,
+    "explanation": "큰 그림 4개와 작은 그림 2개로 모두 6개예요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "요일별 판매량이 월 36개, 화 27개, 수 45개, 목 18개예요. 두 번째로 많이 판 요일은?",
+    "choices": [
+      "화요일",
+      "수요일",
+      "월요일",
+      "목요일"
+    ],
+    "answer": 2,
+    "explanation": "많은 순서는 수(45), 월(36), 화(27), 목(18)이라서 월요일이에요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "큰 그림은 100그루, 작은 그림은 10그루예요. 가 마을은 큰 3개·작은 4개, 나 마을은 큰 2개·작은 9개예요. 차이는?",
+    "choices": [
+      "나 마을이 50그루 더 많아요",
+      "가 마을이 10그루 더 많아요",
+      "가 마을이 150그루 더 많아요",
+      "가 마을이 50그루 더 많아요"
+    ],
+    "answer": 3,
+    "explanation": "가 마을은 340그루, 나 마을은 290그루라서 가 마을이 50그루 더 많아요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "좋아하는 계절 조사: 전체 60명 중 봄 18명, 여름 15명, 겨울 12명이에요. 가을을 좋아하는 학생은 몇 명일까요?",
+    "choices": [
+      "15명",
+      "18명",
+      "12명",
+      "45명"
+    ],
+    "answer": 0,
+    "explanation": "60 - 18 - 15 - 12 = 15명이에요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "큰 그림 1개가 10명, 작은 그림 1개가 1명일 때, 큰 그림 2개는 작은 그림 12개보다 적은 수를 나타내요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "큰 그림 2개는 20명, 작은 그림 12개는 12명이라서 더 많아요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "큰 그림은 100L, 작은 그림은 10L예요. 나 농장은 큰 그림 1개, 작은 그림 7개이고, 가 농장은 나 농장의 2배예요. 가 농장은?",
+    "choices": [
+      "170L",
+      "340L",
+      "240L",
+      "440L"
+    ],
+    "answer": 1,
+    "explanation": "나 농장은 170L이고, 2배는 340L예요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "네 반 학생은 모두 100명이고 1반 24명, 2반 27명, 3반 23명이에요. 4반을 큰 그림(10명)과 작은 그림(1명)으로 나타내면?",
+    "choices": [
+      "큰 그림 2개, 작은 그림 4개",
+      "큰 그림 6개, 작은 그림 2개",
+      "큰 그림 2개, 작은 그림 6개",
+      "큰 그림 3개, 작은 그림 6개"
+    ],
+    "answer": 2,
+    "explanation": "4반은 100 - 24 - 27 - 23 = 26명이라 큰 그림 2개, 작은 그림 6개예요.",
+    "semester": 2,
+    "unit": "그림그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "0.1이 25개인 수는 얼마일까요?",
+    "choices": [
+      "0.25",
+      "2.5",
+      "250",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "0.1이 10개면 1이니 25개면 2.5예요.",
+    "semester": 1,
+    "unit": "분수와 소수"
+  }
+]
