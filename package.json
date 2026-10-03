@@ -1,0 +1,13 @@
+{
+  "name": "question-bank",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/validate.mjs",
+    "mathking": "npx -y tsx --tsconfig ../math-king/tsconfig.json scripts/import-mathking.mts",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.1"
+  }
+}
