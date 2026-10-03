@@ -1,9 +1,8 @@
 # 핸드아웃: 문제 생성·사용처 단일화 (question-bank 패키지화)
 
-- 작성일: 2026-10-03
-- 작성한 곳: question-bank 세션
+- 처음 작성: 2026-10-03 / 갱신: 2026-10-04
 - 작업 위치: `~/dev/question-bank` (관련: `~/dev/math-king`, `~/dev/math-battle-arena`, `~/dev/bluemarble`, `~/dev/class-rpg-game`)
-- 상태: **공개 여부 결정됨(공개 유지).** 남은 결정은 "이 방향으로 갈지" 1가지 (아래 4장)
+- 상태: **완료** (패키지 틀, 생성기 이동 + math-king 전환, arena 전환, rpg 연결). 남은 것은 5장 끝의 두 가지
 
 ---
 
@@ -11,92 +10,97 @@
 
 사용자 요구: **"문제 생성과 사용처를 단일화하고 싶다."**
 - 문제를 만드는 곳은 question-bank 하나로
-- 모든 앱이 문제를 받아 가는 방식도 하나로
-- rpg(class-rpg-game)는 문항 풀이 기록(DB) 때문에 **보류**. 설계는 나중에 붙일 수 있게만 해 둔다
+- 모든 앱이 문제를 받아 가는 방식도 하나로 (패키지 `github:jinsyu/question-bank`)
 
-## 2. 현재 구조 (조사로 확인한 사실)
+## 2. 지금 구조
 
-### 도메인과 저장소 (이름이 헷갈리니 주의)
-| 주소 | 저장소 | 공개 여부 | 문제 출처 |
+```
+question-bank (PUBLIC, 문제를 만드는 유일한 곳)
+├ questions/*.json            5과목 문항 (기본 20개 + *.mathking.json 4개)
+├ src/index.ts, types.ts      getProblems({ grade, subject, semester?, unit?, level? }) → Problem[]
+├ src/math/content/           수학 생성기 (math-king에서 이동, 84개 파일)
+├ src/math/lib/random.ts
+├ src/math/components/        그림 컴포넌트 6개 (react, Tailwind 클래스)
+└ src/math/__tests__/         생성기 검사 테스트
+```
+
+| 주소 | 저장소 | 문제를 받는 방법 | 반영 방법 |
 |---|---|---|---|
-| math.gyosil.app | `~/dev/math-king` (Next 16) | PRIVATE | 수학 생성기 코드 `src/content/**` (약 4.8만 줄) + `src/lib/random.ts`. 문제를 매번 새로 생성 |
-| mathking.site | `~/dev/math-battle-arena` (Vite + Express + socket.io, 이 맥에서 cloudflared 터널로 운영) | PRIVATE | math-king 코드를 **손으로 복사**: `shared/math/content`, `shared/math/lib/random.ts`, `client/src/math/*` 그림 컴포넌트 6개. alias `@` → `shared/math` (`vite.config.ts`) |
-| (bluemarble) | `~/dev/bluemarble` (Next 16, pnpm) | PRIVATE | question-bank JSON 기본 20개를 `scripts/sync-questions.mjs`로 받아 `src/data/questions/`에 씀. `dev`·`build` 때 자동 |
-| rpg.gyosil.app | `~/dev/class-rpg-game` | PRIVATE | 자체 복사본 `content/questions/` → `load.mjs`로 Supabase `rpg.questions`. **보류** |
-| — | `~/dev/question-bank` | **PUBLIC** | 문항 JSON 원본 |
+| math.gyosil.app | `~/dev/math-king` (Next 16, Vercel) | `question-bank/math/...` import | lock 파일의 question-bank 커밋을 올려 푸시 → Vercel 자동 배포 |
+| mathking.site | `~/dev/math-battle-arena` (Vite + Express, 이 맥에서 launchd로 운영) | `question-bank/math/...` import | 아래 4장 |
+| (bluemarble) | `~/dev/bluemarble` | 자체 sync 스크립트로 기본 20개 JSON을 직접 받음 | 테스트 프로젝트라 전환하지 않기로 함 (사용자 결정) |
+| rpg.gyosil.app | `~/dev/class-rpg-game` | 패키지의 `questions/*.json` → Supabase `rpg.questions` | 5장 |
 
-- 출처: `math-king/src/lib/site.ts:6`, `math-battle-arena/scripts/cloudflared-mathking.yml`, `gyosil/src/lib/site.ts`
+결정 사항
+- 공개 여부: **공개 유지** (2026-10-03). 비밀 값은 절대 넣지 말 것
+- 배포 형태: **TS 원본 그대로** 내보낸다 (빌드 없음). 앱 쪽에 필요한 것:
+  - Next: `transpilePackages: ["question-bank"]`
+  - Tailwind(그림 컴포넌트를 쓸 때): CSS에 `@source "../../node_modules/question-bank/src/math/components";`
+  - Playwright: `NODE_OPTIONS='--import tsx'` (node_modules의 TS를 변환하지 못함)
+  - Vite, vitest, tsx는 설정 없이 동작
 
-### question-bank 내용
-- `questions/g{3~6}-{korean,math,social,science,english}.json`: 손으로 만든 문항 20개 파일, 약 5,500문항
-- `questions/g{3~6}-math.mathking.json`: math-king 생성기 결과를 글 4지선다로 변환해 굳힌 것, 약 5,500문항. 지금 쓰는 곳은 rpg뿐
-- 형식: `questions/README.md` (difficulty, type, question, choices, answer, explanation, standard?, semester, unit)
+## 3. 한 일 (커밋)
 
-### 이미 확인된 문제점
-1. **arena 복사본이 원본과 어긋나 있음**: `content/words/words56.ts` 한 파일. arena 쪽에 "가진 장수보다 많이 쓸 수 없게" 버그 수정(`randInt(rand, 5, Math.min(20, (a + b) * c - 1))`)이 있고 math-king에는 없음. 통합 전에 math-king으로 옮겨야 함
-2. arena의 그림 컴포넌트 6개(`chart-layout.ts`, `charts.tsx`, `figure-note.ts`, `figure.tsx`, `long-division.tsx`, `math-text.tsx`)는 현재 math-king `src/components/`와 동일. `paper.css`는 arena에만 있음
-3. `*.mathking.json`은 math-king `1eae578`(2026-10-01) 시점 결과. **지금 math-king으로 다시 뽑으면 내용이 달라짐** (예: g4 1,087 → 1,137문항, 4-1 어림셈 신설 등)
-
-## 3. 이 세션에서 한 일 (question-bank, 커밋 `f8b2c63`로 main에 푸시됨)
-
-rpg에 있던 문항 도구를 question-bank로 옮김 (rpg 원본은 그대로 둠):
-
-| 파일 | 원본 | 변경 |
+| 저장소 | 커밋 | 내용 |
 |---|---|---|
-| `scripts/validate.mjs` | `class-rpg-game/scripts/questions/validate.mjs` | 경로 `content/questions` → `questions`, 주석 |
-| `scripts/import-mathking.mts` | 같은 폴더 | 경로, 주석 (EXCLUDE·RETAG 그대로) |
-| `scripts/mathking.ts`, `scripts/mathking.test.ts` | 같은 폴더 | 주석 한 줄 |
-| `package.json` (`check`, `mathking`, `test`), `package-lock.json`, `.gitignore` | 신규 | vitest 5.0.1 (rpg와 같음) |
-| `README.md`, `questions/README.md` | 수정 | 문항 추가 흐름·명령, 사실과 다르던 설명 정정 |
-| `docs/handoff-unify-question-bank.md` | 신규 | 이 문서 |
+| question-bank | `f30ba82` | 패키지 틀: 공통 문제 모양 `Problem` + `getProblems` |
+| question-bank | `1487f26` | 수학 생성기·그림 컴포넌트·검사 테스트를 math-king에서 이동. `npm run mathking`이 옮겨 온 생성기를 씀 |
+| question-bank | `bb3c357` | `words56.ts` 수정 (arena에만 있던 "가진 장수보다 많이 쓰지 않게") |
+| math-king | `3eb3acf` + `bbd71dd` | 패키지로 전환. `3eb3acf`는 실수로 삭제만 들어간 커밋(배포 실패)이고 `bbd71dd`가 나머지 |
+| math-king | `d3d8edd` | question-bank `bb3c357`로 갱신 |
+| math-battle-arena | `c3ff8ee` | 복사본(`shared/math`, 그림 컴포넌트 6개) 삭제, 패키지로 전환. `paper.css`는 arena 고유라 남김 |
 
-검증 결과 (모두 통과):
-- `npm run check` 통과. 출력이 rpg 원본 validate 출력과 바이트 동일
-- `npm test` 30개 통과
-- 같은 math-king으로 돌린 새 추출 스크립트 결과 = rpg 원본 스크립트 결과 (4개 파일 바이트 동일, `npm run mathking` 명령 그대로)
-- math-king `1eae578`을 `git archive`로 꺼내 돌리면 커밋된 `*.mathking.json` 4개가 바이트 동일하게 재현됨
-- `questions/*.json` 변경 없음. 다른 저장소는 하나도 수정하지 않음
+검증으로 남긴 증거
+- 생성기 출력: math-king 원본 대 question-bank 복사본 바이트 동일 (생성기 1,985개 × 40문제)
+- `words56` 수정 후 question-bank 출력 = arena 복사본 출력 (바이트 동일)
+- math-king: 미리 만든 HTML 582쪽 전후 동일, vitest 4,135개, e2e 86개 통과
+- arena: 서버 `makeProblem` 출력 8,210문제와 클라이언트 `dist` 전후 바이트 동일
+- 테스트 수: math-king 원래 9,503 = question-bank로 옮긴 5,362 + math-king에 남은 4,141 (이름 검사를 나눠 지금은 4,135)
 
-커밋: `f8b2c63 문항 검사·math-king 추출 도구를 rpg에서 이동, 단일화 핸드아웃 추가`
+순수 복사가 아닌 부분
+- `quality-g4`의 느린 테스트 1개에 시간 제한 30초 (원래 5초 제한을 넘겨 실패하던 것)
+- `names.test.ts`를 둘로 나눔 (학년별 이름은 question-bank, 친구 풀이 이름은 math-king)
+- math-king CSS에서 `.grow`, `.ring`, `.transform` 규칙이 사라짐 (생성기 변수 이름을 Tailwind가 오인해 만들던 것, 쓰는 곳 없음)
 
-## 4. 제안한 방향과 남은 결정
+## 4. 생성기를 고쳤을 때 앱에 반영하는 법
 
-### 제안: question-bank를 "문제 패키지" 하나로
-```
-question-bank (문제를 만드는 유일한 곳)
-├ 5과목 JSON 문항
-├ 수학 생성기 (math-king src/content + random.ts에서 이동)
-├ 그림 컴포넌트 (math-king src/components의 6개에서 이동)
-└ 공통 함수 getProblems({ grade, subject, semester, unit, level, ... })
-      → JSON 문항과 생성기 문항을 같은 모양의 문제 객체로 반환
-          ↓ 모든 앱이 "question-bank": "github:jinsyu/question-bank" 로 import
-math-king · arena · bluemarble · (rpg 보류)
-```
-- 사라지는 것: bluemarble sync 스크립트, arena 손 복사본, (앱 입장에서) mathking.json 변환 단계
-- 최신화: 앱에서 `pnpm update question-bank` → 배포 (커밋 단위로 고정돼 안전)
-- 모든 걸 JSON으로 굳히는 반대 방향은 기각함: "풀 때마다 새 숫자"와 그림 문제가 사라짐
+1. question-bank에서 고치고 `npm test`, `npm run typecheck`, `npm run check` → 커밋·푸시
+2. math-king: `pnpm-lock.yaml`에서 question-bank 커밋 해시를 새 것으로 바꾸고(4곳) `pnpm install --frozen-lockfile` → 검증 → 푸시
+   - `pnpm update question-bank`는 다른 의존성(rolldown 등)까지 올리니 주의
+3. arena: 같은 방법으로 lock 갱신·푸시 후, 운영 폴더(`~/dev/math-battle-arena`)에서
+   `git pull` → `pnpm install --frozen-lockfile` → `pnpm build` → `launchctl kickstart -k gui/$(id -u)/site.mathking.server`
+   - 재시작하면 진행 중인 방이 끊긴다. 접속자 확인: `lsof -a -p <서버 pid> -iTCP -sTCP:ESTABLISHED`
 
-### 결정 사항
-- **공개 여부: 공개 유지** (2026-10-03 사용자 결정). math-king 생성기 코드가 question-bank로 옮겨지면 공개된다는 점을 사용자가 알고 선택함. 앱들은 토큰 없이 `github:jinsyu/question-bank`로 받으면 됨. 비밀 값은 절대 넣지 말 것
+## 5. rpg 연결 (2026-10-04 완료)
 
-### 사용자 결정 필요 (아직 답 없음)
-1. **이 방향(패키지화)으로 갈지**
+rpg 구조
+- 게임은 파일이 아니라 **Supabase `rpg.questions` 테이블**에서 문제를 하나씩 뽑는다 (`rpg.issue_question`, 로컬 측정 약 2ms). 형식은 4지선다·OX뿐
+- rpg는 question-bank를 개발 의존성으로 받고, `npm run questions:load`가 `node_modules/question-bank/questions` → DB로 적재한다
+- 같은 문항인지는 **(학년, 과목, 문제 문장)** 으로 판단. 문제 은행에서 빠진 문항은 `disabled` (행을 지우지 않는다)
+- 풀이 기록 `answer_logs`는 업적·랭킹·선생님 통계가 쓰므로 지우지 않는다. 문제 문장을 따로 갖고 있어 문항이 바뀌어도 남는다
 
-### 제안한 진행 순서 (단계마다 검증하고, 커밋 전 사용자 확인)
-1. 패키지 틀: 공통 문제 모양 + `getProblems` + 5과목 JSON. bluemarble을 sync → 패키지로 바꾸고 출제 결과가 같은지 확인
-2. 생성기 이동: math-king `src/content`, `random.ts`, 그림 컴포넌트 → 패키지. math-king은 import로 전환. math-king 기존 vitest·e2e(playwright) 통과 확인. Next는 `transpilePackages` 필요할 수 있음
-3. arena 전환: **먼저 words56 수정을 반영**한 뒤 복사본 삭제 → 패키지 import. `pnpm test`, `pnpm typecheck` 확인
-4. rpg (보류): 나중에 패키지에서 뽑아 DB에 적재. 문항 기록(id 안정성 등)은 그때 따로 다룸
+rpg 커밋 (`~/dev/class-rpg-game`)
+| 커밋 | 내용 |
+|---|---|
+| `6a570f9` | 문제 신고 기능 제거 (화면·API·서버 함수, 마이그레이션 `20261004100000_remove_question_reports.sql`) |
+| `1905f7a` | 문제 은행을 question-bank 패키지로 연결. 복사본 `content/questions/`와 옛 스크립트(validate, mathking, import-mathking) 삭제 |
+| `9cb1b8c` | `vercel-build` 추가: 운영 배포일 때만 `load.mjs`를 돌려 운영 DB에 자동 적재 (첫 실행에서 10,934문항 적재, 비활성화 0) |
 
-규모가 커서 planner 서브에이전트로 spec.md·plan.md부터 만드는 것도 제안했음.
+문항을 고쳤을 때 rpg에 반영하는 법
+1. question-bank에서 고치고 검사 → 커밋·푸시
+2. rpg에서 `npm install github:jinsyu/question-bank -D` → 커밋·푸시
+3. 적재: 로컬은 `npm run questions:load`. 운영은 사용자가 `package.json`에 직접 넣은 `vercel-build`(운영 배포일 때만 `load.mjs` 실행)가 맡는다
 
-## 5. 주의
+남은 것
+- 운영 DB 마이그레이션 `20261004100000`은 사용자가 `scripts/db/migrate.sh`로 실행 (접속 주소는 사용자만 갖고 있다)
+- `*.mathking.json`은 여전히 math-king `1eae578` 시점 내용 (g3 1,392 / g4 1,087 / g5 1,496 / g6 1,491). 지금 생성기로 다시 뽑으면 1,395 / 1,137 / 1,472 / 1,493이 되고, 문장이 바뀐 기존 문항은 rpg DB에서 `disabled`된다
 
-- 사용자 전역 규칙: 한국어 답변, 요청 안 한 기능 추가 금지, 작은 단계로, **git commit 전 반드시 사용자 확인** (한국어로 간결하게)
-- 여러 저장소에 걸친 작업이라 사용자가 "절대 실수 없게"를 강조함. 이번처럼 원본과 바이트 비교 등으로 증거를 남길 것
-- 임시 실행은 scratchpad에서. 다른 저장소의 작업 트리를 바꾸지 말 것 (math-king 과거 시점은 `git archive`로 꺼냄)
-- **bluemarble에 다른 세션의 변경이 진행 중**: 이 세션 도중 HEAD가 `41fa670` → `9b4b744`로 바뀌었고 `src/components/mockup/HostMockup.tsx`가 수정 상태. 건드리기 전에 상태 확인할 것
-- 기존 미추적 파일(내 작업 아님): `class-rpg-game/docs/indischool/`, `math-king/.claude/`
-- rpg에서 문항을 고치면 question-bank와 어긋나니, rpg 연결 전까지 문항 수정은 question-bank에서만
-- bluemarble은 `src/lib/bank.ts` `LOADERS`와 `bank.test.ts`(보기 중복, 정답 범위, 난이도 1~3 검사)가 문항 형식에 의존
-- 이전 핸드아웃: `~/dev/bluemarble/docs/handoff-question-bank-to-rpg.md` (rpg 연결 계획, 보류 중)
+## 6. 주의
+
+- 사용자 전역 규칙: 한국어 답변, 요청 안 한 기능 추가 금지, 작은 단계로, **git commit 전 반드시 사용자 확인**
+- **커밋 뒤 푸시 전에 커밋에 든 파일 목록을 확인할 것** (`git show --stat`). `&&`로 묶은 명령에서 앞이 실패하면 `git add`가 건너뛰어진다 (`3eb3acf` 사고)
+- 다른 저장소는 별도 worktree에서 작업하고, 검증이 끝난 뒤에만 main에 반영할 것. math-king에는 다른 세션의 worktree가 있다 (예전 main 기준이라 거기서 생성기를 고치면 반영되지 않는다)
+- 3100 포트는 다른 프로젝트가 쓰고 있을 수 있다. math-king e2e는 포트를 확인하고 돌릴 것
+- 기존 미추적 파일(이 작업과 무관): `class-rpg-game/docs/indischool/`, `math-king/.claude/`
+- 자동 적재처럼 운영 DB를 자동으로 바꾸는 변경, 문항 행을 지우는 변경은 Claude의 안전 검사에서 막힌다. 필요하면 사용자가 직접 넣는다
+- 이전 핸드아웃: `~/dev/bluemarble/docs/handoff-question-bank-to-rpg.md` (rpg 연결 계획 초안. sync 스크립트 방식이라 지금 구조와는 다름)

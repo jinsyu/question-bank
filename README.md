@@ -44,7 +44,7 @@ import { Figure } from "question-bank/math/components/figure";  // 그림 컴포
 | math-king (math.gyosil.app) | 패키지의 수학 생성기·그림 컴포넌트 |
 | math-battle-arena (mathking.site) | 패키지의 수학 생성기·그림 컴포넌트 |
 | bluemarble | 테스트 프로젝트. 자체 sync 스크립트(`pnpm questions:sync`)로 기본 20개 JSON을 직접 받아 간다 (패키지로 전환하지 않음) |
-| class-rpg-game | 아직 연결 안 함 (지금은 자체 복사본 `content/questions/` 사용) |
+| class-rpg-game (rpg.gyosil.app) | 패키지의 `questions/*.json`(기본 20개 + mathking 4개)을 Supabase DB에 적재 |
 
 ## 처음 한 번
 
