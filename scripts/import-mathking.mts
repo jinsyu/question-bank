@@ -1,17 +1,15 @@
-// math-king의 수학 문제를 문제 은행 형식으로 뽑아 questions/g{학년}-math.mathking.json 에 쓴다.
-// 실행: npm run mathking  (math-king 저장소가 ../math-king 에 있어야 해요. 다른 곳이면 MATH_KING_DIR=경로)
-// math-king은 읽기만 한다. 뽑은 뒤에는 npm run check → 커밋·푸시 → 각 앱에서 sync
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
-import { resolve } from "node:path";
+// 수학 생성기(src/math/content)의 문제를 문제 은행 형식으로 뽑아 questions/g{학년}-math.mathking.json 에 쓴다.
+// 실행: npm run mathking
+// 뽑은 뒤에는 npm run check → 커밋·푸시
+import { readFileSync, writeFileSync } from "node:fs";
+import { units as allUnits } from "../src/math/content";
+import { createRandom } from "../src/math/lib/random";
 import { convertProblem, type MkProblem } from "./mathking";
 
 type Generator = { id: string; level: 1 | 2 | 3; make(rand: () => number): MkProblem };
 type Unit = { grade: number; semester: 1 | 2; title: string; standards: { code: string; generators: Generator[] }[] };
 
-const MK = resolve(process.env.MATH_KING_DIR ?? "../math-king");
-if (!existsSync(`${MK}/src/content/index.ts`)) throw new Error(`math-king을 찾을 수 없어요: ${MK}`);
-const { units } = (await import(`${MK}/src/content/index.ts`)) as { units: Unit[] };
-const { createRandom } = (await import(`${MK}/src/lib/random.ts`)) as { createRandom: (seed: number) => () => number };
+const units = allUnits as Unit[];
 
 const GRADES = [3, 4, 5, 6];
 /** 생성기 하나에서 뽑는 서로 다른 문제 수, 그만큼 뽑으려고 시도하는 횟수 */

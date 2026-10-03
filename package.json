@@ -4,14 +4,38 @@
   "private": true,
   "type": "module",
   "exports": {
-    ".": "./src/index.ts"
+    ".": "./src/index.ts",
+    "./math/content": "./src/math/content/index.ts",
+    "./math/content/*": "./src/math/content/*.ts",
+    "./math/lib/*": "./src/math/lib/*.ts",
+    "./math/components/chart-layout": "./src/math/components/chart-layout.ts",
+    "./math/components/figure-note": "./src/math/components/figure-note.ts",
+    "./math/components/charts": "./src/math/components/charts.tsx",
+    "./math/components/figure": "./src/math/components/figure.tsx",
+    "./math/components/long-division": "./src/math/components/long-division.tsx",
+    "./math/components/math-text": "./src/math/components/math-text.tsx"
   },
   "scripts": {
     "check": "node scripts/validate.mjs",
-    "mathking": "npx -y tsx --tsconfig ../math-king/tsconfig.json scripts/import-mathking.mts",
-    "test": "vitest run"
+    "mathking": "npx -y tsx scripts/import-mathking.mts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@types/node": "^24.19.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "typescript": "^5.9.3",
     "vitest": "^5.0.1"
+  },
+  "peerDependencies": {
+    "react": "^19"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
   }
 }

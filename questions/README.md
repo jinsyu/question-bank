@@ -30,10 +30,10 @@
 
 ## math-king에서 가져온 수학 문제
 
-`g{학년}-math.mathking.json`은 math-king 저장소(`../math-king`)의 문제 생성기에서 뽑은 파일이에요. 손으로 고치지 말고 다시 만들어요.
+`g{학년}-math.mathking.json`은 수학 문제 생성기(`src/math/content`, math-king에서 옮겨 옴)에서 뽑은 파일이에요. 손으로 고치지 말고 다시 만들어요.
 
 ```bash
-npm run mathking   # 다시 뽑기 (math-king은 읽기만 해요)
+npm run mathking   # 다시 뽑기
 npm run check      # 형식 검사
 ```
 
