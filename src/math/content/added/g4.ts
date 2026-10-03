@@ -79,8 +79,10 @@ const bigJoCompose = word(
     const s = String(n);
     return {
       key: `${a}:${b}`,
-      prompt: `1조가 ${a}개, 1억이 ${b}개인 수를 숫자로 쓰세요.`,
+      // 13자리 답은 키패드(arena는 10자까지)로 치기 어려워 4지선다: 억·조를 한 자리씩 잘못 놓은 수를 보기로
+      prompt: `1조가 ${a}개, 1억이 ${b}개인 수를 고르세요.`,
       answer: s,
+      choices: shuffle(rand, [s, String(a * 1e12 + b * 1e4), String(a * 1e11 + b * 1e8), String(a * 1e13 + b * 1e8)]),
       hint: "1조는 1 뒤에 0이 12개, 1억은 1 뒤에 0이 8개인 수예요. 조, 억, 만, 일 네 자리씩 끊어 생각해요.",
       explanation: `1조가 ${a}개, 1억이 ${b}개인 수는 ${a}조 ${b}억이고, 숫자로 쓰면 ${s}입니다.`,
       mistakes: { [String(a * 1e12 + b * 1e4)]: "억의 자리가 아니라 만의 자리에 썼어요." },

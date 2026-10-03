@@ -64,6 +64,9 @@ describe("정답을 따로 계산해 확인", () => {
     for (const p of run("a4-big-jo-compose")) {
       const [, a, , b] = nums(p.prompt);
       expect(p.answer).toBe(String(a * 1e12 + b * 1e8));
+      // arena 키패드는 칸마다 10자까지라 13자리 답은 보기로 고른다
+      expect(p.input).toBe("choice");
+      expect(new Set(p.choices).size).toBe(4);
     }
     for (const p of run("a4-big-digit-biggest")) {
       const d = String(nums(p.prompt)[0]);
