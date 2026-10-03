@@ -7,7 +7,7 @@
 1. `elementary-problem-generator` 스킬로 문항을 만들고 검수한다 (성취기준, 학년 범위, 정답 하나).
    - 글 문항(5과목 4지선다·OX): `questions/g{학년}-{과목}.json`에 추가. 형식은 `questions/README.md`
    - 수학 생성기(풀 때마다 새 숫자, 그림): `src/math/content/`를 고치고 검사는 `src/math/__tests__/`
-   - 생성기 문제를 rpg에도 넣으려면 `npm run mathking`으로 `*.mathking.json`을 다시 뽑는다
+   - 생성기 문제는 `npm run deploy`가 `npm run mathking`으로 `g3~g6-math.mathking.json`을 다시 뽑아 커밋하고 rpg에도 넣는다(1·2학년은 빠진다)
 2. `npm run check`, `npm run typecheck`, `npm test`로 검사한다.
 3. 검사를 통과하면 **사용자 확인 없이** 커밋한다 (사용자가 정한 예외, 2026-10-04). 검사가 실패하면 커밋하지 않고 고친다.
 4. `npm run deploy`를 실행한다. 푸시, 앱 반영, 배포까지 이 명령이 한다.

@@ -1,5 +1,6 @@
 // 문제 은행을 푸시하고, 바뀐 내용을 쓰는 앱에 반영한다: npm run deploy
-//   1) 이 저장소 검사(check, typecheck, test) → main에 푸시
+//   1) rpg용 수학 문항(questions/g3~g6-math.mathking.json)을 생성기에서 다시 뽑아 바뀌었으면 커밋
+//      → 이 저장소 검사(check, typecheck, test) → main에 푸시
 //   2) 앱마다 고정된 question-bank 커밋을 최신으로 올림 → 그 앱의 검사 → 커밋·푸시 (Vercel 앱은 푸시하면 배포된다)
 //   3) arena는 이 맥에서 돌므로 빌드하고 서비스를 다시 시작한다
 // 옵션: --all (바뀐 것이 없어도 모든 앱), --dry-run (푸시·커밋·재시작 없이 검사까지만 하고 앱을 원래대로 돌려놓음)
@@ -67,6 +68,20 @@ function pinned(app) {
 // ── 1. 이 저장소 ──
 console.log("① question-bank 검사");
 if (sh("git status --porcelain") && !DRY) fail("커밋하지 않은 변경이 있어요. 먼저 커밋해 주세요.");
+// 생성기(src/math/)를 고치고 npm run mathking을 잊어도 rpg에 빠지지 않게 여기서 다시 뽑는다(시드가 고정이라 같으면 바뀌지 않는다)
+// dry-run은 커밋하지 않은 변경을 허용하므로, questions/에 손댄 것이 있으면 되돌리다 지우지 않게 건너뛴다
+if (DRY && sh("git status --porcelain -- questions/")) fail("questions/에 커밋하지 않은 변경이 있어요. 커밋한 뒤 dry-run 해 주세요.");
+run("npm run mathking");
+const regenerated = sh("git status --porcelain -- questions/").split("\n").filter(Boolean);
+if (regenerated.length) {
+  if (DRY) {
+    console.log(`   (dry-run) rpg용 수학 문항이 바뀌어요: ${regenerated.length}개 파일. 커밋하지 않고 되돌려요.`);
+    sh("git checkout -- questions/");
+  } else {
+    run("git add questions/");
+    run(`git commit -q -m "rpg용 수학 문항 다시 뽑기 (npm run mathking)"`);
+  }
+} else console.log("   rpg용 수학 문항은 이미 최신이에요.");
 for (const cmd of ["npm run check", "npm run typecheck", "npm test"]) run(cmd);
 
 const head = sh("git rev-parse HEAD");

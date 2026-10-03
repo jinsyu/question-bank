@@ -57,7 +57,7 @@ npm install
 1. 문항 만들기
    - 직접 쓰기: `questions/g{학년}-{과목}.json` 배열에 추가하거나 고친다 (형식은 [questions/README.md](questions/README.md))
    - 수학 생성기 고치기: `src/math/content/`를 고친다 (검사는 `src/math/__tests__/`)
-   - 수학 생성기에서 JSON으로 뽑기: `npm run mathking` (`*.mathking.json`은 손으로 고치지 않는다)
+   - 수학 생성기에서 JSON으로 뽑기: `npm run mathking` (`npm run deploy`가 먼저 실행하고 바뀌었으면 커밋한다. `*.mathking.json`은 손으로 고치지 않는다)
 2. `npm run check` — 형식 검사
 3. `npm test`, `npm run typecheck`
 4. 커밋
@@ -71,9 +71,9 @@ npm install
 | `npm run mathking` | `src/math/content`의 생성기에서 `g3~g6-math.mathking.json`을 다시 뽑는다 |
 | `npm test` | `getProblems`, 수학 생성기 검사(`src/math/__tests__/`), 문제 변환기(`scripts/mathking.ts`) 테스트 |
 | `npm run typecheck` | 타입 검사 |
-| `npm run deploy` | 검사 → 푸시 → 앱마다 question-bank 커밋을 올려 검사·커밋·푸시 → arena 재시작. `--dry-run`은 검사까지만, `--all`은 바뀐 것이 없어도 모든 앱 |
+| `npm run deploy` | rpg용 수학 문항 다시 뽑기(바뀌면 커밋) → 검사 → 푸시 → 앱마다 question-bank 커밋을 올려 검사·커밋·푸시 → arena 재시작. `--dry-run`은 검사까지만, `--all`은 바뀐 것이 없어도 모든 앱 |
 
-> `npm run mathking`은 그 시점의 생성기로 파일 전체를 다시 만든다. 생성기가 바뀌었으면 결과도 달라지니, 실행 후 `git diff`로 바뀐 내용을 확인하고 커밋한다.
+> `npm run mathking`은 그 시점의 생성기로 파일 전체를 다시 만든다(시드가 고정이라 생성기가 그대로면 결과도 같다). `npm run deploy`가 매번 먼저 실행해 바뀐 파일을 커밋하므로 따로 돌리지 않아도 된다.
 
 ## 주의
 
