@@ -19,6 +19,7 @@
     "check": "node scripts/validate.mjs",
     "mathking": "npx -y tsx scripts/import-mathking.mts",
     "test": "vitest run",
+    "deploy": "node scripts/deploy.mjs",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

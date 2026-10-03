@@ -12,7 +12,7 @@
 
 ```bash
 pnpm add github:jinsyu/question-bank   # 설치한 시점의 커밋으로 고정된다
-pnpm update question-bank              # 최신 문항으로 올리기 → 앱 배포
+pnpm add github:jinsyu/question-bank   # 다시 실행하면 최신 커밋으로 올라간다 (평소에는 이 저장소의 npm run deploy가 한다)
 ```
 
 ```ts
@@ -59,9 +59,9 @@ npm install
    - 수학 생성기 고치기: `src/math/content/`를 고친다 (검사는 `src/math/__tests__/`)
    - 수학 생성기에서 JSON으로 뽑기: `npm run mathking` (`*.mathking.json`은 손으로 고치지 않는다)
 2. `npm run check` — 형식 검사
-3. `npm test`
-4. 커밋·푸시
-5. 각 앱에서 `pnpm update question-bank` → 배포
+3. `npm test`, `npm run typecheck`
+4. 커밋
+5. `npm run deploy` — 푸시하고, 바뀐 내용을 쓰는 앱(rpg / math-king·arena)에 반영해 배포까지 한다
 
 ## 명령
 
@@ -71,6 +71,7 @@ npm install
 | `npm run mathking` | `src/math/content`의 생성기에서 `g3~g6-math.mathking.json`을 다시 뽑는다 |
 | `npm test` | `getProblems`, 수학 생성기 검사(`src/math/__tests__/`), 문제 변환기(`scripts/mathking.ts`) 테스트 |
 | `npm run typecheck` | 타입 검사 |
+| `npm run deploy` | 검사 → 푸시 → 앱마다 question-bank 커밋을 올려 검사·커밋·푸시 → arena 재시작. `--dry-run`은 검사까지만, `--all`은 바뀐 것이 없어도 모든 앱 |
 
 > `npm run mathking`은 그 시점의 생성기로 파일 전체를 다시 만든다. 생성기가 바뀌었으면 결과도 달라지니, 실행 후 `git diff`로 바뀐 내용을 확인하고 커밋한다.
 
