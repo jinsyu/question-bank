@@ -3,7 +3,7 @@
 - 작성일: 2026-10-03
 - 작성한 곳: question-bank 세션
 - 작업 위치: `~/dev/question-bank` (관련: `~/dev/math-king`, `~/dev/math-battle-arena`, `~/dev/bluemarble`, `~/dev/class-rpg-game`)
-- 상태: **방향 합의 전 단계.** 사용자 결정 2가지가 남아 있음 (아래 4장)
+- 상태: **공개 여부 결정됨(공개 유지).** 남은 결정은 "이 방향으로 갈지" 1가지 (아래 4장)
 
 ---
 
@@ -37,7 +37,7 @@
 2. arena의 그림 컴포넌트 6개(`chart-layout.ts`, `charts.tsx`, `figure-note.ts`, `figure.tsx`, `long-division.tsx`, `math-text.tsx`)는 현재 math-king `src/components/`와 동일. `paper.css`는 arena에만 있음
 3. `*.mathking.json`은 math-king `1eae578`(2026-10-01) 시점 결과. **지금 math-king으로 다시 뽑으면 내용이 달라짐** (예: g4 1,087 → 1,137문항, 4-1 어림셈 신설 등)
 
-## 3. 이 세션에서 한 일 (question-bank, **커밋 전**)
+## 3. 이 세션에서 한 일 (question-bank, 커밋 `f8b2c63`로 main에 푸시됨)
 
 rpg에 있던 문항 도구를 question-bank로 옮김 (rpg 원본은 그대로 둠):
 
@@ -57,10 +57,7 @@ rpg에 있던 문항 도구를 question-bank로 옮김 (rpg 원본은 그대로 
 - math-king `1eae578`을 `git archive`로 꺼내 돌리면 커밋된 `*.mathking.json` 4개가 바이트 동일하게 재현됨
 - `questions/*.json` 변경 없음. 다른 저장소는 하나도 수정하지 않음
 
-제안 커밋 메시지 (사용자 확인 후):
-```
-문항 검사·math-king 추출 도구를 rpg에서 이동
-```
+커밋: `f8b2c63 문항 검사·math-king 추출 도구를 rpg에서 이동, 단일화 핸드아웃 추가`
 
 ## 4. 제안한 방향과 남은 결정
 
@@ -79,14 +76,14 @@ math-king · arena · bluemarble · (rpg 보류)
 - 최신화: 앱에서 `pnpm update question-bank` → 배포 (커밋 단위로 고정돼 안전)
 - 모든 걸 JSON으로 굳히는 반대 방향은 기각함: "풀 때마다 새 숫자"와 그림 문제가 사라짐
 
+### 결정 사항
+- **공개 여부: 공개 유지** (2026-10-03 사용자 결정). math-king 생성기 코드가 question-bank로 옮겨지면 공개된다는 점을 사용자가 알고 선택함. 앱들은 토큰 없이 `github:jinsyu/question-bank`로 받으면 됨. 비밀 값은 절대 넣지 말 것
+
 ### 사용자 결정 필요 (아직 답 없음)
-1. **이 방향으로 갈지**
-2. **공개 여부**: question-bank는 PUBLIC, math-king은 PRIVATE
-   - A. 공개 유지: 생성기 코드가 공개됨. 설정은 가장 간단
-   - B. 비공개 전환: 각 앱의 배포 환경(Vercel 등)에 GitHub 읽기 토큰 필요. bluemarble의 raw GitHub sync는 토큰 없이는 깨지므로 1단계 전환 전에 바꾸면 안 됨
+1. **이 방향(패키지화)으로 갈지**
 
 ### 제안한 진행 순서 (단계마다 검증하고, 커밋 전 사용자 확인)
-1. 패키지 틀: 공통 문제 모양 + `getProblems` + 5과목 JSON. bluemarble을 sync → 패키지로 바꾸고 출제 결과가 같은지 확인. (3장 미커밋 작업도 여기 포함)
+1. 패키지 틀: 공통 문제 모양 + `getProblems` + 5과목 JSON. bluemarble을 sync → 패키지로 바꾸고 출제 결과가 같은지 확인
 2. 생성기 이동: math-king `src/content`, `random.ts`, 그림 컴포넌트 → 패키지. math-king은 import로 전환. math-king 기존 vitest·e2e(playwright) 통과 확인. Next는 `transpilePackages` 필요할 수 있음
 3. arena 전환: **먼저 words56 수정을 반영**한 뒤 복사본 삭제 → 패키지 import. `pnpm test`, `pnpm typecheck` 확인
 4. rpg (보류): 나중에 패키지에서 뽑아 DB에 적재. 문항 기록(id 안정성 등)은 그때 따로 다룸
