@@ -31,7 +31,8 @@ const mixedWord = word("w5-mixed", (rand) => {
   const a = randInt(rand, 3, 9);
   const b = randInt(rand, 2, 6);
   const c = randInt(rand, 2, 5);
-  const d = randInt(rand, 5, 20);
+  // 가진 장수보다 많이 쓸 수는 없다(답이 0 이하가 되지 않게)
+  const d = randInt(rand, 5, Math.min(20, (a + b) * c - 1));
   return {
     key: `${a}:${b}:${c}:${d}`,
     prompt: `빨간 색종이 ${a}장과 파란 색종이 ${b}장을 한 묶음으로 하여 ${c}묶음을 만들었습니다. 그중 ${d}장을 사용했다면 남은 색종이는 몇 장인지 하나의 식으로 나타내어 구하세요.`,
