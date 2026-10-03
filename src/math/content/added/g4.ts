@@ -1162,13 +1162,14 @@ const polyHouse = word("a4-poly-house", (rand): WordSpec => {
 });
 
 /** 4학년 단원마다 새로 더한 생성기(하·중·상 하나씩): 단원 id → 차시 id → 생성기 */
+/** 분수·소수 그림 유형(l4-fbar-add·l4-dec-line-add)이 하 칸의 1/4~2/5를 지키도록(math-king 출제기 검사) 비중을 0.5로 둔다 */
 export const addedG4: WordMap = {
   "g4-s1-big-numbers": { jo: [bigJoCompose], sipman: [bigDigitBiggest], eok: [bigCheck] },
   "g4-s1-angles": { "add-sub": [angRightSplit], quad: [angAround], triangle: [angTriDiff] },
   "g4-s1-mul-div": { "div-tens": [mdRemCannot], "mul-tens": [mdZeroCount], "mul-3x2d": [mdBoxes] },
   "g4-s1-patterns": { "number-seq": [patMiddle, patGrowDiff], "calc-seq": [patSumNth] },
-  "g4-s2-fraction-add-sub": { "proper-add": [frUnitCount], "borrow-sub": [frTape], "whole-sub": [frTwoDays] },
-  "g4-s2-decimal-add-sub": { "dec-add": [decTenthsSum], "dec-sub": [decWholeMinus, decDetour] },
+  "g4-s2-fraction-add-sub": { "proper-add": [{ ...frUnitCount, weight: 0.5 }], "borrow-sub": [frTape], "whole-sub": [frTwoDays] },
+  "g4-s2-decimal-add-sub": { "dec-add": [{ ...decTenthsSum, weight: 0.5 }], "dec-sub": [decWholeMinus, decDetour] },
   "g4-s1-moving": { "point-move": [mvPointSteps], flip: [mvBoardFlip], combo: [mvBoardCombo] },
   "g4-s1-bar-graph": { "bar-interpret": [barTwoSum], "bar-draw": [barRescale], "bar-apply": [barCatchUp] },
   "g4-s2-triangles": { "by-angles": [triPick], "by-sides": [triIsoBase], equilateral: [triEquiIso] },
