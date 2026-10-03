@@ -93,7 +93,11 @@ rpg 커밋 (`~/dev/class-rpg-game`)
 
 남은 것
 - 운영 DB 마이그레이션 `20261004100000`은 사용자가 `scripts/db/migrate.sh`로 실행 (접속 주소는 사용자만 갖고 있다)
-- `*.mathking.json`은 여전히 math-king `1eae578` 시점 내용 (g3 1,392 / g4 1,087 / g5 1,496 / g6 1,491). 지금 생성기로 다시 뽑으면 1,395 / 1,137 / 1,472 / 1,493이 되고, 문장이 바뀐 기존 문항은 rpg DB에서 `disabled`된다
+- (완료 2026-10-04) `*.mathking.json`을 지금 생성기로 다시 뽑음: g3 1,395 / g4 1,137 / g5 1,472 / g6 1,493, 성취기준 코드 포함. rpg 운영 DB에서는 문장이 바뀐 옛 문항 약 440개가 `disabled`됨
+
+## 문항·생성기를 고친 뒤 배포: `npm run deploy`
+
+검사 → 푸시 → 바뀐 폴더에 맞는 앱(`questions/` → rpg, `src/math/` → math-king·arena)의 lock을 올려 검사·커밋·푸시 → arena 재시작까지 한다 (`scripts/deploy.mjs`). 이 저장소의 문항 작업은 커밋 확인 없이 끝까지 진행하기로 했다 (`CLAUDE.md`). 4장의 손으로 하는 방법은 스크립트가 실패했을 때만 쓴다.
 
 ## 6. 주의
 

@@ -11,6 +11,7 @@
   ],
   "answer": 2,
   "explanation": "63,000입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -27,6 +28,7 @@
   ],
   "answer": 1,
   "explanation": "65,781입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -43,6 +45,7 @@
   ],
   "answer": 3,
   "explanation": "48,303입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -59,6 +62,7 @@
   ],
   "answer": 0,
   "explanation": "84,614입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -75,6 +79,7 @@
   ],
   "answer": 3,
   "explanation": "17,272입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -91,6 +96,7 @@
   ],
   "answer": 2,
   "explanation": "32,729입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -107,6 +113,7 @@
   ],
   "answer": 0,
   "explanation": "14,038입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -123,6 +130,7 @@
   ],
   "answer": 2,
   "explanation": "10,661입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-compose"
@@ -139,6 +147,7 @@
   ],
   "answer": 3,
   "explanation": "9,990 + 10 = 10000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -155,6 +164,7 @@
   ],
   "answer": 3,
   "explanation": "10000 = 10 × 1000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -171,6 +181,7 @@
   ],
   "answer": 3,
   "explanation": "10000 = 1,000 × 10",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -187,6 +198,7 @@
   ],
   "answer": 3,
   "explanation": "9,999 + 1 = 10000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -203,6 +215,7 @@
   ],
   "answer": 3,
   "explanation": "9,900 + 100 = 10000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -219,6 +232,7 @@
   ],
   "answer": 0,
   "explanation": "9,000 + 1000 = 10000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -235,6 +249,7 @@
   ],
   "answer": 3,
   "explanation": "10000 = 100 × 100",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-make"
@@ -251,6 +266,7 @@
   ],
   "answer": 0,
   "explanation": "40,000 + 16,000 + 0 = 56,000(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -267,6 +283,7 @@
   ],
   "answer": 0,
   "explanation": "40,000 + 19,000 + 700 = 59,700(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -283,6 +300,7 @@
   ],
   "answer": 1,
   "explanation": "30,000 + 23,000 + 300 = 53,300(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -299,6 +317,7 @@
   ],
   "answer": 2,
   "explanation": "50,000 + 17,000 + 600 = 67,600(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -315,6 +334,7 @@
   ],
   "answer": 2,
   "explanation": "10,000 + 22,000 + 200 = 32,200(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -331,6 +351,7 @@
   ],
   "answer": 2,
   "explanation": "20,000 + 14,000 + 700 = 34,700(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -347,6 +368,7 @@
   ],
   "answer": 1,
   "explanation": "10,000 + 17,000 + 0 = 27,000(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -363,6 +385,7 @@
   ],
   "answer": 1,
   "explanation": "10,000 + 11,000 + 600 = 21,600(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-bills"
@@ -379,6 +402,7 @@
   ],
   "answer": 3,
   "explanation": "40,000 → 사만",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -395,6 +419,7 @@
   ],
   "answer": 3,
   "explanation": "68,068 → 육만 팔천육십팔",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -411,6 +436,7 @@
   ],
   "answer": 0,
   "explanation": "80,867 → 팔만 팔백육십칠",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -427,6 +453,7 @@
   ],
   "answer": 0,
   "explanation": "41,520 → 사만 천오백이십",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -443,6 +470,7 @@
   ],
   "answer": 1,
   "explanation": "70,250 → 칠만 이백오십",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -459,6 +487,7 @@
   ],
   "answer": 0,
   "explanation": "32,002 → 삼만 이천이",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -475,6 +504,7 @@
   ],
   "answer": 1,
   "explanation": "40,802 → 사만 팔백이",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -491,6 +521,7 @@
   ],
   "answer": 0,
   "explanation": "16,086 → 만 육천팔십육",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read5"
@@ -507,6 +538,7 @@
   ],
   "answer": 1,
   "explanation": "가진 돈 12,400원 → 38,000 − 12,400 = 25,600(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -523,6 +555,7 @@
   ],
   "answer": 1,
   "explanation": "가진 돈 36,600원 → 60,000 − 36,600 = 23,400(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -539,6 +572,7 @@
   ],
   "answer": 2,
   "explanation": "가진 돈 38,600원 → 67,000 − 38,600 = 28,400(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -555,6 +589,7 @@
   ],
   "answer": 2,
   "explanation": "가진 돈 29,300원 → 34,000 − 29,300 = 4,700(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -571,6 +606,7 @@
   ],
   "answer": 1,
   "explanation": "가진 돈 26,400원 → 33,000 − 26,400 = 6,600(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -587,6 +623,7 @@
   ],
   "answer": 0,
   "explanation": "가진 돈 18,100원 → 42,000 − 18,100 = 23,900(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -603,6 +640,7 @@
   ],
   "answer": 1,
   "explanation": "가진 돈 16,300원 → 26,000 − 16,300 = 9,700(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -619,6 +657,7 @@
   ],
   "answer": 0,
   "explanation": "가진 돈 38,300원 → 59,000 − 38,300 = 20,700(원)",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-need"
@@ -635,6 +674,7 @@
   ],
   "answer": 0,
   "explanation": "4 × 1,000,000 = 4,000,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -651,6 +691,7 @@
   ],
   "answer": 3,
   "explanation": "8 × 100 = 800",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -667,6 +708,7 @@
   ],
   "answer": 3,
   "explanation": "5 × 10,000 = 50,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -683,6 +725,7 @@
   ],
   "answer": 3,
   "explanation": "2 × 1,000 = 2,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -699,6 +742,7 @@
   ],
   "answer": 1,
   "explanation": "7 × 10,000 = 70,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -715,6 +759,7 @@
   ],
   "answer": 1,
   "explanation": "3 × 100 = 300",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -731,6 +776,7 @@
   ],
   "answer": 2,
   "explanation": "4 × 10,000 = 40,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -747,6 +793,7 @@
   ],
   "answer": 0,
   "explanation": "3 × 10 = 30",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-place-value"
@@ -763,6 +810,7 @@
   ],
   "answer": 0,
   "explanation": "10000 × 571 = 5,710,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -779,6 +827,7 @@
   ],
   "answer": 1,
   "explanation": "10000 × 5730 = 57,300,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -795,6 +844,7 @@
   ],
   "answer": 1,
   "explanation": "10000 × 3880 = 38,800,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -811,6 +861,7 @@
   ],
   "answer": 2,
   "explanation": "10000 × 786 = 7,860,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -827,6 +878,7 @@
   ],
   "answer": 0,
   "explanation": "10000 × 390 = 3,900,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -843,6 +895,7 @@
   ],
   "answer": 0,
   "explanation": "10000 × 323 = 3,230,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -859,6 +912,7 @@
   ],
   "answer": 3,
   "explanation": "10000 × 47 = 470,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -875,6 +929,7 @@
   ],
   "answer": 1,
   "explanation": "10000 × 39 = 390,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-man-units"
@@ -891,6 +946,7 @@
   ],
   "answer": 2,
   "explanation": "4,000,005의 만의 자리 숫자는 0입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -907,6 +963,7 @@
   ],
   "answer": 0,
   "explanation": "6,806,801의 백만의 자리 숫자는 6입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -923,6 +980,7 @@
   ],
   "answer": 2,
   "explanation": "8,086,781의 만의 자리 숫자는 8입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -939,6 +997,7 @@
   ],
   "answer": 0,
   "explanation": "41,520,843의 백만의 자리 숫자는 1입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -955,6 +1014,7 @@
   ],
   "answer": 0,
   "explanation": "702,507의 십만의 자리 숫자는 7입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -971,6 +1031,7 @@
   ],
   "answer": 1,
   "explanation": "320,028의 만의 자리 숫자는 2입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -987,6 +1048,7 @@
   ],
   "answer": 1,
   "explanation": "408,026의 십만의 자리 숫자는 4입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -1003,6 +1065,7 @@
   ],
   "answer": 3,
   "explanation": "160,869의 만의 자리 숫자는 6입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-digit"
@@ -1019,6 +1082,7 @@
   ],
   "answer": 0,
   "explanation": "4,000,005 → 사백만 오",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1035,6 +1099,7 @@
   ],
   "answer": 2,
   "explanation": "6,806,801 → 육백팔십만 육천팔백일",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1051,6 +1116,7 @@
   ],
   "answer": 0,
   "explanation": "8,086,781 → 팔백팔만 육천칠백팔십일",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1067,6 +1133,7 @@
   ],
   "answer": 2,
   "explanation": "41,520,843 → 사천백오십이만 팔백사십삼",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1083,6 +1150,7 @@
   ],
   "answer": 0,
   "explanation": "702,507 → 칠십만 이천오백칠",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1099,6 +1167,7 @@
   ],
   "answer": 0,
   "explanation": "320,028 → 삼십이만 이십팔",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1115,6 +1184,7 @@
   ],
   "answer": 3,
   "explanation": "408,026 → 사십만 팔천이십육",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1131,6 +1201,7 @@
   ],
   "answer": 0,
   "explanation": "160,869 → 십육만 팔백육십구",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-read-big"
@@ -1138,7 +1209,7 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "유나의 저금은 101,000원, 주아의 저금은 386,000원입니다. 두 사람의 돈을 합해 만 원짜리 지폐로 바꾸면 최대 몇 장까지 바꿀 수 있나요?",
+  "question": "유나의 저금은 101,000원, 수아의 저금은 386,000원입니다. 두 사람의 돈을 합해 만 원짜리 지폐로 바꾸면 최대 몇 장까지 바꿀 수 있나요?",
   "choices": [
    "18장",
    "38장",
@@ -1147,6 +1218,7 @@
   ],
   "answer": 3,
   "explanation": "101,000 + 386,000 = 487,000 → 10,000이 48개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1163,6 +1235,7 @@
   ],
   "answer": 0,
   "explanation": "756,000 + 608,000 = 1,364,000 → 100,000이 13개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1179,6 +1252,7 @@
   ],
   "answer": 2,
   "explanation": "798,000 + 639,000 = 1,437,000 → 10,000이 143개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1195,6 +1269,7 @@
   ],
   "answer": 0,
   "explanation": "519,000 + 312,000 = 831,000 → 100,000이 8개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1211,6 +1286,7 @@
   ],
   "answer": 1,
   "explanation": "585,000 + 371,000 = 956,000 → 100,000이 9개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1227,6 +1303,7 @@
   ],
   "answer": 1,
   "explanation": "108,000 + 138,000 = 246,000 → 100,000이 2개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1243,6 +1320,7 @@
   ],
   "answer": 2,
   "explanation": "176,000 + 333,000 = 509,000 → 10,000이 50개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1259,6 +1337,7 @@
   ],
   "answer": 0,
   "explanation": "868,000 + 366,000 = 1,234,000 → 10,000이 123개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-check-bills"
@@ -1275,6 +1354,7 @@
   ],
   "answer": 1,
   "explanation": "60,000은 6의 10,000배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1291,6 +1371,7 @@
   ],
   "answer": 1,
   "explanation": "600,000은 6,000의 100배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1307,6 +1388,7 @@
   ],
   "answer": 1,
   "explanation": "40,000,000은 400의 100,000배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1323,6 +1405,7 @@
   ],
   "answer": 1,
   "explanation": "800,000은 8,000의 100배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1339,6 +1422,7 @@
   ],
   "answer": 3,
   "explanation": "1,000,000은 10의 100,000배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1355,6 +1439,7 @@
   ],
   "answer": 1,
   "explanation": "30,000은 300의 100배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1371,6 +1456,7 @@
   ],
   "answer": 3,
   "explanation": "100,000은 1의 100,000배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1387,6 +1473,7 @@
   ],
   "answer": 2,
   "explanation": "1,000은 10의 100배입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-place-times"
@@ -1403,6 +1490,7 @@
   ],
   "answer": 0,
   "explanation": "6억 = 600,000,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1419,6 +1507,7 @@
   ],
   "answer": 0,
   "explanation": "10000만 − 9000만 = 1000만",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1435,6 +1524,7 @@
   ],
   "answer": 2,
   "explanation": "8억 = 800,000,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1451,6 +1541,7 @@
   ],
   "answer": 1,
   "explanation": "1억 = 1000만 × 10 → 3억 = 1000만 × 30",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1467,6 +1558,7 @@
   ],
   "answer": 0,
   "explanation": "1억 = 100,000,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1483,6 +1575,7 @@
   ],
   "answer": 0,
   "explanation": "1억 = 1000만 × 10 → 1억 = 1000만 × 10",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1499,6 +1592,7 @@
   ],
   "answer": 0,
   "explanation": "1억 = 1000만 × 10 → 2억 = 1000만 × 20",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1515,6 +1609,7 @@
   ],
   "answer": 1,
   "explanation": "1억 = 1000만 × 10 → 9억 = 1000만 × 90",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-units"
@@ -1531,6 +1626,7 @@
   ],
   "answer": 3,
   "explanation": "57억 3601만 = 5,736,010,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1547,6 +1643,7 @@
   ],
   "answer": 1,
   "explanation": "57억 5762만 = 5,757,620,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1563,6 +1660,7 @@
   ],
   "answer": 3,
   "explanation": "38억 8411만 = 3,884,110,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1579,6 +1677,7 @@
   ],
   "answer": 3,
   "explanation": "78억 4044만 = 7,840,440,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1595,6 +1694,7 @@
   ],
   "answer": 2,
   "explanation": "3억 7347만 = 373,470,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1611,6 +1711,7 @@
   ],
   "answer": 1,
   "explanation": "32억 2304만 = 3,223,040,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1627,6 +1728,7 @@
   ],
   "answer": 2,
   "explanation": "4억 4075만 = 440,750,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1643,6 +1745,7 @@
   ],
   "answer": 2,
   "explanation": "3억 5만 = 300,050,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-eok"
@@ -1659,6 +1762,7 @@
   ],
   "answer": 3,
   "explanation": "566억 3601만 = 56,636,010,000 → 0이 5개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1675,6 +1779,7 @@
   ],
   "answer": 0,
   "explanation": "569억 860만 = 56,908,600,000 → 0이 6개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1691,6 +1796,7 @@
   ],
   "answer": 2,
   "explanation": "382억 8411만 = 38,284,110,000 → 0이 4개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1707,6 +1813,7 @@
   ],
   "answer": 0,
   "explanation": "784억 170만 = 78,401,700,000 → 0이 6개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1723,6 +1830,7 @@
   ],
   "answer": 1,
   "explanation": "29억 7347만 2204 = 2,973,472,204 → 0이 1개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1739,6 +1847,7 @@
   ],
   "answer": 2,
   "explanation": "317억 250만 115 = 31,702,500,115 → 0이 3개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1755,6 +1864,7 @@
   ],
   "answer": 2,
   "explanation": "37억 4075만 = 3,740,750,000 → 0이 5개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1771,6 +1881,7 @@
   ],
   "answer": 3,
   "explanation": "30억 630만 = 3,006,300,000 → 0이 7개",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-eok-zeros"
@@ -1787,6 +1898,7 @@
   ],
   "answer": 0,
   "explanation": "633,050,000 + 20000000 = 653,050,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1803,6 +1915,7 @@
   ],
   "answer": 1,
   "explanation": "652,280,000 + 50000 = 652,330,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1819,6 +1932,7 @@
   ],
   "answer": 1,
   "explanation": "475,860,000 + 20000000 = 495,860,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1835,6 +1949,7 @@
   ],
   "answer": 2,
   "explanation": "836,990,000 + 20000 = 837,010,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1851,6 +1966,7 @@
   ],
   "answer": 1,
   "explanation": "166,400,000 + 50000000 = 216,400,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1867,6 +1983,7 @@
   ],
   "answer": 1,
   "explanation": "321,500,000 + 30000 = 321,530,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1883,6 +2000,7 @@
   ],
   "answer": 2,
   "explanation": "137,270,000 + 30000000 = 167,270,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1899,6 +2017,7 @@
   ],
   "answer": 3,
   "explanation": "101,040,000 + 40000 = 101,080,000",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-eok-skip"
@@ -1915,6 +2034,7 @@
   ],
   "answer": 2,
   "explanation": "1000억 × 60 = 6조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -1931,6 +2051,7 @@
   ],
   "answer": 0,
   "explanation": "1000억 × 60 = 6조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -1947,6 +2068,7 @@
   ],
   "answer": 2,
   "explanation": "1000억 × 40 = 4조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -1963,6 +2085,7 @@
   ],
   "answer": 1,
   "explanation": "1000억 × 80 = 8조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -1979,6 +2102,7 @@
   ],
   "answer": 3,
   "explanation": "1000억 × 10 = 1조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -1995,6 +2119,7 @@
   ],
   "answer": 0,
   "explanation": "1000억 × 30 = 3조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -2011,6 +2136,7 @@
   ],
   "answer": 2,
   "explanation": "1000억 × 10 = 1조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -2027,6 +2153,7 @@
   ],
   "answer": 3,
   "explanation": "1000억 × 20 = 2조",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-units"
@@ -2043,6 +2170,7 @@
   ],
   "answer": 3,
   "explanation": "571조 4241억에서 그 자리 숫자는 1입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2059,6 +2187,7 @@
   ],
   "answer": 3,
   "explanation": "573조 6185억에서 그 자리 숫자는 7입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2075,6 +2204,7 @@
   ],
   "answer": 0,
   "explanation": "388조 8569억에서 그 자리 숫자는 5입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2091,6 +2221,7 @@
   ],
   "answer": 3,
   "explanation": "786조 4639억에서 그 자리 숫자는 6입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2107,6 +2238,7 @@
   ],
   "answer": 1,
   "explanation": "39조 7612억에서 그 자리 숫자는 1입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2123,6 +2255,7 @@
   ],
   "answer": 1,
   "explanation": "323조 3073억에서 그 자리 숫자는 3입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2139,6 +2272,7 @@
   ],
   "answer": 0,
   "explanation": "47조 4667억에서 그 자리 숫자는 7입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2155,6 +2289,7 @@
   ],
   "answer": 3,
   "explanation": "39조 1004억에서 그 자리 숫자는 1입니다.",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-place"
@@ -2171,6 +2306,7 @@
   ],
   "answer": 3,
   "explanation": "조 단위 3자리 + 12자리 = 15자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2187,6 +2323,7 @@
   ],
   "answer": 3,
   "explanation": "조 단위 3자리 + 12자리 = 15자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2203,6 +2340,7 @@
   ],
   "answer": 0,
   "explanation": "조 단위 2자리 + 12자리 = 14자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2219,6 +2357,7 @@
   ],
   "answer": 1,
   "explanation": "조 단위 4자리 + 12자리 = 16자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2235,6 +2374,7 @@
   ],
   "answer": 3,
   "explanation": "조 단위 1자리 + 12자리 = 13자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2251,6 +2391,7 @@
   ],
   "answer": 0,
   "explanation": "조 단위 2자리 + 12자리 = 14자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2267,6 +2408,7 @@
   ],
   "answer": 0,
   "explanation": "조 단위 1자리 + 12자리 = 13자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2283,6 +2425,7 @@
   ],
   "answer": 1,
   "explanation": "조 단위 1자리 + 12자리 = 13자리",
+  "standard": "[4수01-01]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-jo-digits"
@@ -2299,6 +2442,7 @@
   ],
   "answer": 0,
   "explanation": "백만의 자리 숫자가 1씩 커지므로 1,000,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2315,6 +2459,7 @@
   ],
   "answer": 1,
   "explanation": "백만의 자리 숫자가 1씩 커지므로 1,000,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2331,6 +2476,7 @@
   ],
   "answer": 2,
   "explanation": "십만의 자리 숫자가 1씩 커지므로 100,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2347,6 +2493,7 @@
   ],
   "answer": 2,
   "explanation": "천만의 자리 숫자가 1씩 커지므로 10,000,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2363,6 +2510,7 @@
   ],
   "answer": 1,
   "explanation": "만의 자리 숫자가 1씩 커지므로 10,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2379,6 +2527,7 @@
   ],
   "answer": 0,
   "explanation": "십만의 자리 숫자가 1씩 커지므로 100,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2395,6 +2544,7 @@
   ],
   "answer": 1,
   "explanation": "만의 자리 숫자가 1씩 커지므로 10,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2411,6 +2561,7 @@
   ],
   "answer": 0,
   "explanation": "만의 자리 숫자가 1씩 커지므로 10,000씩 뛰어 세었어요.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-rule"
@@ -2426,7 +2577,8 @@
    "330070"
   ],
   "answer": 2,
-  "explanation": "330,070 + 100,000 × 2 = 530,070",
+  "explanation": "100,000씩 2번이면 200,000 → 330,070 + 200,000 = 530,070",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2442,7 +2594,8 @@
    "923786"
   ],
   "answer": 1,
-  "explanation": "523,786 + 100,000 × 5 = 1,023,786",
+  "explanation": "100,000씩 5번이면 500,000 → 523,786 + 500,000 = 1,023,786",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2458,7 +2611,8 @@
    "859311"
   ],
   "answer": 2,
-  "explanation": "759,311 + 100,000 × 2 = 959,311",
+  "explanation": "100,000씩 2번이면 200,000 → 759,311 + 200,000 = 959,311",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2474,7 +2628,8 @@
    "2370628"
   ],
   "answer": 3,
-  "explanation": "370,628 + 1,000,000 × 2 = 2,370,628",
+  "explanation": "1,000,000씩 2번이면 2,000,000 → 370,628 + 2,000,000 = 2,370,628",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2490,7 +2645,8 @@
    "734248"
   ],
   "answer": 1,
-  "explanation": "664,248 + 10,000 × 5 = 714,248",
+  "explanation": "10,000씩 5번이면 50,000 → 664,248 + 50,000 = 714,248",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2506,7 +2662,8 @@
    "245712"
   ],
   "answer": 3,
-  "explanation": "215,712 + 10,000 × 3 = 245,712",
+  "explanation": "10,000씩 3번이면 30,000 → 215,712 + 30,000 = 245,712",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2522,7 +2679,8 @@
    "393041"
   ],
   "answer": 1,
-  "explanation": "373,041 + 10,000 × 3 = 403,041",
+  "explanation": "10,000씩 3번이면 30,000 → 373,041 + 30,000 = 403,041",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2538,7 +2696,8 @@
    "40629"
   ],
   "answer": 0,
-  "explanation": "10,629 + 10,000 × 4 = 50,629",
+  "explanation": "10,000씩 4번이면 40,000 → 10,629 + 40,000 = 50,629",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:big-skip-count"
@@ -2555,6 +2714,7 @@
   ],
   "answer": 3,
   "explanation": "1,000,000씩 거꾸로 뛰어 세므로 47,000,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2571,6 +2731,7 @@
   ],
   "answer": 0,
   "explanation": "1,000,000씩 뛰어 세므로 72,000,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2587,6 +2748,7 @@
   ],
   "answer": 1,
   "explanation": "100,000씩 거꾸로 뛰어 세므로 8,900,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2603,6 +2765,7 @@
   ],
   "answer": 0,
   "explanation": "10,000,000씩 거꾸로 뛰어 세므로 510,000,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2619,6 +2782,7 @@
   ],
   "answer": 0,
   "explanation": "10,000씩 뛰어 세므로 850,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2635,6 +2799,7 @@
   ],
   "answer": 1,
   "explanation": "100,000씩 거꾸로 뛰어 세므로 3,500,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2651,6 +2816,7 @@
   ],
   "answer": 2,
   "explanation": "10,000씩 뛰어 세므로 570,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2667,6 +2833,7 @@
   ],
   "answer": 1,
   "explanation": "10,000씩 뛰어 세므로 200,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-missing"
@@ -2682,7 +2849,8 @@
    "730000원"
   ],
   "answer": 3,
-  "explanation": "10000 + 60000 × 12 = 730000(원)",
+  "explanation": "60000 × 12 = 720000, 10000 + 720000 = 730000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2698,7 +2866,8 @@
    "1020000원"
   ],
   "answer": 1,
-  "explanation": "80000 + 60000 × 16 = 1040000(원)",
+  "explanation": "60000 × 16 = 960000, 80000 + 960000 = 1040000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2714,7 +2883,8 @@
    "1100000원"
   ],
   "answer": 0,
-  "explanation": "30000 + 50000 × 21 = 1080000(원)",
+  "explanation": "50000 × 21 = 1050000, 30000 + 1050000 = 1080000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2730,7 +2900,8 @@
    "1300000원"
   ],
   "answer": 2,
-  "explanation": "60000 + 80000 × 13 = 1100000(원)",
+  "explanation": "80000 × 13 = 1040000, 60000 + 1040000 = 1100000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2746,7 +2917,8 @@
    "430000원"
   ],
   "answer": 0,
-  "explanation": "30000 + 20000 × 19 = 410000(원)",
+  "explanation": "20000 × 19 = 380000, 30000 + 380000 = 410000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2762,7 +2934,8 @@
    "500000원"
   ],
   "answer": 1,
-  "explanation": "70000 + 40000 × 10 = 470000(원)",
+  "explanation": "40000 × 10 = 400000, 70000 + 400000 = 470000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2778,7 +2951,8 @@
    "280000원"
   ],
   "answer": 2,
-  "explanation": "10000 + 20000 × 13 = 270000(원)",
+  "explanation": "20000 × 13 = 260000, 10000 + 260000 = 270000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2794,7 +2968,8 @@
    "190000원"
   ],
   "answer": 2,
-  "explanation": "60000 + 20000 × 6 = 180000(원)",
+  "explanation": "20000 × 6 = 120000, 60000 + 120000 = 180000(원)",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:w4-savings"
@@ -2810,7 +2985,8 @@
    "898000"
   ],
   "answer": 1,
-  "explanation": "1,198,000 − 100,000 × 4 = 798,000",
+  "explanation": "100,000씩 4번이면 400,000 → 1,198,000 − 400,000 = 798,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2826,7 +3002,8 @@
    "7788000"
   ],
   "answer": 2,
-  "explanation": "8,388,000 − 100,000 × 5 = 7,888,000",
+  "explanation": "100,000씩 5번이면 500,000 → 8,388,000 − 500,000 = 7,888,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2842,7 +3019,8 @@
    "3383000"
   ],
   "answer": 0,
-  "explanation": "3,783,000 − 100,000 × 6 = 3,183,000",
+  "explanation": "100,000씩 6번이면 600,000 → 3,783,000 − 600,000 = 3,183,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2858,7 +3036,8 @@
    "6325000"
   ],
   "answer": 3,
-  "explanation": "10,325,000 − 1,000,000 × 4 = 6,325,000",
+  "explanation": "1,000,000씩 4번이면 4,000,000 → 10,325,000 − 4,000,000 = 6,325,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2874,7 +3053,8 @@
    "2555000"
   ],
   "answer": 3,
-  "explanation": "2,605,000 − 10,000 × 5 = 2,555,000",
+  "explanation": "10,000씩 5번이면 50,000 → 2,605,000 − 50,000 = 2,555,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2890,7 +3070,8 @@
    "7209000"
   ],
   "answer": 0,
-  "explanation": "7,179,000 − 10,000 × 3 = 7,149,000",
+  "explanation": "10,000씩 3번이면 30,000 → 7,179,000 − 30,000 = 7,149,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2906,7 +3087,8 @@
    "529000"
   ],
   "answer": 2,
-  "explanation": "549,000 − 10,000 × 4 = 509,000",
+  "explanation": "10,000씩 4번이면 40,000 → 549,000 − 40,000 = 509,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2922,7 +3104,8 @@
    "6309000"
   ],
   "answer": 2,
-  "explanation": "6,359,000 − 10,000 × 3 = 6,329,000",
+  "explanation": "10,000씩 3번이면 30,000 → 6,359,000 − 30,000 = 6,329,000",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-skip-back"
@@ -2939,6 +3122,7 @@
   ],
   "answer": 1,
   "explanation": "4000만 56 = 40,000,056이 가장 큽니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-sort"
@@ -2955,6 +3139,7 @@
   ],
   "answer": 1,
   "explanation": "701만 6078 = 7,016,078이 가장 작습니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-sort"
@@ -2971,6 +3156,7 @@
   ],
   "answer": 3,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 8개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -2987,6 +3173,7 @@
   ],
   "answer": 0,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 9개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3003,6 +3190,7 @@
   ],
   "answer": 3,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 3개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3019,6 +3207,7 @@
   ],
   "answer": 0,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 2개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3035,6 +3224,7 @@
   ],
   "answer": 1,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 2개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3051,6 +3241,7 @@
   ],
   "answer": 1,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 8개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3067,6 +3258,7 @@
   ],
   "answer": 0,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 4개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3083,6 +3275,7 @@
   ],
   "answer": 1,
   "explanation": "□에 0부터 9까지 넣어 비교하면 알맞은 수는 6개입니다.",
+  "standard": "[4수01-02]",
   "semester": 1,
   "unit": "큰 수",
   "source": "math-king:l4-compare-box"
@@ -3099,6 +3292,7 @@
   ],
   "answer": 3,
   "explanation": "직각보다 10° 큰 각 = 100°, 직각보다 25° 작은 각 = 65°, 직각보다 70° 작은 각 = 20°, 직각보다 75° 작은 각 = 15°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-biggest"
@@ -3115,6 +3309,7 @@
   ],
   "answer": 0,
   "explanation": "직각보다 45° 큰 각 = 135°, 75° = 75°, 110° = 110°, 직각보다 55° 작은 각 = 35°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-biggest"
@@ -3131,6 +3326,7 @@
   ],
   "answer": 1,
   "explanation": "8시의 두 바늘이 이루는 각은 120°로 둔각입니다.",
+  "standard": "[4수03-02]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-clock-kind"
@@ -3147,6 +3343,7 @@
   ],
   "answer": 0,
   "explanation": "2시의 두 바늘이 이루는 각은 60°로 예각입니다.",
+  "standard": "[4수03-02]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-clock-kind"
@@ -3163,6 +3360,7 @@
   ],
   "answer": 2,
   "explanation": "80° − 10° = 70°, 40° + 10° = 50°, 80° + 60° = 140°, 115° − 85° = 30°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-compare-calc"
@@ -3179,6 +3377,7 @@
   ],
   "answer": 2,
   "explanation": "135° + 20° = 155°, 85° + 85° = 170°, 115° − 105° = 10°, 115° − 100° = 15°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-compare-calc"
@@ -3195,6 +3394,7 @@
   ],
   "answer": 0,
   "explanation": "어떤 각도: 65° + 45° = 110° → 바르게: 110° + 45° = 155°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3211,6 +3411,7 @@
   ],
   "answer": 0,
   "explanation": "어떤 각도: 175° − 65° = 110° → 바르게: 110° − 65° = 45°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3227,6 +3428,7 @@
   ],
   "answer": 0,
   "explanation": "어떤 각도: 20° + 75° = 95° → 바르게: 95° + 75° = 170°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3243,6 +3445,7 @@
   ],
   "answer": 2,
   "explanation": "어떤 각도: 185° − 55° = 130° → 바르게: 130° − 55° = 75°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3259,6 +3462,7 @@
   ],
   "answer": 3,
   "explanation": "어떤 각도: 20° + 40° = 60° → 바르게: 60° + 40° = 100°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3275,6 +3479,7 @@
   ],
   "answer": 3,
   "explanation": "어떤 각도: 120° − 30° = 90° → 바르게: 90° − 30° = 60°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3291,6 +3496,7 @@
   ],
   "answer": 1,
   "explanation": "어떤 각도: 30° + 30° = 60° → 바르게: 60° + 30° = 90°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3307,6 +3513,7 @@
   ],
   "answer": 1,
   "explanation": "어떤 각도: 75° − 15° = 60° → 바르게: 60° − 15° = 45°",
+  "standard": "[4수03-24]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-angle-wrong-op"
@@ -3323,6 +3530,7 @@
   ],
   "answer": 2,
   "explanation": "65°, 45°, 70°: 합이 180°입니다.",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-possible"
@@ -3338,7 +3546,8 @@
    "35°"
   ],
   "answer": 2,
-  "explanation": "두 각의 합 110°, 작은 각 (110 − 20) ÷ 2 = 45°, 큰 각 65°",
+  "explanation": "두 각의 합 180° − 70° = 110°, 110° − 20° = 90°, 작은 각 90° ÷ 2 = 45°, 큰 각 45° + 20° = 65°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3354,7 +3563,8 @@
    "90°"
   ],
   "answer": 0,
-  "explanation": "두 각의 합 110°, 작은 각 (110 − 30) ÷ 2 = 40°, 큰 각 70°",
+  "explanation": "두 각의 합 180° − 70° = 110°, 110° − 30° = 80°, 작은 각 80° ÷ 2 = 40°, 큰 각 40° + 30° = 70°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3370,7 +3580,8 @@
    "75°"
   ],
   "answer": 0,
-  "explanation": "두 각의 합 130°, 작은 각 (130 − 40) ÷ 2 = 45°, 큰 각 85°",
+  "explanation": "두 각의 합 180° − 50° = 130°, 130° − 40° = 90°, 작은 각 90° ÷ 2 = 45°, 큰 각 45° + 40° = 85°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3386,7 +3597,8 @@
    "65°"
   ],
   "answer": 0,
-  "explanation": "두 각의 합 90°, 작은 각 (90 − 20) ÷ 2 = 35°, 큰 각 55°",
+  "explanation": "두 각의 합 180° − 90° = 90°, 90° − 20° = 70°, 작은 각 70° ÷ 2 = 35°, 큰 각 35° + 20° = 55°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3402,7 +3614,8 @@
    "95°"
   ],
   "answer": 3,
-  "explanation": "두 각의 합 160°, 작은 각 (160 − 30) ÷ 2 = 65°, 큰 각 95°",
+  "explanation": "두 각의 합 180° − 20° = 160°, 160° − 30° = 130°, 작은 각 130° ÷ 2 = 65°, 큰 각 65° + 30° = 95°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3418,7 +3631,8 @@
    "75°"
   ],
   "answer": 3,
-  "explanation": "두 각의 합 140°, 작은 각 (140 − 10) ÷ 2 = 65°, 큰 각 75°",
+  "explanation": "두 각의 합 180° − 40° = 140°, 140° − 10° = 130°, 작은 각 130° ÷ 2 = 65°, 큰 각 65° + 10° = 75°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3434,7 +3648,8 @@
    "70°"
   ],
   "answer": 2,
-  "explanation": "두 각의 합 160°, 작은 각 (160 − 20) ÷ 2 = 70°, 큰 각 90°",
+  "explanation": "두 각의 합 180° − 20° = 160°, 160° − 20° = 140°, 작은 각 140° ÷ 2 = 70°, 큰 각 70° + 20° = 90°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3450,7 +3665,8 @@
    "75°"
   ],
   "answer": 2,
-  "explanation": "두 각의 합 160°, 작은 각 (160 − 10) ÷ 2 = 75°, 큰 각 85°",
+  "explanation": "두 각의 합 180° − 20° = 160°, 160° − 10° = 150°, 작은 각 150° ÷ 2 = 75°, 큰 각 75° + 10° = 85°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:l4-tri-condition"
@@ -3458,15 +3674,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 100°, 75°입니다. 나머지 한 각은 몇 도인가요?",
+  "question": "사각형의 한 각은 직각이고, 다른 한 각은 30°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
   "choices": [
-   "75°",
-   "65°",
-   "95°",
-   "85°"
+   "240°",
+   "130°",
+   "120°",
+   "140°"
   ],
   "answer": 2,
-  "explanation": "360° − 90° − 100° − 75° = 95°",
+  "explanation": "360° − 90° − 30° = 240°, 240° ÷ 2 = 120°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:w4-quad-right"
@@ -3474,79 +3691,33 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 100°, 90°입니다. 나머지 한 각은 몇 도인가요?",
+  "question": "사각형의 두 각이 110°, 140°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
   "choices": [
-   "90°",
-   "60°",
-   "80°",
-   "70°"
-  ],
-  "answer": 2,
-  "explanation": "360° − 90° − 100° − 90° = 80°",
-  "semester": 1,
-  "unit": "각도",
-  "source": "math-king:w4-quad-right"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 85°, 125°입니다. 나머지 한 각은 몇 도인가요?",
-  "choices": [
-   "60°",
-   "90°",
-   "80°",
-   "70°"
-  ],
-  "answer": 0,
-  "explanation": "360° − 90° − 85° − 125° = 60°",
-  "semester": 1,
-  "unit": "각도",
-  "source": "math-king:w4-quad-right"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 115°, 70°입니다. 나머지 한 각은 몇 도인가요?",
-  "choices": [
-   "84°",
-   "86°",
-   "87°",
-   "85°"
-  ],
-  "answer": 3,
-  "explanation": "360° − 90° − 115° − 70° = 85°",
-  "semester": 1,
-  "unit": "각도",
-  "source": "math-king:w4-quad-right"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 60°, 130°입니다. 나머지 한 각은 몇 도인가요?",
-  "choices": [
-   "70°",
-   "100°",
-   "90°",
-   "80°"
-  ],
-  "answer": 3,
-  "explanation": "360° − 90° − 60° − 130° = 80°",
-  "semester": 1,
-  "unit": "각도",
-  "source": "math-king:w4-quad-right"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 80°, 70°입니다. 나머지 한 각은 몇 도인가요?",
-  "choices": [
-   "90°",
    "110°",
-   "100°",
+   "54°",
+   "56°",
+   "55°"
+  ],
+  "answer": 3,
+  "explanation": "360° − 140° − 110° = 110°, 110° ÷ 2 = 55°",
+  "standard": "[4수03-25]",
+  "semester": 1,
+  "unit": "각도",
+  "source": "math-king:w4-quad-right"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "사각형의 한 각은 직각이고, 다른 한 각은 150°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "60°",
+   "80°",
+   "70°",
    "120°"
   ],
-  "answer": 3,
-  "explanation": "360° − 90° − 80° − 70° = 120°",
+  "answer": 0,
+  "explanation": "360° − 90° − 150° = 120°, 120° ÷ 2 = 60°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:w4-quad-right"
@@ -3554,31 +3725,84 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 60°, 95°입니다. 나머지 한 각은 몇 도인가요?",
+  "question": "사각형의 두 각이 170°, 70°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
   "choices": [
-   "116°",
-   "113°",
-   "114°",
-   "115°"
-  ],
-  "answer": 3,
-  "explanation": "360° − 90° − 60° − 95° = 115°",
-  "semester": 1,
-  "unit": "각도",
-  "source": "math-king:w4-quad-right"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "사각형의 한 각은 직각이고, 다른 두 각은 60°, 50°입니다. 나머지 한 각은 몇 도인가요?",
-  "choices": [
-   "130°",
-   "140°",
-   "160°",
-   "150°"
+   "40°",
+   "50°",
+   "60°",
+   "120°"
   ],
   "answer": 2,
-  "explanation": "360° − 90° − 60° − 50° = 160°",
+  "explanation": "360° − 70° − 170° = 120°, 120° ÷ 2 = 60°",
+  "standard": "[4수03-25]",
+  "semester": 1,
+  "unit": "각도",
+  "source": "math-king:w4-quad-right"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "사각형의 한 각은 직각이고, 다른 한 각은 140°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "66°",
+   "65°",
+   "130°",
+   "67°"
+  ],
+  "answer": 1,
+  "explanation": "360° − 90° − 140° = 130°, 130° ÷ 2 = 65°",
+  "standard": "[4수03-25]",
+  "semester": 1,
+  "unit": "각도",
+  "source": "math-king:w4-quad-right"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "사각형의 한 각은 직각이고, 다른 한 각은 60°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "210°",
+   "105°",
+   "106°",
+   "107°"
+  ],
+  "answer": 1,
+  "explanation": "360° − 90° − 60° = 210°, 210° ÷ 2 = 105°",
+  "standard": "[4수03-25]",
+  "semester": 1,
+  "unit": "각도",
+  "source": "math-king:w4-quad-right"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "사각형의 두 각이 40°, 110°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "106°",
+   "104°",
+   "210°",
+   "105°"
+  ],
+  "answer": 3,
+  "explanation": "360° − 110° − 40° = 210°, 210° ÷ 2 = 105°",
+  "standard": "[4수03-25]",
+  "semester": 1,
+  "unit": "각도",
+  "source": "math-king:w4-quad-right"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "사각형의 두 각이 40°, 50°입니다. 나머지 두 각의 크기가 같을 때, 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "136°",
+   "137°",
+   "270°",
+   "135°"
+  ],
+  "answer": 3,
+  "explanation": "360° − 50° − 40° = 270°, 270° ÷ 2 = 135°",
+  "standard": "[4수03-25]",
   "semester": 1,
   "unit": "각도",
   "source": "math-king:w4-quad-right"
@@ -3595,6 +3819,7 @@
   ],
   "answer": 0,
   "explanation": "6 × 4 = 24 → 24,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3611,6 +3836,7 @@
   ],
   "answer": 2,
   "explanation": "6 × 6 = 36 → 36,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3627,6 +3853,7 @@
   ],
   "answer": 3,
   "explanation": "4 × 8 = 32 → 32,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3643,6 +3870,7 @@
   ],
   "answer": 2,
   "explanation": "8 × 5 = 40 → 40,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3659,6 +3887,7 @@
   ],
   "answer": 0,
   "explanation": "1 × 7 = 7 → 7,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3675,6 +3904,7 @@
   ],
   "answer": 2,
   "explanation": "3 × 3 = 9 → 9,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3691,6 +3921,7 @@
   ],
   "answer": 3,
   "explanation": "1 × 5 = 5 → 5,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3707,6 +3938,7 @@
   ],
   "answer": 2,
   "explanation": "1 × 2 = 2 → 2,000",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:mul-hundreds-tens"
@@ -3723,6 +3955,7 @@
   ],
   "answer": 2,
   "explanation": "610 × 4 = 2440 → 610 × 40 = 24400",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3739,6 +3972,7 @@
   ],
   "answer": 0,
   "explanation": "613 × 6 = 3678 → 613 × 60 = 36780",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3755,6 +3989,7 @@
   ],
   "answer": 1,
   "explanation": "444 × 8 = 3552 → 444 × 80 = 35520",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3771,6 +4006,7 @@
   ],
   "answer": 3,
   "explanation": "806 × 5 = 4030 → 806 × 50 = 40300",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3787,6 +4023,7 @@
   ],
   "answer": 2,
   "explanation": "127 × 7 = 889 → 127 × 70 = 8890",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3803,6 +4040,7 @@
   ],
   "answer": 2,
   "explanation": "386 × 3 = 1158 → 386 × 30 = 11580",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3819,6 +4057,7 @@
   ],
   "answer": 1,
   "explanation": "134 × 5 = 670 → 134 × 50 = 6700",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3835,6 +4074,7 @@
   ],
   "answer": 2,
   "explanation": "128 × 2 = 256 → 128 × 20 = 2560",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul3-tens"
@@ -3851,6 +4091,7 @@
   ],
   "answer": 0,
   "explanation": "24400 ÷ 610 = 40",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3867,6 +4108,7 @@
   ],
   "answer": 3,
   "explanation": "36720 ÷ 612 = 60",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3883,6 +4125,7 @@
   ],
   "answer": 2,
   "explanation": "35520 ÷ 444 = 80",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3899,6 +4142,7 @@
   ],
   "answer": 2,
   "explanation": "40250 ÷ 805 = 50",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3915,6 +4159,7 @@
   ],
   "answer": 3,
   "explanation": "8820 ÷ 126 = 70",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3931,6 +4176,7 @@
   ],
   "answer": 0,
   "explanation": "11550 ÷ 385 = 30",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3947,6 +4193,7 @@
   ],
   "answer": 2,
   "explanation": "6700 ÷ 134 = 50",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3963,6 +4210,7 @@
   ],
   "answer": 2,
   "explanation": "2540 ÷ 127 = 20",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-box"
@@ -3979,6 +4227,7 @@
   ],
   "answer": 0,
   "explanation": "108 × 20 = 216 × 10 = 2160",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -3995,6 +4244,7 @@
   ],
   "answer": 3,
   "explanation": "825 × 60 = 4950 × 10 = 49500",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4011,6 +4261,7 @@
   ],
   "answer": 2,
   "explanation": "872 × 80 = 6976 × 10 = 69760",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4027,6 +4278,7 @@
   ],
   "answer": 0,
   "explanation": "564 × 90 = 5076 × 10 = 50760",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4043,6 +4295,7 @@
   ],
   "answer": 0,
   "explanation": "639 × 60 = 3834 × 10 = 38340",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4059,6 +4312,7 @@
   ],
   "answer": 1,
   "explanation": "112 × 80 = 896 × 10 = 8960",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4075,6 +4329,7 @@
   ],
   "answer": 2,
   "explanation": "181 × 60 = 1086 × 10 = 10860",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4091,6 +4346,7 @@
   ],
   "answer": 1,
   "explanation": "947 × 80 = 7576 × 10 = 75760",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-fix"
@@ -4107,6 +4363,7 @@
   ],
   "answer": 2,
   "explanation": "128 × 40 = 5120, 110 × 20 = 2200, 합 7320(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4123,6 +4380,7 @@
   ],
   "answer": 3,
   "explanation": "129 × 60 = 7740, 218 × 80 = 17440, 합 25180(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4139,6 +4397,7 @@
   ],
   "answer": 1,
   "explanation": "119 × 80 = 9520, 147 × 20 = 2940, 합 12460(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4155,6 +4414,7 @@
   ],
   "answer": 1,
   "explanation": "139 × 50 = 6950, 194 × 30 = 5820, 합 12770(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4171,6 +4431,7 @@
   ],
   "answer": 0,
   "explanation": "101 × 70 = 7070, 137 × 80 = 10960, 합 18030(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4187,6 +4448,7 @@
   ],
   "answer": 3,
   "explanation": "116 × 30 = 3480, 207 × 40 = 8280, 합 11760(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4203,6 +4465,7 @@
   ],
   "answer": 2,
   "explanation": "101 × 50 = 5050, 106 × 50 = 5300, 합 10350(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4219,6 +4482,7 @@
   ],
   "answer": 0,
   "explanation": "101 × 20 = 2020, 195 × 70 = 13650, 합 15670(개)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-tens-life"
@@ -4235,6 +4499,7 @@
   ],
   "answer": 0,
   "explanation": "가장 작은 세 자리 수 248 → 248 × 60 = 14,880",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4251,6 +4516,7 @@
   ],
   "answer": 3,
   "explanation": "가장 큰 세 자리 수 832 → 832 × 90 = 74,880",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4267,6 +4533,7 @@
   ],
   "answer": 1,
   "explanation": "가장 작은 세 자리 수 568 → 568 × 90 = 51,120",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4283,6 +4550,7 @@
   ],
   "answer": 0,
   "explanation": "가장 큰 세 자리 수 962 → 962 × 30 = 28,860",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4299,6 +4567,7 @@
   ],
   "answer": 3,
   "explanation": "가장 큰 세 자리 수 984 → 984 × 20 = 19,680",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4315,6 +4584,7 @@
   ],
   "answer": 3,
   "explanation": "가장 큰 세 자리 수 964 → 964 × 90 = 86,760",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4331,6 +4601,7 @@
   ],
   "answer": 3,
   "explanation": "가장 작은 세 자리 수 268 → 268 × 40 = 10,720",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4347,6 +4618,7 @@
   ],
   "answer": 3,
   "explanation": "가장 작은 세 자리 수 237 → 237 × 60 = 14,220",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-cards-mul-tens"
@@ -4363,6 +4635,7 @@
   ],
   "answer": 3,
   "explanation": "653 × 18 = 11,754, 240 × 12 = 2,880, 283 × 60 = 16,980, 886 × 78 = 69,108",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-compare"
@@ -4379,6 +4652,7 @@
   ],
   "answer": 0,
   "explanation": "508 × 39 = 19,812, 283 × 86 = 24,338, 826 × 92 = 75,992, 796 × 87 = 69,252",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-compare"
@@ -4395,6 +4669,7 @@
   ],
   "answer": 2,
   "explanation": "630 × 13 = 8190, 10000 − 8190 = 1810(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4411,6 +4686,7 @@
   ],
   "answer": 3,
   "explanation": "650 × 30 = 19500, 20000 − 19500 = 500(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4427,6 +4703,7 @@
   ],
   "answer": 0,
   "explanation": "580 × 19 = 11020, 20000 − 11020 = 8980(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4443,6 +4720,7 @@
   ],
   "answer": 1,
   "explanation": "840 × 27 = 22680, 30000 − 22680 = 7320(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4459,6 +4737,7 @@
   ],
   "answer": 0,
   "explanation": "370 × 17 = 6290, 10000 − 6290 = 3710(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4475,6 +4754,7 @@
   ],
   "answer": 3,
   "explanation": "520 × 29 = 15080, 20000 − 15080 = 4920(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4491,6 +4771,7 @@
   ],
   "answer": 3,
   "explanation": "340 × 12 = 4080, 10000 − 4080 = 5920(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4507,6 +4788,7 @@
   ],
   "answer": 3,
   "explanation": "300 × 27 = 8100, 10000 − 8100 = 1900(원)",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:w4-notebook-change"
@@ -4523,6 +4805,7 @@
   ],
   "answer": 2,
   "explanation": "어떤 수: 578 − 25 = 553 → 553 × 25 = 13,825",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4539,6 +4822,7 @@
   ],
   "answer": 2,
   "explanation": "어떤 수: 589 − 33 = 556 → 556 × 33 = 18,348",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4555,6 +4839,7 @@
   ],
   "answer": 3,
   "explanation": "어떤 수: 449 − 43 = 406 → 406 × 43 = 17,458",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4571,6 +4856,7 @@
   ],
   "answer": 1,
   "explanation": "어떤 수: 754 − 27 = 727 → 727 × 27 = 19,629",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4587,6 +4873,7 @@
   ],
   "answer": 3,
   "explanation": "어떤 수: 163 − 39 = 124 → 124 × 39 = 4,836",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4603,6 +4890,7 @@
   ],
   "answer": 2,
   "explanation": "어떤 수: 374 − 20 = 354 → 354 × 20 = 7,080",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4619,6 +4907,7 @@
   ],
   "answer": 2,
   "explanation": "어떤 수: 158 − 27 = 131 → 131 × 27 = 3,537",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4635,6 +4924,7 @@
   ],
   "answer": 2,
   "explanation": "어떤 수: 137 − 12 = 125 → 125 × 12 = 1,500",
+  "standard": "[4수01-04]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-mul-wrong-op"
@@ -4650,7 +4940,8 @@
    "438"
   ],
   "answer": 0,
-  "explanation": "40 × 10 + 39 = 439",
+  "explanation": "40 × 10 = 400, 400 + 39 = 439",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4666,7 +4957,8 @@
    "561"
   ],
   "answer": 3,
-  "explanation": "40 × 14 + 1 = 561",
+  "explanation": "40 × 14 = 560, 560 + 1 = 561",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4682,7 +4974,8 @@
    "810"
   ],
   "answer": 0,
-  "explanation": "30 × 26 + 29 = 809",
+  "explanation": "30 × 26 = 780, 780 + 29 = 809",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4698,7 +4991,8 @@
    "4510"
   ],
   "answer": 1,
-  "explanation": "50 × 9 + 1 = 451",
+  "explanation": "50 × 9 = 450, 450 + 1 = 451",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4714,7 +5008,8 @@
    "702"
   ],
   "answer": 0,
-  "explanation": "20 × 34 + 19 = 699",
+  "explanation": "20 × 34 = 680, 680 + 19 = 699",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4730,7 +5025,8 @@
    "270"
   ],
   "answer": 1,
-  "explanation": "30 × 9 + 1 = 271",
+  "explanation": "30 × 9 = 270, 270 + 1 = 271",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4746,7 +5042,8 @@
    "420"
   ],
   "answer": 2,
-  "explanation": "20 × 20 + 19 = 419",
+  "explanation": "20 × 20 = 400, 400 + 19 = 419",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4762,7 +5059,8 @@
    "200"
   ],
   "answer": 1,
-  "explanation": "50 × 4 + 1 = 201",
+  "explanation": "50 × 4 = 200, 200 + 1 = 201",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-rem-max"
@@ -4779,6 +5077,7 @@
   ],
   "answer": 1,
   "explanation": "203 ÷ 40 = 5 … 3 → 남는 3명도 타야 하므로 5 + 1 = 6(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4795,6 +5094,7 @@
   ],
   "answer": 3,
   "explanation": "311 ÷ 40 = 7 … 31 → 남는 31명도 타야 하므로 7 + 1 = 8(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4811,6 +5111,7 @@
   ],
   "answer": 3,
   "explanation": "333 ÷ 40 = 8 … 13 → 남는 13명도 타야 하므로 8 + 1 = 9(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4827,6 +5128,7 @@
   ],
   "answer": 3,
   "explanation": "281 ÷ 50 = 5 … 31 → 남는 31명도 타야 하므로 5 + 1 = 6(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4843,6 +5145,7 @@
   ],
   "answer": 2,
   "explanation": "248 ÷ 30 = 8 … 8 → 남는 8명도 타야 하므로 8 + 1 = 9(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4859,6 +5162,7 @@
   ],
   "answer": 2,
   "explanation": "141 ÷ 30 = 4 … 21 → 남는 21명도 타야 하므로 4 + 1 = 5(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4875,6 +5179,7 @@
   ],
   "answer": 0,
   "explanation": "152 ÷ 30 = 5 … 2 → 남는 2명도 타야 하므로 5 + 1 = 6(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4891,6 +5196,7 @@
   ],
   "answer": 2,
   "explanation": "109 ÷ 30 = 3 … 19 → 남는 19명도 타야 하므로 3 + 1 = 4(대)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-bus-count"
@@ -4907,6 +5213,7 @@
   ],
   "answer": 0,
   "explanation": "23 × 3 = 69이므로 3",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -4923,6 +5230,7 @@
   ],
   "answer": 0,
   "explanation": "19 × 5 = 95이므로 5",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -4939,6 +5247,7 @@
   ],
   "answer": 0,
   "explanation": "28 × 2 = 56이므로 2",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -4955,6 +5264,7 @@
   ],
   "answer": 3,
   "explanation": "11 × 7 = 77이므로 7",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -4971,6 +5281,7 @@
   ],
   "answer": 0,
   "explanation": "17 × 2 = 34이므로 2",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -4987,6 +5298,7 @@
   ],
   "answer": 1,
   "explanation": "11 × 5 = 55이므로 5",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -5003,6 +5315,7 @@
   ],
   "answer": 1,
   "explanation": "11 × 2 = 22이므로 2",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -5019,6 +5332,7 @@
   ],
   "answer": 0,
   "explanation": "14 × 2 = 28이므로 2",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div2x2-easy"
@@ -5034,7 +5348,8 @@
    "66"
   ],
   "answer": 1,
-  "explanation": "31 × 2 + 3 = 65",
+  "explanation": "31 × 2 = 62, 62 + 3 = 65",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5050,7 +5365,8 @@
    "98"
   ],
   "answer": 0,
-  "explanation": "12 × 8 + 3 = 99",
+  "explanation": "12 × 8 = 96, 96 + 3 = 99",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5066,7 +5382,8 @@
    "58"
   ],
   "answer": 3,
-  "explanation": "15 × 3 + 13 = 58",
+  "explanation": "15 × 3 = 45, 45 + 13 = 58",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5082,7 +5399,8 @@
    "70"
   ],
   "answer": 2,
-  "explanation": "17 × 3 + 9 = 60",
+  "explanation": "17 × 3 = 51, 51 + 9 = 60",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5098,7 +5416,8 @@
    "870"
   ],
   "answer": 1,
-  "explanation": "12 × 7 + 3 = 87",
+  "explanation": "12 × 7 = 84, 84 + 3 = 87",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5114,7 +5433,8 @@
    "57"
   ],
   "answer": 2,
-  "explanation": "22 × 2 + 15 = 59",
+  "explanation": "22 × 2 = 44, 44 + 15 = 59",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5130,7 +5450,8 @@
    "52"
   ],
   "answer": 2,
-  "explanation": "13 × 4 + 1 = 53",
+  "explanation": "13 × 4 = 52, 52 + 1 = 53",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5146,7 +5467,8 @@
    "24"
   ],
   "answer": 1,
-  "explanation": "12 × 2 + 7 = 31",
+  "explanation": "12 × 2 = 24, 24 + 7 = 31",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box"
@@ -5163,6 +5485,7 @@
   ],
   "answer": 1,
   "explanation": "223 ÷ 44의 몫 5, 112 ÷ 14의 몫 8, 128 ÷ 17의 몫 7, 481 ÷ 62의 몫 7",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-compare"
@@ -5179,6 +5502,7 @@
   ],
   "answer": 1,
   "explanation": "120 ÷ 13의 몫 9, 201 ÷ 56의 몫 3, 210 ÷ 42의 몫 5, 279 ÷ 33의 몫 8",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-compare"
@@ -5195,6 +5519,7 @@
   ],
   "answer": 3,
   "explanation": "□ × 10 > 604 → □는 60보다 커야 하므로 가장 작은 수는 61",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5211,6 +5536,7 @@
   ],
   "answer": 2,
   "explanation": "□ × 10 > 606 → □는 60보다 커야 하므로 가장 작은 수는 61",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5227,6 +5553,7 @@
   ],
   "answer": 1,
   "explanation": "□ × 10 > 440 → □는 44보다 커야 하므로 가장 작은 수는 45",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5243,6 +5570,7 @@
   ],
   "answer": 3,
   "explanation": "□ × 10 > 798 → □는 79보다 커야 하므로 가장 작은 수는 80",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5259,6 +5587,7 @@
   ],
   "answer": 0,
   "explanation": "□ × 10 > 126 → □는 12보다 커야 하므로 가장 작은 수는 13",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5275,6 +5604,7 @@
   ],
   "answer": 2,
   "explanation": "□ × 10 > 382 → □는 38보다 커야 하므로 가장 작은 수는 39",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5291,6 +5621,7 @@
   ],
   "answer": 0,
   "explanation": "□ × 10 > 133 → □는 13보다 커야 하므로 가장 작은 수는 14",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5307,6 +5638,7 @@
   ],
   "answer": 3,
   "explanation": "□ × 10 > 254 → □는 25보다 커야 하므로 가장 작은 수는 26",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-one-digit-min"
@@ -5323,6 +5655,7 @@
   ],
   "answer": 3,
   "explanation": "112 ÷ 12 = 9 … 4 → 12 − 4 = 8(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5339,6 +5672,7 @@
   ],
   "answer": 0,
   "explanation": "383 ÷ 58 = 6 … 35 → 58 − 35 = 23(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5355,6 +5689,7 @@
   ],
   "answer": 1,
   "explanation": "528 ÷ 61 = 8 … 40 → 61 − 40 = 21(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5371,6 +5706,7 @@
   ],
   "answer": 2,
   "explanation": "379 ÷ 41 = 9 … 10 → 41 − 10 = 31(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5387,6 +5723,7 @@
   ],
   "answer": 3,
   "explanation": "291 ÷ 46 = 6 … 15 → 46 − 15 = 31(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5403,6 +5740,7 @@
   ],
   "answer": 2,
   "explanation": "533 ÷ 62 = 8 … 37 → 62 − 37 = 25(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5419,6 +5757,7 @@
   ],
   "answer": 3,
   "explanation": "140 ÷ 17 = 8 … 4 → 17 − 4 = 13(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5435,6 +5774,7 @@
   ],
   "answer": 2,
   "explanation": "549 ÷ 66 = 8 … 21 → 66 − 21 = 45(장)",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-shortage"
@@ -5451,6 +5791,7 @@
   ],
   "answer": 3,
   "explanation": "17 × 33 = 561이므로 □ = 33",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5467,6 +5808,7 @@
   ],
   "answer": 3,
   "explanation": "22 × 33 = 726이므로 □ = 33",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5483,6 +5825,7 @@
   ],
   "answer": 0,
   "explanation": "34 × 26 = 884이므로 □ = 26",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5499,6 +5842,7 @@
   ],
   "answer": 1,
   "explanation": "16 × 41 = 656이므로 □ = 41",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5515,6 +5859,7 @@
   ],
   "answer": 3,
   "explanation": "59 × 13 = 767이므로 □ = 13",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5531,6 +5876,7 @@
   ],
   "answer": 3,
   "explanation": "17 × 24 = 408이므로 □ = 24",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5547,6 +5893,7 @@
   ],
   "answer": 0,
   "explanation": "37 × 13 = 481이므로 □ = 13",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
@@ -5563,9 +5910,724 @@
   ],
   "answer": 0,
   "explanation": "10 × 13 = 130이므로 □ = 13",
+  "standard": "[4수01-07]",
   "semester": 1,
   "unit": "곱셈과 나눗셈",
   "source": "math-king:l4-div-box-divisor"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "592 × 19를 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "11000",
+   "1200",
+   "11248",
+   "12000"
+  ],
+  "answer": 3,
+  "explanation": "592 → 약 600, 19 → 약 20 → 600 × 20 = 12000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "612 × 81을 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "49572",
+   "4800",
+   "48000",
+   "480000"
+  ],
+  "answer": 2,
+  "explanation": "612 → 약 600, 81 → 약 80 → 600 × 80 = 48000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "483 × 22를 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "1000",
+   "100000",
+   "10626",
+   "10000"
+  ],
+  "answer": 3,
+  "explanation": "483 → 약 500, 22 → 약 20 → 500 × 20 = 10000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "809 × 32를 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "25888",
+   "24000",
+   "240000",
+   "2400"
+  ],
+  "answer": 1,
+  "explanation": "809 → 약 800, 32 → 약 30 → 800 × 30 = 24000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "185 × 81을 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "14985",
+   "1600",
+   "15000",
+   "16000"
+  ],
+  "answer": 3,
+  "explanation": "185 → 약 200, 81 → 약 80 → 200 × 80 = 16000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "405 × 37을 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "16000",
+   "14985",
+   "1600",
+   "160000"
+  ],
+  "answer": 0,
+  "explanation": "405 → 약 400, 37 → 약 40 → 400 × 40 = 16000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "191 × 47을 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "8977",
+   "100000",
+   "10000",
+   "1000"
+  ],
+  "answer": 2,
+  "explanation": "191 → 약 200, 47 → 약 50 → 200 × 50 = 10000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "201 × 71을 어림하여 계산하려고 합니다. 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하면 곱은 약 얼마인가요?",
+  "choices": [
+   "14000",
+   "1400",
+   "13000",
+   "14271"
+  ],
+  "answer": 0,
+  "explanation": "201 → 약 200, 71 → 약 70 → 200 × 70 = 14000",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "592 ÷ 19의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "20",
+   "30",
+   "10",
+   "300"
+  ],
+  "answer": 1,
+  "explanation": "592 → 약 600, 19 → 약 20 → 600 ÷ 20 = 30",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "613 ÷ 17의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "50",
+   "30",
+   "40",
+   "300"
+  ],
+  "answer": 1,
+  "explanation": "613 → 약 600, 17 → 약 20 → 600 ÷ 20 = 30",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "483 ÷ 22의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "250",
+   "24",
+   "25",
+   "23"
+  ],
+  "answer": 2,
+  "explanation": "483 → 약 500, 22 → 약 20 → 500 ÷ 20 = 25",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "894 ÷ 53의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "17",
+   "180",
+   "18",
+   "16"
+  ],
+  "answer": 2,
+  "explanation": "894 → 약 900, 53 → 약 50 → 900 ÷ 50 = 18",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "593 ÷ 37의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "16",
+   "150",
+   "14",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "593 → 약 600, 37 → 약 40 → 600 ÷ 40 = 15",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "405 ÷ 37의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "100",
+   "20",
+   "30",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "405 → 약 400, 37 → 약 40 → 400 ÷ 40 = 10",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "191 ÷ 47의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "3",
+   "40",
+   "2",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "191 → 약 200, 47 → 약 50 → 200 ÷ 50 = 4",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "785 ÷ 39의 몫을 어림하려고 합니다. 나누어지는 수는 가장 가까운 몇백으로, 나누는 수는 가장 가까운 몇십으로 어림하면 몫은 약 얼마인가요?",
+  "choices": [
+   "20",
+   "30",
+   "40",
+   "200"
+  ],
+  "answer": 0,
+  "explanation": "785 → 약 800, 39 → 약 40 → 800 ÷ 40 = 20",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-div"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "713 × 29의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "98957",
+   "60677",
+   "33117",
+   "20677"
+  ],
+  "answer": 3,
+  "explanation": "713 × 29 → 약 700 × 30 = 21000이므로 21000에 가장 가까운 20677이 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "612 × 81의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "49572",
+   "5508",
+   "11102",
+   "29572"
+  ],
+  "answer": 0,
+  "explanation": "612 × 81 → 약 600 × 80 = 48000이므로 48000에 가장 가까운 49572가 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "483 × 22의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "488386",
+   "3986",
+   "83996",
+   "10626"
+  ],
+  "answer": 3,
+  "explanation": "483 × 22 → 약 500 × 20 = 10000이므로 10000에 가장 가까운 10626이 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "181 × 88의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "6308",
+   "55928",
+   "15928",
+   "2896"
+  ],
+  "answer": 2,
+  "explanation": "181 × 88 → 약 200 × 90 = 18000이므로 18000에 가장 가까운 15928이 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "185 × 81의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "226365",
+   "14985",
+   "36235",
+   "149850"
+  ],
+  "answer": 1,
+  "explanation": "185 × 81 → 약 200 × 80 = 16000이므로 16000에 가장 가까운 14985가 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "381 × 51의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "2286",
+   "19431",
+   "194310",
+   "49431"
+  ],
+  "answer": 1,
+  "explanation": "381 × 51 → 약 400 × 50 = 20000이므로 20000에 가장 가까운 19431이 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "488 × 39의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "848882",
+   "19032",
+   "49032",
+   "445842"
+  ],
+  "answer": 1,
+  "explanation": "488 × 39 → 약 500 × 40 = 20000이므로 20000에 가장 가까운 19032가 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "905 × 17의 계산 결과로 가장 알맞은 것은 어느 것인가요?",
+  "choices": [
+   "15385",
+   "6605",
+   "75385",
+   "979465"
+  ],
+  "answer": 0,
+  "explanation": "905 × 17 → 약 900 × 20 = 18000이므로 18000에 가장 가까운 15385가 알맞아요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-check"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어림셈으로 구해도 되는 경우를 고르세요.",
+  "choices": [
+   "올해 축제에 온 사람이 몇천 명쯤인지 알릴 때",
+   "반 친구들의 줄넘기 기록을 더하여 반 기록을 낼 때",
+   "모둠별로 나누어 줄 공책의 수를 셀 때",
+   "택배 요금을 계산하여 낼 때"
+  ],
+  "answer": 0,
+  "explanation": "'올해 축제에 온 사람이 몇천 명쯤인지 알릴 때'는 대강의 크기만 알면 되므로 어림셈으로 구해도 돼요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-situation"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어림셈이 아니라 정확하게 계산해야 하는 경우를 고르세요.",
+  "choices": [
+   "올해 축제에 온 사람이 몇천 명쯤인지 알릴 때",
+   "집에서 할머니 댁까지 몇 km쯤인지 말할 때",
+   "모둠별로 나누어 줄 공책의 수를 셀 때",
+   "체험 학습에 버스가 몇 대쯤 필요할지 미리 알아볼 때"
+  ],
+  "answer": 2,
+  "explanation": "'모둠별로 나누어 줄 공책의 수를 셀 때'는 정확한 수가 필요하므로 어림하면 안 돼요.",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-situation"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "592 × 19를 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "752",
+   "11248",
+   "12000",
+   "7520"
+  ],
+  "answer": 0,
+  "explanation": "어림한 곱: 600 × 20 = 12000, 실제 곱: 592 × 19 = 11248 → 12000 − 11248 = 752",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "612 × 81을 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "1572",
+   "15720",
+   "49572",
+   "48000"
+  ],
+  "answer": 0,
+  "explanation": "어림한 곱: 600 × 80 = 48000, 실제 곱: 612 × 81 = 49572 → 49572 − 48000 = 1572",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "483 × 22를 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "6260",
+   "10626",
+   "10000",
+   "626"
+  ],
+  "answer": 3,
+  "explanation": "어림한 곱: 500 × 20 = 10000, 실제 곱: 483 × 22 = 10626 → 10626 − 10000 = 626",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "809 × 32를 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "1888",
+   "1889",
+   "24000",
+   "25888"
+  ],
+  "answer": 0,
+  "explanation": "어림한 곱: 800 × 30 = 24000, 실제 곱: 809 × 32 = 25888 → 25888 − 24000 = 1888",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "185 × 81을 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "16000",
+   "14985",
+   "1015",
+   "10150"
+  ],
+  "answer": 2,
+  "explanation": "어림한 곱: 200 × 80 = 16000, 실제 곱: 185 × 81 = 14985 → 16000 − 14985 = 1015",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "405 × 37을 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "10150",
+   "14985",
+   "16000",
+   "1015"
+  ],
+  "answer": 3,
+  "explanation": "어림한 곱: 400 × 40 = 16000, 실제 곱: 405 × 37 = 14985 → 16000 − 14985 = 1015",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "191 × 47을 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "1023",
+   "8977",
+   "10000",
+   "1024"
+  ],
+  "answer": 0,
+  "explanation": "어림한 곱: 200 × 50 = 10000, 실제 곱: 191 × 47 = 8977 → 10000 − 8977 = 1023",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "201 × 71을 곱해지는 수는 가장 가까운 몇백으로, 곱하는 수는 가장 가까운 몇십으로 어림하여 계산한 값과 실제로 계산한 값의 차는 얼마인가요?",
+  "choices": [
+   "2710",
+   "14000",
+   "271",
+   "14271"
+  ],
+  "answer": 2,
+  "explanation": "어림한 곱: 200 × 70 = 14000, 실제 곱: 201 × 71 = 14271 → 14271 − 14000 = 271",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나는 10,000원으로 한 권에 208원인 공책을 42권 사려고 합니다. 한 권의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "1000원",
+   "2000원",
+   "8000원",
+   "1264원"
+  ],
+  "answer": 1,
+  "explanation": "208원 → 약 200원, 42권 → 약 40권 → 200 × 40 = 8000, 10000 − 8000 = 2000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서아는 15,000원으로 한 묶음에 513원인 색종이를 17묶음 사려고 합니다. 한 묶음의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "4000원",
+   "5000원",
+   "10000원",
+   "6279원"
+  ],
+  "answer": 1,
+  "explanation": "513원 → 약 500원, 17묶음 → 약 20묶음 → 500 × 20 = 10000, 15000 − 10000 = 5000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "도하는 30,000원으로 한 묶음에 514원인 색종이를 42묶음 사려고 합니다. 한 묶음의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "30000원",
+   "10000원",
+   "20000원",
+   "8412원"
+  ],
+  "answer": 1,
+  "explanation": "514원 → 약 500원, 42묶음 → 약 40묶음 → 500 × 40 = 20000, 30000 − 20000 = 10000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서아는 20,000원으로 한 개에 594원인 지우개를 33개 사려고 합니다. 한 개의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "2000원",
+   "398원",
+   "18000원",
+   "1000원"
+  ],
+  "answer": 0,
+  "explanation": "594원 → 약 600원, 33개 → 약 30개 → 600 × 30 = 18000, 20000 − 18000 = 2000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서아는 20,000원으로 한 개에 393원인 지우개를 27개 사려고 합니다. 한 개의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "8000원",
+   "9000원",
+   "12000원",
+   "9389원"
+  ],
+  "answer": 0,
+  "explanation": "393원 → 약 400원, 27개 → 약 30개 → 400 × 30 = 12000, 20000 − 12000 = 8000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "도하는 20,000원으로 한 권에 601원인 공책을 23권 사려고 합니다. 한 권의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "12000원",
+   "7000원",
+   "8000원",
+   "6177원"
+  ],
+  "answer": 2,
+  "explanation": "601원 → 약 600원, 23권 → 약 20권 → 600 × 20 = 12000, 20000 − 12000 = 8000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "도하는 25,000원으로 한 권에 394원인 공책을 39권 사려고 합니다. 한 권의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "9000원",
+   "9634원",
+   "16000원",
+   "10000원"
+  ],
+  "answer": 0,
+  "explanation": "394원 → 약 400원, 39권 → 약 40권 → 400 × 40 = 16000, 25000 − 16000 = 9000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "도하는 30,000원으로 한 묶음에 607원인 색종이를 43묶음 사려고 합니다. 한 묶음의 값은 가장 가까운 몇백으로, 사려는 수는 가장 가까운 몇십으로 어림하면 남는 돈은 약 몇 원인가요?",
+  "choices": [
+   "6000원",
+   "7000원",
+   "24000원",
+   "3899원"
+  ],
+  "answer": 0,
+  "explanation": "607원 → 약 600원, 43묶음 → 약 40묶음 → 600 × 40 = 24000, 30000 − 24000 = 6000(원)",
+  "standard": "[4수01-08]",
+  "semester": 1,
+  "unit": "곱셈과 나눗셈",
+  "source": "math-king:l4-est-budget"
  },
  {
   "difficulty": 3,
@@ -5579,6 +6641,7 @@
   ],
   "answer": 0,
   "explanation": "7번은 홀수 번이므로 위쪽으로 한 번 뒤집은 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5595,6 +6658,7 @@
   ],
   "answer": 1,
   "explanation": "10번은 짝수 번이므로 처음 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5611,6 +6675,7 @@
   ],
   "answer": 3,
   "explanation": "13번은 홀수 번이므로 왼쪽으로 한 번 뒤집은 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5627,6 +6692,7 @@
   ],
   "answer": 0,
   "explanation": "7번은 홀수 번이므로 아래쪽으로 한 번 뒤집은 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5643,6 +6709,7 @@
   ],
   "answer": 3,
   "explanation": "12번은 짝수 번이므로 처음 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5659,6 +6726,7 @@
   ],
   "answer": 1,
   "explanation": "5번은 홀수 번이므로 왼쪽으로 한 번 뒤집은 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5675,6 +6743,7 @@
   ],
   "answer": 2,
   "explanation": "7번은 홀수 번이므로 오른쪽으로 한 번 뒤집은 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5691,6 +6760,7 @@
   ],
   "answer": 1,
   "explanation": "2번은 짝수 번이므로 처음 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-flip-times"
@@ -5707,6 +6777,7 @@
   ],
   "answer": 3,
   "explanation": "3과 9를 잇는 선을 기준으로 5의 반대쪽 자리에 있던 숫자 1이 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5723,6 +6794,7 @@
   ],
   "answer": 1,
   "explanation": "3과 9를 잇는 선을 기준으로 7의 반대쪽 자리에 있던 숫자 11이 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5739,6 +6811,7 @@
   ],
   "answer": 0,
   "explanation": "12와 6을 잇는 선을 기준으로 11의 반대쪽 자리에 있던 숫자 1이 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5755,6 +6828,7 @@
   ],
   "answer": 0,
   "explanation": "12와 6을 잇는 선을 기준으로 9의 반대쪽 자리에 있던 숫자 3이 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5771,6 +6845,7 @@
   ],
   "answer": 1,
   "explanation": "12와 6을 잇는 선을 기준으로 3의 반대쪽 자리에 있던 숫자 9가 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5787,6 +6862,7 @@
   ],
   "answer": 1,
   "explanation": "12와 6을 잇는 선을 기준으로 5의 반대쪽 자리에 있던 숫자 7이 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5803,6 +6879,7 @@
   ],
   "answer": 2,
   "explanation": "12와 6을 잇는 선을 기준으로 1의 반대쪽 자리에 있던 숫자 11이 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5819,6 +6896,7 @@
   ],
   "answer": 1,
   "explanation": "3과 9를 잇는 선을 기준으로 2의 반대쪽 자리에 있던 숫자 4가 옵니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-clock-flip"
@@ -5835,6 +6913,7 @@
   ],
   "answer": 3,
   "explanation": "270° + 90° = 360°이므로 시계 방향으로 90°만큼 돌린 것과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5851,6 +6930,7 @@
   ],
   "answer": 1,
   "explanation": "270° + 90° = 360°이므로 시계 반대 방향으로 90°만큼 돌린 것과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5867,6 +6947,7 @@
   ],
   "answer": 2,
   "explanation": "180° + 180° = 360°이므로 시계 반대 방향으로 180°만큼 돌린 것과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5876,13 +6957,14 @@
   "type": "choice4",
   "question": "도형을 시계 반대 방향으로 360°만큼 돌린 모양과 같은 것을 고르세요.",
   "choices": [
-   "시계 방향으로 360°만큼 돌린 것",
+   "시계 방향으로 90°만큼 돌린 것",
    "시계 반대 방향으로 90°만큼 돌린 것",
    "처음 도형과 같습니다",
    "시계 방향으로 180°만큼 돌린 것"
   ],
   "answer": 2,
   "explanation": "360°는 한 바퀴이므로 처음 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5899,6 +6981,7 @@
   ],
   "answer": 3,
   "explanation": "90° + 270° = 360°이므로 시계 반대 방향으로 270°만큼 돌린 것과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5915,6 +6998,7 @@
   ],
   "answer": 2,
   "explanation": "180° + 180° = 360°이므로 시계 방향으로 180°만큼 돌린 것과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5931,6 +7015,7 @@
   ],
   "answer": 3,
   "explanation": "90° + 270° = 360°이므로 시계 방향으로 270°만큼 돌린 것과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5940,13 +7025,14 @@
   "type": "choice4",
   "question": "도형을 시계 방향으로 360°만큼 돌린 모양과 같은 것을 고르세요.",
   "choices": [
-   "시계 반대 방향으로 360°만큼 돌린 것",
+   "시계 반대 방향으로 90°만큼 돌린 것",
    "시계 방향으로 90°만큼 돌린 것",
    "처음 도형과 같습니다",
    "시계 방향으로 180°만큼 돌린 것"
   ],
   "answer": 2,
   "explanation": "360°는 한 바퀴이므로 처음 도형과 같습니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-equiv"
@@ -5963,6 +7049,7 @@
   ],
   "answer": 1,
   "explanation": "돌린 수: 18 → 81 − 18 = 63",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -5979,6 +7066,7 @@
   ],
   "answer": 2,
   "explanation": "돌린 수: 81 → 18 + 81 = 99",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -5995,6 +7083,7 @@
   ],
   "answer": 3,
   "explanation": "돌린 수: 19 → 61 + 19 = 80",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -6011,6 +7100,7 @@
   ],
   "answer": 1,
   "explanation": "돌린 수: 81 → 81 − 18 = 63",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -6027,6 +7117,7 @@
   ],
   "answer": 0,
   "explanation": "돌린 수: 91 → 16 + 91 = 107",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -6043,6 +7134,7 @@
   ],
   "answer": 2,
   "explanation": "돌린 수: 89 → 68 + 89 = 157",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -6059,6 +7151,7 @@
   ],
   "answer": 1,
   "explanation": "돌린 수: 66 → 99 + 66 = 165",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -6075,6 +7168,7 @@
   ],
   "answer": 3,
   "explanation": "돌린 수: 99 → 66 + 99 = 165",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-digits"
@@ -6090,7 +7184,8 @@
    "3번"
   ],
   "answer": 2,
-  "explanation": "4번마다 처음 모양 → 19번 돌린 뒤 1번 더 돌리면 20번(4의 배수)",
+  "explanation": "4번 돌릴 때마다 처음 모양 → 19번 돌린 뒤 1번 더 돌리면 20번이므로 5바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6106,7 +7201,8 @@
    "1번"
   ],
   "answer": 3,
-  "explanation": "2번마다 처음 모양 → 19번 돌린 뒤 1번 더 돌리면 20번(2의 배수)",
+  "explanation": "2번 돌릴 때마다 처음 모양 → 19번 돌린 뒤 1번 더 돌리면 20번이므로 10바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6122,7 +7218,8 @@
    "5번"
   ],
   "answer": 2,
-  "explanation": "4번마다 처음 모양 → 13번 돌린 뒤 3번 더 돌리면 16번(4의 배수)",
+  "explanation": "4번 돌릴 때마다 처음 모양 → 13번 돌린 뒤 3번 더 돌리면 16번이므로 4바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6138,7 +7235,8 @@
    "4번"
   ],
   "answer": 1,
-  "explanation": "4번마다 처음 모양 → 25번 돌린 뒤 3번 더 돌리면 28번(4의 배수)",
+  "explanation": "4번 돌릴 때마다 처음 모양 → 25번 돌린 뒤 3번 더 돌리면 28번이므로 7바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6154,7 +7252,8 @@
    "1번"
   ],
   "answer": 3,
-  "explanation": "2번마다 처음 모양 → 5번 돌린 뒤 1번 더 돌리면 6번(2의 배수)",
+  "explanation": "2번 돌릴 때마다 처음 모양 → 5번 돌린 뒤 1번 더 돌리면 6번이므로 3바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6170,7 +7269,8 @@
    "5번"
   ],
   "answer": 2,
-  "explanation": "4번마다 처음 모양 → 5번 돌린 뒤 3번 더 돌리면 8번(4의 배수)",
+  "explanation": "4번 돌릴 때마다 처음 모양 → 5번 돌린 뒤 3번 더 돌리면 8번이므로 2바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6186,7 +7286,8 @@
    "3번"
   ],
   "answer": 3,
-  "explanation": "4번마다 처음 모양 → 9번 돌린 뒤 3번 더 돌리면 12번(4의 배수)",
+  "explanation": "4번 돌릴 때마다 처음 모양 → 9번 돌린 뒤 3번 더 돌리면 12번이므로 3바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6202,7 +7303,8 @@
    "5번"
   ],
   "answer": 1,
-  "explanation": "4번마다 처음 모양 → 29번 돌린 뒤 3번 더 돌리면 32번(4의 배수)",
+  "explanation": "4번 돌릴 때마다 처음 모양 → 29번 돌린 뒤 3번 더 돌리면 32번이므로 8바퀴를 돌아 처음 모양이 돼요.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-rotate-more"
@@ -6219,6 +7321,7 @@
   ],
   "answer": 3,
   "explanation": "시계 방향으로 90°만큼 두 번 돌린 모양은 시계 방향으로 180°만큼 돌린 것입니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-combo-equiv"
@@ -6235,6 +7338,7 @@
   ],
   "answer": 0,
   "explanation": "오른쪽으로 두 번 뒤집은 모양은 처음 도형과 같은 것입니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-combo-equiv"
@@ -6251,6 +7355,7 @@
   ],
   "answer": 0,
   "explanation": "시계 반대 방향으로 90°만큼 세 번 돌린 모양은 시계 방향으로 90°만큼 돌린 것입니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-combo-equiv"
@@ -6267,6 +7372,7 @@
   ],
   "answer": 3,
   "explanation": "오른쪽으로 뒤집은 다음 아래쪽으로 뒤집은 모양은 시계 방향으로 180°만큼 돌린 것입니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-combo-equiv"
@@ -6283,6 +7389,7 @@
   ],
   "answer": 2,
   "explanation": "위쪽으로 뒤집은 다음 왼쪽으로 뒤집은 모양은 시계 방향으로 180°만큼 돌린 것입니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-combo-equiv"
@@ -6299,6 +7406,7 @@
   ],
   "answer": 0,
   "explanation": "시계 방향으로 180°만큼 두 번 돌린 모양은 처음 도형과 같은 것입니다.",
+  "standard": "[4수03-04]",
   "semester": 1,
   "unit": "평면도형의 이동",
   "source": "math-king:l4-combo-equiv"
@@ -6315,6 +7423,7 @@
   ],
   "answer": 2,
   "explanation": "1명 × 12 = 12, 2명 × 12 = 24, 5명 × 12 = 60, 10명 × 12 = 120 → 27명을 나타낼 수 있는 가장 작은 크기는 5명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6331,6 +7440,7 @@
   ],
   "answer": 2,
   "explanation": "1명 × 12 = 12, 2명 × 12 = 24, 5명 × 12 = 60, 10명 × 12 = 120 → 53명을 나타낼 수 있는 가장 작은 크기는 5명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6347,6 +7457,7 @@
   ],
   "answer": 3,
   "explanation": "1명 × 12 = 12, 2명 × 12 = 24, 5명 × 12 = 60, 10명 × 12 = 120 → 79명을 나타낼 수 있는 가장 작은 크기는 10명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6363,6 +7474,7 @@
   ],
   "answer": 2,
   "explanation": "1명 × 15 = 15, 2명 × 15 = 30, 5명 × 15 = 75, 10명 × 15 = 150 → 59명을 나타낼 수 있는 가장 작은 크기는 5명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6379,6 +7491,7 @@
   ],
   "answer": 3,
   "explanation": "1명 × 10 = 10, 2명 × 10 = 20, 5명 × 10 = 50, 10명 × 10 = 100 → 63명을 나타낼 수 있는 가장 작은 크기는 10명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6395,6 +7508,7 @@
   ],
   "answer": 1,
   "explanation": "1명 × 10 = 10, 2명 × 10 = 20, 5명 × 10 = 50, 10명 × 10 = 100 → 18명을 나타낼 수 있는 가장 작은 크기는 2명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6411,6 +7525,7 @@
   ],
   "answer": 2,
   "explanation": "1명 × 10 = 10, 2명 × 10 = 20, 5명 × 10 = 50, 10명 × 10 = 100 → 22명을 나타낼 수 있는 가장 작은 크기는 5명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6427,6 +7542,7 @@
   ],
   "answer": 1,
   "explanation": "1명 × 10 = 10, 2명 × 10 = 20, 5명 × 10 = 50, 10명 × 10 = 100 → 17명을 나타낼 수 있는 가장 작은 크기는 2명",
+  "standard": "[4수04-01]",
   "semester": 1,
   "unit": "막대그래프",
   "source": "math-king:l4-bar-scale-choose"
@@ -6443,6 +7559,7 @@
   ],
   "answer": 3,
   "explanation": "7씩 작아지는 규칙이므로 100",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6459,6 +7576,7 @@
   ],
   "answer": 3,
   "explanation": "11씩 커지는 규칙이므로 158",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6475,6 +7593,7 @@
   ],
   "answer": 3,
   "explanation": "25씩 커지는 규칙이므로 127",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6491,6 +7610,7 @@
   ],
   "answer": 3,
   "explanation": "8씩 커지는 규칙이므로 173",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6507,6 +7627,7 @@
   ],
   "answer": 0,
   "explanation": "15씩 커지는 규칙이므로 66",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6523,6 +7644,7 @@
   ],
   "answer": 0,
   "explanation": "5씩 커지는 규칙이므로 74",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6539,6 +7661,7 @@
   ],
   "answer": 3,
   "explanation": "8씩 커지는 규칙이므로 32",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6555,6 +7678,7 @@
   ],
   "answer": 3,
   "explanation": "2씩 커지는 규칙이므로 12",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-arith"
@@ -6571,6 +7695,7 @@
   ],
   "answer": 2,
   "explanation": "5배씩 커지는 규칙이므로 125",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6587,6 +7712,7 @@
   ],
   "answer": 2,
   "explanation": "5배씩 커지는 규칙이므로 4375",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6603,6 +7729,7 @@
   ],
   "answer": 3,
   "explanation": "3배씩 커지는 규칙이므로 99",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6619,6 +7746,7 @@
   ],
   "answer": 2,
   "explanation": "10배씩 커지는 규칙이므로 4000",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6635,6 +7763,7 @@
   ],
   "answer": 0,
   "explanation": "2배씩 커지는 규칙이므로 36",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6651,6 +7780,7 @@
   ],
   "answer": 0,
   "explanation": "3배씩 커지는 규칙이므로 243",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6667,6 +7797,7 @@
   ],
   "answer": 0,
   "explanation": "2배씩 커지는 규칙이므로 20",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6683,6 +7814,7 @@
   ],
   "answer": 3,
   "explanation": "2배씩 커지는 규칙이므로 8",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-geo"
@@ -6699,6 +7831,7 @@
   ],
   "answer": 3,
   "explanation": "6, 12, 18, … → 6씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6715,6 +7848,7 @@
   ],
   "answer": 2,
   "explanation": "48, 56, 64, … → 8씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6731,6 +7865,7 @@
   ],
   "answer": 3,
   "explanation": "4, 20, 100, … → 5배씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6747,6 +7882,7 @@
   ],
   "answer": 3,
   "explanation": "39, 46, 53, … → 7씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6763,6 +7899,7 @@
   ],
   "answer": 2,
   "explanation": "3, 15, 75, … → 5배씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6779,6 +7916,7 @@
   ],
   "answer": 1,
   "explanation": "7, 14, 28, … → 2배씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6795,6 +7933,7 @@
   ],
   "answer": 1,
   "explanation": "2, 6, 18, … → 3배씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6811,6 +7950,7 @@
   ],
   "answer": 3,
   "explanation": "4, 8, 16, … → 2배씩 커집니다.",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-rule-choice"
@@ -6826,7 +7966,8 @@
    "112"
   ],
   "answer": 1,
-  "explanation": "29 + 7 × 12 = 113",
+  "explanation": "7 × 12 = 84, 29 + 84 = 113",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6842,7 +7983,8 @@
    "279"
   ],
   "answer": 3,
-  "explanation": "29 + 10 × 25 = 279",
+  "explanation": "10 × 25 = 250, 29 + 250 = 279",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6858,7 +8000,8 @@
    "229"
   ],
   "answer": 0,
-  "explanation": "20 + 13 × 16 = 228",
+  "explanation": "13 × 16 = 208, 20 + 208 = 228",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6874,7 +8017,8 @@
    "2160"
   ],
   "answer": 1,
-  "explanation": "40 + 8 × 22 = 216",
+  "explanation": "8 × 22 = 176, 40 + 176 = 216",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6890,7 +8034,8 @@
    "1830"
   ],
   "answer": 0,
-  "explanation": "3 + 12 × 15 = 183",
+  "explanation": "12 × 15 = 180, 3 + 180 = 183",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6906,7 +8051,8 @@
    "1370"
   ],
   "answer": 2,
-  "explanation": "17 + 5 × 24 = 137",
+  "explanation": "5 × 24 = 120, 17 + 120 = 137",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6922,7 +8068,8 @@
    "81"
   ],
   "answer": 1,
-  "explanation": "3 + 8 × 11 = 91",
+  "explanation": "8 × 11 = 88, 3 + 88 = 91",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6938,7 +8085,8 @@
    "72"
   ],
   "answer": 0,
-  "explanation": "3 + 3 × 22 = 69",
+  "explanation": "3 × 22 = 66, 3 + 66 = 69",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-nth"
@@ -6955,6 +8103,7 @@
   ],
   "answer": 1,
   "explanation": "16번째 수는 219, 17번째 수는 232이므로 17번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -6971,6 +8120,7 @@
   ],
   "answer": 3,
   "explanation": "30번째 수는 517, 31번째 수는 534이므로 31번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -6987,6 +8137,7 @@
   ],
   "answer": 0,
   "explanation": "14번째 수는 303, 15번째 수는 325이므로 15번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -7003,6 +8154,7 @@
   ],
   "answer": 1,
   "explanation": "30번째 수는 438, 31번째 수는 452이므로 31번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -7019,6 +8171,7 @@
   ],
   "answer": 2,
   "explanation": "15번째 수는 284, 16번째 수는 304이므로 16번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -7035,6 +8188,7 @@
   ],
   "answer": 2,
   "explanation": "48번째 수는 485, 49번째 수는 495이므로 49번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -7051,6 +8205,7 @@
   ],
   "answer": 1,
   "explanation": "15번째 수는 200, 16번째 수는 214이므로 16번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -7067,6 +8222,7 @@
   ],
   "answer": 1,
   "explanation": "75번째 수는 448, 76번째 수는 454이므로 76번째",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-pat-first-over"
@@ -7082,7 +8238,8 @@
    "32개"
   ],
   "answer": 2,
-  "explanation": "4 + 3 × 9 = 31(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 9 = 27, 4 + 27 = 31(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7098,7 +8255,8 @@
    "25개"
   ],
   "answer": 3,
-  "explanation": "4 + 3 × 7 = 25(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 7 = 21, 4 + 21 = 25(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7114,7 +8272,8 @@
    "50개"
   ],
   "answer": 2,
-  "explanation": "4 + 3 × 12 = 40(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 12 = 36, 4 + 36 = 40(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7130,7 +8289,8 @@
    "14개"
   ],
   "answer": 2,
-  "explanation": "4 + 3 × 3 = 13(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 3 = 9, 4 + 9 = 13(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7146,7 +8306,8 @@
    "21개"
   ],
   "answer": 0,
-  "explanation": "4 + 3 × 6 = 22(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 6 = 18, 4 + 18 = 22(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7162,7 +8323,8 @@
    "24개"
   ],
   "answer": 0,
-  "explanation": "4 + 3 × 5 = 19(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 5 = 15, 4 + 15 = 19(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7178,7 +8340,8 @@
    "44개"
   ],
   "answer": 2,
-  "explanation": "4 + 3 × 14 = 46(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 14 = 42, 4 + 42 = 46(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7194,7 +8357,8 @@
    "44개"
   ],
   "answer": 0,
-  "explanation": "4 + 3 × 13 = 43(개)",
+  "explanation": "정사각형이 1개 늘 때마다 3개씩 늘어나요. 3 × 13 = 39, 4 + 39 = 43(개)",
+  "standard": "[4수02-01]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-match-squares"
@@ -7211,6 +8375,7 @@
   ],
   "answer": 3,
   "explanation": "490 + 20 = 510",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7227,6 +8392,7 @@
   ],
   "answer": 3,
   "explanation": "880 + 20 = 900",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7243,6 +8409,7 @@
   ],
   "answer": 3,
   "explanation": "530 + 20 = 550",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7259,6 +8426,7 @@
   ],
   "answer": 1,
   "explanation": "900 + 20 = 920",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7275,6 +8443,7 @@
   ],
   "answer": 0,
   "explanation": "480 + 20 = 500",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7291,6 +8460,7 @@
   ],
   "answer": 0,
   "explanation": "1060 + 200 = 1260",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7307,6 +8477,7 @@
   ],
   "answer": 2,
   "explanation": "680 + 200 = 880",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7323,6 +8494,7 @@
   ],
   "answer": 0,
   "explanation": "610 + 20 = 630",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-next"
@@ -7339,6 +8511,7 @@
   ],
   "answer": 0,
   "explanation": "44 × 99 = 4356",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7355,6 +8528,7 @@
   ],
   "answer": 1,
   "explanation": "84 × 99 = 8316",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7371,6 +8545,7 @@
   ],
   "answer": 2,
   "explanation": "60 × 11 = 660",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7387,6 +8562,7 @@
   ],
   "answer": 0,
   "explanation": "77 × 101 = 7777",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7403,6 +8579,7 @@
   ],
   "answer": 1,
   "explanation": "60 × 9 = 540",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7419,6 +8596,7 @@
   ],
   "answer": 2,
   "explanation": "77 × 11 = 847",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7435,6 +8613,7 @@
   ],
   "answer": 2,
   "explanation": "44 × 9 = 396",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7451,6 +8630,7 @@
   ],
   "answer": 1,
   "explanation": "77 × 9 = 693",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:pattern-calc"
@@ -7467,6 +8647,7 @@
   ],
   "answer": 3,
   "explanation": "101 × 49 = 4949",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7483,6 +8664,7 @@
   ],
   "answer": 1,
   "explanation": "101 × 65 = 6565",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7499,6 +8681,7 @@
   ],
   "answer": 1,
   "explanation": "1111 × 1111 = 1234321",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7515,6 +8698,7 @@
   ],
   "answer": 1,
   "explanation": "101 × 52 = 5252",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7531,6 +8715,7 @@
   ],
   "answer": 3,
   "explanation": "101 × 31 = 3131",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7547,6 +8732,7 @@
   ],
   "answer": 0,
   "explanation": "101 × 80 = 8080",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7563,6 +8749,7 @@
   ],
   "answer": 1,
   "explanation": "101 × 91 = 9191",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7579,6 +8766,7 @@
   ],
   "answer": 3,
   "explanation": "101 × 68 = 6868",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-mul-pattern"
@@ -7595,6 +8783,7 @@
   ],
   "answer": 0,
   "explanation": "홀수 9개의 합 = 9 × 9 = 81",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7611,6 +8800,7 @@
   ],
   "answer": 3,
   "explanation": "홀수 8개의 합 = 8 × 8 = 64",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7627,6 +8817,7 @@
   ],
   "answer": 1,
   "explanation": "홀수 11개의 합 = 11 × 11 = 121",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7643,6 +8834,7 @@
   ],
   "answer": 0,
   "explanation": "홀수 5개의 합 = 5 × 5 = 25",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7659,6 +8851,7 @@
   ],
   "answer": 0,
   "explanation": "홀수 7개의 합 = 7 × 7 = 49",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7675,6 +8868,7 @@
   ],
   "answer": 0,
   "explanation": "홀수 6개의 합 = 6 × 6 = 36",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7691,6 +8885,7 @@
   ],
   "answer": 1,
   "explanation": "홀수 12개의 합 = 12 × 12 = 144",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7707,6 +8902,7 @@
   ],
   "answer": 1,
   "explanation": "홀수 10개의 합 = 10 × 10 = 100",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:w4-odd-sum"
@@ -7722,7 +8918,8 @@
    "9번째"
   ],
   "answer": 1,
-  "explanation": "6번째 계산식: 800 + 900 = 1700",
+  "explanation": "여섯째 계산식: 800 + 900 = 1700",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7738,7 +8935,8 @@
    "10번째"
   ],
   "answer": 1,
-  "explanation": "7번째 계산식: 900 + 1000 = 1900",
+  "explanation": "일곱째 계산식: 900 + 1000 = 1900",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7754,7 +8952,8 @@
    "10번째"
   ],
   "answer": 1,
-  "explanation": "9번째 계산식: 1000 + 1100 = 2100",
+  "explanation": "아홉째 계산식: 1000 + 1100 = 2100",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7770,7 +8969,8 @@
    "7번째"
   ],
   "answer": 3,
-  "explanation": "7번째 계산식: 1000 + 1100 = 2100",
+  "explanation": "일곱째 계산식: 1000 + 1100 = 2100",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7786,7 +8986,8 @@
    "8번째"
   ],
   "answer": 3,
-  "explanation": "8번째 계산식: 800 + 900 = 1700",
+  "explanation": "여덟째 계산식: 800 + 900 = 1700",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7802,7 +9003,8 @@
    "5번째"
   ],
   "answer": 0,
-  "explanation": "6번째 계산식: 700 + 800 = 1500",
+  "explanation": "여섯째 계산식: 700 + 800 = 1500",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7818,7 +9020,8 @@
    "8번째"
   ],
   "answer": 0,
-  "explanation": "7번째 계산식: 700 + 800 = 1500",
+  "explanation": "일곱째 계산식: 700 + 800 = 1500",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7834,7 +9037,8 @@
    "5번째"
   ],
   "answer": 3,
-  "explanation": "5번째 계산식: 500 + 600 = 1100",
+  "explanation": "다섯째 계산식: 500 + 600 = 1100",
+  "standard": "[4수02-02]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-calc-find-line"
@@ -7851,6 +9055,7 @@
   ],
   "answer": 3,
   "explanation": "38 + 17 = 55, 39 + 16 = 55",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-true"
@@ -7867,6 +9072,7 @@
   ],
   "answer": 0,
   "explanation": "51 − 36 = 15, 52 − 37 = 15",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7883,6 +9089,7 @@
   ],
   "answer": 0,
   "explanation": "67 − 54 = 13, 61 − 48 = 13",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7899,6 +9106,7 @@
   ],
   "answer": 3,
   "explanation": "71 + 66 = 137, 65 + 72 = 137",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7915,6 +9123,7 @@
   ],
   "answer": 0,
   "explanation": "66 + 39 = 105, 72 + 33 = 105",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7931,6 +9140,7 @@
   ],
   "answer": 0,
   "explanation": "62 + 44 = 106, 54 + 52 = 106",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7947,6 +9157,7 @@
   ],
   "answer": 1,
   "explanation": "33 + 27 = 60, 40 + 20 = 60",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7963,6 +9174,7 @@
   ],
   "answer": 3,
   "explanation": "14 + 40 = 54, 15 + 39 = 54",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7979,6 +9191,7 @@
   ],
   "answer": 0,
   "explanation": "76 + 67 = 143, 73 + 70 = 143",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-box"
@@ -7995,6 +9208,7 @@
   ],
   "answer": 2,
   "explanation": "96 ÷ 6 = 16, 48 ÷ 3 = 16",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8011,6 +9225,7 @@
   ],
   "answer": 0,
   "explanation": "36 ÷ 12 = 3, 18 ÷ 6 = 3",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8027,6 +9242,7 @@
   ],
   "answer": 1,
   "explanation": "132 ÷ 12 = 11, 66 ÷ 6 = 11",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8043,6 +9259,7 @@
   ],
   "answer": 1,
   "explanation": "126 ÷ 6 = 21, 42 ÷ 2 = 21",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8059,6 +9276,7 @@
   ],
   "answer": 2,
   "explanation": "3 × 10 = 30, 6 × 5 = 30",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8075,6 +9293,7 @@
   ],
   "answer": 2,
   "explanation": "8 × 12 = 96, 16 × 6 = 96",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8091,6 +9310,7 @@
   ],
   "answer": 1,
   "explanation": "18 ÷ 6 = 3, 9 ÷ 3 = 3",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8107,6 +9327,7 @@
   ],
   "answer": 2,
   "explanation": "25 × 12 = 300, 75 × 4 = 300",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-mul-box"
@@ -8123,6 +9344,7 @@
   ],
   "answer": 1,
   "explanation": "59 − 39 = 20만큼 □가 더 커야 합니다. 예: □ = 21, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8139,6 +9361,7 @@
   ],
   "answer": 0,
   "explanation": "69 − 39 = 30만큼 □가 더 커야 합니다. 예: □ = 31, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8155,6 +9378,7 @@
   ],
   "answer": 2,
   "explanation": "81 − 30 = 51만큼 □가 더 커야 합니다. 예: □ = 52, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8171,6 +9395,7 @@
   ],
   "answer": 1,
   "explanation": "67 − 50 = 17만큼 □가 더 커야 합니다. 예: □ = 18, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8187,6 +9412,7 @@
   ],
   "answer": 2,
   "explanation": "70 − 12 = 58만큼 □가 더 커야 합니다. 예: □ = 59, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8203,6 +9429,7 @@
   ],
   "answer": 3,
   "explanation": "42 − 26 = 16만큼 □가 더 커야 합니다. 예: □ = 17, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8219,6 +9446,7 @@
   ],
   "answer": 3,
   "explanation": "45 − 12 = 33만큼 □가 더 커야 합니다. 예: □ = 34, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8235,6 +9463,7 @@
   ],
   "answer": 2,
   "explanation": "14 − 12 = 2만큼 □가 더 커야 합니다. 예: □ = 3, △ = 1",
+  "standard": "[4수02-03]",
   "semester": 1,
   "unit": "규칙 찾기",
   "source": "math-king:l4-eq-reason"
@@ -8837,15 +10066,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "수 카드 9, 3, 1, 8 중 2장을 골라, 고른 카드의 수를 각각 분자로 하는 분모가 11인 진분수 2개를 만들었습니다. 두 진분수의 합이 가장 작을 때의 합을 고르세요.",
+  "question": "수 카드 7, 5, 1, 9 중 2장을 골라, 고른 카드의 수를 각각 분자로 하는 분모가 11인 진분수 2개를 만들었습니다. 두 진분수의 합이 가장 클 때의 합을 고르세요.",
   "choices": [
-   "4/11",
-   "1",
-   "9/11",
-   "5/11"
+   "1 3/11",
+   "1 5/11",
+   "1 1/11",
+   "1 6/11"
   ],
-  "answer": 0,
-  "explanation": "1/11 + 3/11 = 4/11",
+  "answer": 1,
+  "explanation": "9/11 + 7/11 = 16/11 = 1 5/11",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -8941,12 +10170,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 5/8 − 4/8",
   "choices": [
-   "3 4/8",
-   "9/8",
    "2/8",
-   "1/8"
+   "9/8",
+   "1/8",
+   "5/8"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "5/8 − 4/8 = 1/8",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -8958,12 +10187,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 5/6 − 2/6",
   "choices": [
-   "3/6",
-   "7/6",
+   "2/6",
    "4/6",
-   "1 4/6"
+   "7/6",
+   "3/6"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "5/6 − 2/6 = 3/6",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -8975,12 +10204,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 5/10 − 3/10",
   "choices": [
-   "2/10",
+   "1/10",
    "3/10",
-   "7/10",
-   "8/10"
+   "8/10",
+   "2/10"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "5/10 − 3/10 = 2/10",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -8992,12 +10221,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 2/3 − 1/3",
   "choices": [
-   "3 1/3",
    "2/3",
    "3/3",
-   "1/3"
+   "1/3",
+   "1 1/3"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "2/3 − 1/3 = 1/3",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -9009,12 +10238,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 2/6 − 1/6",
   "choices": [
-   "2/6",
-   "3/6",
+   "4/6",
    "1/6",
-   "1 1/6"
+   "2/6",
+   "3/6"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "2/6 − 1/6 = 1/6",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -9026,12 +10255,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 2/4 − 1/4",
   "choices": [
-   "1",
+   "2/4",
    "3/4",
-   "1/4",
-   "2/4"
+   "1",
+   "1/4"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "2/4 − 1/4 = 1/4",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -9043,12 +10272,12 @@
   "type": "choice4",
   "question": "계산해 보세요. 3/12 − 1/12",
   "choices": [
-   "2/12",
-   "6/12",
+   "1/12",
    "4/12",
-   "3/12"
+   "3/12",
+   "2/12"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "3/12 − 1/12 = 2/12",
   "standard": "[4수01-15]",
   "semester": 2,
@@ -9874,15 +11103,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "한 변의 길이가 1 1/6 m인 정삼각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "question": "한 변의 길이가 1 1/6 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
   "choices": [
-   "2 2/6",
-   "2 3/6",
+   "3 3/6",
    "3 4/6",
-   "3 3/6"
+   "4 5/6",
+   "4 4/6"
   ],
   "answer": 3,
-  "explanation": "1 1/6 + 1 1/6 + 1 1/6 = 3 3/6 (m)",
+  "explanation": "1 1/6 + 1 1/6 + 1 1/6 + 1 1/6 = 4 4/6 (m)",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -9891,32 +11120,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "한 변의 길이가 4 5/6 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "question": "가로가 4 5/6 m, 세로가 1 5/6 m인 직사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
   "choices": [
-   "19 3/6",
-   "14 3/6",
-   "18 2/6",
-   "19 2/6"
-  ],
-  "answer": 3,
-  "explanation": "4 5/6 + 4 5/6 + 4 5/6 + 4 5/6 = 19 2/6 (m)",
-  "standard": "[4수01-15]",
-  "semester": 2,
-  "unit": "분수의 덧셈과 뺄셈",
-  "source": "math-king:l4-mixed-perimeter"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "한 변의 길이가 2 1/5 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
-  "choices": [
-   "8 4/5",
-   "9",
-   "7 4/5",
-   "6 3/5"
+   "13 2/6",
+   "13 3/6",
+   "6 4/6",
+   "12 2/6"
   ],
   "answer": 0,
-  "explanation": "2 1/5 + 2 1/5 + 2 1/5 + 2 1/5 = 8 4/5 (m)",
+  "explanation": "4 5/6 + 1 5/6 + 4 5/6 + 1 5/6 = 13 2/6 (m)",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -9925,83 +11137,100 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "한 변의 길이가 3 2/8 m인 정삼각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "question": "가로가 2 1/5 m, 세로가 2 4/5 m인 직사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
   "choices": [
-   "9 6/8",
-   "8 6/8",
-   "9 7/8",
-   "6 4/8"
-  ],
-  "answer": 0,
-  "explanation": "3 2/8 + 3 2/8 + 3 2/8 = 9 6/8 (m)",
-  "standard": "[4수01-15]",
-  "semester": 2,
-  "unit": "분수의 덧셈과 뺄셈",
-  "source": "math-king:l4-mixed-perimeter"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "한 변의 길이가 1 2/3 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
-  "choices": [
-   "7",
-   "5 2/3",
-   "5",
-   "6 2/3"
-  ],
-  "answer": 3,
-  "explanation": "1 2/3 + 1 2/3 + 1 2/3 + 1 2/3 = 6 2/3 (m)",
-  "standard": "[4수01-15]",
-  "semester": 2,
-  "unit": "분수의 덧셈과 뺄셈",
-  "source": "math-king:l4-mixed-perimeter"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "한 변의 길이가 3 2/5 m인 정삼각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
-  "choices": [
-   "9 1/5",
-   "6 4/5",
-   "10 1/5",
-   "10 2/5"
-  ],
-  "answer": 2,
-  "explanation": "3 2/5 + 3 2/5 + 3 2/5 = 10 1/5 (m)",
-  "standard": "[4수01-15]",
-  "semester": 2,
-  "unit": "분수의 덧셈과 뺄셈",
-  "source": "math-king:l4-mixed-perimeter"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "한 변의 길이가 1 1/3 m인 정삼각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
-  "choices": [
-   "3",
-   "2 2/3",
-   "4",
-   "4 1/3"
-  ],
-  "answer": 2,
-  "explanation": "1 1/3 + 1 1/3 + 1 1/3 = 4 (m)",
-  "standard": "[4수01-15]",
-  "semester": 2,
-  "unit": "분수의 덧셈과 뺄셈",
-  "source": "math-king:l4-mixed-perimeter"
- },
- {
-  "difficulty": 3,
-  "type": "choice4",
-  "question": "한 변의 길이가 3 2/3 m인 정삼각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
-  "choices": [
-   "11 1/3",
-   "7 1/3",
    "10",
-   "11"
+   "9",
+   "5",
+   "10 1/5"
+  ],
+  "answer": 0,
+  "explanation": "2 1/5 + 2 4/5 + 2 1/5 + 2 4/5 = 10 (m)",
+  "standard": "[4수01-15]",
+  "semester": 2,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:l4-mixed-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 변의 길이가 3 2/8 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "choices": [
+   "13",
+   "12",
+   "13 1/8",
+   "9 6/8"
+  ],
+  "answer": 0,
+  "explanation": "3 2/8 + 3 2/8 + 3 2/8 + 3 2/8 = 13 (m)",
+  "standard": "[4수01-15]",
+  "semester": 2,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:l4-mixed-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 변의 길이가 1 2/6 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "choices": [
+   "5 2/6",
+   "5 3/6",
+   "4",
+   "4 2/6"
+  ],
+  "answer": 0,
+  "explanation": "1 2/6 + 1 2/6 + 1 2/6 + 1 2/6 = 5 2/6 (m)",
+  "standard": "[4수01-15]",
+  "semester": 2,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:l4-mixed-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 변의 길이가 3 2/5 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "choices": [
+   "12 3/5",
+   "10 1/5",
+   "13 3/5",
+   "13 4/5"
+  ],
+  "answer": 2,
+  "explanation": "3 2/5 + 3 2/5 + 3 2/5 + 3 2/5 = 13 3/5 (m)",
+  "standard": "[4수01-15]",
+  "semester": 2,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:l4-mixed-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 변의 길이가 1 1/3 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "choices": [
+   "4 1/3",
+   "4",
+   "5 1/3",
+   "5 2/3"
+  ],
+  "answer": 2,
+  "explanation": "1 1/3 + 1 1/3 + 1 1/3 + 1 1/3 = 5 1/3 (m)",
+  "standard": "[4수01-15]",
+  "semester": 2,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:l4-mixed-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 변의 길이가 3 2/3 m인 정사각형 모양의 꽃밭 둘레에 울타리를 치려고 합니다. 울타리는 모두 몇 m 필요한가요?",
+  "choices": [
+   "15",
+   "11",
+   "13 2/3",
+   "14 2/3"
   ],
   "answer": 3,
-  "explanation": "3 2/3 + 3 2/3 + 3 2/3 = 11 (m)",
+  "explanation": "3 2/3 + 3 2/3 + 3 2/3 + 3 2/3 = 14 2/3 (m)",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10154,7 +11383,7 @@
    "1 2/6"
   ],
   "answer": 3,
-  "explanation": "(2 − 1) + (3/6 − 1/6) = 1 2/6",
+  "explanation": "자연수끼리 2 − 1 = 1, 분수끼리 3/6 − 1/6 = 2/6 → 1 2/6",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10171,7 +11400,7 @@
    "6 2/6"
   ],
   "answer": 0,
-  "explanation": "(7 − 1) + (4/6 − 3/6) = 6 1/6",
+  "explanation": "자연수끼리 7 − 1 = 6, 분수끼리 4/6 − 3/6 = 1/6 → 6 1/6",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10188,7 +11417,7 @@
    "1 4/5"
   ],
   "answer": 0,
-  "explanation": "(2 − 1) + (4/5 − 1/5) = 1 3/5",
+  "explanation": "자연수끼리 2 − 1 = 1, 분수끼리 4/5 − 1/5 = 3/5 → 1 3/5",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10205,7 +11434,7 @@
    "2 2/8"
   ],
   "answer": 1,
-  "explanation": "(2 − 1) + (4/8 − 2/8) = 1 2/8",
+  "explanation": "자연수끼리 2 − 1 = 1, 분수끼리 4/8 − 2/8 = 2/8 → 1 2/8",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10222,7 +11451,7 @@
    "5 1/3"
   ],
   "answer": 1,
-  "explanation": "(6 − 2) + (2/3 − 1/3) = 4 1/3",
+  "explanation": "자연수끼리 6 − 2 = 4, 분수끼리 2/3 − 1/3 = 1/3 → 4 1/3",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10239,7 +11468,7 @@
    "1 1/5"
   ],
   "answer": 3,
-  "explanation": "(3 − 2) + (2/5 − 1/5) = 1 1/5",
+  "explanation": "자연수끼리 3 − 2 = 1, 분수끼리 2/5 − 1/5 = 1/5 → 1 1/5",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10256,7 +11485,7 @@
    "1 1/3"
   ],
   "answer": 3,
-  "explanation": "(4 − 3) + (2/3 − 1/3) = 1 1/3",
+  "explanation": "자연수끼리 4 − 3 = 1, 분수끼리 2/3 − 1/3 = 1/3 → 1 1/3",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -10273,7 +11502,7 @@
    "4 2/3"
   ],
   "answer": 1,
-  "explanation": "(5 − 1) + (2/3 − 1/3) = 4 1/3",
+  "explanation": "자연수끼리 5 − 1 = 4, 분수끼리 2/3 − 1/3 = 1/3 → 4 1/3",
   "standard": "[4수01-15]",
   "semester": 2,
   "unit": "분수의 덧셈과 뺄셈",
@@ -11234,7 +12463,7 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "똑같이 8조각으로 나눈 피자가 3판 있습니다. 주아는 5/8판을 먹고, 유나는 5/8판을 먹었습니다. 남은 피자는 몇 판인가요?",
+  "question": "똑같이 8조각으로 나눈 피자가 3판 있습니다. 수아는 5/8판을 먹고, 유나는 5/8판을 먹었습니다. 남은 피자는 몇 판인가요?",
   "choices": [
    "1 5/8",
    "1 6/8",
@@ -12052,32 +13281,34 @@
   "type": "choice4",
   "question": "삼각형에 대한 설명으로 옳지 않은 것을 고르세요.",
   "choices": [
-   "직각삼각형도 이등변삼각형이 될 수 있습니다.",
-   "정삼각형의 세 각은 모두 60°입니다.",
-   "이등변삼각형은 두 각의 크기가 같습니다.",
-   "이등변삼각형의 세 각은 모두 같습니다."
+   "이등변삼각형은 세 변의 길이가 모두 같아야 합니다.",
+   "정삼각형은 이등변삼각형이라고 할 수 있습니다.",
+   "두 변의 길이가 같은 삼각형은 이등변삼각형입니다.",
+   "세 변의 길이가 모두 같은 삼각형은 정삼각형입니다."
   ],
-  "answer": 3,
-  "explanation": "옳지 않은 설명: 이등변삼각형의 세 각은 모두 같습니다.",
+  "answer": 0,
+  "explanation": "옳지 않은 설명: 이등변삼각형은 세 변의 길이가 모두 같아야 합니다.",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
-  "source": "math-king:l4-tri-statement"
+  "source": "math-king:l4-tri-side-statement"
  },
  {
   "difficulty": 2,
   "type": "choice4",
   "question": "삼각형에 대한 설명으로 옳은 것을 고르세요.",
   "choices": [
-   "둔각삼각형도 이등변삼각형이 될 수 있습니다.",
-   "직각삼각형은 예각이 하나뿐입니다.",
-   "이등변삼각형의 세 각은 모두 같습니다.",
-   "둔각삼각형은 둔각이 두 개입니다."
+   "정삼각형은 세 변의 길이가 모두 같습니다.",
+   "이등변삼각형은 세 변의 길이가 모두 같아야 합니다.",
+   "두 변의 길이가 같은 삼각형은 모두 정삼각형입니다.",
+   "세 변의 길이가 모두 다른 삼각형도 이등변삼각형입니다."
   ],
   "answer": 0,
-  "explanation": "옳은 설명: 둔각삼각형도 이등변삼각형이 될 수 있습니다.",
+  "explanation": "옳은 설명: 정삼각형은 세 변의 길이가 모두 같습니다.",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
-  "source": "math-king:l4-tri-statement"
+  "source": "math-king:l4-tri-side-statement"
  },
  {
   "difficulty": 3,
@@ -12090,7 +13321,8 @@
    "10 cm"
   ],
   "answer": 0,
-  "explanation": "31 − 11 × 2 = 9(cm)",
+  "explanation": "11 + 11 = 22, 31 − 22 = 9(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12106,7 +13338,8 @@
    "12 cm"
   ],
   "answer": 2,
-  "explanation": "35 − 11 × 2 = 13(cm)",
+  "explanation": "11 + 11 = 22, 35 − 22 = 13(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12122,7 +13355,8 @@
    "150 cm"
   ],
   "answer": 1,
-  "explanation": "33 − 9 × 2 = 15(cm)",
+  "explanation": "9 + 9 = 18, 33 − 18 = 15(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12138,7 +13372,8 @@
    "25 cm"
   ],
   "answer": 2,
-  "explanation": "38 − 13 × 2 = 12(cm)",
+  "explanation": "13 + 13 = 26, 38 − 26 = 12(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12154,7 +13389,8 @@
    "7 cm"
   ],
   "answer": 2,
-  "explanation": "18 − 5 × 2 = 8(cm)",
+  "explanation": "5 + 5 = 10, 18 − 10 = 8(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12170,7 +13406,8 @@
    "13 cm"
   ],
   "answer": 2,
-  "explanation": "21 − 8 × 2 = 5(cm)",
+  "explanation": "8 + 8 = 16, 21 − 16 = 5(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12186,7 +13423,8 @@
    "4 cm"
   ],
   "answer": 1,
-  "explanation": "15 − 5 × 2 = 5(cm)",
+  "explanation": "5 + 5 = 10, 15 − 10 = 5(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12202,7 +13440,8 @@
    "4 cm"
   ],
   "answer": 1,
-  "explanation": "13 − 5 × 2 = 3(cm)",
+  "explanation": "5 + 5 = 10, 13 − 10 = 3(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:w4-isosceles-side"
@@ -12218,7 +13457,8 @@
    "6 cm"
   ],
   "answer": 1,
-  "explanation": "55 − 11 × 3 − 9 × 2 = 4(cm)",
+  "explanation": "정삼각형: 11 × 3 = 33(cm), 이등변삼각형의 같은 두 변: 9 × 2 = 18(cm) → 55 − 33 − 18 = 4(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12234,7 +13474,8 @@
    "17 cm"
   ],
   "answer": 3,
-  "explanation": "72 − 11 × 3 − 11 × 2 = 17(cm)",
+  "explanation": "정삼각형: 11 × 3 = 33(cm), 이등변삼각형의 같은 두 변: 11 × 2 = 22(cm) → 72 − 33 − 22 = 17(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12250,7 +13491,8 @@
    "30 cm"
   ],
   "answer": 1,
-  "explanation": "65 − 9 × 3 − 14 × 2 = 10(cm)",
+  "explanation": "정삼각형: 9 × 3 = 27(cm), 이등변삼각형의 같은 두 변: 14 × 2 = 28(cm) → 65 − 27 − 28 = 10(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12266,7 +13508,8 @@
    "13 cm"
   ],
   "answer": 3,
-  "explanation": "72 − 13 × 3 − 10 × 2 = 13(cm)",
+  "explanation": "정삼각형: 13 × 3 = 39(cm), 이등변삼각형의 같은 두 변: 10 × 2 = 20(cm) → 72 − 39 − 20 = 13(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12282,7 +13525,8 @@
    "6 cm"
   ],
   "answer": 2,
-  "explanation": "49 − 5 × 3 − 13 × 2 = 8(cm)",
+  "explanation": "정삼각형: 5 × 3 = 15(cm), 이등변삼각형의 같은 두 변: 13 × 2 = 26(cm) → 49 − 15 − 26 = 8(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12298,7 +13542,8 @@
    "9 cm"
   ],
   "answer": 0,
-  "explanation": "52 − 8 × 3 − 8 × 2 = 12(cm)",
+  "explanation": "정삼각형: 8 × 3 = 24(cm), 이등변삼각형의 같은 두 변: 8 × 2 = 16(cm) → 52 − 24 − 16 = 12(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12314,7 +13559,8 @@
    "3 cm"
   ],
   "answer": 3,
-  "explanation": "38 − 5 × 3 − 10 × 2 = 3(cm)",
+  "explanation": "정삼각형: 5 × 3 = 15(cm), 이등변삼각형의 같은 두 변: 10 × 2 = 20(cm) → 38 − 15 − 20 = 3(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
@@ -12330,10 +13576,147 @@
    "11 cm"
   ],
   "answer": 1,
-  "explanation": "35 − 5 × 3 − 6 × 2 = 8(cm)",
+  "explanation": "정삼각형: 5 × 3 = 15(cm), 이등변삼각형의 같은 두 변: 6 × 2 = 12(cm) → 35 − 15 − 12 = 8(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-wire-triangle"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 45° 더 큽니다. 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "45°",
+   "70°",
+   "80°",
+   "90°"
+  ],
+  "answer": 3,
+  "explanation": "180° − 45° = 135°, 135° ÷ 3 = 45° → 같은 두 각은 45°, 나머지 한 각은 45° + 45° = 90°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 60° 더 큽니다. 크기가 같은 두 각 중 한 각은 몇 도인가요?",
+  "choices": [
+   "20°",
+   "100°",
+   "40°",
+   "30°"
+  ],
+  "answer": 2,
+  "explanation": "180° − 60° = 120°, 120° ÷ 3 = 40° → 같은 두 각은 40°, 나머지 한 각은 40° + 60° = 100°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 90° 더 큽니다. 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "120°",
+   "30°",
+   "110°",
+   "100°"
+  ],
+  "answer": 0,
+  "explanation": "180° − 90° = 90°, 90° ÷ 3 = 30° → 같은 두 각은 30°, 나머지 한 각은 30° + 90° = 120°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 30° 더 작습니다. 크기가 같은 두 각 중 한 각은 몇 도인가요?",
+  "choices": [
+   "40°",
+   "50°",
+   "60°",
+   "70°"
+  ],
+  "answer": 3,
+  "explanation": "180° + 30° = 210°, 210° ÷ 3 = 70° → 같은 두 각은 70°, 나머지 한 각은 70° − 30° = 40°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 75° 더 큽니다. 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "110°",
+   "90°",
+   "100°",
+   "35°"
+  ],
+  "answer": 0,
+  "explanation": "180° − 75° = 105°, 105° ÷ 3 = 35° → 같은 두 각은 35°, 나머지 한 각은 35° + 75° = 110°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 30° 더 큽니다. 크기가 같은 두 각 중 한 각은 몇 도인가요?",
+  "choices": [
+   "60°",
+   "80°",
+   "40°",
+   "50°"
+  ],
+  "answer": 3,
+  "explanation": "180° − 30° = 150°, 150° ÷ 3 = 50° → 같은 두 각은 50°, 나머지 한 각은 50° + 30° = 80°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 15° 더 큽니다. 크기가 같은 두 각 중 한 각은 몇 도인가요?",
+  "choices": [
+   "65°",
+   "70°",
+   "75°",
+   "55°"
+  ],
+  "answer": 3,
+  "explanation": "180° − 15° = 165°, 165° ÷ 3 = 55° → 같은 두 각은 55°, 나머지 한 각은 55° + 15° = 70°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이등변삼각형의 세 각 중 두 각은 크기가 같고, 나머지 한 각은 크기가 같은 두 각 중 한 각보다 15° 더 큽니다. 나머지 한 각은 몇 도인가요?",
+  "choices": [
+   "50°",
+   "60°",
+   "70°",
+   "55°"
+  ],
+  "answer": 2,
+  "explanation": "180° − 15° = 165°, 165° ÷ 3 = 55° → 같은 두 각은 55°, 나머지 한 각은 55° + 15° = 70°",
+  "standard": "[4수03-08]",
+  "semester": 2,
+  "unit": "삼각형",
+  "source": "math-king:l4-iso-angle-diff"
  },
  {
   "difficulty": 3,
@@ -12347,6 +13730,7 @@
   ],
   "answer": 1,
   "explanation": "밑각이면 나머지 50°, 80° / 꼭지각이면 나머지 65°, 65° → 가장 큰 것 80°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12363,6 +13747,7 @@
   ],
   "answer": 3,
   "explanation": "밑각이면 나머지 40°, 100° / 꼭지각이면 나머지 70°, 70° → 가장 큰 것 100°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12372,13 +13757,14 @@
   "type": "choice4",
   "question": "이등변삼각형의 한 각이 70°입니다. 이 삼각형의 나머지 두 각 중 한 각이 될 수 있는 크기를 모두 생각할 때, 가장 큰 각도는 몇 도인가요?",
   "choices": [
-   "56°",
+   "80°",
    "55°",
-   "57°",
-   "58°"
+   "60°",
+   "70°"
   ],
-  "answer": 1,
-  "explanation": "밑각이면 나머지 70°, 40° / 꼭지각이면 나머지 55°, 55° → 가장 큰 것 55°",
+  "answer": 3,
+  "explanation": "밑각이면 나머지 70°, 40° / 꼭지각이면 나머지 55°, 55° → 가장 큰 것 70°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12395,6 +13781,7 @@
   ],
   "answer": 1,
   "explanation": "밑각이면 나머지 20°, 140° / 꼭지각이면 나머지 80°, 80° → 가장 큰 것 140°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12411,6 +13798,7 @@
   ],
   "answer": 0,
   "explanation": "밑각이면 나머지 30°, 120° / 꼭지각이면 나머지 75°, 75° → 가장 큰 것 120°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12420,13 +13808,14 @@
   "type": "choice4",
   "question": "이등변삼각형의 한 각이 80°입니다. 이 삼각형의 나머지 두 각 중 한 각이 될 수 있는 크기를 모두 생각할 때, 가장 큰 각도는 몇 도인가요?",
   "choices": [
-   "20°",
-   "40°",
+   "60°",
    "50°",
-   "30°"
+   "80°",
+   "70°"
   ],
   "answer": 2,
-  "explanation": "밑각이면 나머지 80°, 20° / 꼭지각이면 나머지 50°, 50° → 가장 큰 것 50°",
+  "explanation": "밑각이면 나머지 80°, 20° / 꼭지각이면 나머지 50°, 50° → 가장 큰 것 80°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12443,6 +13832,7 @@
   ],
   "answer": 0,
   "explanation": "밑각이면 나머지 60°, 60° / 꼭지각이면 나머지 60°, 60° → 가장 큰 것 60°",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-iso-cases"
@@ -12450,7 +13840,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 18 cm인 정사각형과 세 변의 길이의 합이 같은 정삼각형이 있습니다. 정삼각형의 한 변은 몇 cm인가요?",
+  "question": "정삼각형의 세 변의 길이의 합이 한 변이 18 cm인 정사각형의 네 변의 길이의 합과 같습니다. 정삼각형의 한 변은 몇 cm인가요?",
   "choices": [
    "23 cm",
    "24 cm",
@@ -12459,6 +13849,7 @@
   ],
   "answer": 1,
   "explanation": "18 × 4 = 72, 72 ÷ 3 = 24(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12466,7 +13857,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 24 cm인 정삼각형과 네 변의 길이의 합이 같은 정사각형이 있습니다. 정사각형의 한 변은 몇 cm인가요?",
+  "question": "정사각형의 네 변의 길이의 합이 한 변이 24 cm인 정삼각형의 세 변의 길이의 합과 같습니다. 정사각형의 한 변은 몇 cm인가요?",
   "choices": [
    "180 cm",
    "19 cm",
@@ -12475,6 +13866,7 @@
   ],
   "answer": 2,
   "explanation": "24 × 3 = 72, 72 ÷ 4 = 18(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12482,7 +13874,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 20 cm인 정삼각형과 네 변의 길이의 합이 같은 정사각형이 있습니다. 정사각형의 한 변은 몇 cm인가요?",
+  "question": "정사각형의 네 변의 길이의 합이 한 변이 20 cm인 정삼각형의 세 변의 길이의 합과 같습니다. 정사각형의 한 변은 몇 cm인가요?",
   "choices": [
    "16 cm",
    "14 cm",
@@ -12491,6 +13883,7 @@
   ],
   "answer": 3,
   "explanation": "20 × 3 = 60, 60 ÷ 4 = 15(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12498,7 +13891,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 24 cm인 정사각형과 세 변의 길이의 합이 같은 정삼각형이 있습니다. 정삼각형의 한 변은 몇 cm인가요?",
+  "question": "정삼각형의 세 변의 길이의 합이 한 변이 24 cm인 정사각형의 네 변의 길이의 합과 같습니다. 정삼각형의 한 변은 몇 cm인가요?",
   "choices": [
    "32 cm",
    "320 cm",
@@ -12507,6 +13900,7 @@
   ],
   "answer": 0,
   "explanation": "24 × 4 = 96, 96 ÷ 3 = 32(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12514,7 +13908,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 8 cm인 정삼각형과 네 변의 길이의 합이 같은 정사각형이 있습니다. 정사각형의 한 변은 몇 cm인가요?",
+  "question": "정사각형의 네 변의 길이의 합이 한 변이 8 cm인 정삼각형의 세 변의 길이의 합과 같습니다. 정사각형의 한 변은 몇 cm인가요?",
   "choices": [
    "4 cm",
    "3 cm",
@@ -12523,6 +13917,7 @@
   ],
   "answer": 3,
   "explanation": "8 × 3 = 24, 24 ÷ 4 = 6(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12530,7 +13925,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 12 cm인 정사각형과 세 변의 길이의 합이 같은 정삼각형이 있습니다. 정삼각형의 한 변은 몇 cm인가요?",
+  "question": "정삼각형의 세 변의 길이의 합이 한 변이 12 cm인 정사각형의 네 변의 길이의 합과 같습니다. 정삼각형의 한 변은 몇 cm인가요?",
   "choices": [
    "14 cm",
    "15 cm",
@@ -12539,6 +13934,7 @@
   ],
   "answer": 2,
   "explanation": "12 × 4 = 48, 48 ÷ 3 = 16(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12546,7 +13942,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 6 cm인 정사각형과 세 변의 길이의 합이 같은 정삼각형이 있습니다. 정삼각형의 한 변은 몇 cm인가요?",
+  "question": "정삼각형의 세 변의 길이의 합이 한 변이 6 cm인 정사각형의 네 변의 길이의 합과 같습니다. 정삼각형의 한 변은 몇 cm인가요?",
   "choices": [
    "8 cm",
    "10 cm",
@@ -12555,6 +13951,7 @@
   ],
   "answer": 0,
   "explanation": "6 × 4 = 24, 24 ÷ 3 = 8(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12562,7 +13959,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "한 변이 9 cm인 정사각형과 세 변의 길이의 합이 같은 정삼각형이 있습니다. 정삼각형의 한 변은 몇 cm인가요?",
+  "question": "정삼각형의 세 변의 길이의 합이 한 변이 9 cm인 정사각형의 네 변의 길이의 합과 같습니다. 정삼각형의 한 변은 몇 cm인가요?",
   "choices": [
    "12 cm",
    "120 cm",
@@ -12571,6 +13968,7 @@
   ],
   "answer": 0,
   "explanation": "9 × 4 = 36, 36 ÷ 3 = 12(cm)",
+  "standard": "[4수03-08]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-equi-vs-square"
@@ -12587,6 +13985,7 @@
   ],
   "answer": 1,
   "explanation": "40 < □ < 90 → □는 41부터 89까지 49개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12603,6 +14002,7 @@
   ],
   "answer": 3,
   "explanation": "50 < □ < 90 → □는 51부터 89까지 39개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12619,6 +14019,7 @@
   ],
   "answer": 2,
   "explanation": "20 < □ < 90 → □는 21부터 89까지 69개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12635,6 +14036,7 @@
   ],
   "answer": 0,
   "explanation": "70 < □ < 90 → □는 71부터 89까지 19개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12651,6 +14053,7 @@
   ],
   "answer": 2,
   "explanation": "60 < □ < 90 → □는 61부터 89까지 29개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12667,6 +14070,7 @@
   ],
   "answer": 0,
   "explanation": "10 < □ < 90 → □는 11부터 89까지 79개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12683,6 +14087,7 @@
   ],
   "answer": 2,
   "explanation": "30 < □ < 90 → □는 31부터 89까지 59개",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-acute-box"
@@ -12699,6 +14104,7 @@
   ],
   "answer": 3,
   "explanation": "직각이 두 개인 삼각형은 그릴 수 없습니다.",
+  "standard": "[4수03-09]",
   "semester": 2,
   "unit": "삼각형",
   "source": "math-king:l4-tri-impossible"
@@ -13930,15 +15336,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 유나 1 km 10 m, 주아 1560 m, 이수 1.65 km, 지우 1.029 km. 가장 먼 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 유나: 1 km 10 m, 수아: 1010 m, 이수: 1.01 km, 지우: 1.1 km. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "유나",
-   "하루",
+   "수아",
    "이수",
    "지우"
   ],
-  "answer": 2,
-  "explanation": "유나 1.01 km, 주아 1.56 km, 이수 1.65 km, 지우 1.029 km → 이수",
+  "answer": 3,
+  "explanation": "유나 1.01 km, 수아 1.01 km, 이수 1.01 km, 지우 1.1 km → 지우",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -13947,15 +15353,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 서아 3620 m, 지우 3.088 km, 유나 3.027 km, 이수 3 km 10 m. 가장 짧은 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 서아: 3620 m, 지우: 3 km 62 m, 유나: 3062 m, 이수: 3.062 km. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "서아",
    "지우",
    "유나",
    "이수"
   ],
-  "answer": 3,
-  "explanation": "서아 3.62 km, 지우 3.088 km, 유나 3.027 km, 이수 3.01 km → 이수",
+  "answer": 0,
+  "explanation": "서아 3.62 km, 지우 3.062 km, 유나 3.062 km, 이수 3.062 km → 서아",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -13964,15 +15370,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 도하 3 km 790 m, 이수 3.92 km, 지우 3650 m, 서아 3079 m. 가장 먼 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 도하: 3 km 79 m, 이수: 3079 m, 지우: 3.079 km, 서아: 3.79 km. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "도하",
    "이수",
    "지우",
    "서아"
   ],
-  "answer": 1,
-  "explanation": "도하 3.79 km, 이수 3.92 km, 지우 3.65 km, 서아 3.079 km → 이수",
+  "answer": 3,
+  "explanation": "도하 3.079 km, 이수 3.079 km, 지우 3.079 km, 서아 3.79 km → 서아",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -13981,15 +15387,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 서아 2099 m, 도하 2 km 20 m, 지우 2 km 820 m, 이수 2.42 km. 가장 먼 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 서아: 2.099 km, 도하: 2990 m, 지우: 2099 m, 이수: 2 km 99 m. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "서아",
    "도하",
    "지우",
    "이수"
   ],
-  "answer": 2,
-  "explanation": "서아 2.099 km, 도하 2.02 km, 지우 2.82 km, 이수 2.42 km → 지우",
+  "answer": 1,
+  "explanation": "서아 2.099 km, 도하 2.99 km, 지우 2.099 km, 이수 2.099 km → 도하",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -13998,15 +15404,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 서아 2053 m, 유나 2001 m, 주아 2 km 73 m, 이수 2.88 km. 가장 짧은 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 서아: 2053 m, 유나: 2530 m, 수아: 2 km 53 m, 이수: 2.053 km. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "서아",
    "유나",
-   "하루",
+   "수아",
    "이수"
   ],
   "answer": 1,
-  "explanation": "서아 2.053 km, 유나 2.001 km, 주아 2.073 km, 이수 2.88 km → 유나",
+  "explanation": "서아 2.053 km, 유나 2.53 km, 수아 2.053 km, 이수 2.053 km → 유나",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -14015,15 +15421,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 도하 1 km 85 m, 유나 1087 m, 지우 1.67 km, 주아 1890 m. 가장 짧은 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 도하: 1085 m, 유나: 1850 m, 지우: 1.085 km, 수아: 1 km 85 m. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "도하",
    "유나",
    "지우",
-   "하루"
+   "수아"
   ],
-  "answer": 0,
-  "explanation": "도하 1.085 km, 유나 1.087 km, 지우 1.67 km, 주아 1.89 km → 도하",
+  "answer": 1,
+  "explanation": "도하 1.085 km, 유나 1.85 km, 지우 1.085 km, 수아 1.085 km → 유나",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -14032,7 +15438,7 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 도하 1.057 km, 유나 1 km 270 m, 서아 1016 m, 이수 1.69 km. 가장 짧은 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 도하: 1.057 km, 유나: 1057 m, 서아: 1 km 570 m, 이수: 1 km 57 m. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "도하",
    "유나",
@@ -14040,7 +15446,7 @@
    "이수"
   ],
   "answer": 2,
-  "explanation": "도하 1.057 km, 유나 1.27 km, 서아 1.016 km, 이수 1.69 km → 서아",
+  "explanation": "도하 1.057 km, 유나 1.057 km, 서아 1.57 km, 이수 1.057 km → 서아",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -14049,15 +15455,15 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "네 사람이 걸은 거리입니다. 도하 3.081 km, 유나 3 km 620 m, 서아 3.99 km, 주아 3840 m. 가장 짧은 거리를 걸은 사람은 누구인가요?",
+  "question": "네 사람이 걸은 거리입니다. 도하: 3081 m, 유나: 3.081 km, 서아: 3 km 81 m, 수아: 3810 m. 이 중 세 사람은 같은 거리를 걸었습니다. 다른 거리를 걸은 사람은 누구인가요?",
   "choices": [
    "도하",
    "유나",
    "서아",
-   "하루"
+   "수아"
   ],
-  "answer": 0,
-  "explanation": "도하 3.081 km, 유나 3.62 km, 서아 3.99 km, 주아 3.84 km → 도하",
+  "answer": 3,
+  "explanation": "도하 3.081 km, 유나 3.081 km, 서아 3.081 km, 수아 3.81 km → 수아",
   "standard": "[4수01-13]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
@@ -14075,7 +15481,7 @@
   ],
   "answer": 3,
   "explanation": "6.40에서 끝의 0을 생략하면 6.4입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14092,7 +15498,7 @@
   ],
   "answer": 0,
   "explanation": "6.60에서 끝의 0을 생략하면 6.6입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14109,7 +15515,7 @@
   ],
   "answer": 0,
   "explanation": "4.80에서 끝의 0을 생략하면 4.8입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14126,7 +15532,7 @@
   ],
   "answer": 1,
   "explanation": "8.40에서 끝의 0을 생략하면 8.4입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14143,7 +15549,7 @@
   ],
   "answer": 1,
   "explanation": "1.70에서 끝의 0을 생략하면 1.7입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14160,7 +15566,7 @@
   ],
   "answer": 3,
   "explanation": "3.30에서 끝의 0을 생략하면 3.3입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14177,7 +15583,7 @@
   ],
   "answer": 3,
   "explanation": "1.40에서 끝의 0을 생략하면 1.4입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14194,7 +15600,7 @@
   ],
   "answer": 1,
   "explanation": "1.10에서 끝의 0을 생략하면 1.1입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-equal-pick"
@@ -14211,7 +15617,7 @@
   ],
   "answer": 0,
   "explanation": "□에 0부터 9까지 넣어 비교하면 6개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14228,7 +15634,7 @@
   ],
   "answer": 1,
   "explanation": "□에 0부터 9까지 넣어 비교하면 5개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14245,7 +15651,7 @@
   ],
   "answer": 1,
   "explanation": "□에 0부터 9까지 넣어 비교하면 1개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14262,7 +15668,7 @@
   ],
   "answer": 3,
   "explanation": "□에 0부터 9까지 넣어 비교하면 5개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14279,7 +15685,7 @@
   ],
   "answer": 0,
   "explanation": "□에 0부터 9까지 넣어 비교하면 3개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14296,7 +15702,7 @@
   ],
   "answer": 2,
   "explanation": "□에 0부터 9까지 넣어 비교하면 3개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14313,7 +15719,7 @@
   ],
   "answer": 2,
   "explanation": "□에 0부터 9까지 넣어 비교하면 4개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14330,7 +15736,7 @@
   ],
   "answer": 2,
   "explanation": "□에 0부터 9까지 넣어 비교하면 9개입니다.",
-  "standard": "[4수01-13]",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-box-count"
@@ -14338,16 +15744,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 유나 1.1 m, 주아 1.59 m, 이수 1.71 m, 지우 1.28 m입니다. 가장 멀리 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 유나: 95 cm, 수아: 1.05 m, 이수: 1 m 36 cm, 지우: 1 m 59 cm. 가장 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "유나",
-   "하루",
+   "수아",
    "이수",
    "지우"
   ],
-  "answer": 2,
-  "explanation": "이수 1.71 m > 주아 1.59 m > 지우 1.28 m > 유나 1.1 m → 이수",
-  "standard": "[4수01-13]",
+  "answer": 3,
+  "explanation": "지우 1.59 m > 이수 1.36 m > 수아 1.05 m > 유나 0.95 m → 지우",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14355,16 +15761,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 서아 1.67 m, 지우 1.97 m, 유나 2 m, 이수 1.3 m입니다. 가장 멀리 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 서아: 188 cm, 지우: 1 m 67 cm, 유나: 1.66 m, 이수: 1.97 m. 가장 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "서아",
    "지우",
    "유나",
    "이수"
   ],
-  "answer": 2,
-  "explanation": "유나 2 m > 지우 1.97 m > 서아 1.67 m > 이수 1.3 m → 유나",
-  "standard": "[4수01-13]",
+  "answer": 3,
+  "explanation": "이수 1.97 m > 서아 1.88 m > 지우 1.67 m > 유나 1.66 m → 이수",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14372,16 +15778,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 도하 1.86 m, 이수 2.02 m, 지우 1.7 m, 서아 1.87 m입니다. 가장 멀리 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 도하: 1.94 m, 이수: 186 cm, 지우: 1 m 71 cm, 서아: 2 m 2 cm. 가장 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "도하",
    "이수",
    "지우",
    "서아"
   ],
-  "answer": 1,
-  "explanation": "이수 2.02 m > 서아 1.87 m > 도하 1.86 m > 지우 1.7 m → 이수",
-  "standard": "[4수01-13]",
+  "answer": 3,
+  "explanation": "서아 2.02 m > 도하 1.94 m > 이수 1.86 m > 지우 1.71 m → 서아",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14389,16 +15795,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 서아 2.1 m, 도하 1.2 m, 지우 1.9 m, 이수 1.44 m입니다. 가장 짧게 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 서아: 154 cm, 도하: 2.1 m, 지우: 1 m 25 cm, 이수: 117 cm. 두 번째로 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "서아",
    "도하",
    "지우",
    "이수"
   ],
-  "answer": 1,
-  "explanation": "서아 2.1 m > 지우 1.9 m > 이수 1.44 m > 도하 1.2 m → 도하",
-  "standard": "[4수01-13]",
+  "answer": 0,
+  "explanation": "도하 2.1 m > 서아 1.54 m > 지우 1.25 m > 이수 1.17 m → 서아",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14406,16 +15812,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 서아 1.56 m, 유나 0.95 m, 주아 1.79 m, 이수 1.97 m입니다. 가장 짧게 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 서아: 1.64 m, 유나: 156 cm, 수아: 134 cm, 이수: 95 cm. 두 번째로 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "서아",
    "유나",
-   "하루",
+   "수아",
    "이수"
   ],
   "answer": 1,
-  "explanation": "이수 1.97 m > 주아 1.79 m > 서아 1.56 m > 유나 0.95 m → 유나",
-  "standard": "[4수01-13]",
+  "explanation": "서아 1.64 m > 유나 1.56 m > 수아 1.34 m > 이수 0.95 m → 유나",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14423,16 +15829,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 도하 2 m, 유나 1.8 m, 지우 1.98 m, 주아 1.94 m입니다. 가장 짧게 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 도하: 0.96 m, 유나: 193 cm, 지우: 1 m, 수아: 1 m 96 cm. 두 번째로 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "도하",
    "유나",
    "지우",
-   "하루"
+   "수아"
   ],
   "answer": 1,
-  "explanation": "도하 2 m > 지우 1.98 m > 주아 1.94 m > 유나 1.8 m → 유나",
-  "standard": "[4수01-13]",
+  "explanation": "수아 1.96 m > 유나 1.93 m > 지우 1 m > 도하 0.96 m → 유나",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14440,7 +15846,7 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 도하 1.6 m, 유나 1.3 m, 서아 1.13 m, 이수 1.8 m입니다. 가장 짧게 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 도하: 1 m 5 cm, 유나: 161 cm, 서아: 1 m 28 cm, 이수: 1.25 m. 두 번째로 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "도하",
    "유나",
@@ -14448,8 +15854,8 @@
    "이수"
   ],
   "answer": 2,
-  "explanation": "이수 1.8 m > 도하 1.6 m > 유나 1.3 m > 서아 1.13 m → 서아",
-  "standard": "[4수01-13]",
+  "explanation": "유나 1.61 m > 서아 1.28 m > 이수 1.25 m > 도하 1.05 m → 서아",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -14457,16 +15863,16 @@
  {
   "difficulty": 3,
   "type": "choice4",
-  "question": "제자리멀리뛰기 기록이 도하 1.89 m, 유나 1.67 m, 서아 2.09 m, 주아 1.92 m입니다. 가장 짧게 뛴 사람은 누구인가요?",
+  "question": "제자리멀리뛰기 기록입니다. 도하: 2.04 m, 유나: 189 cm, 서아: 1 m 33 cm, 수아: 1 m 67 cm. 두 번째로 멀리 뛴 사람은 누구인가요?",
   "choices": [
    "도하",
    "유나",
    "서아",
-   "하루"
+   "수아"
   ],
   "answer": 1,
-  "explanation": "서아 2.09 m > 주아 1.92 m > 도하 1.89 m > 유나 1.67 m → 유나",
-  "standard": "[4수01-13]",
+  "explanation": "도하 2.04 m > 유나 1.89 m > 수아 1.67 m > 서아 1.33 m → 유나",
+  "standard": "[4수01-14]",
   "semester": 2,
   "unit": "소수의 덧셈과 뺄셈",
   "source": "math-king:l4-dec-who-far"
@@ -15817,7 +17223,7 @@
  {
   "difficulty": 2,
   "type": "choice4",
-  "question": "주아는 2.3 − 1.07을 소수점의 자리를 맞추지 않고 끝자리를 맞추어 계산했습니다. 바르게 계산한 값을 구하세요.",
+  "question": "수아는 2.3 − 1.07을 소수점의 자리를 맞추지 않고 끝자리를 맞추어 계산했습니다. 바르게 계산한 값을 구하세요.",
   "choices": [
    "12.3",
    "1.22",
@@ -16132,6 +17538,7 @@
   ],
   "answer": 2,
   "explanation": "24 ÷ 4 = 6(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16148,6 +17555,7 @@
   ],
   "answer": 0,
   "explanation": "25 ÷ 5 = 5(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16164,6 +17572,7 @@
   ],
   "answer": 2,
   "explanation": "32 ÷ 4 = 8(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16180,6 +17589,7 @@
   ],
   "answer": 1,
   "explanation": "10 ÷ 5 = 2(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16196,6 +17606,7 @@
   ],
   "answer": 3,
   "explanation": "12 ÷ 3 = 4(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16212,6 +17623,7 @@
   ],
   "answer": 1,
   "explanation": "8 ÷ 4 = 2(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16228,6 +17640,7 @@
   ],
   "answer": 1,
   "explanation": "6 ÷ 3 = 2(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16244,6 +17657,7 @@
   ],
   "answer": 3,
   "explanation": "9 ÷ 3 = 3(cm)",
+  "standard": "[4수03-03]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-par-dist-back"
@@ -16260,6 +17674,7 @@
   ],
   "answer": 0,
   "explanation": "긴 변 18 cm, 네 변의 합 9 + 18 + 8 + 8 = 43, 60 − 43 = 17(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16276,6 +17691,7 @@
   ],
   "answer": 1,
   "explanation": "긴 변 18 cm, 네 변의 합 9 + 18 + 11 + 11 = 49, 110 − 49 = 61(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16292,6 +17708,7 @@
   ],
   "answer": 1,
   "explanation": "긴 변 14 cm, 네 변의 합 7 + 14 + 14 + 14 = 49, 80 − 49 = 31(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16308,6 +17725,7 @@
   ],
   "answer": 1,
   "explanation": "긴 변 22 cm, 네 변의 합 11 + 22 + 9 + 9 = 51, 100 − 51 = 49(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16324,6 +17742,7 @@
   ],
   "answer": 0,
   "explanation": "긴 변 8 cm, 네 변의 합 4 + 8 + 13 + 13 = 38, 60 − 38 = 22(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16340,6 +17759,7 @@
   ],
   "answer": 1,
   "explanation": "긴 변 12 cm, 네 변의 합 6 + 12 + 7 + 7 = 32, 100 − 32 = 68(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16356,6 +17776,7 @@
   ],
   "answer": 3,
   "explanation": "긴 변 8 cm, 네 변의 합 4 + 8 + 9 + 9 = 30, 40 − 30 = 10(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16372,6 +17793,7 @@
   ],
   "answer": 3,
   "explanation": "긴 변 8 cm, 네 변의 합 4 + 8 + 5 + 5 = 22, 90 − 22 = 68(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-trap-wire"
@@ -16387,7 +17809,8 @@
    "100 cm"
   ],
   "answer": 1,
-  "explanation": "46 ÷ 2 − 13 = 10(cm)",
+  "explanation": "46 ÷ 2 = 23, 23 − 13 = 10(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16403,7 +17826,8 @@
    "39 cm"
   ],
   "answer": 0,
-  "explanation": "52 ÷ 2 − 13 = 13(cm)",
+  "explanation": "52 ÷ 2 = 26, 26 − 13 = 13(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16419,7 +17843,8 @@
    "46 cm"
   ],
   "answer": 1,
-  "explanation": "56 ÷ 2 − 10 = 18(cm)",
+  "explanation": "56 ÷ 2 = 28, 28 − 10 = 18(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16435,7 +17860,8 @@
    "37 cm"
   ],
   "answer": 0,
-  "explanation": "54 ÷ 2 − 17 = 10(cm)",
+  "explanation": "54 ÷ 2 = 27, 27 − 17 = 10(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16451,7 +17877,8 @@
    "36 cm"
   ],
   "answer": 0,
-  "explanation": "40 ÷ 2 − 4 = 16(cm)",
+  "explanation": "40 ÷ 2 = 20, 20 − 4 = 16(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16467,7 +17894,8 @@
    "8 cm"
   ],
   "answer": 2,
-  "explanation": "32 ÷ 2 − 9 = 7(cm)",
+  "explanation": "32 ÷ 2 = 16, 16 − 9 = 7(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16483,7 +17911,8 @@
    "30 cm"
   ],
   "answer": 1,
-  "explanation": "28 ÷ 2 − 4 = 10(cm)",
+  "explanation": "28 ÷ 2 = 14, 14 − 4 = 10(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16499,7 +17928,8 @@
    "12 cm"
   ],
   "answer": 1,
-  "explanation": "16 ÷ 2 − 4 = 4(cm)",
+  "explanation": "16 ÷ 2 = 8, 8 − 4 = 4(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-parallelogram-side"
@@ -16516,6 +17946,7 @@
   ],
   "answer": 3,
   "explanation": "64 ÷ 4 = 16(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16532,6 +17963,7 @@
   ],
   "answer": 2,
   "explanation": "44 ÷ 4 = 11(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16548,6 +17980,7 @@
   ],
   "answer": 1,
   "explanation": "84 ÷ 4 = 21(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16564,6 +17997,7 @@
   ],
   "answer": 0,
   "explanation": "12 ÷ 4 = 3(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16580,6 +18014,7 @@
   ],
   "answer": 0,
   "explanation": "40 ÷ 4 = 10(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16596,6 +18031,7 @@
   ],
   "answer": 1,
   "explanation": "24 ÷ 4 = 6(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16612,6 +18048,7 @@
   ],
   "answer": 1,
   "explanation": "96 ÷ 4 = 24(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16628,6 +18065,7 @@
   ],
   "answer": 1,
   "explanation": "16 ÷ 4 = 4(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-side"
@@ -16644,6 +18082,7 @@
   ],
   "answer": 2,
   "explanation": "15 × 4 = 60, 60 ÷ 3 = 20(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16660,6 +18099,7 @@
   ],
   "answer": 3,
   "explanation": "12 × 4 = 48, 48 ÷ 3 = 16(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16676,6 +18116,7 @@
   ],
   "answer": 2,
   "explanation": "21 × 4 = 84, 84 ÷ 3 = 28(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16692,6 +18133,7 @@
   ],
   "answer": 3,
   "explanation": "6 × 4 = 24, 24 ÷ 3 = 8(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16708,6 +18150,7 @@
   ],
   "answer": 2,
   "explanation": "9 × 4 = 36, 36 ÷ 3 = 12(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16724,6 +18167,7 @@
   ],
   "answer": 1,
   "explanation": "24 × 4 = 96, 96 ÷ 3 = 32(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16740,6 +18184,7 @@
   ],
   "answer": 3,
   "explanation": "18 × 4 = 72, 72 ÷ 3 = 24(cm)",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-vs-tri"
@@ -16755,7 +18200,8 @@
    "110°"
   ],
   "answer": 1,
-  "explanation": "작은 각 (180° − 80°) ÷ 2 = 50°, 큰 각 130°",
+  "explanation": "180° − 80° = 100°, 작은 각 100° ÷ 2 = 50°, 큰 각 50° + 80° = 130°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16771,7 +18217,8 @@
    "130°"
   ],
   "answer": 2,
-  "explanation": "작은 각 (180° − 60°) ÷ 2 = 60°, 큰 각 120°",
+  "explanation": "180° − 60° = 120°, 작은 각 120° ÷ 2 = 60°, 큰 각 60° + 60° = 120°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16787,7 +18234,8 @@
    "146°"
   ],
   "answer": 2,
-  "explanation": "작은 각 (180° − 110°) ÷ 2 = 35°, 큰 각 145°",
+  "explanation": "180° − 110° = 70°, 작은 각 70° ÷ 2 = 35°, 큰 각 35° + 110° = 145°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16803,7 +18251,8 @@
    "85°"
   ],
   "answer": 1,
-  "explanation": "작은 각 (180° − 10°) ÷ 2 = 85°, 큰 각 95°",
+  "explanation": "180° − 10° = 170°, 작은 각 170° ÷ 2 = 85°, 큰 각 85° + 10° = 95°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16819,7 +18268,8 @@
    "135°"
   ],
   "answer": 2,
-  "explanation": "작은 각 (180° − 50°) ÷ 2 = 65°, 큰 각 115°",
+  "explanation": "180° − 50° = 130°, 작은 각 130° ÷ 2 = 65°, 큰 각 65° + 50° = 115°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16835,7 +18285,8 @@
    "104°"
   ],
   "answer": 2,
-  "explanation": "작은 각 (180° − 30°) ÷ 2 = 75°, 큰 각 105°",
+  "explanation": "180° − 30° = 150°, 작은 각 150° ÷ 2 = 75°, 큰 각 75° + 30° = 105°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16851,7 +18302,8 @@
    "160°"
   ],
   "answer": 3,
-  "explanation": "작은 각 (180° − 140°) ÷ 2 = 20°, 큰 각 160°",
+  "explanation": "180° − 140° = 40°, 작은 각 40° ÷ 2 = 20°, 큰 각 20° + 140° = 160°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16867,7 +18319,8 @@
    "300°"
   ],
   "answer": 0,
-  "explanation": "작은 각 (180° − 20°) ÷ 2 = 80°, 큰 각 100°",
+  "explanation": "180° − 20° = 160°, 작은 각 160° ÷ 2 = 80°, 큰 각 80° + 20° = 100°",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:l4-rhombus-angle-diff"
@@ -16883,7 +18336,8 @@
    "사다리꼴"
   ],
   "answer": 2,
-  "explanation": "네 변의 길이가 모두 같은 사각형을 마름모이라고 합니다.",
+  "explanation": "네 변의 길이가 모두 같은 사각형을 마름모라고 합니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:quad-name"
@@ -16900,6 +18354,7 @@
   ],
   "answer": 2,
   "explanation": "마주 보는 두 쌍의 변이 서로 평행한 사각형을 평행사변형이라고 합니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:quad-name"
@@ -16916,6 +18371,7 @@
   ],
   "answer": 1,
   "explanation": "네 각이 모두 직각인 사각형을 직사각형이라고 합니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:quad-name"
@@ -16932,6 +18388,7 @@
   ],
   "answer": 2,
   "explanation": "평행한 변이 한 쌍이라도 있는 사각형을 사다리꼴이라고 합니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:quad-name"
@@ -16948,6 +18405,7 @@
   ],
   "answer": 3,
   "explanation": "네 변의 길이가 모두 같고 네 각이 모두 직각인 사각형을 정사각형이라고 합니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:quad-name"
@@ -16964,6 +18422,7 @@
   ],
   "answer": 1,
   "explanation": "네 변의 길이가 모두 같은 평행사변형은 마름모입니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-quad-both"
@@ -16980,6 +18439,7 @@
   ],
   "answer": 0,
   "explanation": "네 각이 모두 직각인 평행사변형은 직사각형입니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-quad-both"
@@ -16996,6 +18456,7 @@
   ],
   "answer": 2,
   "explanation": "마주 보는 두 쌍의 변이 평행한 사다리꼴은 평행사변형입니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-quad-both"
@@ -17012,6 +18473,7 @@
   ],
   "answer": 2,
   "explanation": "직사각형이면서 마름모인 사각형은 정사각형입니다.",
+  "standard": "[4수03-10]",
   "semester": 2,
   "unit": "사각형",
   "source": "math-king:w4-quad-both"
@@ -17028,6 +18490,7 @@
   ],
   "answer": 0,
   "explanation": "가장 낮은 기온 18°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17044,6 +18507,7 @@
   ],
   "answer": 1,
   "explanation": "가장 낮은 기온 18°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17060,6 +18524,7 @@
   ],
   "answer": 0,
   "explanation": "가장 낮은 기온 16°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17076,6 +18541,7 @@
   ],
   "answer": 3,
   "explanation": "가장 낮은 기온 16°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17092,6 +18558,7 @@
   ],
   "answer": 2,
   "explanation": "가장 낮은 기온 12°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17108,6 +18575,7 @@
   ],
   "answer": 3,
   "explanation": "가장 낮은 기온 15°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17124,6 +18592,7 @@
   ],
   "answer": 2,
   "explanation": "가장 낮은 기온 12°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17140,6 +18609,7 @@
   ],
   "answer": 0,
   "explanation": "가장 낮은 기온 12°C → 10°C부터",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-wave-start"
@@ -17156,6 +18626,7 @@
   ],
   "answer": 1,
   "explanation": "5 × 10 = 50 < 51 ≤ 55 → 11칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17172,6 +18643,7 @@
   ],
   "answer": 1,
   "explanation": "5 × 14 = 70 < 74 ≤ 75 → 15칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17188,6 +18660,7 @@
   ],
   "answer": 2,
   "explanation": "5 × 18 = 90 < 92 ≤ 95 → 19칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17204,6 +18677,7 @@
   ],
   "answer": 0,
   "explanation": "10 × 11 = 110 < 116 ≤ 120 → 12칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17220,6 +18694,7 @@
   ],
   "answer": 3,
   "explanation": "2 × 16 = 32 < 33 ≤ 34 → 17칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17236,6 +18711,7 @@
   ],
   "answer": 2,
   "explanation": "2 × 8 = 16 < 17 ≤ 18 → 9칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17252,6 +18728,7 @@
   ],
   "answer": 3,
   "explanation": "2 × 11 = 22 < 23 ≤ 24 → 12칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17268,6 +18745,7 @@
   ],
   "answer": 0,
   "explanation": "2 × 5 = 10 < 11 ≤ 12 → 6칸",
+  "standard": "[4수04-02]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-cells-need"
@@ -17284,6 +18762,7 @@
   ],
   "answer": 3,
   "explanation": "모둠별 모은 빈 병 수는 항목끼리 비교하므로 막대그래프가 알맞아요.",
+  "standard": "[4수04-03]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-or-bar"
@@ -17300,6 +18779,7 @@
   ],
   "answer": 0,
   "explanation": "연도별 마을 인구의 변화는 시간에 따른 변화를 나타내므로 꺾은선그래프가 알맞아요.",
+  "standard": "[4수04-03]",
   "semester": 2,
   "unit": "꺾은선그래프",
   "source": "math-king:l4-line-or-bar"
@@ -17315,7 +18795,8 @@
    "3개"
   ],
   "answer": 2,
-  "explanation": "18 − 4 × 3 = 6, 6 ÷ 6 = 1 … 0",
+  "explanation": "4 × 3 = 12, 18 − 12 = 6, 6 ÷ 6 = 1 … 0",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17331,7 +18812,8 @@
    "5개"
   ],
   "answer": 1,
-  "explanation": "48 − 4 × 4 = 32, 32 ÷ 8 = 4 … 0",
+  "explanation": "4 × 4 = 16, 48 − 16 = 32, 32 ÷ 8 = 4 … 0",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17347,7 +18829,8 @@
    "3개"
   ],
   "answer": 2,
-  "explanation": "32 − 4 × 6 = 8, 8 ÷ 6 = 1 … 2",
+  "explanation": "4 × 6 = 24, 32 − 24 = 8, 8 ÷ 6 = 1 … 2",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17363,7 +18846,8 @@
    "2개"
   ],
   "answer": 2,
-  "explanation": "30 − 5 × 4 = 10, 10 ÷ 7 = 1 … 3",
+  "explanation": "5 × 4 = 20, 30 − 20 = 10, 10 ÷ 7 = 1 … 3",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17379,7 +18863,8 @@
    "4개"
   ],
   "answer": 3,
-  "explanation": "40 − 3 × 5 = 25, 25 ÷ 6 = 4 … 1",
+  "explanation": "3 × 5 = 15, 40 − 15 = 25, 25 ÷ 6 = 4 … 1",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17395,7 +18880,8 @@
    "2개"
   ],
   "answer": 3,
-  "explanation": "32 − 3 × 3 = 23, 23 ÷ 8 = 2 … 7",
+  "explanation": "3 × 3 = 9, 32 − 9 = 23, 23 ÷ 8 = 2 … 7",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17411,7 +18897,8 @@
    "3개"
   ],
   "answer": 0,
-  "explanation": "29 − 3 × 4 = 17, 17 ÷ 6 = 2 … 5",
+  "explanation": "3 × 4 = 12, 29 − 12 = 17, 17 ÷ 6 = 2 … 5",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17427,7 +18914,8 @@
    "3개"
   ],
   "answer": 3,
-  "explanation": "27 − 3 × 2 = 21, 21 ÷ 7 = 3 … 0",
+  "explanation": "3 × 2 = 6, 27 − 6 = 21, 21 ÷ 7 = 3 … 0",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-sticks"
@@ -17444,6 +18932,7 @@
   ],
   "answer": 2,
   "explanation": "8 + 8 = 16 → 팔각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-cond"
@@ -17460,6 +18949,7 @@
   ],
   "answer": 2,
   "explanation": "7 + 7 = 14 → 칠각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-cond"
@@ -17476,6 +18966,7 @@
   ],
   "answer": 1,
   "explanation": "9 + 9 = 18 → 구각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-cond"
@@ -17492,6 +18983,7 @@
   ],
   "answer": 2,
   "explanation": "5 + 5 = 10 → 오각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-cond"
@@ -17508,6 +19000,7 @@
   ],
   "answer": 3,
   "explanation": "6 + 6 = 12 → 육각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-cond"
@@ -17524,6 +19017,7 @@
   ],
   "answer": 3,
   "explanation": "10 + 10 = 20 → 십각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-poly-cond"
@@ -17539,7 +19033,8 @@
    "2 cm"
   ],
   "answer": 3,
-  "explanation": "36 − 5 × 6 = 6, 6 ÷ 3 = 2(cm)",
+  "explanation": "5 × 6 = 30, 36 − 30 = 6, 6 ÷ 3 = 2(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17555,7 +19050,8 @@
    "12 cm"
   ],
   "answer": 0,
-  "explanation": "87 − 7 × 6 = 45, 45 ÷ 5 = 9(cm)",
+  "explanation": "7 × 6 = 42, 87 − 42 = 45, 45 ÷ 5 = 9(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17571,7 +19067,8 @@
    "4 cm"
   ],
   "answer": 2,
-  "explanation": "51 − 9 × 5 = 6, 6 ÷ 3 = 2(cm)",
+  "explanation": "9 × 5 = 45, 51 − 45 = 6, 6 ÷ 3 = 2(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17587,7 +19084,8 @@
    "5 cm"
   ],
   "answer": 0,
-  "explanation": "63 − 6 × 8 = 15, 15 ÷ 5 = 3(cm)",
+  "explanation": "6 × 8 = 48, 63 − 48 = 15, 15 ÷ 5 = 3(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17603,7 +19101,8 @@
    "9 cm"
   ],
   "answer": 1,
-  "explanation": "56 − 8 × 4 = 24, 24 ÷ 3 = 8(cm)",
+  "explanation": "8 × 4 = 32, 56 − 32 = 24, 24 ÷ 3 = 8(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17619,7 +19118,8 @@
    "2 cm"
   ],
   "answer": 0,
-  "explanation": "44 − 4 × 5 = 24, 24 ÷ 6 = 4(cm)",
+  "explanation": "4 × 5 = 20, 44 − 20 = 24, 24 ÷ 6 = 4(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17635,7 +19135,8 @@
    "3 cm"
   ],
   "answer": 0,
-  "explanation": "39 − 6 × 4 = 15, 15 ÷ 3 = 5(cm)",
+  "explanation": "6 × 4 = 24, 39 − 24 = 15, 15 ÷ 3 = 5(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17651,7 +19152,8 @@
    "4 cm"
   ],
   "answer": 1,
-  "explanation": "47 − 3 × 4 = 35, 35 ÷ 5 = 7(cm)",
+  "explanation": "3 × 4 = 12, 47 − 12 = 35, 35 ÷ 5 = 7(cm)",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-regular-wire"
@@ -17668,6 +19170,7 @@
   ],
   "answer": 3,
   "explanation": "두 대각선이 항상 서로 수직으로 만나는 사각형: 마름모, 정사각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-diag-props"
@@ -17684,6 +19187,7 @@
   ],
   "answer": 3,
   "explanation": "한 대각선이 다른 대각선을 항상 똑같이 둘로 나누는 사각형: 평행사변형, 마름모, 직사각형, 정사각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-diag-props"
@@ -17700,6 +19204,7 @@
   ],
   "answer": 1,
   "explanation": "두 대각선의 길이가 항상 같은 사각형: 직사각형, 정사각형",
+  "standard": "[4수03-11]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-diag-props"
@@ -17715,7 +19220,8 @@
    "1개"
   ],
   "answer": 0,
-  "explanation": "모은 각 120° × 1 = 120°, (360° − 120°) ÷ 60° = 4(개)",
+  "explanation": "모은 각 120° × 1 = 120°, 360° − 120° = 240°, 240° ÷ 60° = 4(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
@@ -17732,6 +19238,7 @@
   ],
   "answer": 3,
   "explanation": "360° ÷ 120° = 3(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
@@ -17747,7 +19254,8 @@
    "4개"
   ],
   "answer": 1,
-  "explanation": "모은 각 90° × 2 = 180°, (360° − 180°) ÷ 60° = 3(개)",
+  "explanation": "모은 각 90° × 2 = 180°, 360° − 180° = 180°, 180° ÷ 60° = 3(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
@@ -17764,6 +19272,7 @@
   ],
   "answer": 1,
   "explanation": "360° ÷ 60° = 6(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
@@ -17780,6 +19289,7 @@
   ],
   "answer": 3,
   "explanation": "360° ÷ 90° = 4(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
@@ -17795,7 +19305,8 @@
    "2개"
   ],
   "answer": 3,
-  "explanation": "모은 각 60° × 2 = 120°, (360° − 120°) ÷ 120° = 2(개)",
+  "explanation": "모은 각 60° × 2 = 120°, 360° − 120° = 240°, 240° ÷ 120° = 2(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
@@ -17811,7 +19322,8 @@
    "3개"
   ],
   "answer": 0,
-  "explanation": "모은 각 120° × 2 = 240°, (360° − 240°) ÷ 60° = 2(개)",
+  "explanation": "모은 각 120° × 2 = 240°, 360° − 240° = 120°, 120° ÷ 60° = 2(개)",
+  "standard": "[4수03-12]",
   "semester": 2,
   "unit": "다각형",
   "source": "math-king:l4-tile-angle"
