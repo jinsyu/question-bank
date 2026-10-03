@@ -3734,5 +3734,2673 @@
     "explanation": "8씩 작아지는 규칙이라 76−8=68이에요.",
     "semester": 1,
     "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "10000은 9000보다 얼마만큼 더 큰 수일까요?",
+    "choices": [
+      "1000",
+      "100",
+      "10",
+      "9000"
+    ],
+    "answer": 0,
+    "explanation": "9000에서 1000 더 가면 10000이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1000이 10개인 수를 무엇이라고 읽을까요?",
+    "choices": [
+      "천",
+      "만",
+      "십만",
+      "백만"
+    ],
+    "answer": 1,
+    "explanation": "1000이 10개면 10000이고 만이라고 읽어요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "삼만 사천육십을 수로 바르게 쓴 것은 어느 것일까요?",
+    "choices": [
+      "3460",
+      "30460",
+      "34060",
+      "34600"
+    ],
+    "answer": 2,
+    "explanation": "삼만 3, 사천 4, 백 0, 육십 6, 일 0이라서 34060이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "52700000에서 숫자 5는 어느 자리 숫자일까요?",
+    "choices": [
+      "백만의 자리",
+      "억의 자리",
+      "십만의 자리",
+      "천만의 자리"
+    ],
+    "answer": 3,
+    "explanation": "5270만이니까 5는 천만의 자리 숫자예요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "9999만보다 1만 큰 수는 얼마일까요?",
+    "choices": [
+      "1억",
+      "1조",
+      "10억",
+      "9999만 1"
+    ],
+    "answer": 0,
+    "explanation": "9999만에 1만을 더하면 1억이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "10000이 7개, 1000이 3개, 10이 5개인 수는 얼마일까요?",
+    "choices": [
+      "7350",
+      "73050",
+      "73500",
+      "730050"
+    ],
+    "answer": 1,
+    "explanation": "70000+3000+50=73050이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "38만에서 10만씩 3번 뛰어 세면 얼마일까요?",
+    "choices": [
+      "41만",
+      "380만",
+      "68만",
+      "48만"
+    ],
+    "answer": 2,
+    "explanation": "48만, 58만, 68만이 돼요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "10억, 9억 8천만, 9999만, 1억 2천만 가운데 가장 큰 수는 어느 것일까요?",
+    "choices": [
+      "9억 8천만",
+      "9999만",
+      "1억 2천만",
+      "10억"
+    ],
+    "answer": 3,
+    "explanation": "억의 자리를 먼저 비교하면 10억이 가장 커요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "6억 4천만을 숫자로 쓰면 0은 모두 몇 개일까요?",
+    "choices": [
+      "7개",
+      "6개",
+      "8개",
+      "9개"
+    ],
+    "answer": 0,
+    "explanation": "640000000이라서 0이 7개예요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1조는 1000억이 몇 개인 수일까요?",
+    "choices": [
+      "100개",
+      "10개",
+      "1000개",
+      "10000개"
+    ],
+    "answer": 1,
+    "explanation": "1000억이 10개면 1조예요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에서 1000만씩 4번 뛰어 세었더니 2억 3000만이 되었어요. 어떤 수는 얼마일까요?",
+    "choices": [
+      "2억 7000만",
+      "1억 3000만",
+      "1억 9000만",
+      "2억 2600만"
+    ],
+    "answer": 2,
+    "explanation": "거꾸로 4000만을 빼면 1억 9000만이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "0부터 9까지의 숫자를 한 번씩만 써서 만들 수 있는 가장 작은 다섯 자리 수는 얼마일까요?",
+    "choices": [
+      "12340",
+      "12345",
+      "10243",
+      "10234"
+    ],
+    "answer": 3,
+    "explanation": "맨 앞에 0은 못 오니 1을 쓰고, 나머지는 0, 2, 3, 4 순서로 써요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "10만 원짜리 수표 35장과 1만 원짜리 지폐 7장은 모두 얼마일까요?",
+    "choices": [
+      "357만 원",
+      "42만 원",
+      "3507만 원",
+      "3570만 원"
+    ],
+    "answer": 0,
+    "explanation": "350만 원과 7만 원을 더하면 357만 원이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수를 10배 했더니 4억 5천만이 되었어요. 어떤 수는 얼마일까요?",
+    "choices": [
+      "450만",
+      "4500만",
+      "45억",
+      "4억 5백만"
+    ],
+    "answer": 1,
+    "explanation": "10배 하기 전 수는 4억 5천만의 10분의 1인 4500만이에요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "숫자 7이 나타내는 값이 가장 큰 수는 어느 것일까요?",
+    "choices": [
+      "870000",
+      "1700000",
+      "7120000",
+      "3007000"
+    ],
+    "answer": 2,
+    "explanation": "7120000에서 7은 7000000을 나타내서 가장 커요.",
+    "semester": 1,
+    "unit": "큰 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "직각 2개를 합하면 몇 도일까요?",
+    "choices": [
+      "90°",
+      "270°",
+      "360°",
+      "180°"
+    ],
+    "answer": 3,
+    "explanation": "90°+90°=180°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "130°인 각은 어떤 각일까요?",
+    "choices": [
+      "둔각",
+      "예각",
+      "직각",
+      "평각"
+    ],
+    "answer": 0,
+    "explanation": "직각보다 크고 180°보다 작으니 둔각이에요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "35°+50°는 몇 도일까요?",
+    "choices": [
+      "75°",
+      "85°",
+      "95°",
+      "15°"
+    ],
+    "answer": 1,
+    "explanation": "35+50=85라서 85°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "150°-75°는 몇 도일까요?",
+    "choices": [
+      "85°",
+      "225°",
+      "75°",
+      "65°"
+    ],
+    "answer": 2,
+    "explanation": "150-75=75라서 75°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "사각형의 네 각의 크기를 모두 더하면 360°예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "사각형의 네 각의 합은 360°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "삼각형의 두 각이 45°, 70°일 때 나머지 한 각은 몇 도일까요?",
+    "choices": [
+      "115°",
+      "75°",
+      "55°",
+      "65°"
+    ],
+    "answer": 3,
+    "explanation": "180°-45°-70°=65°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사각형의 세 각이 90°, 80°, 110°일 때 나머지 한 각은 몇 도일까요?",
+    "choices": [
+      "80°",
+      "90°",
+      "100°",
+      "70°"
+    ],
+    "answer": 0,
+    "explanation": "360°-90°-80°-110°=80°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시계가 3시를 가리킬 때 긴바늘과 짧은바늘이 이루는 작은 쪽의 각은 몇 도일까요?",
+    "choices": [
+      "60°",
+      "90°",
+      "120°",
+      "30°"
+    ],
+    "answer": 1,
+    "explanation": "숫자 한 칸이 30°라서 3칸이면 90°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "직각을 똑같이 6개로 나눈 것 중 하나는 몇 도일까요?",
+    "choices": [
+      "10°",
+      "30°",
+      "15°",
+      "60°"
+    ],
+    "answer": 2,
+    "explanation": "90÷6=15라서 15°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "95°, 85°, 90°, 45° 가운데 둔각은 어느 것일까요?",
+    "choices": [
+      "85°",
+      "90°",
+      "45°",
+      "95°"
+    ],
+    "answer": 3,
+    "explanation": "90°보다 크고 180°보다 작은 95°가 둔각이에요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "시계가 4시를 가리킬 때 두 바늘이 이루는 작은 쪽의 각은 몇 도일까요?",
+    "choices": [
+      "120°",
+      "90°",
+      "150°",
+      "240°"
+    ],
+    "answer": 0,
+    "explanation": "숫자 4칸 차이라서 30°×4=120°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "180°인 각을 둘로 나누었더니 한 각이 125°였어요. 다른 각은 몇 도일까요?",
+    "choices": [
+      "65°",
+      "55°",
+      "235°",
+      "45°"
+    ],
+    "answer": 1,
+    "explanation": "180°-125°=55°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "크기가 같은 두 각이 있는 삼각형에서 나머지 한 각이 40°예요. 같은 두 각 중 한 각은 몇 도일까요?",
+    "choices": [
+      "140°",
+      "40°",
+      "70°",
+      "50°"
+    ],
+    "answer": 2,
+    "explanation": "180°-40°=140°, 140÷2=70이라서 70°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사각형의 네 각 중 세 각이 모두 95°일 때 나머지 한 각은 몇 도일까요?",
+    "choices": [
+      "85°",
+      "95°",
+      "65°",
+      "75°"
+    ],
+    "answer": 3,
+    "explanation": "95°×3=285°, 360°-285°=75°예요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "삼각형의 세 각 중 두 각이 둔각일 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "둔각 두 개만 더해도 180°가 넘어서 안 돼요.",
+    "semester": 1,
+    "unit": "각도"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "600×30은 얼마일까요?",
+    "choices": [
+      "18000",
+      "1800",
+      "180000",
+      "9000"
+    ],
+    "answer": 0,
+    "explanation": "6×3=18에 0을 3개 붙여 18000이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "250×20은 얼마일까요?",
+    "choices": [
+      "500",
+      "5000",
+      "50000",
+      "270"
+    ],
+    "answer": 1,
+    "explanation": "25×2=50에 0을 2개 붙여 5000이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "180÷30은 얼마일까요?",
+    "choices": [
+      "60",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "30×6=180이라서 6이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "560÷70은 얼마일까요?",
+    "choices": [
+      "80",
+      "7",
+      "9",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "70×8=560이라서 8이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "123×30의 값은 123×3의 값의 10배예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "30은 3의 10배라서 곱도 10배가 돼요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "214×32는 얼마일까요?",
+    "choices": [
+      "6848",
+      "6748",
+      "6858",
+      "1070"
+    ],
+    "answer": 0,
+    "explanation": "214×30=6420, 214×2=428, 더하면 6848이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "405×26은 얼마일까요?",
+    "choices": [
+      "10350",
+      "10530",
+      "8530",
+      "10520"
+    ],
+    "answer": 1,
+    "explanation": "405×20=8100, 405×6=2430, 더하면 10530이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "96÷12는 얼마일까요?",
+    "choices": [
+      "7",
+      "9",
+      "8",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "12×8=96이라서 8이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "157÷15의 몫과 나머지는 얼마일까요?",
+    "choices": [
+      "몫 10, 나머지 5",
+      "몫 11, 나머지 2",
+      "몫 9, 나머지 12",
+      "몫 10, 나머지 7"
+    ],
+    "answer": 3,
+    "explanation": "15×10=150이고 157-150=7이 남아요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 상자에 24개씩 들어 있는 귤이 125상자 있어요. 귤은 모두 몇 개일까요?",
+    "choices": [
+      "3000개",
+      "2500개",
+      "3100개",
+      "2900개"
+    ],
+    "answer": 0,
+    "explanation": "125×24=3000이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수를 23으로 나누었더니 몫이 14, 나머지가 5였어요. 어떤 수는 얼마일까요?",
+    "choices": [
+      "322",
+      "327",
+      "317",
+      "337"
+    ],
+    "answer": 1,
+    "explanation": "23×14=322에 5를 더하면 327이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "연필 350자루를 한 사람에게 16자루씩 나누어 주면 몇 명에게 주고 몇 자루가 남을까요?",
+    "choices": [
+      "22명, 2자루",
+      "21명, 4자루",
+      "21명, 14자루",
+      "20명, 30자루"
+    ],
+    "answer": 2,
+    "explanation": "16×21=336이고 350-336=14자루가 남아요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "학생 200명이 한 대에 45명씩 타는 버스에 모두 타려면 버스는 적어도 몇 대 필요할까요?",
+    "choices": [
+      "4대",
+      "6대",
+      "3대",
+      "5대"
+    ],
+    "answer": 3,
+    "explanation": "45×4=180이라 20명이 남으니 1대가 더 있어야 해요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에 25를 곱해야 할 것을 잘못하여 더했더니 61이 되었어요. 바르게 계산하면 얼마일까요?",
+    "choices": [
+      "900",
+      "1525",
+      "86",
+      "875"
+    ],
+    "answer": 0,
+    "explanation": "어떤 수는 61-25=36이고, 36×25=900이에요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "■÷18에서 나머지가 될 수 없는 수는 어느 것일까요?",
+    "choices": [
+      "17",
+      "18",
+      "1",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "나머지는 나누는 수 18보다 작아야 해요.",
+    "semester": 1,
+    "unit": "곱셈과 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "도형을 한 방향으로 밀면 모양과 크기는 어떻게 될까요?",
+    "choices": [
+      "커져요",
+      "작아져요",
+      "변하지 않아요",
+      "모양이 뒤집혀요"
+    ],
+    "answer": 2,
+    "explanation": "밀기는 자리만 바뀌고 모양과 크기는 그대로예요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "도형을 오른쪽으로 밀어도 도형의 모양은 바뀌지 않아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "밀기를 해도 모양은 그대로예요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "도형을 시계 방향으로 90°만큼 4번 돌리면 어떻게 될까요?",
+    "choices": [
+      "위쪽과 아래쪽이 바뀌어요",
+      "왼쪽과 오른쪽이 바뀌어요",
+      "크기가 두 배가 돼요",
+      "처음 도형과 같아요"
+    ],
+    "answer": 3,
+    "explanation": "90°를 4번 돌리면 360°라서 처음과 같아요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "도형을 왼쪽으로 뒤집으면 도형의 어느 쪽이 서로 바뀔까요?",
+    "choices": [
+      "왼쪽과 오른쪽",
+      "위쪽과 아래쪽",
+      "아무 쪽도 안 바뀌어요",
+      "크기만 바뀌어요"
+    ],
+    "answer": 0,
+    "explanation": "왼쪽이나 오른쪽으로 뒤집으면 왼쪽과 오른쪽이 바뀌어요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "도형을 아래쪽으로 뒤집으면 도형의 어느 쪽이 서로 바뀔까요?",
+    "choices": [
+      "왼쪽과 오른쪽",
+      "위쪽과 아래쪽",
+      "아무 쪽도 안 바뀌어요",
+      "크기만 바뀌어요"
+    ],
+    "answer": 1,
+    "explanation": "위쪽이나 아래쪽으로 뒤집으면 위쪽과 아래쪽이 바뀌어요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도형을 시계 방향으로 180°만큼 돌린 것과 같은 것은 어느 것일까요?",
+    "choices": [
+      "시계 방향으로 90° 돌리기",
+      "시계 반대 방향으로 90° 돌리기",
+      "시계 반대 방향으로 180° 돌리기",
+      "오른쪽으로 밀기"
+    ],
+    "answer": 2,
+    "explanation": "180°는 어느 방향으로 돌려도 결과가 같아요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도형을 시계 방향으로 270°만큼 돌린 것과 같은 것은 어느 것일까요?",
+    "choices": [
+      "시계 방향으로 90° 돌리기",
+      "시계 반대 방향으로 180° 돌리기",
+      "아래쪽으로 뒤집기",
+      "시계 반대 방향으로 90° 돌리기"
+    ],
+    "answer": 3,
+    "explanation": "한 바퀴 360°에서 270°를 빼면 반대 방향으로 90°예요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도형을 오른쪽으로 뒤집고 다시 오른쪽으로 뒤집으면 어떻게 될까요?",
+    "choices": [
+      "처음 도형과 같아요",
+      "위쪽과 아래쪽이 바뀌어요",
+      "시계 방향으로 90° 돌린 모양이에요",
+      "크기가 반으로 줄어요"
+    ],
+    "answer": 0,
+    "explanation": "같은 방향으로 두 번 뒤집으면 처음으로 돌아와요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "디지털 숫자 8을 아래쪽으로 뒤집으면 어떤 숫자가 될까요?",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "8은 위와 아래 모양이 같아서 뒤집어도 8이에요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "점을 오른쪽으로 5 cm 밀었다가 왼쪽으로 2 cm 밀었어요. 처음 자리에서 어느 쪽으로 몇 cm 움직였을까요?",
+    "choices": [
+      "왼쪽으로 3 cm",
+      "오른쪽으로 7 cm",
+      "오른쪽으로 3 cm",
+      "왼쪽으로 7 cm"
+    ],
+    "answer": 2,
+    "explanation": "5-2=3이라서 오른쪽으로 3 cm예요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "도형을 시계 방향으로 90°만큼 3번 돌린 것은 시계 반대 방향으로 몇 도만큼 1번 돌린 것과 같을까요?",
+    "choices": [
+      "180°",
+      "270°",
+      "360°",
+      "90°"
+    ],
+    "answer": 3,
+    "explanation": "시계 방향 270°는 반대 방향 90°와 같아요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "도형을 위쪽으로 뒤집은 다음 오른쪽으로 뒤집은 결과와 같은 것은 어느 것일까요?",
+    "choices": [
+      "시계 방향으로 180° 돌리기",
+      "시계 방향으로 90° 돌리기",
+      "시계 반대 방향으로 90° 돌리기",
+      "처음 도형 그대로"
+    ],
+    "answer": 0,
+    "explanation": "위아래, 좌우가 모두 바뀌면 180° 돌린 것과 같아요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "도형을 시계 반대 방향으로 90°만큼 5번 돌린 것과 같은 것은 어느 것일까요?",
+    "choices": [
+      "시계 방향으로 90° 1번 돌리기",
+      "시계 반대 방향으로 90° 1번 돌리기",
+      "180° 돌리기",
+      "처음 도형 그대로"
+    ],
+    "answer": 1,
+    "explanation": "4번 돌리면 제자리라서 1번 돌린 것과 같아요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "숫자 6을 180°만큼 돌리면 어떤 숫자처럼 보일까요?",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "0"
+    ],
+    "answer": 2,
+    "explanation": "6을 거꾸로 돌리면 9처럼 보여요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "도형을 왼쪽으로 뒤집은 것과 오른쪽으로 뒤집은 것은 서로 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "둘 다 왼쪽과 오른쪽이 바뀌니까 같아요.",
+    "semester": 1,
+    "unit": "평면도형의 이동"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "막대그래프에서 막대의 길이는 무엇을 나타낼까요?",
+    "choices": [
+      "조사한 날짜",
+      "항목의 이름",
+      "제목",
+      "조사한 수량의 크기"
+    ],
+    "answer": 3,
+    "explanation": "막대가 길수록 수량이 많아요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "막대그래프는 항목별 수량의 많고 적음을 한눈에 비교하기 쉬워요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "막대 길이로 바로 비교할 수 있어요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세로 눈금 한 칸이 2명인 막대그래프에서 막대가 6칸이면 몇 명일까요?",
+    "choices": [
+      "12명",
+      "6명",
+      "8명",
+      "3명"
+    ],
+    "answer": 0,
+    "explanation": "2×6=12라서 12명이에요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세로 눈금 한 칸이 5권인 막대그래프에서 40권은 몇 칸으로 나타낼까요?",
+    "choices": [
+      "40칸",
+      "8칸",
+      "5칸",
+      "9칸"
+    ],
+    "answer": 1,
+    "explanation": "40÷5=8이라서 8칸이에요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "막대그래프에서 수량이 가장 많은 항목을 찾으려면 어떤 막대를 보면 될까요?",
+    "choices": [
+      "가장 짧은 막대",
+      "가운데 막대",
+      "가장 긴 막대",
+      "맨 왼쪽 막대"
+    ],
+    "answer": 2,
+    "explanation": "막대가 길수록 수량이 많아요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "좋아하는 과일이 사과 8명, 배 5명, 귤 11명, 포도 6명이에요. 막대그래프에서 막대가 가장 긴 과일은 무엇일까요?",
+    "choices": [
+      "사과",
+      "배",
+      "포도",
+      "귤"
+    ],
+    "answer": 3,
+    "explanation": "11명인 귤이 가장 많아서 막대가 가장 길어요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "좋아하는 운동이 축구 9명, 야구 4명, 줄넘기 7명, 수영 10명이에요. 막대그래프에서 막대가 가장 짧은 운동은 무엇일까요?",
+    "choices": [
+      "야구",
+      "축구",
+      "줄넘기",
+      "수영"
+    ],
+    "answer": 0,
+    "explanation": "4명인 야구가 가장 적어서 막대가 가장 짧아요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "눈금 한 칸이 1명인 막대그래프에서 가 막대는 7칸, 나 막대는 3칸이에요. 가는 나보다 몇 명 더 많을까요?",
+    "choices": [
+      "10명",
+      "4명",
+      "3명",
+      "7명"
+    ],
+    "answer": 1,
+    "explanation": "7-3=4라서 4명 더 많아요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "눈금 한 칸이 10개인 막대그래프에서 막대가 4칸 반이면 몇 개일까요?",
+    "choices": [
+      "40개",
+      "50개",
+      "45개",
+      "405개"
+    ],
+    "answer": 2,
+    "explanation": "4칸은 40개, 반 칸은 5개라서 45개예요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "읽은 책이 월 12권, 화 9권, 수 15권, 목 6권이에요. 눈금 한 칸을 3권으로 하면 수요일 막대는 몇 칸일까요?",
+    "choices": [
+      "15칸",
+      "4칸",
+      "6칸",
+      "5칸"
+    ],
+    "answer": 3,
+    "explanation": "15÷3=5라서 5칸이에요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "네 모둠의 칭찬 붙임딱지가 모두 50장이에요. 1모둠 14장, 2모둠 9장, 3모둠 15장이면 4모둠은 몇 장일까요?",
+    "choices": [
+      "12장",
+      "14장",
+      "10장",
+      "13장"
+    ],
+    "answer": 0,
+    "explanation": "50-14-9-15=12라서 12장이에요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "눈금 한 칸이 2명인 막대그래프에서 봄은 9칸, 여름은 6칸이에요. 봄을 좋아하는 학생은 여름보다 몇 명 더 많을까요?",
+    "choices": [
+      "3명",
+      "6명",
+      "18명",
+      "12명"
+    ],
+    "answer": 1,
+    "explanation": "3칸 차이고 한 칸이 2명이라서 6명이에요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "강아지를 좋아하는 학생은 16명, 햄스터는 8명이에요. 막대그래프에서 강아지 막대는 햄스터 막대 길이의 몇 배일까요?",
+    "choices": [
+      "8배",
+      "4배",
+      "2배",
+      "3배"
+    ],
+    "answer": 2,
+    "explanation": "16은 8의 2배라서 막대도 2배예요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가장 큰 값이 47명일 때 눈금 한 칸을 5명으로 하면 눈금은 적어도 몇 칸까지 있어야 할까요?",
+    "choices": [
+      "9칸",
+      "47칸",
+      "5칸",
+      "10칸"
+    ],
+    "answer": 3,
+    "explanation": "9칸은 45명까지라 모자라고 10칸이면 50명까지 돼요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "막대그래프에서 눈금 한 칸의 크기를 바꾸면 항목끼리의 많고 적음 순서도 바뀌어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "눈금을 바꿔도 많고 적음 순서는 그대로예요.",
+    "semester": 1,
+    "unit": "막대그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수의 배열 3, 7, 11, 15에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "19",
+      "18",
+      "20",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "4씩 커지니까 15+4=19예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수의 배열 5, 10, 20, 40에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "60",
+      "80",
+      "45",
+      "50"
+    ],
+    "answer": 1,
+    "explanation": "2배씩 커지니까 40×2=80이에요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수의 배열 1005, 2005, 3005에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "3006",
+      "3105",
+      "4005",
+      "5005"
+    ],
+    "answer": 2,
+    "explanation": "1000씩 커지니까 4005예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수의 배열 96, 90, 84, 78에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "70",
+      "74",
+      "68",
+      "72"
+    ],
+    "answer": 3,
+    "explanation": "6씩 작아지니까 78-6=72예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "11×11=121이고 111×111=12321이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "계산해 보면 둘 다 맞아요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "수의 배열 2, 6, 18, 54에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "162",
+      "108",
+      "72",
+      "160"
+    ],
+    "answer": 0,
+    "explanation": "3배씩 커지니까 54×3=162예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "700부터 50씩 작아지는 수의 배열에서 400은 몇 번째 수일까요?",
+    "choices": [
+      "6번째",
+      "7번째",
+      "8번째",
+      "5번째"
+    ],
+    "answer": 1,
+    "explanation": "700, 650, 600, 550, 500, 450, 400으로 7번째예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1+3=4, 1+3+5=9, 1+3+5+7=16의 규칙으로 1+3+5+7+9를 계산하면 얼마일까요?",
+    "choices": [
+      "24",
+      "36",
+      "25",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "홀수 5개를 더하면 5×5=25예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "100+201=301, 200+301=501, 300+401=701 다음에 올 식의 계산 결과는 얼마일까요?",
+    "choices": [
+      "801",
+      "900",
+      "1001",
+      "901"
+    ],
+    "answer": 3,
+    "explanation": "다음 식은 400+501=901이에요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "수의 배열 1, 4, 9, 16에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "25",
+      "20",
+      "23",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "3, 5, 7씩 커지니 다음은 9 커져서 25예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "9×12=108, 9×123=1107, 9×1234=11106의 규칙으로 9×12345를 구하면 얼마일까요?",
+    "choices": [
+      "111106",
+      "111105",
+      "11105",
+      "1111105"
+    ],
+    "answer": 1,
+    "explanation": "1이 하나씩 늘고 끝 수가 1 작아져서 111105예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "수의 배열 2, 5, 11, 23에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "46",
+      "35",
+      "47",
+      "45"
+    ],
+    "answer": 2,
+    "explanation": "2배 하고 1을 더하는 규칙이라 23×2+1=47이에요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "바둑돌을 첫째에 1개, 둘째에 3개, 셋째에 5개 놓는 규칙이에요. 여섯째에는 몇 개를 놓을까요?",
+    "choices": [
+      "13개",
+      "12개",
+      "9개",
+      "11개"
+    ],
+    "answer": 3,
+    "explanation": "2개씩 늘어서 1, 3, 5, 7, 9, 11개예요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "101×11=1111, 102×11=1122, 103×11=1133의 규칙으로 106×11을 구하면 얼마일까요?",
+    "choices": [
+      "1166",
+      "1156",
+      "1066",
+      "1176"
+    ],
+    "answer": 0,
+    "explanation": "곱해지는 수가 1 커지면 11씩 커져서 1166이에요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "수의 배열 1, 2, 4, 7, 11에서 규칙에 따라 다음에 올 수는 얼마일까요?",
+    "choices": [
+      "15",
+      "16",
+      "14",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "1, 2, 3, 4씩 커지니 다음은 5 커져서 16이에요.",
+    "semester": 1,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2/7+3/7은 얼마일까요?",
+    "choices": [
+      "5/14",
+      "6/7",
+      "5/7",
+      "1/7"
+    ],
+    "answer": 2,
+    "explanation": "분모는 그대로, 분자끼리 2+3=5라서 5/7이에요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "8/9-3/9는 얼마일까요?",
+    "choices": [
+      "11/9",
+      "4/9",
+      "5/18",
+      "5/9"
+    ],
+    "answer": 3,
+    "explanation": "분자끼리 8-3=5라서 5/9예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1-2/5는 얼마일까요?",
+    "choices": [
+      "3/5",
+      "1/5",
+      "2/5",
+      "4/5"
+    ],
+    "answer": 0,
+    "explanation": "1은 5/5라서 5/5-2/5=3/5예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1/6이 5개이면 얼마일까요?",
+    "choices": [
+      "6/5",
+      "5/6",
+      "1/5",
+      "5/36"
+    ],
+    "answer": 1,
+    "explanation": "1/6이 5개면 5/6이에요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "3/8+4/8=7/16이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "분모는 그대로 두고 분자만 더해서 7/8이에요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4/6+5/6을 대분수로 나타내면 얼마일까요?",
+    "choices": [
+      "9/12",
+      "1과 4/6",
+      "1과 3/6",
+      "2와 3/6"
+    ],
+    "answer": 2,
+    "explanation": "9/6은 6/6과 3/6이라서 1과 3/6이에요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2와 1/4+1과 2/4는 얼마일까요?",
+    "choices": [
+      "3과 3/8",
+      "4와 3/4",
+      "3과 1/4",
+      "3과 3/4"
+    ],
+    "answer": 3,
+    "explanation": "자연수끼리 3, 분수끼리 3/4라서 3과 3/4예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3-1과 2/5는 얼마일까요?",
+    "choices": [
+      "1과 3/5",
+      "2와 3/5",
+      "1과 2/5",
+      "2와 2/5"
+    ],
+    "answer": 0,
+    "explanation": "3을 2와 5/5로 바꾸어 빼면 1과 3/5예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5와 3/7-2와 5/7은 얼마일까요?",
+    "choices": [
+      "3과 2/7",
+      "2와 5/7",
+      "2와 2/7",
+      "3과 5/7"
+    ],
+    "answer": 1,
+    "explanation": "5와 3/7을 4와 10/7로 바꾸어 빼면 2와 5/7이에요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "끈 4/5 m 중에서 2/5 m를 썼어요. 남은 끈은 몇 m일까요?",
+    "choices": [
+      "6/5 m",
+      "3/5 m",
+      "2/5 m",
+      "2/10 m"
+    ],
+    "answer": 2,
+    "explanation": "4/5-2/5=2/5라서 2/5 m예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에 1과 3/8을 더했더니 4와 1/8이 되었어요. 어떤 수는 얼마일까요?",
+    "choices": [
+      "5와 4/8",
+      "3과 2/8",
+      "2와 2/8",
+      "2와 6/8"
+    ],
+    "answer": 3,
+    "explanation": "4와 1/8을 3과 9/8로 바꾸어 1과 3/8을 빼면 2와 6/8이에요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물 5 L 중에서 아침에 2와 1/3 L, 저녁에 1과 2/3 L를 썼어요. 남은 물은 몇 L일까요?",
+    "choices": [
+      "1 L",
+      "2 L",
+      "1과 1/3 L",
+      "4 L"
+    ],
+    "answer": 0,
+    "explanation": "쓴 물은 2와 1/3+1과 2/3=4 L라서 5-4=1 L예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "분모가 9인 두 진분수의 합이 1과 2/9이고 차가 3/9예요. 두 분수 중 큰 분수는 얼마일까요?",
+    "choices": [
+      "4/9",
+      "7/9",
+      "8/9",
+      "6/9"
+    ],
+    "answer": 1,
+    "explanation": "합 11/9, 차 3/9이 되는 두 분수는 7/9와 4/9예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "□/7+3/7이 1보다 작을 때 □ 안에 들어갈 수 있는 가장 큰 자연수는 얼마일까요?",
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "□+3이 7보다 작아야 하니 □는 3까지 돼요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "3과 2/5-□=1과 4/5일 때 □ 안에 알맞은 수는 얼마일까요?",
+    "choices": [
+      "2와 2/5",
+      "5와 1/5",
+      "1과 2/5",
+      "1과 3/5"
+    ],
+    "answer": 3,
+    "explanation": "3과 2/5를 2와 7/5로 바꾸어 1과 4/5를 빼면 1과 3/5예요.",
+    "semester": 2,
+    "unit": "분수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세 변의 길이가 모두 5 cm인 삼각형의 이름으로 가장 알맞은 것은 어느 것일까요?",
+    "choices": [
+      "정삼각형",
+      "직각삼각형",
+      "둔각삼각형",
+      "사다리꼴"
+    ],
+    "answer": 0,
+    "explanation": "세 변의 길이가 모두 같으면 정삼각형이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "정삼각형의 세 각 중 한 각의 크기는 몇 도일까요?",
+    "choices": [
+      "90°",
+      "60°",
+      "45°",
+      "180°"
+    ],
+    "answer": 1,
+    "explanation": "세 각이 같고 합이 180°라서 한 각은 60°예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세 각이 모두 예각인 삼각형을 무엇이라고 할까요?",
+    "choices": [
+      "둔각삼각형",
+      "직각삼각형",
+      "예각삼각형",
+      "정사각형"
+    ],
+    "answer": 2,
+    "explanation": "세 각이 모두 예각이면 예각삼각형이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 각이 둔각인 삼각형을 무엇이라고 할까요?",
+    "choices": [
+      "예각삼각형",
+      "직각삼각형",
+      "정삼각형",
+      "둔각삼각형"
+    ],
+    "answer": 3,
+    "explanation": "한 각이 둔각이면 둔각삼각형이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "이등변삼각형은 두 각의 크기가 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "이등변삼각형은 길이가 같은 두 변에 붙은 두 각이 같아요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "두 변이 7 cm, 7 cm이고 나머지 한 변이 4 cm인 이등변삼각형의 세 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "18 cm",
+      "14 cm",
+      "21 cm",
+      "11 cm"
+    ],
+    "answer": 0,
+    "explanation": "7+7+4=18이라서 18 cm예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 변이 9 cm인 정삼각형의 세 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "18 cm",
+      "27 cm",
+      "36 cm",
+      "81 cm"
+    ],
+    "answer": 1,
+    "explanation": "9×3=27이라서 27 cm예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이등변삼각형에서 크기가 같은 두 각이 각각 50°일 때 나머지 한 각은 몇 도일까요?",
+    "choices": [
+      "50°",
+      "130°",
+      "80°",
+      "100°"
+    ],
+    "answer": 2,
+    "explanation": "180°-50°-50°=80°예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세 각이 30°, 60°, 90°인 삼각형은 어떤 삼각형일까요?",
+    "choices": [
+      "예각삼각형",
+      "둔각삼각형",
+      "정삼각형",
+      "직각삼각형"
+    ],
+    "answer": 3,
+    "explanation": "한 각이 90°라서 직각삼각형이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세 각이 40°, 40°, 100°인 삼각형의 이름으로 알맞은 것은 어느 것일까요?",
+    "choices": [
+      "이등변삼각형이면서 둔각삼각형",
+      "정삼각형이면서 예각삼각형",
+      "이등변삼각형이면서 예각삼각형",
+      "이등변삼각형이면서 직각삼각형"
+    ],
+    "answer": 0,
+    "explanation": "두 각이 같아서 이등변, 100°가 둔각이라서 둔각삼각형이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "이등변삼각형의 한 각이 100°일 때 나머지 두 각 중 한 각은 몇 도일까요?",
+    "choices": [
+      "100°",
+      "40°",
+      "80°",
+      "50°"
+    ],
+    "answer": 1,
+    "explanation": "100°는 두 개일 수 없어서 나머지 두 각이 같아요. 80÷2=40°예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세 변의 길이의 합이 30 cm인 이등변삼각형에서 길이가 같은 두 변이 각각 11 cm예요. 나머지 한 변은 몇 cm일까요?",
+    "choices": [
+      "19 cm",
+      "11 cm",
+      "8 cm",
+      "4 cm"
+    ],
+    "answer": 2,
+    "explanation": "30-11-11=8이라서 8 cm예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "철사 36 cm를 겹치지 않게 모두 써서 정삼각형 하나를 만들었어요. 한 변은 몇 cm일까요?",
+    "choices": [
+      "9 cm",
+      "18 cm",
+      "6 cm",
+      "12 cm"
+    ],
+    "answer": 3,
+    "explanation": "36÷3=12라서 12 cm예요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "두 각이 35°, 55°인 삼각형은 어떤 삼각형일까요?",
+    "choices": [
+      "직각삼각형",
+      "예각삼각형",
+      "둔각삼각형",
+      "정삼각형"
+    ],
+    "answer": 0,
+    "explanation": "나머지 각이 180°-35°-55°=90°라서 직각삼각형이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "직각삼각형에는 둔각이 하나 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "직각이 90°라서 나머지 두 각은 모두 예각이에요.",
+    "semester": 2,
+    "unit": "삼각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.1이 7개인 수는 얼마일까요?",
+    "choices": [
+      "7",
+      "0.7",
+      "0.07",
+      "70"
+    ],
+    "answer": 1,
+    "explanation": "0.1이 7개면 0.7이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.45+0.32는 얼마일까요?",
+    "choices": [
+      "0.67",
+      "7.7",
+      "0.77",
+      "0.87"
+    ],
+    "answer": 2,
+    "explanation": "자리끼리 더하면 0.77이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.9-0.4는 얼마일까요?",
+    "choices": [
+      "0.4",
+      "1.3",
+      "0.05",
+      "0.5"
+    ],
+    "answer": 3,
+    "explanation": "9-4=5라서 0.5예요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.01이 36개인 수는 얼마일까요?",
+    "choices": [
+      "0.36",
+      "3.6",
+      "36",
+      "0.036"
+    ],
+    "answer": 0,
+    "explanation": "0.01이 36개면 0.36이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2.58에서 숫자 8이 나타내는 수는 얼마일까요?",
+    "choices": [
+      "0.8",
+      "0.08",
+      "8",
+      "0.008"
+    ],
+    "answer": 1,
+    "explanation": "8은 소수 둘째 자리라서 0.08이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3.7+2.85는 얼마일까요?",
+    "choices": [
+      "6.45",
+      "5.55",
+      "6.55",
+      "6.65"
+    ],
+    "answer": 2,
+    "explanation": "3.70+2.85=6.55예요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5.2-1.76은 얼마일까요?",
+    "choices": [
+      "4.56",
+      "3.54",
+      "3.46",
+      "3.44"
+    ],
+    "answer": 3,
+    "explanation": "5.20-1.76=3.44예요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1.4 km를 걸은 뒤 0.75 km를 더 걸었어요. 모두 몇 km를 걸었을까요?",
+    "choices": [
+      "2.15 km",
+      "1.15 km",
+      "2.05 km",
+      "8.9 km"
+    ],
+    "answer": 0,
+    "explanation": "1.40+0.75=2.15라서 2.15 km예요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "0.6과 0.58의 크기를 비교할 때 더 큰 수는 어느 것일까요?",
+    "choices": [
+      "0.58",
+      "0.6",
+      "두 수가 같아요",
+      "비교할 수 없어요"
+    ],
+    "answer": 1,
+    "explanation": "0.6은 0.60이라서 0.58보다 커요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4.03을 10배 한 수는 얼마일까요?",
+    "choices": [
+      "403",
+      "0.403",
+      "40.3",
+      "4.3"
+    ],
+    "answer": 2,
+    "explanation": "10배 하면 소수점이 오른쪽으로 한 칸 옮겨져 40.3이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에서 1.25를 빼야 할 것을 잘못하여 더했더니 5.6이 되었어요. 바르게 계산하면 얼마일까요?",
+    "choices": [
+      "4.35",
+      "6.85",
+      "3.25",
+      "3.1"
+    ],
+    "answer": 3,
+    "explanation": "어떤 수는 5.6-1.25=4.35, 바른 답은 4.35-1.25=3.1이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물 2 L 중에서 0.35 L와 0.8 L를 마셨어요. 남은 물은 몇 L일까요?",
+    "choices": [
+      "0.85 L",
+      "1.15 L",
+      "0.95 L",
+      "1.85 L"
+    ],
+    "answer": 0,
+    "explanation": "마신 물은 1.15 L라서 2-1.15=0.85 L예요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "□.5+2.7이 6보다 클 때 □ 안에 들어갈 수 있는 가장 작은 숫자는 얼마일까요?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "2.5+2.7=5.2, 3.5+2.7=6.2라서 3이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1이 3개, 0.1이 14개, 0.01이 5개인 수는 얼마일까요?",
+    "choices": [
+      "3.145",
+      "4.405",
+      "4.45",
+      "3.45"
+    ],
+    "answer": 2,
+    "explanation": "3+1.4+0.05=4.45예요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "숫자 카드 3, 6, 8을 한 번씩 써서 만든 □.□□ 모양의 소수 중 가장 큰 수와 가장 작은 수의 합은 얼마일까요?",
+    "choices": [
+      "11.31",
+      "12.21",
+      "4.95",
+      "12.31"
+    ],
+    "answer": 3,
+    "explanation": "가장 큰 수 8.63과 가장 작은 수 3.68을 더하면 12.31이에요.",
+    "semester": 2,
+    "unit": "소수의 덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "두 직선이 만나서 이루는 각이 직각일 때 두 직선은 서로 어떤 관계일까요?",
+    "choices": [
+      "수직",
+      "평행",
+      "같은 길이",
+      "대각선"
+    ],
+    "answer": 0,
+    "explanation": "직각으로 만나면 서로 수직이에요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 직선에 수직인 직선을 무엇이라고 할까요?",
+    "choices": [
+      "평행선",
+      "수선",
+      "대각선",
+      "꺾은선"
+    ],
+    "answer": 1,
+    "explanation": "수직인 직선을 수선이라고 해요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "평행선 사이의 거리를 재는 선분은 평행선과 어떻게 만날까요?",
+    "choices": [
+      "평행해요",
+      "비스듬히 만나요",
+      "수직으로 만나요",
+      "만나지 않아요"
+    ],
+    "answer": 2,
+    "explanation": "평행선 사이의 거리는 수직인 선분의 길이예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "네 각이 모두 직각인 사각형을 무엇이라고 할까요?",
+    "choices": [
+      "마름모",
+      "사다리꼴",
+      "평행사변형",
+      "직사각형"
+    ],
+    "answer": 3,
+    "explanation": "네 각이 모두 직각인 사각형은 직사각형이에요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "정사각형도 직사각형이라고 말할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "정사각형은 네 각이 모두 직각이라서 직사각형이에요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "평행사변형의 한 각이 75°일 때 이웃한 각의 크기는 몇 도일까요?",
+    "choices": [
+      "105°",
+      "75°",
+      "95°",
+      "285°"
+    ],
+    "answer": 0,
+    "explanation": "이웃한 두 각의 합은 180°라서 105°예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 변이 6 cm인 마름모의 네 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "12 cm",
+      "24 cm",
+      "36 cm",
+      "18 cm"
+    ],
+    "answer": 1,
+    "explanation": "6×4=24라서 24 cm예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이웃한 두 변이 8 cm, 5 cm인 평행사변형의 네 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "13 cm",
+      "40 cm",
+      "26 cm",
+      "21 cm"
+    ],
+    "answer": 2,
+    "explanation": "(8+5)×2=26이라서 26 cm예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "평행선 사이의 거리는 무엇을 재면 될까요?",
+    "choices": [
+      "비스듬히 그은 가장 긴 선분",
+      "평행선 중 한 직선의 길이",
+      "아무 선분의 길이",
+      "평행선 사이 수선의 길이"
+    ],
+    "answer": 3,
+    "explanation": "평행선에 수직인 선분의 길이가 평행선 사이의 거리예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "마름모는 마주 보는 두 쌍의 변이 서로 평행해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "마름모는 평행사변형의 성질을 모두 가져요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "마름모의 한 각이 65°일 때 이웃한 각은 몇 도일까요?",
+    "choices": [
+      "115°",
+      "65°",
+      "125°",
+      "25°"
+    ],
+    "answer": 0,
+    "explanation": "이웃한 두 각의 합은 180°라서 115°예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 항상 정사각형이라고 할 수 있는 것은 어느 것일까요?",
+    "choices": [
+      "네 각이 직각인 사각형",
+      "네 각이 직각인 마름모",
+      "평행한 변이 두 쌍인 사각형",
+      "평행한 변이 한 쌍인 사각형"
+    ],
+    "answer": 1,
+    "explanation": "네 변이 같고 네 각이 직각이어야 정사각형이에요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "네 변의 길이의 합이 40 cm인 평행사변형에서 한 변이 12 cm예요. 이웃한 변은 몇 cm일까요?",
+    "choices": [
+      "16 cm",
+      "28 cm",
+      "8 cm",
+      "14 cm"
+    ],
+    "answer": 2,
+    "explanation": "이웃한 두 변의 합은 20 cm라서 20-12=8 cm예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 각이 120°인 마름모의 네 각 중 60°인 각은 몇 개일까요?",
+    "choices": [
+      "1개",
+      "3개",
+      "4개",
+      "2개"
+    ],
+    "answer": 3,
+    "explanation": "마주 보는 각은 같아서 120°가 2개, 60°가 2개예요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "직사각형은 모두 마름모예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "직사각형은 네 변의 길이가 다를 수 있어서 마름모가 아니에요.",
+    "semester": 2,
+    "unit": "사각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "하루 동안 기온의 변화처럼 시간에 따라 변하는 양을 나타내기 좋은 그래프는 무엇일까요?",
+    "choices": [
+      "꺾은선그래프",
+      "막대그래프",
+      "그림그래프",
+      "원 모양 그림"
+    ],
+    "answer": 0,
+    "explanation": "꺾은선그래프는 변화하는 모습을 잘 보여 줘요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "꺾은선그래프에서 선이 오른쪽 위로 올라가면 값은 어떻게 변한 걸까요?",
+    "choices": [
+      "줄었어요",
+      "늘어났어요",
+      "변하지 않았어요",
+      "알 수 없어요"
+    ],
+    "answer": 1,
+    "explanation": "선이 올라가면 값이 커진 거예요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "꺾은선그래프에서 선분이 가로와 나란하면 그동안 값이 변하지 않았어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "선이 평평하면 값이 그대로예요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "꺾은선그래프에서 물결선을 쓰는 까닭은 무엇일까요?",
+    "choices": [
+      "값을 크게 바꾸려고",
+      "제목을 쓰려고",
+      "필요 없는 부분을 줄이려고",
+      "점을 지우려고"
+    ],
+    "answer": 2,
+    "explanation": "물결선으로 필요 없는 부분을 줄이면 변화가 잘 보여요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세로 눈금 한 칸이 0.5 °C인 꺾은선그래프에서 선이 4칸 올라가면 몇 °C 오른 걸까요?",
+    "choices": [
+      "4 °C",
+      "1 °C",
+      "8 °C",
+      "2 °C"
+    ],
+    "answer": 3,
+    "explanation": "0.5가 4개면 2라서 2 °C예요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기온이 9시 12 °C, 10시 15 °C, 11시 19 °C, 12시 20 °C예요. 기온이 가장 많이 오른 때는 언제일까요?",
+    "choices": [
+      "10시~11시",
+      "9시~10시",
+      "11시~12시",
+      "오르지 않았어요"
+    ],
+    "answer": 0,
+    "explanation": "10시~11시에 4 °C로 가장 많이 올랐어요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "식물의 키가 1일에 3 cm, 3일에 7 cm, 5일에 12 cm예요. 1일부터 5일까지 몇 cm 자랐을까요?",
+    "choices": [
+      "12 cm",
+      "9 cm",
+      "22 cm",
+      "5 cm"
+    ],
+    "answer": 1,
+    "explanation": "12-3=9라서 9 cm 자랐어요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "10시에 15 °C, 12시에 21 °C였고 고르게 올랐다면 11시 기온은 약 몇 °C일까요?",
+    "choices": [
+      "15 °C",
+      "21 °C",
+      "18 °C",
+      "36 °C"
+    ],
+    "answer": 2,
+    "explanation": "15와 21의 가운데라서 약 18 °C예요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우유 판매량이 월 40개, 화 35개, 수 35개, 목 50개예요. 전날과 비교해 변화가 없는 요일은 언제일까요?",
+    "choices": [
+      "월요일",
+      "화요일",
+      "목요일",
+      "수요일"
+    ],
+    "answer": 3,
+    "explanation": "화요일과 수요일이 35개로 같아요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세로 눈금 한 칸이 2명인 꺾은선그래프에서 선이 3칸 내려갔어요. 어떻게 변한 걸까요?",
+    "choices": [
+      "6명 줄었어요",
+      "3명 줄었어요",
+      "6명 늘었어요",
+      "2명 줄었어요"
+    ],
+    "answer": 0,
+    "explanation": "2×3=6이고 내려갔으니 6명 줄었어요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "몸무게가 3월 32.4 kg, 6월 33.1 kg, 9월 34.0 kg이에요. 3월부터 9월까지 몇 kg 늘었을까요?",
+    "choices": [
+      "0.9 kg",
+      "1.6 kg",
+      "0.7 kg",
+      "66.4 kg"
+    ],
+    "answer": 1,
+    "explanation": "34.0-32.4=1.6이라서 1.6 kg 늘었어요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "값이 41, 43, 45, 48일 때 물결선을 넣는다면 세로 눈금은 몇부터 나타내는 것이 가장 알맞을까요?",
+    "choices": [
+      "0",
+      "45",
+      "40",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "가장 작은 값 41보다 조금 작은 40부터 나타내면 좋아요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "꺾은선그래프로 나타내기에 가장 알맞은 것은 어느 것일까요?",
+    "choices": [
+      "반 친구들이 좋아하는 과일",
+      "모둠별 칭찬 붙임딱지 수",
+      "반별 안경 쓴 학생 수",
+      "하루 동안 교실 온도의 변화"
+    ],
+    "answer": 3,
+    "explanation": "시간에 따라 변하는 것은 꺾은선그래프가 알맞아요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "2시에 25 °C, 4시에 21 °C였고 고르게 내렸다면 3시 기온은 약 몇 °C일까요?",
+    "choices": [
+      "23 °C",
+      "22 °C",
+      "24 °C",
+      "21 °C"
+    ],
+    "answer": 0,
+    "explanation": "2시간에 4 °C 내렸으니 1시간에 2 °C씩, 3시는 23 °C예요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "읽은 책이 1월 20권, 2월 26권, 3월 23권, 4월 31권이에요. 전달보다 줄어든 달은 언제일까요?",
+    "choices": [
+      "2월",
+      "3월",
+      "4월",
+      "1월"
+    ],
+    "answer": 1,
+    "explanation": "2월 26권에서 3월 23권으로 줄었어요.",
+    "semester": 2,
+    "unit": "꺾은선그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "꼭짓점이 9개인 다각형을 무엇이라고 할까요?",
+    "choices": [
+      "팔각형",
+      "십각형",
+      "구각형",
+      "칠각형"
+    ],
+    "answer": 2,
+    "explanation": "꼭짓점이 9개면 변도 9개라서 구각형이에요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "변이 6개인 다각형을 무엇이라고 할까요?",
+    "choices": [
+      "오각형",
+      "칠각형",
+      "팔각형",
+      "육각형"
+    ],
+    "answer": 3,
+    "explanation": "변이 6개면 육각형이에요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "칠각형의 꼭짓점은 몇 개일까요?",
+    "choices": [
+      "7개",
+      "6개",
+      "8개",
+      "14개"
+    ],
+    "answer": 0,
+    "explanation": "칠각형은 변과 꼭짓점이 7개씩이에요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다각형에서 서로 이웃하지 않는 두 꼭짓점을 이은 선분을 무엇이라고 할까요?",
+    "choices": [
+      "변",
+      "대각선",
+      "수선",
+      "평행선"
+    ],
+    "answer": 1,
+    "explanation": "이웃하지 않는 두 꼭짓점을 이은 선분이 대각선이에요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "원은 다각형이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "원은 곡선으로 둘러싸여 있어서 다각형이 아니에요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 변이 7 cm인 정오각형의 모든 변의 길이의 합은 몇 cm일까요?",
+    "choices": [
+      "28 cm",
+      "42 cm",
+      "35 cm",
+      "12 cm"
+    ],
+    "answer": 2,
+    "explanation": "7×5=35라서 35 cm예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사각형에 그을 수 있는 대각선은 모두 몇 개일까요?",
+    "choices": [
+      "4개",
+      "1개",
+      "3개",
+      "2개"
+    ],
+    "answer": 3,
+    "explanation": "마주 보는 꼭짓점끼리 이어서 2개예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "오각형에 그을 수 있는 대각선은 모두 몇 개일까요?",
+    "choices": [
+      "5개",
+      "10개",
+      "4개",
+      "3개"
+    ],
+    "answer": 0,
+    "explanation": "한 꼭짓점에서 2개씩, 5×2÷2=5개예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "모든 변의 길이의 합이 48 cm인 정육각형의 한 변은 몇 cm일까요?",
+    "choices": [
+      "6 cm",
+      "8 cm",
+      "12 cm",
+      "42 cm"
+    ],
+    "answer": 1,
+    "explanation": "48÷6=8이라서 8 cm예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정사각형의 두 대각선에 대한 설명으로 옳은 것은 어느 것일까요?",
+    "choices": [
+      "길이가 다르고 수직으로 만나요",
+      "서로 평행해요",
+      "길이가 같고 수직으로 만나요",
+      "서로 만나지 않아요"
+    ],
+    "answer": 2,
+    "explanation": "정사각형의 두 대각선은 길이가 같고 수직으로 만나요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "팔각형의 한 꼭짓점에서 그을 수 있는 대각선은 몇 개일까요?",
+    "choices": [
+      "8개",
+      "6개",
+      "20개",
+      "5개"
+    ],
+    "answer": 3,
+    "explanation": "자기와 이웃한 두 꼭짓점을 빼면 8-3=5개예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정육각형의 여섯 각의 크기의 합이 720°일 때 한 각은 몇 도일까요?",
+    "choices": [
+      "120°",
+      "108°",
+      "135°",
+      "60°"
+    ],
+    "answer": 0,
+    "explanation": "720÷6=120이라서 120°예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 변이 5 cm인 정팔각형과 정육각형의 모든 변의 길이의 합의 차는 몇 cm일까요?",
+    "choices": [
+      "5 cm",
+      "10 cm",
+      "70 cm",
+      "2 cm"
+    ],
+    "answer": 1,
+    "explanation": "40-30=10이라서 10 cm예요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "대각선을 하나도 그을 수 없는 다각형은 어느 것일까요?",
+    "choices": [
+      "사각형",
+      "오각형",
+      "삼각형",
+      "육각형"
+    ],
+    "answer": 2,
+    "explanation": "삼각형은 모든 꼭짓점이 서로 이웃해서 대각선이 없어요.",
+    "semester": 2,
+    "unit": "다각형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "철사 60 cm를 모두 써서 한 변이 6 cm인 정다각형을 만들었어요. 이 도형의 이름은 무엇일까요?",
+    "choices": [
+      "정구각형",
+      "정팔각형",
+      "정육각형",
+      "정십각형"
+    ],
+    "answer": 3,
+    "explanation": "60÷6=10이라 변이 10개인 정십각형이에요.",
+    "semester": 2,
+    "unit": "다각형"
   }
 ]

@@ -5160,5 +5160,2154 @@
     "explanation": "손 씻는 시간은 알아보려는 조건이라 다르게 해야 해요.",
     "semester": 2,
     "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "자, 줄자처럼 길이를 잴 때 쓰는 탐구 기능은?",
+    "choices": [
+      "측정",
+      "분류",
+      "추리",
+      "예상"
+    ],
+    "answer": 0,
+    "explanation": "자로 길이를 재는 것은 측정이에요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "돋보기는 작은 것을 크게 보여 주어 관찰할 때 도움이 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "돋보기로 보면 작은 부분도 자세히 볼 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "여러 가지 물체를 공통점과 차이점에 따라 무리 짓는 것을 무엇이라고 할까요?",
+    "choices": [
+      "측정",
+      "분류",
+      "관찰",
+      "예상"
+    ],
+    "answer": 1,
+    "explanation": "기준에 따라 무리 짓는 것을 분류라고 해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "냄새가 무엇인지 모르는 물질은 코를 바짝 대고 세게 맡아야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "모르는 물질은 손으로 바람을 일으켜 살짝 맡아야 안전해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "실험을 마친 뒤 알맞은 행동은?",
+    "choices": [
+      "남은 재료를 아무 데나 버린다",
+      "도구를 그대로 두고 나간다",
+      "쓴 도구를 정리하고 손을 씻는다",
+      "결과를 기록하지 않고 잊는다"
+    ],
+    "answer": 2,
+    "explanation": "실험이 끝나면 정리하고 손을 씻어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "분류 기준으로 알맞지 않은 것은?",
+    "choices": [
+      "다리가 있는 것과 없는 것",
+      "물에 뜨는 것과 가라앉는 것",
+      "날개가 있는 것과 없는 것",
+      "예쁜 것과 예쁘지 않은 것"
+    ],
+    "answer": 3,
+    "explanation": "'예쁘다'는 사람마다 생각이 달라서 분류 기준이 될 수 없어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "관찰한 것을 바탕으로 앞으로 일어날 일을 미리 생각해 보는 탐구 기능은?",
+    "choices": [
+      "예상",
+      "분류",
+      "측정",
+      "관찰"
+    ],
+    "answer": 0,
+    "explanation": "앞으로 일어날 일을 미리 생각하는 것은 예상이에요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'젖은 땅을 보니 밤에 비가 왔을 것 같다.'처럼 관찰한 것으로 보이지 않는 것을 짐작하는 탐구 기능은?",
+    "choices": [
+      "측정",
+      "추리",
+      "분류",
+      "관찰"
+    ],
+    "answer": 1,
+    "explanation": "관찰한 것을 바탕으로 보이지 않는 것을 짐작하는 것이 추리예요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "탐구 결과를 다른 사람에게 알릴 때 알맞은 방법은?",
+    "choices": [
+      "결과를 바꾸어 더 멋지게 말한다",
+      "결과는 말하지 않고 느낌만 말한다",
+      "표나 그림을 써서 알기 쉽게 발표한다",
+      "다른 모둠 결과를 베껴서 발표한다"
+    ],
+    "answer": 2,
+    "explanation": "표나 그림을 쓰면 결과를 쉽게 전할 수 있어요. 결과는 있는 그대로 알려요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "관찰할 때 여러 감각 기관을 함께 쓰면 더 자세히 관찰할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "눈, 코, 귀, 손 등을 함께 쓰면 더 많은 특징을 알 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "햇빛이 식물이 자라는 데 영향을 주는지 알아보려고 해요. 화분마다 다르게 해야 할 조건은?",
+    "choices": [
+      "주는 물의 양",
+      "화분의 크기",
+      "흙의 종류",
+      "햇빛을 받는 정도"
+    ],
+    "answer": 3,
+    "explanation": "알아보려는 햇빛만 다르게 하고 나머지는 모두 같게 해야 공정해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "얼음이 녹는 시간을 재었더니 첫째 14분, 둘째 15분, 셋째 14분이 나왔어요. 가장 알맞게 정리한 것은?",
+    "choices": [
+      "약 14분 걸린다",
+      "1분 만에 녹는다",
+      "30분 넘게 걸린다",
+      "잴 때마다 달라서 알 수 없다"
+    ],
+    "answer": 0,
+    "explanation": "여러 번 잰 값이 14~15분이라 약 14분 걸린다고 정리할 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "한 번만 실험한 결과로 결론을 내려도 항상 정확해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "여러 번 실험해야 우연히 생긴 실수를 줄일 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'따뜻한 물에서 설탕이 더 빨리 녹는다'는 예상을 확인하는 방법으로 알맞은 것은?",
+    "choices": [
+      "따뜻한 물에만 설탕을 넣어 본다",
+      "같은 양의 따뜻한 물과 찬물에서 녹는 시간을 잰다",
+      "찬물에 설탕을 더 많이 넣는다",
+      "물의 온도를 재지 않고 손으로만 느낀다"
+    ],
+    "answer": 1,
+    "explanation": "같은 양의 물과 설탕으로 물의 온도만 다르게 해야 비교할 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "탐구 결과가 예상과 같았어요. 다음에 할 일로 가장 알맞은 것은?",
+    "choices": [
+      "결과 기록을 지운다",
+      "예상이 맞았으니 결과는 적지 않는다",
+      "결론을 정리하고 새로운 궁금한 점을 찾는다",
+      "다른 결과가 나오도록 숫자를 고친다"
+    ],
+    "answer": 2,
+    "explanation": "결론을 정리하고 더 궁금한 점으로 새 탐구를 이어 가요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "정지한 장난감 자동차를 손가락으로 톡 밀었어요. 어떻게 될까요?",
+    "choices": [
+      "더 무거워진다",
+      "색깔이 바뀐다",
+      "녹아 버린다",
+      "앞으로 움직인다"
+    ],
+    "answer": 3,
+    "explanation": "힘을 주면 멈춰 있던 물체가 움직여요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수레를 뒤에서 앞으로 밀면 수레는 어느 쪽으로 움직일까요?",
+    "choices": [
+      "미는 쪽(앞쪽)",
+      "뒤쪽",
+      "위쪽",
+      "움직이지 않는다"
+    ],
+    "answer": 0,
+    "explanation": "물체는 힘을 준 방향으로 움직여요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "무게를 잴 때 쓰는 도구가 아닌 것은?",
+    "choices": [
+      "용수철저울",
+      "줄자",
+      "전자저울",
+      "가정용 저울"
+    ],
+    "answer": 1,
+    "explanation": "줄자는 길이를 재는 도구예요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수평 잡기에서 나무판이 어느 쪽으로도 기울지 않은 상태를 무엇이라고 할까요?",
+    "choices": [
+      "받침점",
+      "빗면",
+      "수평",
+      "지레"
+    ],
+    "answer": 2,
+    "explanation": "어느 쪽으로도 기울지 않으면 수평을 이루었다고 해요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "지레를 이용하면 무거운 물체를 더 작은 힘으로 들 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "지레를 쓰면 작은 힘으로 무거운 물체를 들 수 있어요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "용수철저울에 물체를 걸지 않았는데 바늘이 0이 아니에요. 어떻게 해야 할까요?",
+    "choices": [
+      "그대로 물체를 건다",
+      "용수철을 손으로 잡아당긴다",
+      "저울을 거꾸로 든다",
+      "영점 조절 나사로 바늘을 0에 맞춘다"
+    ],
+    "answer": 3,
+    "explanation": "무게를 재기 전에 바늘을 0에 맞춰야 정확해요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시소에서 무거운 사람과 가벼운 사람이 수평을 잡으려면 무거운 사람은 어디에 앉아야 할까요?",
+    "choices": [
+      "받침점에 더 가까이",
+      "받침점에서 더 멀리",
+      "가벼운 사람과 같은 자리",
+      "시소 끝에 서서"
+    ],
+    "answer": 0,
+    "explanation": "무거운 쪽이 받침점에 가까이 앉아야 수평을 잡을 수 있어요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빗면을 이용하는 예로 알맞은 것은?",
+    "choices": [
+      "병따개로 병뚜껑을 딴다",
+      "가위로 종이를 자른다",
+      "시소를 탄다",
+      "계단 옆 경사로로 수레를 밀어 올린다"
+    ],
+    "answer": 3,
+    "explanation": "경사로는 비스듬한 빗면이에요. 나머지는 지레를 이용해요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지레로 같은 물체를 들 때, 받침점을 물체 쪽으로 옮기면 드는 힘은 어떻게 될까요?",
+    "choices": [
+      "작아진다",
+      "커진다",
+      "변하지 않는다",
+      "물체를 들 수 없다"
+    ],
+    "answer": 0,
+    "explanation": "받침점이 물체에 가까울수록 힘이 적게 들어요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "받침점에서 왼쪽 두 칸에 물체 가를, 오른쪽 네 칸에 물체 나를 올렸더니 수평이 되었어요. 알맞은 것은?",
+    "choices": [
+      "나가 가보다 무겁다",
+      "가가 나보다 무겁다",
+      "가와 나의 무게가 같다",
+      "무게를 비교할 수 없다"
+    ],
+    "answer": 1,
+    "explanation": "받침점에 더 가까운 쪽이 더 무거운 물체예요. 가가 더 가까이 있어요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "용수철저울에 추 1개를 걸면 2칸, 추 2개를 걸면 4칸 늘어나요. 같은 추 3개를 걸면 몇 칸 늘어날까요?",
+    "choices": [
+      "5칸",
+      "4칸",
+      "6칸",
+      "8칸"
+    ],
+    "answer": 2,
+    "explanation": "추 1개에 2칸씩 늘어나니 3개면 6칸이에요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 높이로 상자를 올릴 때 경사로의 기울기를 더 완만하게 만들면 드는 힘은?",
+    "choices": [
+      "커진다",
+      "똑같다",
+      "상자를 올릴 수 없다",
+      "작아진다"
+    ],
+    "answer": 3,
+    "explanation": "빗면이 완만할수록 물체를 끌어 올리는 힘이 적게 들어요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "용수철저울은 영점을 맞추지 않아도 언제나 정확하게 잴 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "바늘이 0에 있지 않으면 무게가 틀리게 나와요. 먼저 영점을 맞춰요.",
+    "semester": 1,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "배추흰나비 애벌레가 허물을 벗으며 자라는 것은 무엇 때문일까요?",
+    "choices": [
+      "몸이 커지기 때문에",
+      "날개를 만들기 위해서",
+      "알을 낳기 위해서",
+      "먹이를 찾기 위해서"
+    ],
+    "answer": 0,
+    "explanation": "애벌레는 몸이 커지면서 여러 번 허물을 벗어요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "배추흰나비 어른벌레의 다리는 몇 개일까요?",
+    "choices": [
+      "4개",
+      "6개",
+      "8개",
+      "10개"
+    ],
+    "answer": 1,
+    "explanation": "배추흰나비는 곤충이라 다리가 6개예요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "강낭콩 씨를 심고 싹이 트면 땅 위로 먼저 나오는 것은?",
+    "choices": [
+      "꽃",
+      "꼬투리",
+      "떡잎",
+      "열매"
+    ],
+    "answer": 2,
+    "explanation": "강낭콩은 싹이 트면 떡잎 두 장이 먼저 땅 위로 나와요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "메뚜기는 번데기 단계를 거쳐서 자라요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "메뚜기는 알-애벌레-어른벌레로 자라는 불완전 탈바꿈을 해요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "새끼를 낳아 젖을 먹여 기르는 동물은?",
+    "choices": [
+      "참새",
+      "개구리",
+      "거북",
+      "고양이"
+    ],
+    "answer": 3,
+    "explanation": "고양이는 새끼를 낳고 젖을 먹여 길러요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "올챙이가 개구리가 되면서 없어지는 것은?",
+    "choices": [
+      "꼬리",
+      "앞다리",
+      "뒷다리",
+      "눈"
+    ],
+    "answer": 0,
+    "explanation": "올챙이는 다리가 생긴 뒤 꼬리가 점점 짧아져 없어져요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "강낭콩 꽃이 진 뒤 생기는 꼬투리 안에 들어 있는 것은?",
+    "choices": [
+      "뿌리",
+      "씨",
+      "줄기",
+      "꽃잎"
+    ],
+    "answer": 1,
+    "explanation": "꼬투리 안에는 다음 한살이를 시작할 씨가 들어 있어요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "불완전 탈바꿈을 하는 곤충끼리 짝지은 것은?",
+    "choices": [
+      "나비, 벌",
+      "파리, 모기",
+      "잠자리, 사마귀",
+      "사슴벌레, 무당벌레"
+    ],
+    "answer": 2,
+    "explanation": "잠자리와 사마귀는 번데기를 거치지 않아요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "배추흰나비 애벌레의 몸 색깔이 배추 잎과 비슷한 초록색이라 좋은 점은?",
+    "choices": [
+      "날 수 있다",
+      "물속에서 숨을 쉰다",
+      "허물을 벗지 않는다",
+      "적에게 잘 들키지 않는다"
+    ],
+    "answer": 3,
+    "explanation": "잎과 색이 비슷하면 새 같은 적의 눈에 잘 띄지 않아요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "알에서 깨어난 새끼가 어미와 생김새가 비슷한 동물은?",
+    "choices": [
+      "닭",
+      "개구리",
+      "배추흰나비",
+      "모기"
+    ],
+    "answer": 0,
+    "explanation": "병아리는 닭과 생김새가 비슷해요. 나머지는 생김새가 크게 달라요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "배추흰나비가 애벌레에서 어른벌레가 되기 전, 먹이를 먹지 않고 거의 움직이지 않는 시기는?",
+    "choices": [
+      "애벌레",
+      "번데기",
+      "어른벌레",
+      "알을 낳는 어른벌레"
+    ],
+    "answer": 1,
+    "explanation": "번데기는 먹지 않고 거의 움직이지 않아요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "씨가 싹 트는 데 온도가 필요한지 알아볼 때 같게 해야 할 조건이 아닌 것은?",
+    "choices": [
+      "씨의 종류",
+      "주는 물의 양",
+      "씨를 두는 곳의 온도",
+      "씨의 개수"
+    ],
+    "answer": 2,
+    "explanation": "온도를 알아보는 실험이니 온도만 다르게 해요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사과나무와 강낭콩의 한살이에서 공통점은?",
+    "choices": [
+      "한 해만 살고 죽는다",
+      "여러 해 동안 계속 산다",
+      "꽃이 피지 않는다",
+      "씨가 싹 터서 자라 꽃이 피고 열매를 맺는다"
+    ],
+    "answer": 3,
+    "explanation": "둘 다 씨-싹-꽃-열매의 한살이를 거쳐요. 사는 기간은 달라요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "닭이 알을 품는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "알을 따뜻하게 해 병아리가 자라게 하려고",
+      "알을 차갑게 하려고",
+      "알을 숨겨 먹으려고",
+      "알 껍데기를 단단하게 하려고"
+    ],
+    "answer": 0,
+    "explanation": "어미 닭은 알을 따뜻하게 품어 병아리가 자라게 해요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "사슴벌레 애벌레는 어른벌레와 생김새가 달라요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "사슴벌레는 완전 탈바꿈을 해서 애벌레와 어른벌레의 생김새가 달라요.",
+    "semester": 1,
+    "unit": "생물의 한살이"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "땅 위를 기어서 다니는 동물은?",
+    "choices": [
+      "제비",
+      "달팽이",
+      "붕어",
+      "나비"
+    ],
+    "answer": 1,
+    "explanation": "달팽이는 배를 바닥에 붙이고 기어서 움직여요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "새의 몸을 덮고 있는 것은?",
+    "choices": [
+      "비늘",
+      "딱딱한 껍데기",
+      "깃털",
+      "털이 없는 맨살"
+    ],
+    "answer": 2,
+    "explanation": "새는 몸이 깃털로 덮여 있어요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "물고기는 지느러미를 움직여 물속에서 헤엄쳐요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "물고기는 지느러미로 헤엄쳐요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "주로 땅속에서 사는 동물은?",
+    "choices": [
+      "고래",
+      "독수리",
+      "오징어",
+      "두더지"
+    ],
+    "answer": 3,
+    "explanation": "두더지는 땅속에 굴을 파고 살아요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "날개가 있는 동물은?",
+    "choices": [
+      "잠자리",
+      "지렁이",
+      "달팽이",
+      "뱀"
+    ],
+    "answer": 0,
+    "explanation": "잠자리는 날개 두 쌍으로 날아요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "두더지 앞발이 넓고 튼튼한 발톱이 있어서 좋은 점은?",
+    "choices": [
+      "물에서 잘 헤엄친다",
+      "땅을 잘 판다",
+      "하늘을 잘 난다",
+      "나무에 잘 매달린다"
+    ],
+    "answer": 1,
+    "explanation": "넓은 앞발과 발톱으로 흙을 잘 파요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "새의 날개와 비슷한 특징을 본떠 만든 것은?",
+    "choices": [
+      "수영 오리발",
+      "칫솔",
+      "비행기 날개",
+      "운동화 밑창"
+    ],
+    "answer": 2,
+    "explanation": "비행기 날개는 새가 날개로 나는 모습을 본떴어요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다리가 없는 동물끼리 짝지은 것은?",
+    "choices": [
+      "개, 고양이",
+      "개미, 거미",
+      "닭, 오리",
+      "뱀, 지렁이"
+    ],
+    "answer": 3,
+    "explanation": "뱀과 지렁이는 다리가 없어요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사막에 사는 동물이 겪는 어려움으로 가장 알맞은 것은?",
+    "choices": [
+      "물이 부족하다",
+      "물이 너무 많다",
+      "눈이 많이 온다",
+      "너무 춥다"
+    ],
+    "answer": 0,
+    "explanation": "사막은 비가 적어 물이 부족해요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "고래는 물속에 살기 때문에 아가미로 숨을 쉬어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "고래는 물 위로 올라와 폐로 숨을 쉬어요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물에서 사는 동물이 헤엄치기 좋은 특징으로 가장 알맞은 것은?",
+    "choices": [
+      "다리가 길고 가늘다",
+      "몸이 매끈한 유선형이다",
+      "등에 무거운 혹이 있다",
+      "몸에 빨판이 없다"
+    ],
+    "answer": 1,
+    "explanation": "유선형 몸은 물의 저항을 줄여 헤엄치기 좋아요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "북극곰과 사막여우를 비교한 것으로 알맞은 것은?",
+    "choices": [
+      "둘 다 털이 없다",
+      "북극곰은 귀가 아주 크다",
+      "북극곰은 털이 두껍고 사막여우는 귀가 크다",
+      "사막여우는 털이 아주 두꺼워 추위에 강하다"
+    ],
+    "answer": 2,
+    "explanation": "추운 곳의 북극곰은 두꺼운 털, 더운 곳의 사막여우는 큰 귀로 사는 곳에 알맞아요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "거미는 다리가 8개이므로 곤충이 아니에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "곤충은 다리가 6개예요. 거미는 8개라 곤충이 아니에요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오리발 수영 도구는 동물의 어떤 특징을 본떠 만들었을까요?",
+    "choices": [
+      "날카로운 부리",
+      "긴 꼬리",
+      "단단한 등딱지",
+      "물갈퀴가 있는 발"
+    ],
+    "answer": 3,
+    "explanation": "오리 발의 물갈퀴처럼 물을 많이 밀어 내어 빨리 헤엄치게 해요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "갯벌에 사는 동물로 알맞은 것은?",
+    "choices": [
+      "게",
+      "낙타",
+      "다람쥐",
+      "사자"
+    ],
+    "answer": 0,
+    "explanation": "게는 갯벌에서 구멍을 파고 살아요.",
+    "semester": 1,
+    "unit": "동물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "소나무의 잎 모양으로 알맞은 것은?",
+    "choices": [
+      "손바닥처럼 넓고 갈라졌다",
+      "바늘처럼 가늘고 뾰족하다",
+      "부채 모양이다",
+      "동그랗고 넓다"
+    ],
+    "answer": 1,
+    "explanation": "소나무 잎은 바늘처럼 가늘어요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "줄기가 굵고 단단하며 여러 해를 사는 식물을 무엇이라고 할까요?",
+    "choices": [
+      "풀",
+      "이끼",
+      "나무",
+      "버섯"
+    ],
+    "answer": 2,
+    "explanation": "줄기가 굵고 단단하며 여러 해를 사는 식물은 나무예요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "연꽃은 물에서 사는 식물이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "연꽃은 연못 같은 물에서 살아요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "선인장이 주로 사는 곳은?",
+    "choices": [
+      "깊은 바닷속",
+      "남극 얼음 위",
+      "연못 속",
+      "사막"
+    ],
+    "answer": 3,
+    "explanation": "선인장은 비가 적은 사막에서 살아요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "풀에 해당하는 식물은?",
+    "choices": [
+      "민들레",
+      "소나무",
+      "은행나무",
+      "단풍나무"
+    ],
+    "answer": 0,
+    "explanation": "민들레는 줄기가 가늘고 연한 풀이에요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "부레옥잠 잎자루를 잘라 보면 볼 수 있는 것은?",
+    "choices": [
+      "속이 꽉 찬 나무 같다",
+      "공기가 든 작은 방(구멍)이 많다",
+      "물이 가득 차 있다",
+      "씨가 많이 들어 있다"
+    ],
+    "answer": 1,
+    "explanation": "잎자루 속 공기주머니 덕분에 물에 떠요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나사말이나 검정말처럼 물속에 잠겨 사는 식물의 줄기는?",
+    "choices": [
+      "굵고 단단하다",
+      "가시가 많다",
+      "가늘고 부드러워 물의 흐름에 따라 휘어진다",
+      "물 위로 높이 솟아 있다"
+    ],
+    "answer": 2,
+    "explanation": "물속 식물은 줄기가 부드러워 물살에 잘 휘어져요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "식물을 분류할 때 '잎이 바늘 모양인가?'로 '그렇다'에 들어가는 식물은?",
+    "choices": [
+      "민들레",
+      "은행나무",
+      "단풍나무",
+      "소나무"
+    ],
+    "answer": 3,
+    "explanation": "소나무 잎이 바늘 모양이에요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "갈대와 부들처럼 물가에 사는 식물의 특징은?",
+    "choices": [
+      "뿌리는 물속 땅에, 줄기는 물 위로 길게 자란다",
+      "온몸이 물에 떠다닌다",
+      "잎이 가시로 되어 있다",
+      "뿌리가 없다"
+    ],
+    "answer": 0,
+    "explanation": "물가 식물은 땅에 뿌리를 내리고 줄기를 물 위로 길게 뻗어요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "민들레와 해바라기는 모두 나무예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "둘 다 줄기가 연한 풀이에요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "선인장 줄기를 잘랐을 때 볼 수 있는 모습과 그 까닭으로 알맞은 것은?",
+    "choices": [
+      "속이 텅 비어 있다 - 공기를 저장하기 때문",
+      "물이 많아 촉촉하다 - 물을 저장하기 때문",
+      "딱딱한 나무 같다 - 바람을 막기 때문",
+      "씨가 가득하다 - 번식하기 때문"
+    ],
+    "answer": 1,
+    "explanation": "선인장은 굵은 줄기에 물을 저장해 사막에서 살아요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "부레옥잠 잎자루를 물속에서 손으로 꽉 누르면 나오는 것은?",
+    "choices": [
+      "모래",
+      "씨",
+      "공기 방울",
+      "물감"
+    ],
+    "answer": 2,
+    "explanation": "잎자루 속 공기가 빠져나와 공기 방울이 생겨요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물에 떠서 사는 식물이 아닌 것은?",
+    "choices": [
+      "개구리밥",
+      "부레옥잠",
+      "물상추",
+      "연꽃"
+    ],
+    "answer": 3,
+    "explanation": "연꽃은 뿌리를 물속 땅에 내리고 잎만 물 위에 떠요. 나머지는 물에 떠서 살아요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "높은 산의 식물이 키가 작고 땅에 붙어 자라서 좋은 점은?",
+    "choices": [
+      "센 바람과 추위를 견디기 쉽다",
+      "물을 많이 저장한다",
+      "물에 잘 뜬다",
+      "햇빛을 피할 수 있다"
+    ],
+    "answer": 0,
+    "explanation": "키가 작으면 센 바람과 추위를 잘 견뎌요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "선인장은 잎이 가시 모양이라 몸속 물이 덜 빠져나가요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "가시 모양 잎은 넓은 잎보다 물이 덜 빠져나가요.",
+    "semester": 1,
+    "unit": "식물의 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "무게의 단위 'g'는 무엇이라고 읽을까요?",
+    "choices": [
+      "킬로그램",
+      "그램",
+      "미터",
+      "리터"
+    ],
+    "answer": 1,
+    "explanation": "g은 그램이라고 읽어요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "무게의 단위 'kg'은 무엇이라고 읽을까요?",
+    "choices": [
+      "그램",
+      "센티미터",
+      "킬로그램",
+      "밀리리터"
+    ],
+    "answer": 2,
+    "explanation": "kg은 킬로그램이라고 읽어요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "전자저울은 무게를 숫자로 보여 줘요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "전자저울은 화면에 무게가 숫자로 나와요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "용수철저울에 물체를 걸면 용수철은 어떻게 될까요?",
+    "choices": [
+      "줄어든다",
+      "녹는다",
+      "색이 바뀐다",
+      "늘어난다"
+    ],
+    "answer": 3,
+    "explanation": "물체의 무게 때문에 용수철이 늘어나요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2kg은 몇 g일까요?",
+    "choices": [
+      "2000g",
+      "200g",
+      "20g",
+      "20000g"
+    ],
+    "answer": 0,
+    "explanation": "1kg이 1000g이니 2kg은 2000g이에요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "무게가 다른 두 물체를 바르게 비교한 것은?",
+    "choices": [
+      "200g 귤이 300g 사과보다 무겁다",
+      "300g 사과가 200g 귤보다 무겁다",
+      "두 물체의 무게는 같다",
+      "크기가 큰 쪽이 항상 무겁다"
+    ],
+    "answer": 1,
+    "explanation": "300g이 200g보다 무거워요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "용수철저울에 물체를 걸었더니 바늘이 150g을 가리켰어요. 물체의 무게는?",
+    "choices": [
+      "15g",
+      "1500g",
+      "150g",
+      "1kg 50g"
+    ],
+    "answer": 2,
+    "explanation": "바늘이 가리키는 눈금이 물체의 무게예요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "같은 크기의 솜과 쇠구슬 중 더 무거운 것은?",
+    "choices": [
+      "솜",
+      "둘 다 같다",
+      "알 수 없다",
+      "쇠구슬"
+    ],
+    "answer": 3,
+    "explanation": "같은 크기라면 쇠구슬이 훨씬 무거워요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "1kg은 100g과 같은 무게예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "1kg은 1000g이에요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우체국에서 저울을 쓰는 까닭으로 알맞은 것은?",
+    "choices": [
+      "소포의 무게에 따라 요금을 정하려고",
+      "소포의 색을 알려고",
+      "소포의 길이를 재려고",
+      "소포의 온도를 재려고"
+    ],
+    "answer": 0,
+    "explanation": "소포는 무게에 따라 요금이 달라져요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "전자저울에 빈 그릇을 올리니 100g, 귤을 담으니 250g이었어요. 귤의 무게는?",
+    "choices": [
+      "250g",
+      "150g",
+      "350g",
+      "100g"
+    ],
+    "answer": 1,
+    "explanation": "250g에서 그릇 100g을 빼면 150g이에요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1kg 300g을 g으로 나타내면?",
+    "choices": [
+      "1030g",
+      "130g",
+      "1300g",
+      "13000g"
+    ],
+    "answer": 2,
+    "explanation": "1kg은 1000g이니 1000g+300g=1300g이에요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "용수철저울로 무게를 잴 때 가장 알맞은 방법은?",
+    "choices": [
+      "저울을 흔들면서 읽는다",
+      "위에서 비스듬히 내려다본다",
+      "물체를 손으로 받친 채 읽는다",
+      "눈높이를 바늘 끝에 맞추고 눈금을 읽는다"
+    ],
+    "answer": 3,
+    "explanation": "바늘 끝과 눈높이를 맞춰야 바르게 읽을 수 있어요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사과 3개 무게가 900g이고 사과 무게가 모두 같아요. 사과 1개의 무게는?",
+    "choices": [
+      "300g",
+      "900g",
+      "3kg",
+      "90g"
+    ],
+    "answer": 0,
+    "explanation": "900g을 3으로 나누면 300g이에요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 용수철저울에 물체를 걸었더니 가는 5칸, 나는 3칸, 다는 7칸 늘어났어요. 가장 무거운 것은?",
+    "choices": [
+      "가",
+      "다",
+      "나",
+      "모두 같다"
+    ],
+    "answer": 1,
+    "explanation": "용수철이 많이 늘어날수록 무거워요. 다가 7칸으로 가장 많이 늘어났어요.",
+    "semester": 2,
+    "unit": "힘과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "작은 소리를 내려면 북을 어떻게 쳐야 할까요?",
+    "choices": [
+      "세게 친다",
+      "빨리 많이 친다",
+      "약하게 친다",
+      "북을 물에 넣는다"
+    ],
+    "answer": 2,
+    "explanation": "약하게 치면 작게 떨려 작은 소리가 나요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "소리가 나는 스피커에 손을 대면 무엇을 느낄 수 있을까요?",
+    "choices": [
+      "차가움",
+      "끈적임",
+      "아무것도 느낄 수 없다",
+      "떨림"
+    ],
+    "answer": 3,
+    "explanation": "소리가 나는 물체는 떨려요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리가 친구 말소리를 들을 수 있는 것은 소리가 무엇을 통해 전달되기 때문일까요?",
+    "choices": [
+      "공기",
+      "빛",
+      "그림자",
+      "자석"
+    ],
+    "answer": 0,
+    "explanation": "말소리는 공기를 통해 귀까지 전달돼요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "메아리는 소리가 산에 흡수되어 사라지는 것이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "메아리는 소리가 산에 부딪혀 반사되어 되돌아오는 거예요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "이어폰 소리를 작게 줄이는 것은 소리의 무엇을 조절한 것일까요?",
+    "choices": [
+      "높낮이",
+      "세기",
+      "색깔",
+      "무게"
+    ],
+    "answer": 1,
+    "explanation": "크고 작은 정도는 소리의 세기예요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "실로폰에서 짧은 막대를 칠 때 나는 소리는 긴 막대보다?",
+    "choices": [
+      "낮다",
+      "똑같다",
+      "높다",
+      "나지 않는다"
+    ],
+    "answer": 2,
+    "explanation": "짧은 막대일수록 높은 소리가 나요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "스펀지처럼 부드러운 물체에 소리가 부딪히면?",
+    "choices": [
+      "소리가 더 크게 반사된다",
+      "소리가 높아진다",
+      "소리가 빛으로 바뀐다",
+      "소리가 잘 반사되지 않고 흡수된다"
+    ],
+    "answer": 3,
+    "explanation": "부드러운 물체는 소리를 잘 흡수해요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "실 전화기의 실을 느슨하게 하면 소리가 어떻게 될까요?",
+    "choices": [
+      "잘 들리지 않는다",
+      "더 잘 들린다",
+      "높아진다",
+      "똑같다"
+    ],
+    "answer": 0,
+    "explanation": "실이 팽팽해야 떨림이 잘 전달돼요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "소리가 나는 소리굽쇠를 손으로 꽉 잡으면 소리가 멈추는 까닭은?",
+    "choices": [
+      "소리굽쇠가 뜨거워져서",
+      "떨림이 멈추기 때문에",
+      "소리굽쇠가 길어져서",
+      "공기가 없어져서"
+    ],
+    "answer": 1,
+    "explanation": "떨림이 멈추면 소리도 멈춰요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "밤에 피아노를 칠 때 이웃을 배려하는 방법으로 알맞은 것은?",
+    "choices": [
+      "창문을 열고 크게 친다",
+      "바닥을 쿵쿵 구르며 친다",
+      "작은 소리로 치고 늦은 밤에는 치지 않는다",
+      "스피커로 소리를 키운다"
+    ],
+    "answer": 2,
+    "explanation": "소리의 세기를 줄이고 시간을 지키면 소음을 줄일 수 있어요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "철봉 한쪽 끝에 귀를 대고 다른 쪽 끝을 살짝 두드리면 소리가 들리는 까닭은?",
+    "choices": [
+      "철봉이 빛을 내기 때문에",
+      "공기가 없어졌기 때문에",
+      "철봉이 소리를 흡수하기 때문에",
+      "고체인 철봉을 통해 소리가 전달되기 때문에"
+    ],
+    "answer": 3,
+    "explanation": "소리는 철 같은 고체를 통해서도 전달돼요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 고무줄을 세게 튕기면 소리는 어떻게 될까요?",
+    "choices": [
+      "커진다",
+      "높아진다",
+      "작아진다",
+      "낮아진다"
+    ],
+    "answer": 0,
+    "explanation": "세게 튕기면 크게 떨려 소리가 커져요. 높낮이는 그대로예요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 유리병들에 물을 다르게 담고 막대로 두드릴 때 가장 높은 소리가 나는 병은?",
+    "choices": [
+      "물이 가장 많은 병",
+      "물이 가장 적은 병",
+      "모두 같은 소리",
+      "물이 절반인 병"
+    ],
+    "answer": 1,
+    "explanation": "두드릴 때는 물이 적을수록 높은 소리가 나요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "방음벽을 세우는 까닭은?",
+    "choices": [
+      "소리를 더 크게 하려고",
+      "소리를 높게 바꾸려고",
+      "소리를 막거나 반사시켜 소음을 줄이려고",
+      "빛을 막으려고"
+    ],
+    "answer": 2,
+    "explanation": "방음벽은 찻길 소리가 집으로 들어오는 것을 줄여요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "소리의 세기와 높낮이는 서로 다른 성질이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "크게 쳐도 높이는 같을 수 있어요. 세기와 높낮이는 달라요.",
+    "semester": 2,
+    "unit": "소리의 성질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구의 표면은 크게 무엇과 무엇으로 이루어져 있을까요?",
+    "choices": [
+      "하늘과 구름",
+      "해와 달",
+      "산과 나무",
+      "육지와 바다"
+    ],
+    "answer": 3,
+    "explanation": "지구 표면은 육지와 바다로 되어 있어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "바닷물의 맛은?",
+    "choices": [
+      "짜다",
+      "달다",
+      "아무 맛이 없다",
+      "시다"
+    ],
+    "answer": 0,
+    "explanation": "바닷물에는 소금 같은 물질이 녹아 있어 짜요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "지구에 있는 물 중 대부분은 바닷물이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "지구의 물은 대부분 바다에 있어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구의 생물이 살아가는 데 꼭 필요한 것이 아닌 것은?",
+    "choices": [
+      "물",
+      "모래성",
+      "공기",
+      "햇빛"
+    ],
+    "answer": 1,
+    "explanation": "물, 공기, 햇빛이 있어 생물이 살 수 있어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "바닷가에서 파도가 하는 일로 알맞은 것은?",
+    "choices": [
+      "바닷물을 달게 만든다",
+      "산을 만든다",
+      "바위를 깎는다",
+      "눈을 내리게 한다"
+    ],
+    "answer": 2,
+    "explanation": "파도는 바닷가 바위를 깎아요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지구의 공기가 하는 일로 알맞은 것은?",
+    "choices": [
+      "바닷물을 짜게 한다",
+      "땅을 단단하게 한다",
+      "산을 높게 한다",
+      "생물이 숨을 쉬게 한다"
+    ],
+    "answer": 3,
+    "explanation": "생물은 공기로 숨을 쉬어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "갯벌을 이루는 것은 주로 무엇일까요?",
+    "choices": [
+      "고운 흙(진흙)",
+      "큰 바위",
+      "얼음",
+      "나무"
+    ],
+    "answer": 0,
+    "explanation": "갯벌은 고운 흙이 쌓여 만들어져요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "바닷가 절벽 아래에 굴처럼 파인 곳은 어떻게 만들어졌을까요?",
+    "choices": [
+      "모래가 쌓여서",
+      "파도에 깎여서",
+      "사람이 메워서",
+      "눈이 쌓여서"
+    ],
+    "answer": 1,
+    "explanation": "파도가 오랫동안 바위를 깎아 굴이 생겨요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "바닷물은 짜지 않아서 그대로 마셔도 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "바닷물은 짜서 바로 마실 수 없어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "바다가 우리에게 주는 도움이 아닌 것은?",
+    "choices": [
+      "물고기 같은 먹을거리를 준다",
+      "소금을 얻게 해 준다",
+      "산에서 나무를 기르게 해 준다",
+      "배로 물건을 나를 수 있게 한다"
+    ],
+    "answer": 2,
+    "explanation": "나무는 산에서 자라요. 나머지는 바다에서 얻는 도움이에요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지구에 공기가 없다면 일어날 일로 알맞은 것은?",
+    "choices": [
+      "바다가 더 넓어진다",
+      "땅이 더 많아진다",
+      "바닷물이 달아진다",
+      "생물이 숨을 쉴 수 없다"
+    ],
+    "answer": 3,
+    "explanation": "공기가 없으면 생물이 숨을 쉴 수 없어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "모래사장이 만들어지는 까닭으로 알맞은 것은?",
+    "choices": [
+      "파도가 모래를 옮겨 바닷가에 쌓아서",
+      "바람이 바위를 들어 올려서",
+      "사람이 모래를 버려서",
+      "바닷물이 얼어서"
+    ],
+    "answer": 0,
+    "explanation": "바닷물이 모래를 옮겨 쌓으면 모래사장이 생겨요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지구 표면의 바다는 약 10분의 7, 육지는 약 10분의 3이에요. 알맞은 것은?",
+    "choices": [
+      "육지가 바다보다 넓다",
+      "바다가 육지보다 두 배 넘게 넓다",
+      "바다와 육지 넓이가 같다",
+      "바다는 육지의 절반이다"
+    ],
+    "answer": 1,
+    "explanation": "7은 3의 두 배인 6보다 커요. 바다가 훨씬 넓어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리가 마시는 물을 아껴 써야 하는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "바닷물이 곧 없어져서",
+      "물은 마실수록 늘어나서",
+      "지구의 물 중 바로 쓸 수 있는 물이 아주 적어서",
+      "물은 공기로 만들기 때문에"
+    ],
+    "answer": 2,
+    "explanation": "물은 많아도 대부분 바닷물이라 바로 쓸 수 있는 물은 아주 적어요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "지구에 바다가 넓어서 우주에서 보면 지구가 주로 파랗게 보여요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "지구 표면의 대부분이 바다라 파랗게 보여요.",
+    "semester": 2,
+    "unit": "지구와 바다"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "물체를 만드는 재료를 무엇이라고 할까요?",
+    "choices": [
+      "물체",
+      "도구",
+      "상태",
+      "물질"
+    ],
+    "answer": 3,
+    "explanation": "물체를 만드는 재료를 물질이라고 해요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "나무로 만든 물체는?",
+    "choices": [
+      "나무젓가락",
+      "유리컵",
+      "쇠못",
+      "고무풍선"
+    ],
+    "answer": 0,
+    "explanation": "나무젓가락은 나무로 만들어요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "물은 담는 그릇에 따라 모양이 바뀌어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "물은 액체라 그릇에 따라 모양이 바뀌어요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "돌멩이의 상태는?",
+    "choices": [
+      "액체",
+      "고체",
+      "기체",
+      "알 수 없다"
+    ],
+    "answer": 1,
+    "explanation": "돌멩이는 모양과 부피가 일정한 고체예요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "잘 늘어났다가 놓으면 원래 모양으로 돌아오는 물질은?",
+    "choices": [
+      "유리",
+      "돌",
+      "고무",
+      "나무"
+    ],
+    "answer": 2,
+    "explanation": "고무는 잘 늘어났다가 놓으면 원래대로 돌아와요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "쓰임새는 같지만 서로 다른 물질로 만든 물체끼리 짝지은 것은?",
+    "choices": [
+      "쇠못과 고무줄",
+      "나무 의자와 풍선",
+      "지우개와 숟가락",
+      "플라스틱 컵과 유리컵"
+    ],
+    "answer": 3,
+    "explanation": "플라스틱 컵과 유리컵은 둘 다 컵이지만 물질이 달라요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "유리의 성질로 알맞은 것은?",
+    "choices": [
+      "투명해서 속이 잘 보이지만 잘 깨진다",
+      "잘 늘어난다",
+      "물에 뜨고 가볍다",
+      "휘어도 깨지지 않는다"
+    ],
+    "answer": 0,
+    "explanation": "유리는 투명하지만 깨지기 쉬워요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "공기가 이용되는 예로 알맞은 것은?",
+    "choices": [
+      "나무 책상",
+      "자전거 타이어",
+      "쇠 숟가락",
+      "유리창"
+    ],
+    "answer": 1,
+    "explanation": "자전거 타이어에는 공기를 넣어요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우유를 둥근 컵에서 네모난 그릇으로 옮겨도 변하지 않는 것은?",
+    "choices": [
+      "모양",
+      "그릇의 크기",
+      "부피(양)",
+      "그릇의 색"
+    ],
+    "answer": 2,
+    "explanation": "액체는 모양은 바뀌지만 부피는 그대로예요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "기체는 눈에 보이지 않아서 공간을 차지하지 않아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "공기 같은 기체도 공간을 차지해요. 풍선이 부푸는 것으로 알 수 있어요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물에 띄울 장난감 배를 만들 때 가장 알맞은 물질은?",
+    "choices": [
+      "쇠",
+      "돌",
+      "유리",
+      "플라스틱"
+    ],
+    "answer": 3,
+    "explanation": "플라스틱은 가볍고 물에 잘 뜨며 잘 깨지지 않아요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "마개를 막은 빈 페트병을 물속에 밀어 넣을 때 손에 느껴지는 것과 그 까닭으로 알맞은 것은?",
+    "choices": [
+      "아무 느낌 없음 - 병이 비어 있어서",
+      "위로 밀어 올리는 힘 - 병 속 공기가 공간을 차지해서",
+      "병이 무거워짐 - 물이 병 속으로 들어가서",
+      "병이 뜨거워짐 - 공기가 데워져서"
+    ],
+    "answer": 1,
+    "explanation": "병 속 공기가 공간을 차지하고 있어서 위로 밀어 올리는 힘이 느껴져요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고체, 액체, 기체 중 담는 그릇에 따라 모양과 부피가 모두 바뀌는 것은?",
+    "choices": [
+      "고체",
+      "액체",
+      "기체",
+      "모두 바뀌지 않는다"
+    ],
+    "answer": 2,
+    "explanation": "기체는 그릇을 가득 채우므로 모양과 부피가 모두 바뀌어요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "금속 숟가락과 플라스틱 숟가락은 생김새가 같으면 물질도 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "모양이 같아도 만든 재료(물질)는 다를 수 있어요.",
+    "semester": 2,
+    "unit": "물체와 물질"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "감염병을 막기 위해 밖에 다녀온 뒤 가장 먼저 할 일은?",
+    "choices": [
+      "간식 먹기",
+      "눈 비비기",
+      "바로 잠자기",
+      "비누로 손 씻기"
+    ],
+    "answer": 3,
+    "explanation": "밖에 다녀오면 비누로 손을 씻어 세균을 없애요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "기침할 때 옷소매로 입과 코를 가리면 침방울이 덜 퍼져요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "옷소매로 가리면 침방울이 퍼지는 것을 줄여요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사람이 많이 모인 곳에서 감염병을 막기 위해 할 수 있는 행동은?",
+    "choices": [
+      "마스크를 쓴다",
+      "친구 컵으로 물을 나눠 마신다",
+      "손으로 코를 자주 만진다",
+      "기침할 때 입을 가리지 않는다"
+    ],
+    "answer": 0,
+    "explanation": "마스크를 쓰면 침방울이 퍼지는 것을 막아요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "감기에 걸렸을 때 도움이 되는 행동은?",
+    "choices": [
+      "밤늦게까지 게임을 한다",
+      "푹 쉬고 물을 충분히 마신다",
+      "찬 바닥에서 잔다",
+      "밥을 굶는다"
+    ],
+    "answer": 1,
+    "explanation": "충분히 쉬고 물을 마시면 몸이 빨리 나아요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "수건은 가족과 한 장으로 같이 쓰는 것이 감염병 예방에 좋아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "같은 수건을 쓰면 세균이나 바이러스가 옮을 수 있어서 따로 써요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "손을 씻을 때 놓치기 쉬운 곳은?",
+    "choices": [
+      "손바닥 가운데",
+      "손등 가운데",
+      "손톱 밑과 손가락 사이",
+      "손목 위 팔"
+    ],
+    "answer": 2,
+    "explanation": "손톱 밑과 손가락 사이는 꼼꼼히 씻어야 해요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "과일을 먹기 전에 깨끗한 물에 씻는 까닭은?",
+    "choices": [
+      "과일을 더 달게 하려고",
+      "과일 색을 바꾸려고",
+      "과일을 크게 하려고",
+      "겉에 묻은 세균이나 더러운 것을 없애려고"
+    ],
+    "answer": 3,
+    "explanation": "씻으면 겉에 묻은 더러운 것을 없앨 수 있어요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "음식을 익혀 먹는 것이 감염병 예방에 도움이 되는 까닭은?",
+    "choices": [
+      "열로 세균을 없앨 수 있어서",
+      "음식이 차가워져서",
+      "음식 양이 늘어나서",
+      "소화를 안 해도 돼서"
+    ],
+    "answer": 0,
+    "explanation": "충분히 익히면 음식 속 세균이 없어져요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "규칙적인 운동은 몸을 튼튼하게 해서 감염병을 이겨 내는 데 도움을 줘요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "운동하면 몸이 튼튼해져요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "감염병에 걸렸을 때 학교에 가지 않고 집에서 쉬는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "숙제를 안 하려고",
+      "다른 친구에게 옮기지 않으려고",
+      "놀기 위해서",
+      "학교가 멀어서"
+    ],
+    "answer": 1,
+    "explanation": "집에서 쉬면 몸도 낫고 다른 사람에게 옮기지 않아요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "색깔 물을 뿌리는 분무기 앞에 마스크를 대니 뒤쪽 종이에 물방울이 거의 묻지 않았어요. 이 실험이 알려 주는 것은?",
+    "choices": [
+      "마스크를 쓰면 물방울이 더 멀리 간다",
+      "분무기는 감염병을 옮긴다",
+      "마스크가 침방울이 퍼지는 것을 막아 준다",
+      "종이는 물을 흡수하지 않는다"
+    ],
+    "answer": 2,
+    "explanation": "마스크가 물방울을 막은 것처럼 침방울을 막아 줘요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "손 씻기 실험에서 물로만 씻은 손보다 비누로 씻은 손이 더 깨끗했어요. 알 수 있는 것은?",
+    "choices": [
+      "물로만 씻는 것이 더 좋다",
+      "손을 씻지 않아도 된다",
+      "비누는 손을 더럽힌다",
+      "비누를 쓰면 손을 더 깨끗하게 씻을 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "비누로 씻으면 세균을 더 잘 없앨 수 있어요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "감염병 예방 습관과 그 까닭을 잘못 짝지은 것은?",
+    "choices": [
+      "예방 접종 - 몸을 차갑게 하려고",
+      "손 씻기 - 손에 묻은 세균을 없애려고",
+      "환기 - 실내 공기를 깨끗하게 하려고",
+      "기침 예절 - 침방울이 퍼지지 않게 하려고"
+    ],
+    "answer": 0,
+    "explanation": "예방 접종은 감염병을 이겨 낼 힘을 기르려고 해요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "손을 씻는 시간을 다르게 하여 깨끗해지는 정도를 비교하는 실험에서 다르게 해야 할 것은?",
+    "choices": [
+      "비누의 종류",
+      "손을 씻는 시간",
+      "물의 온도",
+      "손을 씻는 사람"
+    ],
+    "answer": 1,
+    "explanation": "알아보려는 손 씻는 시간만 다르게 해야 해요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "세균이나 바이러스는 눈에 보이지 않으므로 깨끗해 보이는 물건에도 있을 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "세균이나 바이러스는 아주 작아서 보이지 않아도 있을 수 있어요.",
+    "semester": 2,
+    "unit": "감염병과 건강한 생활"
   }
 ]

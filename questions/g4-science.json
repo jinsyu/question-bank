@@ -4553,5 +4553,2223 @@
     "explanation": "실험 자료를 근거로 설명해야 다른 사람이 믿고 이해할 수 있어요.",
     "semester": 1,
     "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "물이 얼어 얼음이 되면 어떤 상태가 될까요?",
+    "choices": [
+      "변하지 않아요",
+      "액체",
+      "고체",
+      "기체"
+    ],
+    "answer": 2,
+    "explanation": "얼음은 모양이 일정한 고체예요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "젖은 빨래가 마르는 것은 물의 어떤 상태 변화일까요?",
+    "choices": [
+      "응결",
+      "증발",
+      "얼기",
+      "녹기"
+    ],
+    "answer": 1,
+    "explanation": "빨래의 물이 수증기가 되어 공기 중으로 날아가는 증발이에요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "공기 중의 수증기는 색깔이 없어서 눈으로 볼 수 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "수증기는 기체라서 눈에 보이지 않아요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "얼음이 녹아 물이 되는 것을 볼 수 있는 예는?",
+    "choices": [
+      "냄비 뚜껑에 물방울이 맺혀요",
+      "아이스크림이 녹아 흘러내려요",
+      "유리창에 성에가 생겨요",
+      "고드름이 길어져요"
+    ],
+    "answer": 1,
+    "explanation": "아이스크림이 녹는 것은 고체가 액체로 변하는 예예요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "차가운 컵 겉면에 물방울이 맺히는 현상을 무엇이라고 할까요?",
+    "choices": [
+      "끓음",
+      "응결",
+      "증발",
+      "얼음"
+    ],
+    "answer": 1,
+    "explanation": "공기 속 수증기가 차가운 컵에 닿아 물로 변하는 응결이에요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "물이 얼어 얼음이 될 때 부피는 어떻게 될까요?",
+    "choices": [
+      "늘어나요",
+      "변하지 않아요",
+      "줄어들어요",
+      "없어져요"
+    ],
+    "answer": 0,
+    "explanation": "물이 얼면 부피가 늘어나요. 그래서 꽉 채운 병이 깨질 수 있어요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "얼음이 녹아 물이 될 때 무게는 어떻게 될까요?",
+    "choices": [
+      "변하지 않아요",
+      "줄어들어요",
+      "두 배가 돼요",
+      "늘어나요"
+    ],
+    "answer": 0,
+    "explanation": "상태만 바뀌고 물의 양은 그대로라서 무게는 변하지 않아요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "증발과 끓음을 비교한 것으로 옳은 것은?",
+    "choices": [
+      "끓음은 물 표면에서만 일어나요",
+      "증발은 물 표면에서 천천히 일어나요",
+      "증발은 물이 뜨거울 때만 일어나요",
+      "끓음은 물의 양이 변하지 않아요"
+    ],
+    "answer": 1,
+    "explanation": "증발은 표면에서 천천히, 끓음은 물 표면과 속에서 빠르게 일어나요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "겨울철 수도관이 터지는 까닭과 관계 깊은 것은?",
+    "choices": [
+      "물이 얼면서 부피가 늘어나서",
+      "얼음이 녹아서",
+      "수증기가 응결해서",
+      "물이 증발해서"
+    ],
+    "answer": 0,
+    "explanation": "수도관 속 물이 얼면 부피가 늘어나 관을 밀어서 터져요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "물을 끓일 때 물속에서 생기는 기포는 무엇일까요?",
+    "choices": [
+      "얼음",
+      "산소만",
+      "먼지",
+      "수증기"
+    ],
+    "answer": 3,
+    "explanation": "물이 끓으면 물속에서 수증기가 만들어져 기포로 올라와요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "젖은 빨래를 더 빨리 마르게 하는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "바람이 잘 통하게 널어요",
+      "빨래를 넓게 펼쳐 널어요",
+      "햇볕이 드는 곳에 널어요",
+      "빨래를 뭉쳐서 그늘에 두어요"
+    ],
+    "answer": 3,
+    "explanation": "뭉치고 그늘에 두면 증발이 느려져서 오히려 늦게 말라요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "추운 겨울 아침 안경을 쓰고 따뜻한 방에 들어가면 안경이 뿌옇게 되는 까닭은?",
+    "choices": [
+      "안경이 녹아서",
+      "방 안의 수증기가 차가운 안경에 닿아 응결해서",
+      "안경이 얼어서",
+      "안경의 물이 증발해서"
+    ],
+    "answer": 1,
+    "explanation": "차가운 안경 표면에서 수증기가 물방울로 변했어요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "바닷물을 증발시켜 소금을 얻는 염전은 물의 어떤 상태 변화를 이용한 것일까요?",
+    "choices": [
+      "액체가 고체로",
+      "기체가 액체로",
+      "액체가 기체로",
+      "고체가 액체로"
+    ],
+    "answer": 2,
+    "explanation": "햇볕과 바람으로 바닷물의 물이 증발하면 소금이 남아요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물이 든 비커를 알코올램프로 가열해 끓였더니 물의 높이가 낮아졌어요. 그 까닭은?",
+    "choices": [
+      "비커가 물을 흡수해서",
+      "물이 무거워져서",
+      "물이 수증기가 되어 날아가서",
+      "물이 얼음이 되어서"
+    ],
+    "answer": 2,
+    "explanation": "끓으면서 물이 수증기로 변해 공기 중으로 날아가 줄었어요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "얼음과자를 만들 때 틀에 주스를 가득 채우지 않는 까닭은?",
+    "choices": [
+      "얼면 증발해서",
+      "얼면 부피가 줄어서",
+      "얼면 부피가 늘어나 넘칠 수 있어서",
+      "얼면 무게가 늘어서"
+    ],
+    "answer": 2,
+    "explanation": "얼면서 부피가 늘어나니 빈 공간을 남겨 둬요.",
+    "semester": 1,
+    "unit": "물의 상태 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "화산이 분출할 때 나오는 뜨거운 액체 물질이 땅 위로 흘러나온 것을 무엇이라고 할까요?",
+    "choices": [
+      "화산 가스",
+      "화산재",
+      "용암",
+      "지층"
+    ],
+    "answer": 2,
+    "explanation": "마그마가 땅 위로 나와 흐르는 것을 용암이라고 해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "땅이 흔들리거나 갈라지는 현상을 무엇이라고 할까요?",
+    "choices": [
+      "지진",
+      "태풍",
+      "화산",
+      "홍수"
+    ],
+    "answer": 0,
+    "explanation": "지구 내부의 힘으로 땅이 흔들리는 것을 지진이라고 해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "현무암은 화강암보다 색이 어두워요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "현무암은 검은색이나 어두운 회색, 화강암은 밝은색이에요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "바위나 돌이 잘게 부서지고 여기에 생물이 썩은 것이 섞여 만들어지는 것은?",
+    "choices": [
+      "화산 가스",
+      "용암",
+      "흙",
+      "얼음"
+    ],
+    "answer": 2,
+    "explanation": "바위가 부서진 알갱이와 부식물이 섞여 흙이 돼요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "강 상류에서 흔히 볼 수 있는 돌의 모습은?",
+    "choices": [
+      "크고 모난 돌",
+      "작고 둥근 돌",
+      "고운 진흙",
+      "모래만"
+    ],
+    "answer": 0,
+    "explanation": "상류에는 덜 깎인 크고 모난 돌이 많아요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지진이 났을 때 학교 교실에서 할 알맞은 행동은?",
+    "choices": [
+      "계단에서 뛰어요",
+      "창문 쪽으로 달려가요",
+      "책상 아래로 들어가 머리를 보호해요",
+      "엘리베이터를 타요"
+    ],
+    "answer": 2,
+    "explanation": "떨어지는 물건으로부터 몸과 머리를 보호해야 해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "화강암과 현무암 중 알갱이가 커서 맨눈으로 보이는 암석과 그 까닭이 바른 것은?",
+    "choices": [
+      "현무암, 천천히 식어서",
+      "화강암, 땅속 깊은 곳에서 천천히 식어서",
+      "현무암, 빨리 식어서",
+      "화강암, 빨리 식어서"
+    ],
+    "answer": 1,
+    "explanation": "마그마가 땅속에서 천천히 식으면 알갱이가 크게 자라요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "흐르는 물이 경사가 급한 곳에서 주로 하는 작용은?",
+    "choices": [
+      "녹이는 작용",
+      "쌓는 작용",
+      "깎는 작용",
+      "얼리는 작용"
+    ],
+    "answer": 2,
+    "explanation": "경사가 급하면 물이 빨라서 땅을 많이 깎아요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "부식물이 많은 흙의 특징으로 알맞은 것은?",
+    "choices": [
+      "식물이 전혀 자라지 못해요",
+      "식물이 자라는 데 필요한 양분이 많아요",
+      "알갱이가 모두 돌이에요",
+      "물에 넣으면 뜨는 것이 없어요"
+    ],
+    "answer": 1,
+    "explanation": "부식물은 식물이 자라는 데 도움을 주는 양분이 돼요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "화산 분출물 중 고체인 것은?",
+    "choices": [
+      "화산 가스",
+      "화산재",
+      "용암",
+      "수증기"
+    ],
+    "answer": 1,
+    "explanation": "화산재와 화산 암석 조각은 고체예요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "강 하류의 모습을 설명한 것으로 알맞은 것은?",
+    "choices": [
+      "강폭이 좁고 경사가 급해요",
+      "큰 바위가 가장 많아요",
+      "강폭이 넓고 경사가 완만해요",
+      "깎는 작용만 일어나요"
+    ],
+    "answer": 2,
+    "explanation": "하류는 폭이 넓고 경사가 완만해서 쌓는 작용이 활발해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지진 피해를 줄이려고 건물을 지을 때 하는 일로 알맞은 것은?",
+    "choices": [
+      "창문을 모두 없애요",
+      "건물을 높이만 올려요",
+      "건물을 흔들림에 잘 견디게 지어요",
+      "계단을 없애요"
+    ],
+    "answer": 2,
+    "explanation": "흔들림에 잘 견디는 내진 설계로 건물이 덜 무너지게 해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "흙 언덕 실험에서 위쪽은 깎이고 아래쪽에 흙이 쌓이는 까닭은?",
+    "choices": [
+      "물이 위쪽에서 흙을 깎아 아래쪽으로 옮겨 쌓아서",
+      "물이 흙을 녹여서",
+      "바람이 불어서",
+      "아래쪽 흙이 위로 올라가서"
+    ],
+    "answer": 0,
+    "explanation": "흐르는 물은 깎고, 옮기고, 쌓는 일을 해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "화산 활동 모형 실험과 실제 화산을 비교한 것으로 옳은 것은?",
+    "choices": [
+      "모형과 실제 화산의 온도는 같아요",
+      "모형의 굳은 물질은 실제 용암이 굳은 것에 해당해요",
+      "모형에서는 실제처럼 지진이 나요",
+      "모형의 연기는 실제 화산재에 해당해요"
+    ],
+    "answer": 1,
+    "explanation": "모형에서 흘러나와 굳은 물질은 용암이 굳은 것과 비슷해요. 연기는 화산 가스에 해당해요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오랜 시간 동안 바위가 흙으로 변하는 과정에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "흙은 하루 만에 만들어져요",
+      "물이 얼고 녹거나 뿌리가 자라 바위가 부서져요",
+      "바위는 녹아서 흙이 돼요",
+      "바위는 절대 부서지지 않아요"
+    ],
+    "answer": 1,
+    "explanation": "물이 얼고 녹기, 나무뿌리 같은 것으로 바위가 오랫동안 부서져 흙이 돼요.",
+    "semester": 1,
+    "unit": "땅의 변화"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 자석에 붙는 물체는?",
+    "choices": [
+      "철못",
+      "나무젓가락",
+      "유리컵",
+      "고무지우개"
+    ],
+    "answer": 0,
+    "explanation": "자석은 철로 된 물체를 끌어당겨요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "자석의 극은 몇 개일까요?",
+    "choices": [
+      "1개",
+      "2개",
+      "3개",
+      "4개"
+    ],
+    "answer": 1,
+    "explanation": "자석에는 N극과 S극, 두 개의 극이 있어요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "자석의 다른 극끼리는 서로 끌어당겨요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "N극과 S극처럼 다른 극끼리는 끌어당겨요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "방향을 찾을 때 쓰는, 자석의 성질을 이용한 도구는?",
+    "choices": [
+      "나침반",
+      "저울",
+      "온도계",
+      "돋보기"
+    ],
+    "answer": 0,
+    "explanation": "나침반 바늘은 자석이라 북쪽과 남쪽을 가리켜요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "플라스틱 자는 자석에 붙어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "플라스틱은 철이 아니라서 자석에 붙지 않아요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "둥근 고리 자석에서 철 클립이 많이 붙는 곳은?",
+    "choices": [
+      "아무 곳에도 붙지 않음",
+      "고리의 구멍",
+      "자석의 극",
+      "모든 곳에 똑같이"
+    ],
+    "answer": 2,
+    "explanation": "자석은 극에서 철을 끌어당기는 힘이 가장 세요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "자석의 S극과 다른 자석의 S극을 가까이 하면 어떻게 될까요?",
+    "choices": [
+      "붙어서 하나가 돼요",
+      "서로 밀어내요",
+      "아무 일도 없어요",
+      "서로 끌어당겨요"
+    ],
+    "answer": 1,
+    "explanation": "같은 극끼리는 서로 밀어내요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "냉장고 문에 메모를 붙이는 자석이 잘 붙는 까닭은?",
+    "choices": [
+      "냉장고가 차가워서",
+      "메모가 종이라서",
+      "냉장고 문이 나무라서",
+      "냉장고 문에 철이 들어 있어서"
+    ],
+    "answer": 3,
+    "explanation": "자석은 철을 끌어당기기 때문에 철이 든 문에 붙어요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "나침반 바늘의 S극이 가리키는 방향은?",
+    "choices": [
+      "서쪽",
+      "동쪽",
+      "북쪽",
+      "남쪽"
+    ],
+    "answer": 3,
+    "explanation": "N극은 북쪽, S극은 남쪽을 가리켜요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "자석과 철 클립 사이가 멀어질수록 끌어당기는 힘이 세져요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "자석과 물체 사이가 멀어지면 끌어당기는 힘이 약해져요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "막대자석의 N극에 나침반을 가져갔더니 바늘의 S극이 자석 쪽을 가리켰어요. 그 까닭은?",
+    "choices": [
+      "나침반이 고장 나서",
+      "같은 극끼리 끌어당겨서",
+      "다른 극끼리 끌어당겨서",
+      "자석이 약해서"
+    ],
+    "answer": 2,
+    "explanation": "자석의 N극과 바늘의 S극은 다른 극이라 서로 끌어당겨요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "철 클립 두 개 중 어느 것이 자석이 되었는지 알아보는 방법은?",
+    "choices": [
+      "무게를 재요",
+      "색깔을 봐요",
+      "물에 넣어 봐요",
+      "작은 철 가루를 가까이 대 봐요"
+    ],
+    "answer": 3,
+    "explanation": "자석이 된 클립은 철 가루를 끌어당겨요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "자석 필통 뚜껑이 저절로 닫히는 것과 같은 성질을 이용한 예는?",
+    "choices": [
+      "자석 단추가 달린 가방",
+      "나무 의자",
+      "고무 장갑",
+      "유리 창문"
+    ],
+    "answer": 0,
+    "explanation": "둘 다 자석이 철이나 다른 자석을 끌어당기는 성질을 이용해요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "두 자석 사이를 가깝게 할수록 밀어내는 힘은 어떻게 될까요?",
+    "choices": [
+      "약해져요",
+      "세져요",
+      "변하지 않아요",
+      "없어져요"
+    ],
+    "answer": 1,
+    "explanation": "자석끼리 가까울수록 미는 힘과 당기는 힘이 세져요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "막대자석 하나를 세 조각으로 잘랐어요. 가운데 조각에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "S극만 있어요",
+      "N극과 S극이 모두 있어요",
+      "극이 없어요",
+      "N극만 있어요"
+    ],
+    "answer": 1,
+    "explanation": "자석은 잘라도 조각마다 N극과 S극이 생겨요.",
+    "semester": 1,
+    "unit": "자석의 이용"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "곰팡이와 버섯처럼 몸이 균사로 이루어진 생물 무리는?",
+    "choices": [
+      "식물",
+      "세균",
+      "균류",
+      "동물"
+    ],
+    "answer": 2,
+    "explanation": "곰팡이와 버섯은 균사로 된 균류예요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세균을 관찰하려면 무엇이 필요할까요?",
+    "choices": [
+      "맨눈",
+      "현미경",
+      "망원경",
+      "나침반"
+    ],
+    "answer": 1,
+    "explanation": "세균은 아주 작아서 현미경으로 봐야 해요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "김치나 요구르트를 만들 때 이용하는 생물은?",
+    "choices": [
+      "세균",
+      "해캄",
+      "짚신벌레",
+      "고사리"
+    ],
+    "answer": 0,
+    "explanation": "젖산균 같은 세균이 김치와 요구르트를 만드는 데 쓰여요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "된장을 만들 때 메주에 자라는 곰팡이는 균류예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "메주에는 곰팡이 같은 균류가 자라 된장을 만드는 데 도움을 줘요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "해캄은 주로 어디에서 볼 수 있을까요?",
+    "choices": [
+      "바위 꼭대기",
+      "사막 모래",
+      "논이나 연못의 고인 물",
+      "냉동실"
+    ],
+    "answer": 2,
+    "explanation": "해캄은 고인 물에 사는 원생생물이에요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "균류가 양분을 얻는 방법으로 알맞은 것은?",
+    "choices": [
+      "햇빛으로 스스로 만들어요",
+      "죽은 생물이나 다른 것에서 양분을 얻어요",
+      "공기에서만 얻어요",
+      "흙만 먹어요"
+    ],
+    "answer": 1,
+    "explanation": "균류는 대부분 죽은 생물이나 다른 생물에서 양분을 얻어요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세균이 우리에게 해를 주는 예로 알맞은 것은?",
+    "choices": [
+      "음식을 상하게 해요",
+      "된장을 만들어요",
+      "오염 물질을 분해해요",
+      "요구르트를 만들어요"
+    ],
+    "answer": 0,
+    "explanation": "어떤 세균은 음식을 상하게 하고 병을 일으켜요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "짚신벌레의 특징으로 알맞은 것은?",
+    "choices": [
+      "뿌리, 줄기, 잎이 있어요",
+      "몸 바깥에 가는 털이 있어 움직여요",
+      "버섯처럼 갓이 있어요",
+      "균사로 이루어져 있어요"
+    ],
+    "answer": 1,
+    "explanation": "짚신벌레는 몸 둘레의 가는 털로 헤엄쳐요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "손을 깨끗이 씻으면 좋은 까닭과 관계 깊은 것은?",
+    "choices": [
+      "균류를 늘리려고",
+      "손이 커져서",
+      "손에 묻은 해로운 세균을 줄여서",
+      "햇빛을 받으려고"
+    ],
+    "answer": 2,
+    "explanation": "손 씻기로 병을 일으키는 세균을 줄일 수 있어요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "광학 현미경에서 관찰할 것을 올려놓는 곳은?",
+    "choices": [
+      "회전판",
+      "조명",
+      "접안렌즈",
+      "재물대"
+    ],
+    "answer": 3,
+    "explanation": "관찰할 표본은 재물대 위에 올려놓아요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "원생생물을 이용해 연료를 만드는 연구를 하는 까닭으로 알맞은 것은?",
+    "choices": [
+      "원생생물은 어디서도 자라지 못해서",
+      "어떤 원생생물은 기름 성분을 많이 만들어서",
+      "원생생물은 아주 커서",
+      "원생생물이 쇠로 되어 있어서"
+    ],
+    "answer": 1,
+    "explanation": "기름 성분을 만드는 원생생물로 친환경 연료를 만들려고 연구해요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세상에 균류와 세균이 모두 사라진다면 일어날 수 있는 일은?",
+    "choices": [
+      "모든 음식이 더 빨리 상해요",
+      "공기가 더 깨끗해져요",
+      "나무가 더 잘 자라요",
+      "죽은 생물과 쓰레기가 잘 분해되지 않아 쌓여요"
+    ],
+    "answer": 3,
+    "explanation": "균류와 세균은 죽은 생물을 분해하는 일을 해요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "곰팡이가 자라는 데 필요한 조건을 알아보려고 해요. 온도의 영향을 알아볼 때 다르게 할 조건은?",
+    "choices": [
+      "물을 뿌린 양",
+      "빵의 종류",
+      "두는 곳의 온도",
+      "관찰하는 날짜 수"
+    ],
+    "answer": 2,
+    "explanation": "알아보려는 조건 하나만 다르게 하고 나머지는 같게 해요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 균류가 아닌 것은?",
+    "choices": [
+      "누룩곰팡이",
+      "푸른곰팡이",
+      "표고버섯",
+      "해캄"
+    ],
+    "answer": 3,
+    "explanation": "해캄은 원생생물이고 나머지는 균류예요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "세균은 혼자 살 수 없고 반드시 다른 생물 몸속에서만 살아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "세균은 흙, 물, 공기, 물건 등 여러 곳에 살아요.",
+    "semester": 1,
+    "unit": "다양한 생물과 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "탐구를 시작할 때 가장 먼저 하는 일은?",
+    "choices": [
+      "결과 발표하기",
+      "그래프 그리기",
+      "결론 내리기",
+      "탐구 문제 정하기"
+    ],
+    "answer": 3,
+    "explanation": "궁금한 것을 탐구 문제로 정하는 것부터 시작해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "실험에서 같게 해야 할 조건과 다르게 해야 할 조건을 정하는 것을 무엇이라고 할까요?",
+    "choices": [
+      "변인 통제",
+      "관찰",
+      "발표",
+      "결론 내리기"
+    ],
+    "answer": 0,
+    "explanation": "조건을 알맞게 정하는 것을 변인 통제라고 해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "실험 결과는 내가 바라던 대로 고쳐서 적어도 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "실험 결과는 나온 그대로 정직하게 적어야 해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "실험할 때 안전을 위해 지켜야 할 일로 알맞은 것은?",
+    "choices": [
+      "뛰어다니며 실험해요",
+      "실험 기구를 장난감처럼 써요",
+      "약품 냄새를 직접 맡아요",
+      "선생님 안내에 따라 실험해요"
+    ],
+    "answer": 3,
+    "explanation": "안전하게 실험하려면 안내를 잘 따라야 해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "측정을 여러 번 하는 까닭으로 알맞은 것은?",
+    "choices": [
+      "실험을 어렵게 하려고",
+      "더 믿을 만한 결과를 얻으려고",
+      "시간을 버리려고",
+      "결과를 바꾸려고"
+    ],
+    "answer": 1,
+    "explanation": "여러 번 재면 실수를 줄여 믿을 만한 결과를 얻어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가설에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "실험이 끝난 뒤 쓰는 소감",
+      "탐구 문제에 대해 미리 생각해 본 답",
+      "결과를 나타낸 표",
+      "실험 도구의 이름"
+    ],
+    "answer": 1,
+    "explanation": "가설은 실험 전에 탐구 문제의 답을 예상해 본 것이에요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "종이컵 전화기에서 실의 길이에 따라 소리 크기가 달라지는지 알아보려고 해요. 다르게 할 조건은?",
+    "choices": [
+      "실의 종류",
+      "말하는 소리 크기",
+      "실의 길이",
+      "종이컵의 크기"
+    ],
+    "answer": 2,
+    "explanation": "알아보려는 조건인 실의 길이만 다르게 해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "실험 결과를 표로 정리하면 좋은 점은?",
+    "choices": [
+      "결과를 한눈에 비교하기 쉬워요",
+      "결론이 필요 없어요",
+      "실험을 안 해도 돼요",
+      "결과가 바뀌어요"
+    ],
+    "answer": 0,
+    "explanation": "표로 정리하면 결과를 쉽게 비교할 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "실험 결과가 가설과 달랐을 때 알맞은 행동은?",
+    "choices": [
+      "가설을 고치고 다시 탐구해요",
+      "가설에 맞게 결과를 바꿔요",
+      "실험을 그만둬요",
+      "결과를 지워요"
+    ],
+    "answer": 0,
+    "explanation": "결과에 맞게 가설을 다시 세우고 탐구할 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "관찰한 것과 생각한 것을 구별할 때, 관찰한 것은?",
+    "choices": [
+      "이 꽃은 향기를 좋아할 것 같아요",
+      "내일 꽃이 필 것 같아요",
+      "이 꽃은 예쁜 것 같아요",
+      "꽃잎이 다섯 장이에요"
+    ],
+    "answer": 3,
+    "explanation": "눈으로 직접 보고 확인한 것이 관찰한 사실이에요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물의 양에 따라 얼음이 녹는 빠르기를 알아보려다가 컵 크기와 물의 양을 함께 바꾸었어요. 이 실험의 문제점은?",
+    "choices": [
+      "조건을 두 개나 바꾸어 무엇 때문인지 알 수 없어요",
+      "물을 너무 적게 썼어요",
+      "얼음이 너무 작아요",
+      "컵이 너무 많아요"
+    ],
+    "answer": 0,
+    "explanation": "다르게 할 조건은 하나만 바꿔야 원인을 알 수 있어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공을 떨어뜨린 높이와 튀어 오른 높이를 기록했어요. 높이가 높아질수록 튀어 오른 높이가 계속 커졌다면 알맞은 결론은?",
+    "choices": [
+      "공은 튀어 오르지 않아요",
+      "낮은 곳에서 떨어뜨릴수록 더 높이 튀어 올라요",
+      "높은 곳에서 떨어뜨릴수록 더 높이 튀어 올라요",
+      "떨어뜨린 높이와 관계없어요"
+    ],
+    "answer": 2,
+    "explanation": "자료가 보여 주는 관계를 그대로 결론으로 써요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "여러 종류의 물건 수를 비교해 나타내기에 가장 알맞은 그래프는?",
+    "choices": [
+      "표 없이 말로만",
+      "그림만 그리기",
+      "막대그래프",
+      "꺾은선그래프"
+    ],
+    "answer": 2,
+    "explanation": "종류별 양을 비교할 때는 막대그래프가 알맞아요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "친구의 탐구 발표를 듣고 할 알맞은 행동은?",
+    "choices": [
+      "결과를 몰래 바꿔요",
+      "발표를 듣지 않아요",
+      "무조건 틀렸다고 해요",
+      "근거를 들어 궁금한 점을 물어요"
+    ],
+    "answer": 3,
+    "explanation": "근거를 바탕으로 질문하고 의견을 나누어요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 조건에서 실험을 다시 했더니 결과가 크게 달랐어요. 알맞은 행동은?",
+    "choices": [
+      "결과를 모두 버리고 끝내요",
+      "아무 결과나 하나 골라요",
+      "더 마음에 드는 결과만 써요",
+      "실험 과정을 점검하고 다시 해 봐요"
+    ],
+    "answer": 3,
+    "explanation": "과정에 실수가 없었는지 살피고 다시 실험해 확인해요.",
+    "semester": 1,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "태양계의 중심에 있으며 스스로 빛을 내는 천체는?",
+    "choices": [
+      "태양",
+      "달",
+      "지구",
+      "화성"
+    ],
+    "answer": 0,
+    "explanation": "태양은 태양계의 중심에서 스스로 빛을 내요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "태양계 행성의 수는 모두 몇 개일까요?",
+    "choices": [
+      "6개",
+      "7개",
+      "8개",
+      "9개"
+    ],
+    "answer": 2,
+    "explanation": "수성부터 해왕성까지 8개예요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "북두칠성은 북쪽 하늘에서 볼 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "북두칠성은 북쪽 하늘의 별자리예요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "밤하늘의 별들을 연결해 이름을 붙인 것은?",
+    "choices": [
+      "별자리",
+      "위성",
+      "태양계",
+      "행성"
+    ],
+    "answer": 0,
+    "explanation": "별을 이어 사람이나 동물 모양으로 이름 붙인 것이 별자리예요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "태양계에서 가장 큰 행성은?",
+    "choices": [
+      "지구",
+      "화성",
+      "목성",
+      "수성"
+    ],
+    "answer": 2,
+    "explanation": "목성이 태양계 행성 중 가장 커요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지구는 태양에서 몇 번째로 가까운 행성일까요?",
+    "choices": [
+      "첫 번째",
+      "두 번째",
+      "세 번째",
+      "네 번째"
+    ],
+    "answer": 2,
+    "explanation": "수성, 금성 다음 세 번째가 지구예요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "북극성은 어느 방위를 알려 주는 별일까요?",
+    "choices": [
+      "서쪽",
+      "남쪽",
+      "북쪽",
+      "동쪽"
+    ],
+    "answer": 2,
+    "explanation": "북극성은 늘 북쪽 하늘에 있어 북쪽을 알려 줘요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "카시오페이아자리의 모양을 나타내는 알파벳은?",
+    "choices": [
+      "T",
+      "L",
+      "O",
+      "W"
+    ],
+    "answer": 3,
+    "explanation": "카시오페이아자리는 W 모양이에요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "태양계 행성 중 크기가 가장 작은 행성은?",
+    "choices": [
+      "토성",
+      "수성",
+      "지구",
+      "목성"
+    ],
+    "answer": 1,
+    "explanation": "수성이 태양계 행성 중 가장 작아요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "토성보다 태양에서 더 멀리 있는 행성은?",
+    "choices": [
+      "화성",
+      "천왕성",
+      "금성",
+      "목성"
+    ],
+    "answer": 1,
+    "explanation": "토성 다음에 천왕성, 해왕성이 있어요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "금성이 새벽이나 저녁 하늘에서 아주 밝게 보이는데도 별이 아닌 까닭은?",
+    "choices": [
+      "스스로 빛을 내지 않고 태양 빛을 반사해서",
+      "태양보다 커서",
+      "고리가 있어서",
+      "지구에서 가장 멀어서"
+    ],
+    "answer": 0,
+    "explanation": "금성은 행성이라 태양 빛을 반사해서 밝게 보여요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "태양에서 가장 먼 행성은?",
+    "choices": [
+      "토성",
+      "목성",
+      "천왕성",
+      "해왕성"
+    ],
+    "answer": 3,
+    "explanation": "태양계 행성 중 해왕성이 가장 멀어요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "지구가 생물이 살기에 알맞은 까닭과 관계 깊은 것은?",
+    "choices": [
+      "태양계에서 가장 커서",
+      "태양과 알맞은 거리에 있어 물이 있어요",
+      "고리가 있어서",
+      "태양에서 가장 가까워서"
+    ],
+    "answer": 1,
+    "explanation": "태양에서 알맞은 거리에 있어 온도가 적당하고 물이 있어요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "북두칠성과 카시오페이아자리가 둘러싸고 있는 별은?",
+    "choices": [
+      "달",
+      "태양",
+      "금성",
+      "북극성"
+    ],
+    "answer": 3,
+    "explanation": "두 별자리는 북극성을 사이에 두고 반대편에 있어요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "태양계 행성 중 표면이 암석으로 되어 있는 행성끼리 짝지은 것은?",
+    "choices": [
+      "수성, 화성",
+      "천왕성, 해왕성",
+      "토성, 해왕성",
+      "목성, 토성"
+    ],
+    "answer": 0,
+    "explanation": "수성, 금성, 지구, 화성은 표면이 암석이에요.",
+    "semester": 2,
+    "unit": "밤하늘 관찰"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "생태계에서 죽은 생물을 분해하는 생물을 무엇이라고 할까요?",
+    "choices": [
+      "분해자",
+      "소비자",
+      "포식자",
+      "생산자"
+    ],
+    "answer": 0,
+    "explanation": "곰팡이와 세균처럼 죽은 생물을 분해하는 생물이 분해자예요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "햇빛을 받아 스스로 양분을 만드는 생물을 무엇이라고 할까요?",
+    "choices": [
+      "생산자",
+      "소비자",
+      "비생물 요소",
+      "분해자"
+    ],
+    "answer": 0,
+    "explanation": "식물처럼 스스로 양분을 만드는 생물이 생산자예요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "토끼는 생태계에서 소비자예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "토끼는 풀을 먹어 양분을 얻으니 소비자예요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "생태계의 생물 요소인 것은?",
+    "choices": [
+      "토끼풀",
+      "돌",
+      "물",
+      "햇빛"
+    ],
+    "answer": 0,
+    "explanation": "토끼풀은 살아 있는 생물이라 생물 요소예요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "먹고 먹히는 관계가 한 줄로 연결된 것을 무엇이라고 할까요?",
+    "choices": [
+      "먹이 그물",
+      "적응",
+      "먹이 사슬",
+      "생태계 평형"
+    ],
+    "answer": 2,
+    "explanation": "한 줄로 이어진 먹이 관계를 먹이 사슬이라고 해요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "생물이 사는 곳의 환경에 알맞게 몸의 생김새나 생활 방식이 변하는 것을 무엇이라고 할까요?",
+    "choices": [
+      "적응",
+      "분해",
+      "오염",
+      "증발"
+    ],
+    "answer": 0,
+    "explanation": "환경에 맞추어 살아가기 알맞게 된 것을 적응이라고 해요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "공기를 오염시키는 원인으로 알맞은 것은?",
+    "choices": [
+      "자동차 배기가스",
+      "나무 심기",
+      "쓰레기 줍기",
+      "자전거 타기"
+    ],
+    "answer": 0,
+    "explanation": "자동차 배기가스는 공기를 더럽혀요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "곰이 겨울잠을 자는 것과 관계 깊은 비생물 요소는?",
+    "choices": [
+      "온도",
+      "흙의 색",
+      "물의 색",
+      "소리"
+    ],
+    "answer": 0,
+    "explanation": "추운 겨울에 먹이가 부족해서 겨울잠을 자며 견뎌요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "생태계에서 분해자가 하는 일은?",
+    "choices": [
+      "햇빛으로 양분을 만들어요",
+      "다른 동물만 사냥해요",
+      "죽은 생물과 배출물을 분해해 흙으로 돌려보내요",
+      "물을 오염시켜요"
+    ],
+    "answer": 2,
+    "explanation": "분해자가 있어 죽은 생물이 쌓이지 않고 양분이 흙으로 돌아가요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "먹이 사슬 풀→메뚜기→개구리에서 소비자끼리 짝지은 것은?",
+    "choices": [
+      "풀, 메뚜기",
+      "풀, 개구리",
+      "메뚜기, 개구리",
+      "풀만"
+    ],
+    "answer": 2,
+    "explanation": "메뚜기와 개구리는 다른 생물을 먹으니 소비자예요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "흰 털을 가진 북극곰이 눈 덮인 곳에 사는 것이 유리한 까닭은?",
+    "choices": [
+      "물을 많이 마실 수 있어서",
+      "눈 덮인 곳에서 몸을 숨기기 좋아서",
+      "눈에 잘 띄어서",
+      "털이 무거워서"
+    ],
+    "answer": 1,
+    "explanation": "흰 털은 눈 덮인 환경에서 잘 보이지 않아 사냥에 유리해요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "먹이 그물이 먹이 사슬보다 생물이 살아가는 데 더 유리한 까닭은?",
+    "choices": [
+      "생물 수가 줄어서",
+      "먹고 먹히는 관계가 없어서",
+      "한 먹이가 없어져도 다른 먹이를 먹을 수 있어서",
+      "먹이가 하나뿐이라서"
+    ],
+    "answer": 2,
+    "explanation": "먹이 그물에서는 여러 먹이를 먹을 수 있어 살아남기 쉬워요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 연못에 사는 물고기가 갑자기 많이 죽었어요. 가장 먼저 알아볼 원인으로 알맞은 것은?",
+    "choices": [
+      "연못 이름이 무엇인지",
+      "하늘의 별이 몇 개인지",
+      "연못의 물이 오염되었는지",
+      "근처 건물의 색깔"
+    ],
+    "answer": 2,
+    "explanation": "물 오염은 물속 생물에 직접 큰 영향을 줘요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "콩나물을 빛이 없는 곳에 두면 떡잎이 어떻게 될까요?",
+    "choices": [
+      "노란색 그대로예요",
+      "빨간색이 돼요",
+      "초록색으로 변해요",
+      "파란색이 돼요"
+    ],
+    "answer": 0,
+    "explanation": "빛이 없으면 떡잎이 초록색으로 변하지 않고 노란색으로 남아요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "식물이 모두 사라지면 생태계에서 생길 일로 알맞은 것은?",
+    "choices": [
+      "아무 변화도 없어요",
+      "동물이 더 많아져요",
+      "분해자만 늘어나 모두 행복해져요",
+      "소비자가 먹이를 얻기 어려워져요"
+    ],
+    "answer": 3,
+    "explanation": "생산자가 없으면 먹이 사슬의 시작이 없어져 소비자도 살기 어려워요.",
+    "semester": 2,
+    "unit": "생물과 환경"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "우리 주변을 둘러싸고 있는, 여러 기체가 섞인 것은?",
+    "choices": [
+      "얼음",
+      "흙",
+      "물",
+      "공기"
+    ],
+    "answer": 3,
+    "explanation": "공기는 질소, 산소 같은 여러 기체가 섞여 있어요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "물질이 탈 때 필요한 기체는?",
+    "choices": [
+      "산소",
+      "이산화 탄소",
+      "질소",
+      "헬륨"
+    ],
+    "answer": 0,
+    "explanation": "산소는 물질이 타는 것을 도와요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "기체는 눈에 보이지 않아도 공간을 차지해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "공기 같은 기체도 부피가 있어 공간을 차지해요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "석회수를 뿌옇게 흐리게 하는 기체는?",
+    "choices": [
+      "산소",
+      "헬륨",
+      "이산화 탄소",
+      "질소"
+    ],
+    "answer": 2,
+    "explanation": "이산화 탄소는 석회수를 뿌옇게 만들어요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "기체의 모양에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "모양이 절대 변하지 않아요",
+      "담는 그릇에 따라 모양이 변해요",
+      "늘 둥근 모양이에요",
+      "네모 모양이에요"
+    ],
+    "answer": 1,
+    "explanation": "기체는 담는 그릇을 가득 채우며 모양이 바뀌어요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "공기를 넣은 주사기 입구를 막고 피스톤을 세게 누르면 공기의 부피는 어떻게 될까요?",
+    "choices": [
+      "많이 늘어나요",
+      "없어져요",
+      "많이 줄어들어요",
+      "변하지 않아요"
+    ],
+    "answer": 2,
+    "explanation": "기체는 압력을 세게 받을수록 부피가 많이 줄어요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "찌그러진 탁구공을 뜨거운 물에 넣으면 펴지는 까닭은?",
+    "choices": [
+      "물이 탁구공에 들어가서",
+      "탁구공이 녹아서",
+      "공기가 줄어서",
+      "탁구공 안 공기의 부피가 늘어나서"
+    ],
+    "answer": 3,
+    "explanation": "온도가 높아지면 기체의 부피가 늘어나 공이 펴져요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이산화 탄소의 성질로 알맞은 것은?",
+    "choices": [
+      "다른 물질이 타는 것을 막아요",
+      "색깔이 노래요",
+      "냄새가 아주 고약해요",
+      "물질이 잘 타도록 도와요"
+    ],
+    "answer": 0,
+    "explanation": "이산화 탄소는 불을 끄는 데 쓰일 만큼 타는 것을 막아요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "자동차 타이어나 자전거 바퀴에 많이 넣는 것은?",
+    "choices": [
+      "물",
+      "기름",
+      "공기",
+      "모래"
+    ],
+    "answer": 2,
+    "explanation": "공기를 넣으면 눌려도 다시 부피가 돌아와 충격을 줄여요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "산소에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "색깔이 없어요",
+      "냄새가 없어요",
+      "생물이 숨 쉬는 데 필요해요",
+      "석회수를 뿌옇게 만들어요"
+    ],
+    "answer": 3,
+    "explanation": "석회수를 뿌옇게 하는 것은 이산화 탄소예요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "추운 바깥에서 부풀린 풍선을 따뜻한 방에 가져오면 어떻게 될까요?",
+    "choices": [
+      "조금 작아져요",
+      "터져서 없어져요",
+      "조금 커져요",
+      "변하지 않아요"
+    ],
+    "answer": 2,
+    "explanation": "온도가 높아지면 풍선 속 공기의 부피가 늘어나요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공기와 물을 각각 넣은 주사기 입구를 막고 같은 힘으로 눌렀을 때의 결과로 옳은 것은?",
+    "choices": [
+      "물이 든 주사기만 많이 들어가요",
+      "둘 다 전혀 안 들어가요",
+      "둘 다 똑같이 들어가요",
+      "공기가 든 주사기만 많이 들어가요"
+    ],
+    "answer": 3,
+    "explanation": "기체는 압력을 받으면 부피가 줄지만 액체는 거의 줄지 않아요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공기 중 산소가 없다면 일어날 수 있는 일은?",
+    "choices": [
+      "석회수가 뿌옇게 변해요",
+      "사람이 숨을 쉬기 어려워요",
+      "물이 끓지 않아요",
+      "촛불이 더 잘 타요"
+    ],
+    "answer": 1,
+    "explanation": "산소는 생물이 숨 쉬는 데 꼭 필요해요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공기를 넣고 입구를 막은 페트병을 냉장고에 넣었다 꺼내면 조금 찌그러져 있어요. 그 까닭은?",
+    "choices": [
+      "페트병 속 공기의 부피가 줄어서",
+      "페트병이 녹아서",
+      "공기가 늘어나서",
+      "물이 생겨서"
+    ],
+    "answer": 0,
+    "explanation": "온도가 낮아지면 기체의 부피가 줄어들어요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "불을 끄는 데 쓰이는 이산화 탄소가 산소와 다른 성질은?",
+    "choices": [
+      "생물이 숨 쉬는 데 꼭 필요해요",
+      "냄새가 나요",
+      "색깔이 있어요",
+      "물질이 타는 것을 막아요"
+    ],
+    "answer": 3,
+    "explanation": "산소는 타는 것을 돕고, 이산화 탄소는 타는 것을 막아요.",
+    "semester": 2,
+    "unit": "여러 가지 기체"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지구의 평균 기온이 점점 높아지는 현상을 무엇이라고 할까요?",
+    "choices": [
+      "지진",
+      "지구 온난화",
+      "일식",
+      "화산"
+    ],
+    "answer": 1,
+    "explanation": "지구 평균 기온이 오르는 것을 지구 온난화라고 해요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "기후변화를 줄이는 행동으로 알맞은 것은?",
+    "choices": [
+      "쓰지 않는 전등을 켜 둬요",
+      "음식을 많이 남겨요",
+      "가까운 거리는 걸어가요",
+      "일회용품을 많이 써요"
+    ],
+    "answer": 2,
+    "explanation": "걸어가면 자동차에서 나오는 온실 기체를 줄일 수 있어요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "나무를 심는 것은 기후변화를 줄이는 데 도움이 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "나무는 이산화 탄소를 흡수해요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "기후변화의 영향으로 알맞은 것은?",
+    "choices": [
+      "바다가 없어져요",
+      "지구가 작아져요",
+      "태양이 사라져요",
+      "폭염이 잦아져요"
+    ],
+    "answer": 3,
+    "explanation": "기온이 올라 무더위가 자주 나타나요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오늘 비가 오는 것은 날씨일까요, 기후일까요?",
+    "choices": [
+      "둘 다 아님",
+      "알 수 없음",
+      "기후",
+      "날씨"
+    ],
+    "answer": 3,
+    "explanation": "짧은 시간의 대기 상태는 날씨예요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "온실 기체를 줄이는 방법으로 알맞은 것은?",
+    "choices": [
+      "가까운 거리도 자동차를 타요",
+      "대중교통을 이용해요",
+      "에어컨을 아주 낮은 온도로 켜요",
+      "쓰레기를 많이 만들어요"
+    ],
+    "answer": 1,
+    "explanation": "대중교통을 이용하면 자동차 연료 사용이 줄어요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빙하가 녹으면 해수면은 어떻게 될까요?",
+    "choices": [
+      "변하지 않아요",
+      "낮아져요",
+      "바다가 얼어요",
+      "높아져요"
+    ],
+    "answer": 3,
+    "explanation": "육지의 빙하가 녹은 물이 바다로 흘러 해수면이 높아져요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "일회용 컵 대신 개인 컵을 쓰는 것이 기후변화 대응이 되는 까닭은?",
+    "choices": [
+      "컵을 만들고 버릴 때 나오는 온실 기체를 줄여서",
+      "물을 더 많이 마셔서",
+      "컵이 무거워서",
+      "컵이 더 예뻐서"
+    ],
+    "answer": 0,
+    "explanation": "물건을 덜 만들고 덜 버리면 온실 기체가 줄어요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기후변화로 우리나라 바다에서 늘어날 수 있는 것은?",
+    "choices": [
+      "펭귄",
+      "추운 바다에 사는 물고기만",
+      "빙하",
+      "따뜻한 바다에 사는 물고기"
+    ],
+    "answer": 3,
+    "explanation": "바닷물 온도가 오르면 따뜻한 바다 물고기가 늘어날 수 있어요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "기후는 하루 동안의 날씨만 보고 정해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "기후는 오랜 기간의 평균적인 날씨 상태예요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "석탄 화력 발전소 대신 태양광 발전을 늘리면 기후변화를 줄이는 데 도움이 되는 까닭은?",
+    "choices": [
+      "전기를 만들 때 온실 기체가 적게 나와서",
+      "햇빛이 더 세져서",
+      "전기가 필요 없어져서",
+      "석탄이 더 많아져서"
+    ],
+    "answer": 0,
+    "explanation": "태양광은 연료를 태우지 않아 온실 기체가 적게 나와요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "기후변화로 생긴 문제와 대응 방법을 바르게 짝지은 것은?",
+    "choices": [
+      "폭염 - 한낮에 그늘에서 쉬고 물을 자주 마셔요",
+      "홍수 - 하천 근처에서 놀아요",
+      "해수면 상승 - 바닷가에 집을 더 지어요",
+      "가뭄 - 물을 마음껏 써요"
+    ],
+    "answer": 0,
+    "explanation": "폭염에는 무더위를 피하고 물을 자주 마셔야 해요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "고기를 덜 먹고 채소를 더 먹는 것이 기후변화 대응이 될 수 있는 까닭은?",
+    "choices": [
+      "가축을 기를 때 온실 기체가 많이 나와서",
+      "채소가 더 비싸서",
+      "채소는 물이 필요 없어서",
+      "고기가 더 무거워서"
+    ],
+    "answer": 0,
+    "explanation": "가축을 기르는 과정에서 온실 기체가 많이 나와요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리나라에서 아열대 과일을 기르는 곳이 늘어나는 까닭은?",
+    "choices": [
+      "비가 전혀 오지 않아서",
+      "기후가 점점 추워져서",
+      "땅이 넓어져서",
+      "기후가 점점 따뜻해져서"
+    ],
+    "answer": 3,
+    "explanation": "평균 기온이 오르면서 따뜻한 곳의 작물도 기를 수 있게 됐어요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "기후변화를 줄이려면 나라와 개인이 함께 노력해야 해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "정책과 생활 속 실천이 함께 있어야 효과가 커요.",
+    "semester": 2,
+    "unit": "기후변화와 우리 생활"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "관찰할 때 쓰는 감각기관이 아닌 것은?",
+    "choices": [
+      "눈",
+      "귀",
+      "코",
+      "머리카락"
+    ],
+    "answer": 3,
+    "explanation": "눈, 귀, 코, 혀, 피부로 관찰해요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "온도를 잴 때 쓰는 도구는?",
+    "choices": [
+      "저울",
+      "나침반",
+      "온도계",
+      "자"
+    ],
+    "answer": 2,
+    "explanation": "온도계로 온도를 재요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "실험 결과를 보고 알게 된 것을 정리하는 것을 무엇이라고 할까요?",
+    "choices": [
+      "관찰하기",
+      "결론 내리기",
+      "가설 세우기",
+      "측정하기"
+    ],
+    "answer": 1,
+    "explanation": "결과를 해석해 알게 된 것을 정리하는 것이 결론 내리기예요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "시간에 따라 변하는 양을 나타낼 때 꺾은선그래프가 알맞아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "꺾은선그래프는 변화하는 모습을 잘 보여 줘요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "물체의 무게를 잴 때 쓰는 도구는?",
+    "choices": [
+      "돋보기",
+      "저울",
+      "온도계",
+      "자"
+    ],
+    "answer": 1,
+    "explanation": "무게는 저울로 재요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "풍선 크기에 따라 풍선 로켓이 날아가는 거리를 알아볼 때 같게 해야 할 조건은?",
+    "choices": [
+      "실의 길이와 종류",
+      "날아간 거리",
+      "풍선의 크기",
+      "풍선을 분 횟수"
+    ],
+    "answer": 0,
+    "explanation": "다르게 할 조건(풍선 크기) 말고 나머지는 같게 해요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "실험 계획을 세울 때 꼭 정해야 하는 것은?",
+    "choices": [
+      "실험 방법과 준비물",
+      "친구의 이름 순서",
+      "결론",
+      "발표회 장소"
+    ],
+    "answer": 0,
+    "explanation": "방법과 준비물을 정해야 실험할 수 있어요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "측정한 값을 기록할 때 알맞은 방법은?",
+    "choices": [
+      "기억했다가 나중에 적어요",
+      "어림해서 적어요",
+      "단위는 빼요",
+      "단위를 함께 써요"
+    ],
+    "answer": 3,
+    "explanation": "값과 단위를 함께 바로 기록해야 정확해요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 실험으로 확인하기 어려운 탐구 문제는?",
+    "choices": [
+      "물의 양에 따라 싹이 트는 데 걸리는 날수가 달라질까?",
+      "경사에 따라 공이 굴러가는 거리가 다를까?",
+      "어떤 꽃이 가장 아름다울까?",
+      "온도에 따라 얼음이 녹는 빠르기가 다를까?"
+    ],
+    "answer": 2,
+    "explanation": "아름다움은 사람마다 달라 실험으로 확인하기 어려워요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "모둠 탐구에서 알맞은 태도는?",
+    "choices": [
+      "친구 의견을 무시해요",
+      "결과를 서로 숨겨요",
+      "역할을 나누어 협력해요",
+      "혼자서만 모두 해요"
+    ],
+    "answer": 2,
+    "explanation": "역할을 나누고 협력하면 탐구를 잘할 수 있어요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "얼음 녹이기 실험 결과 3분, 3분, 9분, 3분이 나왔어요. 9분에 대해 할 알맞은 행동은?",
+    "choices": [
+      "모두 9분으로 고쳐요",
+      "9분만 결과로 써요",
+      "까닭을 살펴보고 다시 측정해 봐요",
+      "그냥 지워요"
+    ],
+    "answer": 2,
+    "explanation": "다른 값과 크게 다르면 실수를 살피고 다시 재어 확인해요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "\"햇빛을 받은 식물이 더 잘 자랄 것이다.\"라는 가설을 확인하는 알맞은 실험은?",
+    "choices": [
+      "같은 식물을 햇빛과 그늘에 두고 나머지는 같게 해요",
+      "한 식물만 햇빛에 둬요",
+      "다른 식물을 다른 화분에 아무렇게나 둬요",
+      "물 주는 양과 햇빛을 함께 바꿔요"
+    ],
+    "answer": 0,
+    "explanation": "햇빛 조건만 다르게 하고 나머지를 같게 해야 해요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "탐구 결과를 발표할 때 들어갈 내용으로 알맞지 않은 것은?",
+    "choices": [
+      "실험 방법",
+      "탐구 문제",
+      "실험 결과와 결론",
+      "확인하지 않은 소문"
+    ],
+    "answer": 3,
+    "explanation": "발표는 실험으로 확인한 사실을 바탕으로 해요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "결론을 내릴 때 알맞은 것은?",
+    "choices": [
+      "내가 바라던 것을 적어요",
+      "다른 모둠 결과를 그대로 베껴요",
+      "실험 결과를 근거로 해요",
+      "결과와 관계없이 적어요"
+    ],
+    "answer": 2,
+    "explanation": "결론은 내가 얻은 실험 결과를 근거로 내려요.",
+    "semester": 2,
+    "unit": "과학 탐구"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "탐구를 마친 뒤 새로운 궁금증이 생기면 다시 탐구 문제로 정해 탐구할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "탐구는 새로운 궁금증으로 이어져 계속될 수 있어요.",
+    "semester": 2,
+    "unit": "과학 탐구"
   }
 ]
