@@ -3028,6 +3028,414 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 3 × 8 − 4 + 12 + 18",
+  "choices": [
+   "8 − 4",
+   "4 + 12",
+   "3 × 8",
+   "12 + 18"
+  ],
+  "answer": 2,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 3 × 8 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 50)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 5 × 5 − 8 − 17 + 6",
+  "choices": [
+   "5 × 5",
+   "8 − 17",
+   "5 − 8",
+   "17 + 6"
+  ],
+  "answer": 0,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 5 × 5 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 6)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 29 + (30 − 6) × 5 − 23",
+  "choices": [
+   "5 − 23",
+   "29 + 30",
+   "30 − 6",
+   "6 × 5"
+  ],
+  "answer": 2,
+  "explanation": "( ) 안의 30 − 6 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 126)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 5 × 5 + 19 − 27 + 18",
+  "choices": [
+   "19 − 27",
+   "27 + 18",
+   "5 × 5",
+   "5 + 19"
+  ],
+  "answer": 2,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 5 × 5 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 35)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 16 + 11 × 9 + 17 − 17",
+  "choices": [
+   "16 + 11",
+   "17 − 17",
+   "11 × 9",
+   "9 + 17"
+  ],
+  "answer": 2,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 11 × 9 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 115)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 29 − 2 + 26 × 4 − 27",
+  "choices": [
+   "29 − 2",
+   "2 + 26",
+   "26 × 4",
+   "4 − 27"
+  ],
+  "answer": 2,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 26 × 4 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 104)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 17 + 25 + 25 × 2 ÷ 2",
+  "choices": [
+   "17 + 25",
+   "2 ÷ 2",
+   "25 + 25",
+   "25 × 2"
+  ],
+  "answer": 3,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 25 × 2 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 67)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 식에서 가장 먼저 계산해야 하는 부분을 고르세요. 27 × 9 + 10 − 25 + 9",
+  "choices": [
+   "27 × 9",
+   "25 + 9",
+   "9 + 10",
+   "10 − 25"
+  ],
+  "answer": 0,
+  "explanation": "곱셈과 나눗셈 중 앞에 있는 27 × 9 부분을 가장 먼저 계산해요. (끝까지 계산한 값: 237)",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-first"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 12 □ 4 + 3 × 2 = 54",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 2,
+  "explanation": "12 × 4 + 3 × 2 = 54 → □ 안에 알맞은 기호: ×",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 34 □ 6 − 8 × 6 = 156",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 2,
+  "explanation": "34 × 6 − 8 × 6 = 156 → □ 안에 알맞은 기호: ×",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 19 □ 8 + 10 × 6 = 71",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 1,
+  "explanation": "19 − 8 + 10 × 6 = 71 → □ 안에 알맞은 기호: −",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 35 □ 5 + 12 × 4 = 55",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 3,
+  "explanation": "35 ÷ 5 + 12 × 4 = 55 → □ 안에 알맞은 기호: ÷",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 12 □ 4 + 6 ÷ 3 = 5",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 3,
+  "explanation": "12 ÷ 4 + 6 ÷ 3 = 5 → □ 안에 알맞은 기호: ÷",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 32 □ 3 + 16 ÷ 2 = 37",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 1,
+  "explanation": "32 − 3 + 16 ÷ 2 = 37 → □ 안에 알맞은 기호: −",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 11 □ 5 + 12 ÷ 2 = 22",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 0,
+  "explanation": "11 + 5 + 12 ÷ 2 = 22 → □ 안에 알맞은 기호: +",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 기호를 고르세요. 40 □ 6 − 54 ÷ 6 = 25",
+  "choices": [
+   "+",
+   "−",
+   "×",
+   "÷"
+  ],
+  "answer": 1,
+  "explanation": "40 − 6 − 54 ÷ 6 = 25 → □ 안에 알맞은 기호: −",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-sign"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 4를 곱하고 3을 더한 뒤 3으로 나누었더니 17이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "120",
+   "10",
+   "11",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "(□ × 4 + 3) ÷ 3 = 17 → □ × 4 + 3 = 17 × 3 = 51, □ × 4 = 51 − 3 = 48, □ = 48 ÷ 4 = 12",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 6을 곱하고 24를 더한 뒤 8로 나누었더니 12가 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "20",
+   "12",
+   "120",
+   "13"
+  ],
+  "answer": 1,
+  "explanation": "(□ × 6 + 24) ÷ 8 = 12 → □ × 6 + 24 = 12 × 8 = 96, □ × 6 = 96 − 24 = 72, □ = 72 ÷ 6 = 12",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 8을 곱하고 10을 더한 뒤 2로 나누었더니 41이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "11",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "(□ × 8 + 10) ÷ 2 = 41 → □ × 8 + 10 = 41 × 2 = 82, □ × 8 = 82 − 10 = 72, □ = 72 ÷ 8 = 9",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 5를 곱하고 19를 더한 뒤 3으로 나누었더니 33이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "18",
+   "16",
+   "17",
+   "15"
+  ],
+  "answer": 1,
+  "explanation": "(□ × 5 + 19) ÷ 3 = 33 → □ × 5 + 19 = 33 × 3 = 99, □ × 5 = 99 − 19 = 80, □ = 80 ÷ 5 = 16",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 7을 곱하고 8을 더한 뒤 2로 나누었더니 11이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "3",
+   "2",
+   "1",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "(□ × 7 + 8) ÷ 2 = 11 → □ × 7 + 8 = 11 × 2 = 22, □ × 7 = 22 − 8 = 14, □ = 14 ÷ 7 = 2",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 3을 곱하고 22를 더한 뒤 2로 나누었더니 23이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "6",
+   "5",
+   "8",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "(□ × 3 + 22) ÷ 2 = 23 → □ × 3 + 22 = 23 × 2 = 46, □ × 3 = 46 − 22 = 24, □ = 24 ÷ 3 = 8",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 5를 곱하고 2를 더한 뒤 3으로 나누었더니 4가 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "3",
+   "4",
+   "1",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "(□ × 5 + 2) ÷ 3 = 4 → □ × 5 + 2 = 4 × 3 = 12, □ × 5 = 12 − 2 = 10, □ = 10 ÷ 5 = 2",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 2를 곱하고 29를 더한 뒤 5로 나누었더니 11이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "42",
+   "13",
+   "14",
+   "130"
+  ],
+  "answer": 1,
+  "explanation": "(□ × 2 + 29) ÷ 5 = 11 → □ × 2 + 29 = 11 × 5 = 55, □ × 2 = 55 − 29 = 26, □ = 26 ÷ 2 = 13",
+  "standard": "[6수01-01]",
+  "semester": 1,
+  "unit": "자연수의 혼합 계산",
+  "source": "math-king:a5-mc-reverse"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "37의 약수는 모두 몇 개인가요?",
   "choices": [
    "1개",
@@ -3704,6 +4112,142 @@
   "semester": 1,
   "unit": "약수와 배수",
   "source": "math-king:w5-share-ways"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "12의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, □, 3, 4, 6, 12",
+  "choices": [
+   "3",
+   "4",
+   "1",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "12의 약수: 1, 2, 3, 4, 6, 12",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "40의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, 2, 4, 5, 8, □, 20, 40",
+  "choices": [
+   "30",
+   "20",
+   "40",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "40의 약수: 1, 2, 4, 5, 8, 10, 20, 40",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "30의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, 2, 3, 5, 6, 10, □, 30",
+  "choices": [
+   "12",
+   "15",
+   "13",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "30의 약수: 1, 2, 3, 5, 6, 10, 15, 30",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "50의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, 2, □, 10, 25, 50",
+  "choices": [
+   "7",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "50의 약수: 1, 2, 5, 10, 25, 50",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "48의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, 2, □, 4, 6, 8, 12, 16, 24, 48",
+  "choices": [
+   "3",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "48의 약수: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "24의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, 2, 3, 4, 6, 8, □, 24",
+  "choices": [
+   "14",
+   "13",
+   "120",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "24의 약수: 1, 2, 3, 4, 6, 8, 12, 24",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "12의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, 2, 3, □, 6, 12",
+  "choices": [
+   "6",
+   "4",
+   "5",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "12의 약수: 1, 2, 3, 4, 6, 12",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "20의 약수를 작은 수부터 차례로 모두 쓴 것입니다. □ 안에 알맞은 수를 구하세요. 1, □, 4, 5, 10, 20",
+  "choices": [
+   "3",
+   "1",
+   "2",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "20의 약수: 1, 2, 4, 5, 10, 20",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-hidden"
  },
  {
   "difficulty": 1,
@@ -5491,6 +6035,142 @@
   "source": "math-king:l5-gcd-remain"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 12 cm, 세로 15 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "20장",
+   "30장",
+   "40장",
+   "9장"
+  ],
+  "answer": 0,
+  "explanation": "12와 15의 최대공약수: 3 → 정사각형의 한 변은 3 cm, 가로로 12 ÷ 3 = 4(장), 세로로 15 ÷ 3 = 5(장) → 4 × 5 = 20(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 22 cm, 세로 77 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "14장",
+   "15장",
+   "9장",
+   "16장"
+  ],
+  "answer": 0,
+  "explanation": "22와 77의 최대공약수: 11 → 정사각형의 한 변은 11 cm, 가로로 22 ÷ 11 = 2(장), 세로로 77 ÷ 11 = 7(장) → 2 × 7 = 14(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 42 cm, 세로 24 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "8장",
+   "18장",
+   "28장",
+   "11장"
+  ],
+  "answer": 2,
+  "explanation": "42와 24의 최대공약수: 6 → 정사각형의 한 변은 6 cm, 가로로 42 ÷ 6 = 7(장), 세로로 24 ÷ 6 = 4(장) → 7 × 4 = 28(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 49 cm, 세로 28 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "11장",
+   "18장",
+   "8장",
+   "28장"
+  ],
+  "answer": 3,
+  "explanation": "49와 28의 최대공약수: 7 → 정사각형의 한 변은 7 cm, 가로로 49 ÷ 7 = 7(장), 세로로 28 ÷ 7 = 4(장) → 7 × 4 = 28(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 21 cm, 세로 9 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "23장",
+   "10장",
+   "21장",
+   "22장"
+  ],
+  "answer": 2,
+  "explanation": "21과 9의 최대공약수: 3 → 정사각형의 한 변은 3 cm, 가로로 21 ÷ 3 = 7(장), 세로로 9 ÷ 3 = 3(장) → 7 × 3 = 21(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 36 cm, 세로 45 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "10장",
+   "20장",
+   "9장",
+   "30장"
+  ],
+  "answer": 1,
+  "explanation": "36과 45의 최대공약수: 9 → 정사각형의 한 변은 9 cm, 가로로 36 ÷ 9 = 4(장), 세로로 45 ÷ 9 = 5(장) → 4 × 5 = 20(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 42 cm, 세로 12 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "9장",
+   "14장",
+   "12장",
+   "13장"
+  ],
+  "answer": 1,
+  "explanation": "42와 12의 최대공약수: 6 → 정사각형의 한 변은 6 cm, 가로로 42 ÷ 6 = 7(장), 세로로 12 ÷ 6 = 2(장) → 7 × 2 = 14(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로 77 cm, 세로 33 cm인 직사각형 모양 종이를 남는 부분 없이 똑같은 크기의 정사각형 여러 장으로 자르려고 합니다. 정사각형을 가장 크게 자르면 정사각형은 모두 몇 장이 되나요?",
+  "choices": [
+   "21장",
+   "1장",
+   "10장",
+   "11장"
+  ],
+  "answer": 0,
+  "explanation": "77과 33의 최대공약수: 11 → 정사각형의 한 변은 11 cm, 가로로 77 ÷ 11 = 7(장), 세로로 33 ÷ 11 = 3(장) → 7 × 3 = 21(장)",
+  "standard": "[6수01-04]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-squares"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "10과 15의 최소공배수를 구하세요.",
@@ -6169,6 +6849,142 @@
   "semester": 1,
   "unit": "약수와 배수",
   "source": "math-king:l5-lcm-remain"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3과 5의 공배수 중에서 134보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "136",
+   "1350",
+   "135",
+   "120"
+  ],
+  "answer": 2,
+  "explanation": "3과 5의 최소공배수는 15 → 공배수는 15의 배수: …, 120, 135, … → 134보다 큰 가장 작은 수는 135",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3과 10의 공배수 중에서 143보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "150",
+   "140",
+   "1500",
+   "120"
+  ],
+  "answer": 0,
+  "explanation": "3과 10의 최소공배수는 30 → 공배수는 30의 배수: …, 120, 150, … → 143보다 큰 가장 작은 수는 150",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "4와 9의 공배수 중에서 130보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "143",
+   "108",
+   "1440",
+   "144"
+  ],
+  "answer": 3,
+  "explanation": "4와 9의 최소공배수는 36 → 공배수는 36의 배수: …, 108, 144, … → 130보다 큰 가장 작은 수는 144",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "4와 6의 공배수 중에서 174보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "180",
+   "1800",
+   "192",
+   "168"
+  ],
+  "answer": 0,
+  "explanation": "4와 6의 최소공배수는 12 → 공배수는 12의 배수: …, 168, 180, … → 174보다 큰 가장 작은 수는 180",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "4와 10의 공배수 중에서 83보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "100",
+   "80",
+   "120",
+   "1000"
+  ],
+  "answer": 0,
+  "explanation": "4와 10의 최소공배수는 20 → 공배수는 20의 배수: …, 80, 100, … → 83보다 큰 가장 작은 수는 100",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "5와 7의 공배수 중에서 128보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "105",
+   "150",
+   "130",
+   "140"
+  ],
+  "answer": 3,
+  "explanation": "5와 7의 최소공배수는 35 → 공배수는 35의 배수: …, 105, 140, … → 128보다 큰 가장 작은 수는 140",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "4와 9의 공배수 중에서 73보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "109",
+   "1080",
+   "72",
+   "108"
+  ],
+  "answer": 3,
+  "explanation": "4와 9의 최소공배수는 36 → 공배수는 36의 배수: …, 72, 108, … → 73보다 큰 가장 작은 수는 108",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "8과 12의 공배수 중에서 199보다 큰 수 중 가장 작은 수를 구하세요.",
+  "choices": [
+   "192",
+   "288",
+   "206",
+   "216"
+  ],
+  "answer": 3,
+  "explanation": "8과 12의 최소공배수는 24 → 공배수는 24의 배수: …, 192, 216, … → 199보다 큰 가장 작은 수는 216",
+  "standard": "[6수01-05]",
+  "semester": 1,
+  "unit": "약수와 배수",
+  "source": "math-king:a5-fc-lcm-over"
  },
  {
   "difficulty": 2,
@@ -7941,6 +8757,142 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "의자 한 개에 다리가 4개 있습니다. 의자 수를 ○, 다리 수를 △라고 할 때, ○가 14이면 △는 얼마인가요?",
+  "choices": [
+   "76",
+   "18",
+   "56",
+   "66"
+  ],
+  "answer": 2,
+  "explanation": "△ = ○ × 4이므로 14 × 4 = 56",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "의자 한 개에 다리가 4개 있습니다. 의자 수를 ○, 다리 수를 △라고 할 때, ○가 19이면 △는 얼마인가요?",
+  "choices": [
+   "760",
+   "86",
+   "76",
+   "23"
+  ],
+  "answer": 2,
+  "explanation": "△ = ○ × 4이므로 19 × 4 = 76",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "문어 한 마리에 다리가 8개 있습니다. 문어 수를 ○, 다리 수를 △라고 할 때, ○가 26이면 △는 얼마인가요?",
+  "choices": [
+   "207",
+   "208",
+   "34",
+   "206"
+  ],
+  "answer": 1,
+  "explanation": "△ = ○ × 8이므로 26 × 8 = 208",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "삼각형 한 개에 꼭짓점이 3개 있습니다. 삼각형 수를 ○, 꼭짓점 수를 △라고 할 때, ○가 15이면 △는 얼마인가요?",
+  "choices": [
+   "45",
+   "35",
+   "18",
+   "450"
+  ],
+  "answer": 0,
+  "explanation": "△ = ○ × 3이므로 15 × 3 = 45",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "세발자전거 한 대에 바퀴가 3개 있습니다. 세발자전거 수를 ○, 바퀴 수를 △라고 할 때, ○가 24이면 △는 얼마인가요?",
+  "choices": [
+   "73",
+   "72",
+   "720",
+   "27"
+  ],
+  "answer": 1,
+  "explanation": "△ = ○ × 3이므로 24 × 3 = 72",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "오리 한 마리에 다리가 2개 있습니다. 오리 수를 ○, 다리 수를 △라고 할 때, ○가 10이면 △는 얼마인가요?",
+  "choices": [
+   "12",
+   "30",
+   "20",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "△ = ○ × 2이므로 10 × 2 = 20",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "세발자전거 한 대에 바퀴가 3개 있습니다. 세발자전거 수를 ○, 바퀴 수를 △라고 할 때, ○가 15이면 △는 얼마인가요?",
+  "choices": [
+   "18",
+   "46",
+   "45",
+   "450"
+  ],
+  "answer": 2,
+  "explanation": "△ = ○ × 3이므로 15 × 3 = 45",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "세발자전거 한 대에 바퀴가 3개 있습니다. 세발자전거 수를 ○, 바퀴 수를 △라고 할 때, ○가 5이면 △는 얼마인가요?",
+  "choices": [
+   "16",
+   "8",
+   "150",
+   "15"
+  ],
+  "answer": 3,
+  "explanation": "△ = ○ × 3이므로 5 × 3 = 15",
+  "standard": "[6수02-01]",
+  "semester": 1,
+  "unit": "규칙과 대응",
+  "source": "math-king:a5-cr-legs"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "크기가 같은 분수가 되도록 □ 안에 알맞은 수를 구하세요. 1/6 = □/12",
   "choices": [
    "3",
@@ -9299,6 +10251,142 @@
   "source": "math-king:w5-glasses-frac"
  },
  {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 18인 진분수 중에서 분모와 분자를 3으로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "8개",
+   "7개",
+   "5개",
+   "6개"
+  ],
+  "answer": 2,
+  "explanation": "분자가 될 수 있는 수는 1부터 17까지이고, 그중 3의 배수: 3, 6, 9, 12, 15 → 5개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 24인 진분수 중에서 분모와 분자를 3으로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "6개",
+   "7개",
+   "9개",
+   "8개"
+  ],
+  "answer": 1,
+  "explanation": "분자가 될 수 있는 수는 1부터 23까지이고, 그중 3의 배수: 3, 6, 9, 12, 15, 18, 21 → 7개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 33인 진분수 중에서 분모와 분자를 3으로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "30개",
+   "10개",
+   "11개",
+   "20개"
+  ],
+  "answer": 1,
+  "explanation": "분자가 될 수 있는 수는 1부터 32까지이고, 그중 3의 배수: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30 → 10개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 35인 진분수 중에서 분모와 분자를 5로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "7개",
+   "5개",
+   "8개",
+   "6개"
+  ],
+  "answer": 3,
+  "explanation": "분자가 될 수 있는 수는 1부터 34까지이고, 그중 5의 배수: 5, 10, 15, 20, 25, 30 → 6개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 20인 진분수 중에서 분모와 분자를 2로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "9개",
+   "12개",
+   "11개",
+   "10개"
+  ],
+  "answer": 0,
+  "explanation": "분자가 될 수 있는 수는 1부터 19까지이고, 그중 2의 배수: 2, 4, 6, 8, 10, 12, 14, 16, 18 → 9개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 10인 진분수 중에서 분모와 분자를 2로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "3개",
+   "4개",
+   "6개",
+   "5개"
+  ],
+  "answer": 1,
+  "explanation": "분자가 될 수 있는 수는 1부터 9까지이고, 그중 2의 배수: 2, 4, 6, 8 → 4개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 14인 진분수 중에서 분모와 분자를 2로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "7개",
+   "6개",
+   "9개",
+   "8개"
+  ],
+  "answer": 1,
+  "explanation": "분자가 될 수 있는 수는 1부터 13까지이고, 그중 2의 배수: 2, 4, 6, 8, 10, 12 → 6개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 6인 진분수 중에서 분모와 분자를 2로 나누어 약분할 수 있는 분수는 모두 몇 개인가요?",
+  "choices": [
+   "1개",
+   "4개",
+   "3개",
+   "2개"
+  ],
+  "answer": 3,
+  "explanation": "분자가 될 수 있는 수는 1부터 5까지이고, 그중 2의 배수: 2, 4 → 2개",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-reduce-ways"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "1/8과 1/5을 가장 작은 공통분모로 통분할 때 공통분모는 얼마인가요?",
@@ -9977,6 +11065,142 @@
   "semester": 1,
   "unit": "약분과 통분",
   "source": "math-king:w5-common-under"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/2과 5/6를 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 5/6 = □/12",
+  "choices": [
+   "10",
+   "100",
+   "20",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "공통분모는 2 × 6 = 12, 5/6 = (5 × 2)/(6 × 2) = 10/12",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "7/8과 1/2을 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 1/2 = □/16",
+  "choices": [
+   "1",
+   "8",
+   "9",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "공통분모는 8 × 2 = 16, 1/2 = (1 × 8)/(2 × 8) = 8/16",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "4/5와 1/4을 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 4/5 = □/20",
+  "choices": [
+   "160",
+   "15",
+   "16",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "공통분모는 5 × 4 = 20, 4/5 = (4 × 4)/(5 × 4) = 16/20",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "3/8과 1/7을 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 3/8 = □/56",
+  "choices": [
+   "11",
+   "21",
+   "1",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "공통분모는 8 × 7 = 56, 3/8 = (3 × 7)/(8 × 7) = 21/56",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/2과 2/3를 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 1/2 = □/6",
+  "choices": [
+   "4",
+   "5",
+   "1",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "공통분모는 2 × 3 = 6, 1/2 = (1 × 3)/(2 × 3) = 3/6",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/4과 2/7를 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 2/7 = □/28",
+  "choices": [
+   "7",
+   "8",
+   "2",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "공통분모는 4 × 7 = 28, 2/7 = (2 × 4)/(7 × 4) = 8/28",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/8과 3/4을 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 1/8 = □/32",
+  "choices": [
+   "1",
+   "3",
+   "4",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "공통분모는 8 × 4 = 32, 1/8 = (1 × 4)/(8 × 4) = 4/32",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/2과 4/7를 두 분모의 곱을 공통분모로 하여 통분하려고 합니다. □ 안에 알맞은 수를 구하세요. 1/2 = □/14",
+  "choices": [
+   "8",
+   "1",
+   "7",
+   "9"
+  ],
+  "answer": 2,
+  "explanation": "공통분모는 2 × 7 = 14, 1/2 = (1 × 7)/(2 × 7) = 7/14",
+  "standard": "[6수01-06]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-common-prod"
  },
  {
   "difficulty": 2,
@@ -10727,6 +11951,142 @@
   "source": "math-king:l5-fd-cards"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.36을 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "340",
+   "136",
+   "34",
+   "33"
+  ],
+  "answer": 2,
+  "explanation": "0.36 = 36/100 = 9/25 → 25 + 9 = 34",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.58을 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "79",
+   "790",
+   "158",
+   "89"
+  ],
+  "answer": 0,
+  "explanation": "0.58 = 58/100 = 29/50 → 50 + 29 = 79",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.84를 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "184",
+   "460",
+   "47",
+   "46"
+  ],
+  "answer": 3,
+  "explanation": "0.84 = 84/100 = 21/25 → 25 + 21 = 46",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.4를 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "14",
+   "8",
+   "7",
+   "70"
+  ],
+  "answer": 2,
+  "explanation": "0.4 = 4/10 = 2/5 → 5 + 2 = 7",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.76을 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "43",
+   "44",
+   "176",
+   "4.4"
+  ],
+  "answer": 1,
+  "explanation": "0.76 = 76/100 = 19/25 → 25 + 19 = 44",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.8을 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "9",
+   "8",
+   "18",
+   "90"
+  ],
+  "answer": 0,
+  "explanation": "0.8 = 8/10 = 4/5 → 5 + 4 = 9",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.38을 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "68",
+   "138",
+   "69",
+   "690"
+  ],
+  "answer": 2,
+  "explanation": "0.38 = 38/100 = 19/50 → 50 + 19 = 69",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "0.94를 기약분수로 나타내었을 때, 분모와 분자의 합은 얼마인가요?",
+  "choices": [
+   "194",
+   "98",
+   "9.7",
+   "97"
+  ],
+  "answer": 3,
+  "explanation": "0.94 = 94/100 = 47/50 → 50 + 47 = 97",
+  "standard": "[6수01-12]",
+  "semester": 1,
+  "unit": "약분과 통분",
+  "source": "math-king:a5-rc-dec-sum"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산하여 기약분수로 나타낸 것을 고르세요. 1/6 + 1/4",
@@ -11269,6 +12629,278 @@
   "semester": 1,
   "unit": "분수의 덧셈과 뺄셈",
   "source": "math-king:l5-fa-three"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "5/7와 1/4을 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "47",
+   "27",
+   "6",
+   "37"
+  ],
+  "answer": 1,
+  "explanation": "7과 4의 최소공배수: 28 → 분자는 5 × 4 = 20, 1 × 7 = 7 → 20 + 7 = 27",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/6과 2/5를 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "17",
+   "3",
+   "18",
+   "170"
+  ],
+  "answer": 0,
+  "explanation": "6과 5의 최소공배수: 30 → 분자는 1 × 5 = 5, 2 × 6 = 12 → 5 + 12 = 17",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "4/5와 1/4을 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "20",
+   "22",
+   "5",
+   "21"
+  ],
+  "answer": 3,
+  "explanation": "5와 4의 최소공배수: 20 → 분자는 4 × 4 = 16, 1 × 5 = 5 → 16 + 5 = 21",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "3/5과 1/3을 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "15",
+   "4",
+   "140",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "5와 3의 최소공배수: 15 → 분자는 3 × 3 = 9, 1 × 5 = 5 → 9 + 5 = 14",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/2과 2/3를 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "5",
+   "3",
+   "6",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "2와 3의 최소공배수: 6 → 분자는 1 × 3 = 3, 2 × 2 = 4 → 3 + 4 = 7",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/4과 2/7를 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "15",
+   "150",
+   "14",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "4와 7의 최소공배수: 28 → 분자는 1 × 7 = 7, 2 × 4 = 8 → 7 + 8 = 15",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/3과 6/7을 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "250",
+   "25",
+   "15",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "3과 7의 최소공배수: 21 → 분자는 1 × 7 = 7, 6 × 3 = 18 → 7 + 18 = 25",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1/2과 4/7를 두 분모의 최소공배수를 공통분모로 하여 통분했습니다. 통분한 두 분수의 분자의 합은 얼마인가요?",
+  "choices": [
+   "14",
+   "15",
+   "5",
+   "150"
+  ],
+  "answer": 1,
+  "explanation": "2와 7의 최소공배수: 14 → 분자는 1 × 7 = 7, 4 × 2 = 8 → 7 + 8 = 15",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-common-num"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "5/6, 5/7, 1/4 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "1 1/12",
+   "7/12",
+   "1 23/42",
+   "27/28"
+  ],
+  "answer": 0,
+  "explanation": "가장 큰 수 5/6, 가장 작은 수 1/4 → 5/6 + 1/4 = 1 1/12",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "2/9, 1/4, 1/2 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "3/4",
+   "5/18",
+   "13/18",
+   "17/36"
+  ],
+  "answer": 2,
+  "explanation": "가장 큰 수 1/2, 가장 작은 수 2/9 → 1/2 + 2/9 = 13/18",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "2/3, 1/6, 1/3 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "1",
+   "5/6",
+   "2 1/4",
+   "1/2"
+  ],
+  "answer": 1,
+  "explanation": "가장 큰 수 2/3, 가장 작은 수 1/6 → 2/3 + 1/6 = 5/6",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3/8, 1/7, 3/5 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "39/40",
+   "29/56",
+   "26/35",
+   "16/35"
+  ],
+  "answer": 2,
+  "explanation": "가장 큰 수 3/5, 가장 작은 수 1/7 → 3/5 + 1/7 = 26/35",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/3, 1/2, 3/8 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "5/6",
+   "17/24",
+   "7/8",
+   "1/6"
+  ],
+  "answer": 0,
+  "explanation": "가장 큰 수 1/2, 가장 작은 수 1/3 → 1/2 + 1/3 = 5/6",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "5/8, 2/3, 1/9 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "53/72",
+   "7/9",
+   "1 7/24",
+   "5/9"
+  ],
+  "answer": 1,
+  "explanation": "가장 큰 수 2/3, 가장 작은 수 1/9 → 2/3 + 1/9 = 7/9",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3/4, 1/3, 6/7 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "1 4/21",
+   "1 17/28",
+   "11/21",
+   "1 1/12"
+  ],
+  "answer": 0,
+  "explanation": "가장 큰 수 6/7, 가장 작은 수 1/3 → 6/7 + 1/3 = 1 4/21",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3/8, 5/6, 7/9 중에서 가장 큰 수와 가장 작은 수의 합을 기약분수로 나타낸 것을 고르세요.",
+  "choices": [
+   "1 11/18",
+   "1 5/24",
+   "1 11/72",
+   "11/24"
+  ],
+  "answer": 1,
+  "explanation": "가장 큰 수 5/6, 가장 작은 수 3/8 → 5/6 + 3/8 = 1 5/24",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fa-max-min"
  },
  {
   "difficulty": 1,
@@ -13583,6 +15215,142 @@
   "source": "math-king:w5-tape-mixed"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 2 L인 물통에 물이 1 1/4 L 들어 있습니다. 이 물통에 물을 1 1/6 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "3/4 L",
+   "1/2 L",
+   "2 5/12 L",
+   "5/12 L"
+  ],
+  "answer": 3,
+  "explanation": "1 1/4 + 1 1/6 = 2 5/12(L), 2 5/12 − 2 = 5/12(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 4 L인 물통에 물이 1 1/2 L 들어 있습니다. 이 물통에 물을 3 3/5 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "5 1/10 L",
+   "1 1/5 L",
+   "2 1/2 L",
+   "1 1/10 L"
+  ],
+  "answer": 3,
+  "explanation": "1 1/2 + 3 3/5 = 5 1/10(L), 5 1/10 − 4 = 1 1/10(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 5 L인 물통에 물이 2 5/8 L 들어 있습니다. 이 물통에 물을 2 1/2 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "1/4 L",
+   "2 3/8 L",
+   "5 1/8 L",
+   "1/8 L"
+  ],
+  "answer": 3,
+  "explanation": "2 5/8 + 2 1/2 = 5 1/8(L), 5 1/8 − 5 = 1/8(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 4 L인 물통에 물이 1 3/5 L 들어 있습니다. 이 물통에 물을 2 2/3 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "2 2/5 L",
+   "1/3 L",
+   "4/15 L",
+   "4 4/15 L"
+  ],
+  "answer": 2,
+  "explanation": "1 3/5 + 2 2/3 = 4 4/15(L), 4 4/15 − 4 = 4/15(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 4 L인 물통에 물이 3 2/5 L 들어 있습니다. 이 물통에 물을 2 1/2 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "1 9/10 L",
+   "5 9/10 L",
+   "3/5 L",
+   "2 L"
+  ],
+  "answer": 0,
+  "explanation": "3 2/5 + 2 1/2 = 5 9/10(L), 5 9/10 − 4 = 1 9/10(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 3 L인 물통에 물이 2 2/3 L 들어 있습니다. 이 물통에 물을 2 1/8 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "1 19/24 L",
+   "1/3 L",
+   "1 5/6 L",
+   "4 19/24 L"
+  ],
+  "answer": 0,
+  "explanation": "2 2/3 + 2 1/8 = 4 19/24(L), 4 19/24 − 3 = 1 19/24(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 2 L인 물통에 물이 1 2/5 L 들어 있습니다. 이 물통에 물을 1 2/3 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "1 1/15 L",
+   "3 1/15 L",
+   "1 2/15 L",
+   "3/5 L"
+  ],
+  "answer": 0,
+  "explanation": "1 2/5 + 1 2/3 = 3 1/15(L), 3 1/15 − 2 = 1 1/15(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "들이가 2 L인 물통에 물이 1 1/2 L 들어 있습니다. 이 물통에 물을 2 1/6 L 더 부으면 넘치는 물은 몇 L인가요?",
+  "choices": [
+   "1 2/3 L",
+   "1/2 L",
+   "1 5/6 L",
+   "3 2/3 L"
+  ],
+  "answer": 0,
+  "explanation": "1 1/2 + 2 1/6 = 3 2/3(L), 3 2/3 − 2 = 1 2/3(L)",
+  "standard": "[6수01-08]",
+  "semester": 1,
+  "unit": "분수의 덧셈과 뺄셈",
+  "source": "math-king:a5-fs-overflow"
+ },
+ {
   "difficulty": 2,
   "type": "choice4",
   "question": "둘레가 48 cm인 정사각형의 넓이는 몇 cm²인가요?",
@@ -14397,6 +16165,142 @@
   "semester": 1,
   "unit": "다각형의 둘레와 넓이",
   "source": "math-king:l5-ar-tri-para"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 3 cm, 아랫변이 5 cm, 높이가 3 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 4 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "5 cm",
+   "4 cm",
+   "6 cm",
+   "3 cm"
+  ],
+  "answer": 2,
+  "explanation": "사다리꼴의 넓이: (3 + 5) × 3 ÷ 2 = 12(cm²), 삼각형의 높이: 12 × 2 ÷ 4 = 6(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 8 cm, 아랫변이 16 cm, 높이가 12 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 18 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "16 cm",
+   "8 cm",
+   "15 cm",
+   "14 cm"
+  ],
+  "answer": 0,
+  "explanation": "사다리꼴의 넓이: (8 + 16) × 12 ÷ 2 = 144(cm²), 삼각형의 높이: 144 × 2 ÷ 18 = 16(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 6 cm, 아랫변이 18 cm, 높이가 6 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 4 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "36 cm",
+   "360 cm",
+   "37 cm",
+   "18 cm"
+  ],
+  "answer": 0,
+  "explanation": "사다리꼴의 넓이: (6 + 18) × 6 ÷ 2 = 72(cm²), 삼각형의 높이: 72 × 2 ÷ 4 = 36(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 7 cm, 아랫변이 18 cm, 높이가 14 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 10 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "36 cm",
+   "34 cm",
+   "37 cm",
+   "35 cm"
+  ],
+  "answer": 3,
+  "explanation": "사다리꼴의 넓이: (7 + 18) × 14 ÷ 2 = 175(cm²), 삼각형의 높이: 175 × 2 ÷ 10 = 35(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 11 cm, 아랫변이 19 cm, 높이가 13 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 10 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "29 cm",
+   "390 cm",
+   "19 cm",
+   "39 cm"
+  ],
+  "answer": 3,
+  "explanation": "사다리꼴의 넓이: (11 + 19) × 13 ÷ 2 = 195(cm²), 삼각형의 높이: 195 × 2 ÷ 10 = 39(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 6 cm, 아랫변이 10 cm, 높이가 11 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 8 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "11 cm",
+   "12 cm",
+   "22 cm",
+   "2 cm"
+  ],
+  "answer": 2,
+  "explanation": "사다리꼴의 넓이: (6 + 10) × 11 ÷ 2 = 88(cm²), 삼각형의 높이: 88 × 2 ÷ 8 = 22(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 3 cm, 아랫변이 11 cm, 높이가 3 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 7 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "4 cm",
+   "5 cm",
+   "3 cm",
+   "6 cm"
+  ],
+  "answer": 3,
+  "explanation": "사다리꼴의 넓이: (3 + 11) × 3 ÷ 2 = 21(cm²), 삼각형의 높이: 21 × 2 ÷ 7 = 6(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "윗변이 3 cm, 아랫변이 5 cm, 높이가 10 cm인 사다리꼴과 넓이가 같은 삼각형이 있습니다. 이 삼각형의 밑변이 16 cm일 때, 높이는 몇 cm인가요?",
+  "choices": [
+   "4 cm",
+   "2 cm",
+   "3 cm",
+   "5 cm"
+  ],
+  "answer": 3,
+  "explanation": "사다리꼴의 넓이: (3 + 5) × 10 ÷ 2 = 40(cm²), 삼각형의 높이: 40 × 2 ÷ 16 = 5(cm)",
+  "standard": "[6수03-14]",
+  "semester": 1,
+  "unit": "다각형의 둘레와 넓이",
+  "source": "math-king:a5-pa-trap-tri"
  },
  {
   "difficulty": 1,
@@ -15761,6 +17665,142 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "50 이상 55 미만인 수를 고르세요.",
+  "choices": [
+   "49",
+   "55",
+   "56",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "50 이상 55 미만인 수는 50부터 54까지의 수예요. → 50",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "50 이상 56 미만인 수를 고르세요.",
+  "choices": [
+   "54",
+   "56",
+   "49",
+   "48"
+  ],
+  "answer": 0,
+  "explanation": "50 이상 56 미만인 수는 50부터 55까지의 수예요. → 54",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "37 이상 45 미만인 수를 고르세요.",
+  "choices": [
+   "39",
+   "36",
+   "45",
+   "47"
+  ],
+  "answer": 0,
+  "explanation": "37 이상 45 미만인 수는 37부터 44까지의 수예요. → 39",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "65 이상 70 미만인 수를 고르세요.",
+  "choices": [
+   "64",
+   "68",
+   "73",
+   "70"
+  ],
+  "answer": 1,
+  "explanation": "65 이상 70 미만인 수는 65부터 69까지의 수예요. → 68",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "12 이상 19 미만인 수를 고르세요.",
+  "choices": [
+   "9",
+   "13",
+   "11",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "12 이상 19 미만인 수는 12부터 18까지의 수예요. → 13",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "32 이상 36 미만인 수를 고르세요.",
+  "choices": [
+   "31",
+   "41",
+   "36",
+   "34"
+  ],
+  "answer": 3,
+  "explanation": "32 이상 36 미만인 수는 32부터 35까지의 수예요. → 34",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "12 이상 17 미만인 수를 고르세요.",
+  "choices": [
+   "17",
+   "22",
+   "11",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "12 이상 17 미만인 수는 12부터 16까지의 수예요. → 12",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "12 이상 15 미만인 수를 고르세요.",
+  "choices": [
+   "11",
+   "13",
+   "15",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "12 이상 15 미만인 수는 12부터 14까지의 수예요. → 13",
+  "standard": "[6수01-02]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-pick"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "7989를 버림하여 십의 자리까지 나타내세요.",
   "choices": [
    "7990",
@@ -16335,6 +18375,142 @@
   "semester": 2,
   "unit": "수의 범위와 어림하기",
   "source": "math-king:l5-rd-ud-range"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 십의 자리까지 나타내었더니 370이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "3610",
+   "365",
+   "361",
+   "360"
+  ],
+  "answer": 2,
+  "explanation": "올림하여 370이 되는 수는 360 초과 370 이하인 수예요. 그중 가장 작은 자연수는 361",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 십의 자리까지 나타내었더니 580이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "575",
+   "571",
+   "581",
+   "570"
+  ],
+  "answer": 1,
+  "explanation": "올림하여 580이 되는 수는 570 초과 580 이하인 수예요. 그중 가장 작은 자연수는 571",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 백의 자리까지 나타내었더니 8400이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "8300",
+   "8302",
+   "8301",
+   "8350"
+  ],
+  "answer": 2,
+  "explanation": "올림하여 8400이 되는 수는 8300 초과 8400 이하인 수예요. 그중 가장 작은 자연수는 8301",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 십의 자리까지 나타내었더니 410이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "401",
+   "4010",
+   "405",
+   "400"
+  ],
+  "answer": 0,
+  "explanation": "올림하여 410이 되는 수는 400 초과 410 이하인 수예요. 그중 가장 작은 자연수는 401",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 백의 자리까지 나타내었더니 7400이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "7300",
+   "73010",
+   "7350",
+   "7301"
+  ],
+  "answer": 3,
+  "explanation": "올림하여 7400이 되는 수는 7300 초과 7400 이하인 수예요. 그중 가장 작은 자연수는 7301",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 백의 자리까지 나타내었더니 2400이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "2350",
+   "2301",
+   "2300",
+   "23010"
+  ],
+  "answer": 1,
+  "explanation": "올림하여 2400이 되는 수는 2300 초과 2400 이하인 수예요. 그중 가장 작은 자연수는 2301",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 백의 자리까지 나타내었더니 4100이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "4050",
+   "4001",
+   "4000",
+   "4002"
+  ],
+  "answer": 1,
+  "explanation": "올림하여 4100이 되는 수는 4000 초과 4100 이하인 수예요. 그중 가장 작은 자연수는 4001",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 자연수를 올림하여 백의 자리까지 나타내었더니 200이 되었습니다. 어떤 자연수가 될 수 있는 수 중에서 가장 작은 수를 구하세요.",
+  "choices": [
+   "150",
+   "102",
+   "101",
+   "100"
+  ],
+  "answer": 2,
+  "explanation": "올림하여 200이 되는 수는 100 초과 200 이하인 수예요. 그중 가장 작은 자연수는 101",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-ceil-min"
  },
  {
   "difficulty": 1,
@@ -17578,6 +19754,142 @@
   "source": "math-king:l5-rd-who"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 750 kg까지 실을 수 있는 엘리베이터에 무게가 75 kg인 짐을 먼저 실었습니다. 몸무게가 모두 36 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "18명",
+   "19명",
+   "17명",
+   "20명"
+  ],
+  "answer": 0,
+  "explanation": "750 − 75 = 675(kg), 675 ÷ 36 = 18 … 27 → 버림하여 18명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 750 kg까지 실을 수 있는 엘리베이터에 무게가 100 kg인 짐을 먼저 실었습니다. 몸무게가 모두 55 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "12명",
+   "13명",
+   "14명",
+   "11명"
+  ],
+  "answer": 3,
+  "explanation": "750 − 100 = 650(kg), 650 ÷ 55 = 11 … 45 → 버림하여 11명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 600 kg까지 실을 수 있는 엘리베이터에 무게가 135 kg인 짐을 먼저 실었습니다. 몸무게가 모두 43 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "10명",
+   "11명",
+   "20명",
+   "13명"
+  ],
+  "answer": 0,
+  "explanation": "600 − 135 = 465(kg), 465 ÷ 43 = 10 … 35 → 버림하여 10명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 900 kg까지 실을 수 있는 엘리베이터에 무게가 80 kg인 짐을 먼저 실었습니다. 몸무게가 모두 51 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "17명",
+   "19명",
+   "18명",
+   "16명"
+  ],
+  "answer": 3,
+  "explanation": "900 − 80 = 820(kg), 820 ÷ 51 = 16 … 4 → 버림하여 16명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 400 kg까지 실을 수 있는 엘리베이터에 무게가 120 kg인 짐을 먼저 실었습니다. 몸무게가 모두 41 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "7명",
+   "9명",
+   "5명",
+   "6명"
+  ],
+  "answer": 3,
+  "explanation": "400 − 120 = 280(kg), 280 ÷ 41 = 6 … 34 → 버림하여 6명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 600 kg까지 실을 수 있는 엘리베이터에 무게가 55 kg인 짐을 먼저 실었습니다. 몸무게가 모두 53 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "10명",
+   "30명",
+   "20명",
+   "11명"
+  ],
+  "answer": 0,
+  "explanation": "600 − 55 = 545(kg), 545 ÷ 53 = 10 … 15 → 버림하여 10명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 400 kg까지 실을 수 있는 엘리베이터에 무게가 80 kg인 짐을 먼저 실었습니다. 몸무게가 모두 36 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "7명",
+   "8명",
+   "11명",
+   "9명"
+  ],
+  "answer": 1,
+  "explanation": "400 − 80 = 320(kg), 320 ÷ 36 = 8 … 32 → 버림하여 8명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "최대 400 kg까지 실을 수 있는 엘리베이터에 무게가 30 kg인 짐을 먼저 실었습니다. 몸무게가 모두 51 kg인 사람들이 이 엘리베이터에 탄다면 최대 몇 명까지 탈 수 있나요?",
+  "choices": [
+   "8명",
+   "7명",
+   "6명",
+   "9명"
+  ],
+  "answer": 1,
+  "explanation": "400 − 30 = 370(kg), 370 ÷ 51 = 7 … 13 → 버림하여 7명",
+  "standard": "[6수01-03]",
+  "semester": 2,
+  "unit": "수의 범위와 어림하기",
+  "source": "math-king:a5-rr-elevator"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산하여 기약분수로 나타낸 것을 고르세요. 3/8 × 2",
@@ -17984,6 +20296,142 @@
   "semester": 2,
   "unit": "분수의 곱셈",
   "source": "math-king:w5-sugar-people"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 4/11 × 2 = □/11",
+  "choices": [
+   "7",
+   "8",
+   "5",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "4/11 × 2 = (4 × 2)/11 = 8/11",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 2/7 × 2 = □/7",
+  "choices": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "2/7 × 2 = (2 × 2)/7 = 4/7",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/5 × 3 = □/5",
+  "choices": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "1/5 × 3 = (1 × 3)/5 = 3/5",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/13 × 6 = □/13",
+  "choices": [
+   "6",
+   "5",
+   "7",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "1/13 × 6 = (1 × 6)/13 = 6/13",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/8 × 5 = □/8",
+  "choices": [
+   "4",
+   "7",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "1/8 × 5 = (1 × 5)/8 = 5/8",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/15 × 7 = □/15",
+  "choices": [
+   "10",
+   "9",
+   "7",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "1/15 × 7 = (1 × 7)/15 = 7/15",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 2/5 × 2 = □/5",
+  "choices": [
+   "5",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "2/5 × 2 = (2 × 2)/5 = 4/5",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 3/13 × 4 = □/13",
+  "choices": [
+   "12",
+   "11",
+   "7",
+   "13"
+  ],
+  "answer": 0,
+  "explanation": "3/13 × 4 = (3 × 4)/13 = 12/13",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-num"
  },
  {
   "difficulty": 1,
@@ -18936,6 +21384,142 @@
   "semester": 2,
   "unit": "분수의 곱셈",
   "source": "math-king:l5-fm-wf-who"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3 m의 3/5은 몇 cm인가요?",
+  "choices": [
+   "180 cm",
+   "1800 cm",
+   "60 cm",
+   "170 cm"
+  ],
+  "answer": 0,
+  "explanation": "3 m = 300 cm, 300 × 3/5 = 180(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1 L의 7/8은 몇 mL인가요?",
+  "choices": [
+   "875 mL",
+   "125 mL",
+   "876 mL",
+   "877 mL"
+  ],
+  "answer": 0,
+  "explanation": "1 L = 1000 mL, 1000 × 7/8 = 875(mL)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "2 L의 3/10은 몇 mL인가요?",
+  "choices": [
+   "200 mL",
+   "600 mL",
+   "400 mL",
+   "500 mL"
+  ],
+  "answer": 1,
+  "explanation": "2 L = 2000 mL, 2000 × 3/10 = 600(mL)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1 L의 2/5는 몇 mL인가요?",
+  "choices": [
+   "300 mL",
+   "400 mL",
+   "200 mL",
+   "100 mL"
+  ],
+  "answer": 1,
+  "explanation": "1 L = 1000 mL, 1000 × 2/5 = 400(mL)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3 m의 3/10은 몇 cm인가요?",
+  "choices": [
+   "90 cm",
+   "30 cm",
+   "80 cm",
+   "900 cm"
+  ],
+  "answer": 0,
+  "explanation": "3 m = 300 cm, 300 × 3/10 = 90(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1 kg의 3/4은 몇 g인가요?",
+  "choices": [
+   "750 g",
+   "740 g",
+   "250 g",
+   "7500 g"
+  ],
+  "answer": 0,
+  "explanation": "1 kg = 1000 g, 1000 × 3/4 = 750(g)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3 L의 2/5는 몇 mL인가요?",
+  "choices": [
+   "1100 mL",
+   "1200 mL",
+   "1000 mL",
+   "600 mL"
+  ],
+  "answer": 1,
+  "explanation": "3 L = 3000 mL, 3000 × 2/5 = 1200(mL)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "3 L의 2/3는 몇 mL인가요?",
+  "choices": [
+   "3000 mL",
+   "2000 mL",
+   "1000 mL",
+   "20000 mL"
+  ],
+  "answer": 1,
+  "explanation": "3 L = 3000 mL, 3000 × 2/3 = 2000(mL)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-units"
  },
  {
   "difficulty": 2,
@@ -20298,6 +22882,142 @@
   "source": "math-king:l5-fm-range"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 2/5만큼 튀어 오르는 공이 있습니다. 이 공을 200 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "80 cm",
+   "32 cm",
+   "31 cm",
+   "320 cm"
+  ],
+  "answer": 1,
+  "explanation": "첫 번째: 200 × 2/5 = 80(cm), 두 번째: 80 × 2/5 = 32(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 2/5만큼 튀어 오르는 공이 있습니다. 이 공을 300 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "120 cm",
+   "48 cm",
+   "58 cm",
+   "480 cm"
+  ],
+  "answer": 1,
+  "explanation": "첫 번째: 300 × 2/5 = 120(cm), 두 번째: 120 × 2/5 = 48(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 3/4만큼 튀어 오르는 공이 있습니다. 이 공을 432 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "242 cm",
+   "2430 cm",
+   "324 cm",
+   "243 cm"
+  ],
+  "answer": 3,
+  "explanation": "첫 번째: 432 × 3/4 = 324(cm), 두 번째: 324 × 3/4 = 243(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 3/5만큼 튀어 오르는 공이 있습니다. 이 공을 225 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "810 cm",
+   "80 cm",
+   "135 cm",
+   "81 cm"
+  ],
+  "answer": 3,
+  "explanation": "첫 번째: 225 × 3/5 = 135(cm), 두 번째: 135 × 3/5 = 81(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 1/2만큼 튀어 오르는 공이 있습니다. 이 공을 372 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "95 cm",
+   "186 cm",
+   "93 cm",
+   "94 cm"
+  ],
+  "answer": 2,
+  "explanation": "첫 번째: 372 × 1/2 = 186(cm), 두 번째: 186 × 1/2 = 93(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 2/3만큼 튀어 오르는 공이 있습니다. 이 공을 126 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "56 cm",
+   "84 cm",
+   "36 cm",
+   "46 cm"
+  ],
+  "answer": 0,
+  "explanation": "첫 번째: 126 × 2/3 = 84(cm), 두 번째: 84 × 2/3 = 56(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 1/2만큼 튀어 오르는 공이 있습니다. 이 공을 208 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "520 cm",
+   "62 cm",
+   "52 cm",
+   "104 cm"
+  ],
+  "answer": 2,
+  "explanation": "첫 번째: 208 × 1/2 = 104(cm), 두 번째: 104 × 1/2 = 52(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "떨어진 높이의 2/5만큼 튀어 오르는 공이 있습니다. 이 공을 325 cm 높이에서 떨어뜨렸을 때, 두 번째로 튀어 오른 높이는 몇 cm인가요?",
+  "choices": [
+   "53 cm",
+   "520 cm",
+   "52 cm",
+   "130 cm"
+  ],
+  "answer": 2,
+  "explanation": "첫 번째: 325 × 2/5 = 130(cm), 두 번째: 130 × 2/5 = 52(cm)",
+  "standard": "[6수01-09]",
+  "semester": 2,
+  "unit": "분수의 곱셈",
+  "source": "math-king:a5-fm-bounce"
+ },
+ {
   "difficulty": 2,
   "type": "choice4",
   "question": "서로 합동인 두 육각형에서 대응점, 대응변, 대응각은 모두 몇 쌍인가요?",
@@ -21214,6 +23934,142 @@
   "semester": 2,
   "unit": "소수의 곱셈",
   "source": "math-king:l5-dm-dw-who"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "들기름 1 L의 무게는 0.7 kg입니다. 들기름 2 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "0.14 kg",
+   "1.3 kg",
+   "14 kg",
+   "1.4 kg"
+  ],
+  "answer": 3,
+  "explanation": "0.7 × 2 = 1.4(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "들기름 1 L의 무게는 0.8 kg입니다. 들기름 8 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "6.3 kg",
+   "64 kg",
+   "6.4 kg",
+   "6.5 kg"
+  ],
+  "answer": 2,
+  "explanation": "0.8 × 8 = 6.4(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "들기름 1 L의 무게는 0.9 kg입니다. 들기름 4 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "36 kg",
+   "3.7 kg",
+   "3.6 kg",
+   "3.5 kg"
+  ],
+  "answer": 2,
+  "explanation": "0.9 × 4 = 3.6(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "참기름 1 L의 무게는 0.7 kg입니다. 참기름 7 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "49 kg",
+   "5 kg",
+   "4.9 kg",
+   "4.8 kg"
+  ],
+  "answer": 2,
+  "explanation": "0.7 × 7 = 4.9(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "식용유 1 L의 무게는 0.8 kg입니다. 식용유 3 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "2.3 kg",
+   "2.4 kg",
+   "24 kg",
+   "2.5 kg"
+  ],
+  "answer": 1,
+  "explanation": "0.8 × 3 = 2.4(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "식용유 1 L의 무게는 0.6 kg입니다. 식용유 7 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "4.1 kg",
+   "42 kg",
+   "4.2 kg",
+   "4.3 kg"
+  ],
+  "answer": 2,
+  "explanation": "0.6 × 7 = 4.2(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "식용유 1 L의 무게는 0.7 kg입니다. 식용유 2 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "1.4 kg",
+   "0.14 kg",
+   "14 kg",
+   "1.3 kg"
+  ],
+  "answer": 0,
+  "explanation": "0.7 × 2 = 1.4(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "식용유 1 L의 무게는 0.6 kg입니다. 식용유 4 L의 무게는 몇 kg인가요?",
+  "choices": [
+   "24 kg",
+   "2.2 kg",
+   "2.3 kg",
+   "2.4 kg"
+  ],
+  "answer": 3,
+  "explanation": "0.6 × 4 = 2.4(kg)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-oil"
  },
  {
   "difficulty": 1,
@@ -22440,6 +25296,278 @@
   "source": "math-king:w5-steel-weight"
  },
  {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 6.1 × 4.3 > □",
+  "choices": [
+   "2.6",
+   "26",
+   "16",
+   "27"
+  ],
+  "answer": 1,
+  "explanation": "6.1 × 4.3 = 26.23이므로 26.23 > □ → 가장 큰 자연수는 26",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 6.1 × 6.2 > □",
+  "choices": [
+   "37",
+   "38",
+   "47",
+   "370"
+  ],
+  "answer": 0,
+  "explanation": "6.1 × 6.2 = 37.82이므로 37.82 > □ → 가장 큰 자연수는 37",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 4.4 × 8.5 > □",
+  "choices": [
+   "36",
+   "370",
+   "38",
+   "37"
+  ],
+  "answer": 3,
+  "explanation": "4.4 × 8.5 = 37.4이므로 37.4 > □ → 가장 큰 자연수는 37",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 6.6 × 2.5 > □",
+  "choices": [
+   "17",
+   "18",
+   "160",
+   "16"
+  ],
+  "answer": 3,
+  "explanation": "6.6 × 2.5 = 16.5이므로 16.5 > □ → 가장 큰 자연수는 16",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 1.3 × 7.6 > □",
+  "choices": [
+   "9",
+   "10",
+   "90",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "1.3 × 7.6 = 9.88이므로 9.88 > □ → 가장 큰 자연수는 9",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 3.9 × 3.1 > □",
+  "choices": [
+   "14",
+   "13",
+   "12",
+   "120"
+  ],
+  "answer": 2,
+  "explanation": "3.9 × 3.1 = 12.09이므로 12.09 > □ → 가장 큰 자연수는 12",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 1.4 × 4.7 > □",
+  "choices": [
+   "6",
+   "5",
+   "7",
+   "60"
+  ],
+  "answer": 0,
+  "explanation": "1.4 × 4.7 = 6.58이므로 6.58 > □ → 가장 큰 자연수는 6",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ 안에 들어갈 수 있는 자연수 중에서 가장 큰 수를 구하세요. 1.3 × 1.1 > □",
+  "choices": [
+   "1",
+   "0",
+   "2",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "1.3 × 1.1 = 1.43이므로 1.43 > □ → 가장 큰 자연수는 1",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-floor"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 4.3 km를 가는 빠르기로 2시간 6분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "9.02 km",
+   "90.3 km",
+   "9.04 km",
+   "9.03 km"
+  ],
+  "answer": 3,
+  "explanation": "6분 = 0.1시간이므로 2시간 6분 = 2.1시간, 4.3 × 2.1 = 9.03(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 4.3 km를 가는 빠르기로 2시간 48분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "12.04 km",
+   "12.05 km",
+   "1.204 km",
+   "12.03 km"
+  ],
+  "answer": 0,
+  "explanation": "48분 = 0.8시간이므로 2시간 48분 = 2.8시간, 4.3 × 2.8 = 12.04(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 3.5 km를 가는 빠르기로 3시간 18분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "115.5 km",
+   "11.55 km",
+   "11.56 km",
+   "11.13 km"
+  ],
+  "answer": 1,
+  "explanation": "18분 = 0.3시간이므로 3시간 18분 = 3.3시간, 3.5 × 3.3 = 11.55(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 5.1 km를 가는 빠르기로 2시간 36분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "13.28 km",
+   "13.27 km",
+   "132.6 km",
+   "13.26 km"
+  ],
+  "answer": 3,
+  "explanation": "36분 = 0.6시간이므로 2시간 36분 = 2.6시간, 5.1 × 2.6 = 13.26(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 2.2 km를 가는 빠르기로 3시간 18분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "72.6 km",
+   "7.24 km",
+   "7.26 km",
+   "7.25 km"
+  ],
+  "answer": 2,
+  "explanation": "18분 = 0.3시간이므로 3시간 18분 = 3.3시간, 2.2 × 3.3 = 7.26(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 3.3 km를 가는 빠르기로 1시간 42분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "56.1 km",
+   "5.6 km",
+   "5.61 km",
+   "5.62 km"
+  ],
+  "answer": 2,
+  "explanation": "42분 = 0.7시간이므로 1시간 42분 = 1.7시간, 3.3 × 1.7 = 5.61(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 2.2 km를 가는 빠르기로 2시간 6분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "4.63 km",
+   "4.62 km",
+   "4.64 km",
+   "46.2 km"
+  ],
+  "answer": 1,
+  "explanation": "6분 = 0.1시간이므로 2시간 6분 = 2.1시간, 2.2 × 2.1 = 4.62(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 시간에 2.2 km를 가는 빠르기로 1시간 36분 동안 쉬지 않고 걸었습니다. 걸은 거리는 몇 km인가요?",
+  "choices": [
+   "35.2 km",
+   "3.54 km",
+   "3.53 km",
+   "3.52 km"
+  ],
+  "answer": 3,
+  "explanation": "36분 = 0.6시간이므로 1시간 36분 = 1.6시간, 2.2 × 1.6 = 3.52(km)",
+  "standard": "[6수01-13]",
+  "semester": 2,
+  "unit": "소수의 곱셈",
+  "source": "math-king:a5-dm-walk"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산해 보세요. 57.1 × 10 = □",
@@ -23426,6 +26554,142 @@
   "source": "math-king:l5-cb-dice"
  },
  {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 10 cm, 세로 7 cm, 높이 3 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "1400 cm²",
+   "70 cm²",
+   "140 cm²",
+   "130 cm²"
+  ],
+  "answer": 2,
+  "explanation": "평행한 면의 넓이: 10 × 7 = 70, 7 × 3 = 21, 10 × 3 = 30 → 가장 큰 70 × 2 = 140(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 14 cm, 세로 4 cm, 높이 13 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "364 cm²",
+   "365 cm²",
+   "366 cm²",
+   "182 cm²"
+  ],
+  "answer": 0,
+  "explanation": "평행한 면의 넓이: 14 × 4 = 56, 4 × 13 = 52, 14 × 13 = 182 → 가장 큰 182 × 2 = 364(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 4 cm, 세로 8 cm, 높이 14 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "234 cm²",
+   "224 cm²",
+   "112 cm²",
+   "244 cm²"
+  ],
+  "answer": 1,
+  "explanation": "평행한 면의 넓이: 4 × 8 = 32, 8 × 14 = 112, 4 × 14 = 56 → 가장 큰 112 × 2 = 224(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 13 cm, 세로 8 cm, 높이 11 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "143 cm²",
+   "287 cm²",
+   "285 cm²",
+   "286 cm²"
+  ],
+  "answer": 3,
+  "explanation": "평행한 면의 넓이: 13 × 8 = 104, 8 × 11 = 88, 13 × 11 = 143 → 가장 큰 143 × 2 = 286(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 3 cm, 세로 12 cm, 높이 6 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "144 cm²",
+   "72 cm²",
+   "146 cm²",
+   "145 cm²"
+  ],
+  "answer": 0,
+  "explanation": "평행한 면의 넓이: 3 × 12 = 36, 12 × 6 = 72, 3 × 6 = 18 → 가장 큰 72 × 2 = 144(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 7 cm, 세로 5 cm, 높이 12 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "1680 cm²",
+   "84 cm²",
+   "169 cm²",
+   "168 cm²"
+  ],
+  "answer": 3,
+  "explanation": "평행한 면의 넓이: 7 × 5 = 35, 5 × 12 = 60, 7 × 12 = 84 → 가장 큰 84 × 2 = 168(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 7 cm, 세로 13 cm, 높이 4 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "1820 cm²",
+   "192 cm²",
+   "182 cm²",
+   "91 cm²"
+  ],
+  "answer": 2,
+  "explanation": "평행한 면의 넓이: 7 × 13 = 91, 13 × 4 = 52, 7 × 4 = 28 → 가장 큰 91 × 2 = 182(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로 11 cm, 세로 4 cm, 높이 15 cm인 직육면체가 있습니다. 서로 평행한 두 면의 넓이의 합 중에서 가장 큰 것은 몇 cm²인가요?",
+  "choices": [
+   "330 cm²",
+   "165 cm²",
+   "340 cm²",
+   "3300 cm²"
+  ],
+  "answer": 0,
+  "explanation": "평행한 면의 넓이: 11 × 4 = 44, 4 × 15 = 60, 11 × 15 = 165 → 가장 큰 165 × 2 = 330(cm²)",
+  "standard": "[6수03-03]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-par-max"
+ },
+ {
   "difficulty": 3,
   "type": "choice4",
   "question": "직육면체의 겨냥도에서 보이는 모서리의 길이의 합이 60 cm입니다. 가로가 10 cm, 세로가 7 cm일 때 높이는 몇 cm인가요?",
@@ -23696,6 +26960,142 @@
   "semester": 2,
   "unit": "직육면체",
   "source": "math-king:l5-cb-net-area"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 168 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "1440 cm",
+   "168 cm",
+   "145 cm",
+   "144 cm"
+  ],
+  "answer": 3,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 168 ÷ 14 = 12(cm), 모서리는 12개 → 12 × 12 = 144(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 126 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "108 cm",
+   "109 cm",
+   "107 cm",
+   "126 cm"
+  ],
+  "answer": 0,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 126 ÷ 14 = 9(cm), 모서리는 12개 → 9 × 12 = 108(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 224 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "193 cm",
+   "194 cm",
+   "192 cm",
+   "224 cm"
+  ],
+  "answer": 2,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 224 ÷ 14 = 16(cm), 모서리는 12개 → 16 × 12 = 192(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 28 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "240 cm",
+   "25 cm",
+   "24 cm",
+   "28 cm"
+  ],
+  "answer": 2,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 28 ÷ 14 = 2(cm), 모서리는 12개 → 2 × 12 = 24(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 112 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "116 cm",
+   "96 cm",
+   "112 cm",
+   "106 cm"
+  ],
+  "answer": 1,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 112 ÷ 14 = 8(cm), 모서리는 12개 → 8 × 12 = 96(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 70 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "60 cm",
+   "50 cm",
+   "600 cm",
+   "70 cm"
+  ],
+  "answer": 0,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 70 ÷ 14 = 5(cm), 모서리는 12개 → 5 × 12 = 60(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 280 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "240 cm",
+   "260 cm",
+   "250 cm",
+   "280 cm"
+  ],
+  "answer": 0,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 280 ÷ 14 = 20(cm), 모서리는 12개 → 20 × 12 = 240(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "정육면체의 전개도의 둘레가 42 cm입니다. 이 정육면체의 모든 모서리의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "38 cm",
+   "36 cm",
+   "37 cm",
+   "42 cm"
+  ],
+  "answer": 1,
+  "explanation": "전개도의 둘레는 한 모서리의 14배이므로 한 모서리는 42 ÷ 14 = 3(cm), 모서리는 12개 → 3 × 12 = 36(cm)",
+  "standard": "[6수03-04]",
+  "semester": 2,
+  "unit": "직육면체",
+  "source": "math-king:a5-cb-net-edges"
  },
  {
   "difficulty": 2,
@@ -24648,6 +28048,414 @@
   "semester": 2,
   "unit": "평균과 가능성",
   "source": "math-king:l5-av-merge"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "지우는 공 던지기를 두 번 했습니다. 첫 번째 기록은 27 m이고, 두 기록의 평균은 29 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "310 m",
+   "30 m",
+   "29 m",
+   "31 m"
+  ],
+  "answer": 3,
+  "explanation": "두 기록의 합: 29 × 2 = 58(m), 두 번째 기록: 58 − 27 = 31(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "유나는 공 던지기를 두 번 했습니다. 첫 번째 기록은 30 m이고, 두 기록의 평균은 29 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "38 m",
+   "28 m",
+   "29 m",
+   "280 m"
+  ],
+  "answer": 1,
+  "explanation": "두 기록의 합: 29 × 2 = 58(m), 두 번째 기록: 58 − 30 = 28(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "서아는 공 던지기를 두 번 했습니다. 첫 번째 기록은 30 m이고, 두 기록의 평균은 24 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "24 m",
+   "19 m",
+   "20 m",
+   "18 m"
+  ],
+  "answer": 3,
+  "explanation": "두 기록의 합: 24 × 2 = 48(m), 두 번째 기록: 48 − 30 = 18(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "도하는 공 던지기를 두 번 했습니다. 첫 번째 기록은 33 m이고, 두 기록의 평균은 35 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "370 m",
+   "37 m",
+   "35 m",
+   "38 m"
+  ],
+  "answer": 1,
+  "explanation": "두 기록의 합: 35 × 2 = 70(m), 두 번째 기록: 70 − 33 = 37(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "지우는 공 던지기를 두 번 했습니다. 첫 번째 기록은 19 m이고, 두 기록의 평균은 15 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "12 m",
+   "15 m",
+   "11 m",
+   "110 m"
+  ],
+  "answer": 2,
+  "explanation": "두 기록의 합: 15 × 2 = 30(m), 두 번째 기록: 30 − 19 = 11(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "도하는 공 던지기를 두 번 했습니다. 첫 번째 기록은 18 m이고, 두 기록의 평균은 23 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "18 m",
+   "8 m",
+   "23 m",
+   "28 m"
+  ],
+  "answer": 3,
+  "explanation": "두 기록의 합: 23 × 2 = 46(m), 두 번째 기록: 46 − 18 = 28(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "지우는 공 던지기를 두 번 했습니다. 첫 번째 기록은 13 m이고, 두 기록의 평균은 15 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "17 m",
+   "16 m",
+   "14 m",
+   "15 m"
+  ],
+  "answer": 0,
+  "explanation": "두 기록의 합: 15 × 2 = 30(m), 두 번째 기록: 30 − 13 = 17(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "도하는 공 던지기를 두 번 했습니다. 첫 번째 기록은 7 m이고, 두 기록의 평균은 15 m입니다. 두 번째 기록은 몇 m인가요?",
+  "choices": [
+   "230 m",
+   "15 m",
+   "23 m",
+   "24 m"
+  ],
+  "answer": 2,
+  "explanation": "두 기록의 합: 15 × 2 = 30(m), 두 번째 기록: 30 − 7 = 23(m)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-other"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 4명의 수학 점수 평균은 70점입니다. 이 중 한 명이 전학을 가서 나머지 3명의 평균이 64점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "87점",
+   "6점",
+   "88점",
+   "86점"
+  ],
+  "answer": 2,
+  "explanation": "4명의 합: 70 × 4 = 280(점), 3명의 합: 64 × 3 = 192(점) → 280 − 192 = 88(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 6명의 수학 점수 평균은 82점입니다. 이 중 한 명이 전학을 가서 나머지 5명의 평균이 86점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "60점",
+   "4점",
+   "61점",
+   "62점"
+  ],
+  "answer": 3,
+  "explanation": "6명의 합: 82 × 6 = 492(점), 5명의 합: 86 × 5 = 430(점) → 492 − 430 = 62(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 5명의 수학 점수 평균은 87점입니다. 이 중 한 명이 전학을 가서 나머지 4명의 평균이 85점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "2점",
+   "95점",
+   "96점",
+   "97점"
+  ],
+  "answer": 1,
+  "explanation": "5명의 합: 87 × 5 = 435(점), 4명의 합: 85 × 4 = 340(점) → 435 − 340 = 95(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 7명의 수학 점수 평균은 78점입니다. 이 중 한 명이 전학을 가서 나머지 6명의 평균이 80점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "2점",
+   "65점",
+   "67점",
+   "66점"
+  ],
+  "answer": 3,
+  "explanation": "7명의 합: 78 × 7 = 546(점), 6명의 합: 80 × 6 = 480(점) → 546 − 480 = 66(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 4명의 수학 점수 평균은 85점입니다. 이 중 한 명이 전학을 가서 나머지 3명의 평균이 82점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "3점",
+   "94점",
+   "114점",
+   "104점"
+  ],
+  "answer": 1,
+  "explanation": "4명의 합: 85 × 4 = 340(점), 3명의 합: 82 × 3 = 246(점) → 340 − 246 = 94(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 5명의 수학 점수 평균은 74점입니다. 이 중 한 명이 전학을 가서 나머지 4명의 평균이 77점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "62점",
+   "61점",
+   "3점",
+   "60점"
+  ],
+  "answer": 0,
+  "explanation": "5명의 합: 74 × 5 = 370(점), 4명의 합: 77 × 4 = 308(점) → 370 − 308 = 62(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 4명의 수학 점수 평균은 78점입니다. 이 중 한 명이 전학을 가서 나머지 3명의 평균이 72점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "6점",
+   "98점",
+   "97점",
+   "96점"
+  ],
+  "answer": 3,
+  "explanation": "4명의 합: 78 × 4 = 312(점), 3명의 합: 72 × 3 = 216(점) → 312 − 216 = 96(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 4명의 수학 점수 평균은 70점입니다. 이 중 한 명이 전학을 가서 나머지 3명의 평균이 72점이 되었습니다. 전학 간 학생의 점수는 몇 점인가요?",
+  "choices": [
+   "74점",
+   "54점",
+   "2점",
+   "64점"
+  ],
+  "answer": 3,
+  "explanation": "4명의 합: 70 × 4 = 280(점), 3명의 합: 72 × 3 = 216(점) → 280 − 216 = 64(점)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-leave"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 6일 동안 하루 평균 16쪽씩 책을 읽었습니다. 처음 3일 동안은 하루 평균 7쪽씩 읽었다면, 나머지 3일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "45쪽",
+   "25쪽",
+   "35쪽",
+   "75쪽"
+  ],
+  "answer": 1,
+  "explanation": "전체: 16 × 6 = 96(쪽), 처음 3일: 7 × 3 = 21(쪽), 나머지: 96 − 21 = 75(쪽) → 75 ÷ 3 = 25(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 6일 동안 하루 평균 35쪽씩 책을 읽었습니다. 처음 3일 동안은 하루 평균 43쪽씩 읽었다면, 나머지 3일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "81쪽",
+   "27쪽",
+   "28쪽",
+   "29쪽"
+  ],
+  "answer": 1,
+  "explanation": "전체: 35 × 6 = 210(쪽), 처음 3일: 43 × 3 = 129(쪽), 나머지: 210 − 129 = 81(쪽) → 81 ÷ 3 = 27(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서아는 6일 동안 하루 평균 23쪽씩 책을 읽었습니다. 처음 4일 동안은 하루 평균 14쪽씩 읽었다면, 나머지 2일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "40쪽",
+   "82쪽",
+   "42쪽",
+   "41쪽"
+  ],
+  "answer": 3,
+  "explanation": "전체: 23 × 6 = 138(쪽), 처음 4일: 14 × 4 = 56(쪽), 나머지: 138 − 56 = 82(쪽) → 82 ÷ 2 = 41(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 6일 동안 하루 평균 40쪽씩 책을 읽었습니다. 처음 3일 동안은 하루 평균 35쪽씩 읽었다면, 나머지 3일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "45쪽",
+   "135쪽",
+   "47쪽",
+   "46쪽"
+  ],
+  "answer": 0,
+  "explanation": "전체: 40 × 6 = 240(쪽), 처음 3일: 35 × 3 = 105(쪽), 나머지: 240 − 105 = 135(쪽) → 135 ÷ 3 = 45(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 5일 동안 하루 평균 21쪽씩 책을 읽었습니다. 처음 3일 동안은 하루 평균 27쪽씩 읽었다면, 나머지 2일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "14쪽",
+   "13쪽",
+   "12쪽",
+   "24쪽"
+  ],
+  "answer": 2,
+  "explanation": "전체: 21 × 5 = 105(쪽), 처음 3일: 27 × 3 = 81(쪽), 나머지: 105 − 81 = 24(쪽) → 24 ÷ 2 = 12(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나는 7일 동안 하루 평균 37쪽씩 책을 읽었습니다. 처음 2일 동안은 하루 평균 27쪽씩 읽었다면, 나머지 5일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "42쪽",
+   "205쪽",
+   "41쪽",
+   "40쪽"
+  ],
+  "answer": 2,
+  "explanation": "전체: 37 × 7 = 259(쪽), 처음 2일: 27 × 2 = 54(쪽), 나머지: 259 − 54 = 205(쪽) → 205 ÷ 5 = 41(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나는 5일 동안 하루 평균 16쪽씩 책을 읽었습니다. 처음 2일 동안은 하루 평균 13쪽씩 읽었다면, 나머지 3일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "18쪽",
+   "19쪽",
+   "17쪽",
+   "54쪽"
+  ],
+  "answer": 0,
+  "explanation": "전체: 16 × 5 = 80(쪽), 처음 2일: 13 × 2 = 26(쪽), 나머지: 80 − 26 = 54(쪽) → 54 ÷ 3 = 18(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 5일 동안 하루 평균 31쪽씩 책을 읽었습니다. 처음 2일 동안은 하루 평균 34쪽씩 읽었다면, 나머지 3일 동안은 하루 평균 몇 쪽씩 읽었나요?",
+  "choices": [
+   "27쪽",
+   "28쪽",
+   "29쪽",
+   "87쪽"
+  ],
+  "answer": 2,
+  "explanation": "전체: 31 × 5 = 155(쪽), 처음 2일: 34 × 2 = 68(쪽), 나머지: 155 − 68 = 87(쪽) → 87 ÷ 3 = 29(쪽)",
+  "standard": "[6수04-01]",
+  "semester": 2,
+  "unit": "평균과 가능성",
+  "source": "math-king:a5-av-rest"
  },
  {
   "difficulty": 1,

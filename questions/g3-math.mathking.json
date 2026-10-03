@@ -986,6 +986,142 @@
   "source": "math-king:l3-add1-error"
  },
  {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 4개, 10이 3개, 1이 0개인 수보다 123 큰 수는 얼마인가요?",
+  "choices": [
+   "553",
+   "554",
+   "552",
+   "551"
+  ],
+  "answer": 0,
+  "explanation": "100이 4개, 10이 3개, 1이 0개인 수는 430이에요. 430 + 123 = 553",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 4개, 10이 5개, 1이 7개인 수보다 480 큰 수는 얼마인가요?",
+  "choices": [
+   "936",
+   "937",
+   "938",
+   "9370"
+  ],
+  "answer": 1,
+  "explanation": "100이 4개, 10이 5개, 1이 7개인 수는 457이에요. 457 + 480 = 937",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 3개, 10이 8개, 1이 3개인 수보다 148 큰 수는 얼마인가요?",
+  "choices": [
+   "521",
+   "541",
+   "531",
+   "5310"
+  ],
+  "answer": 2,
+  "explanation": "100이 3개, 10이 8개, 1이 3개인 수는 383이에요. 383 + 148 = 531",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 5개, 10이 4개, 1이 6개인 수보다 158 큰 수는 얼마인가요?",
+  "choices": [
+   "704",
+   "705",
+   "706",
+   "7040"
+  ],
+  "answer": 0,
+  "explanation": "100이 5개, 10이 4개, 1이 6개인 수는 546이에요. 546 + 158 = 704",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 1개, 10이 7개, 1이 2개인 수보다 658 큰 수는 얼마인가요?",
+  "choices": [
+   "820",
+   "8300",
+   "830",
+   "810"
+  ],
+  "answer": 2,
+  "explanation": "100이 1개, 10이 7개, 1이 2개인 수는 172예요. 172 + 658 = 830",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 2개, 10이 2개, 1이 7개인 수보다 269 큰 수는 얼마인가요?",
+  "choices": [
+   "498",
+   "497",
+   "496",
+   "4960"
+  ],
+  "answer": 2,
+  "explanation": "100이 2개, 10이 2개, 1이 7개인 수는 227이에요. 227 + 269 = 496",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 1개, 10이 4개, 1이 0개인 수보다 387 큰 수는 얼마인가요?",
+  "choices": [
+   "525",
+   "527",
+   "526",
+   "524"
+  ],
+  "answer": 1,
+  "explanation": "100이 1개, 10이 4개, 1이 0개인 수는 140이에요. 140 + 387 = 527",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "100이 1개, 10이 0개, 1이 6개인 수보다 599 큰 수는 얼마인가요?",
+  "choices": [
+   "704",
+   "703",
+   "702",
+   "705"
+  ],
+  "answer": 3,
+  "explanation": "100이 1개, 10이 0개, 1이 6개인 수는 106이에요. 106 + 599 = 705",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-place-add"
+ },
+ {
   "difficulty": 3,
   "type": "choice4",
   "question": "수 카드 9, 4, 3을 한 번씩 모두 사용하여 가장 큰 세 자리 수와 가장 작은 세 자리 수를 만들었습니다. 두 수의 합을 구하세요.",
@@ -2076,6 +2212,142 @@
  {
   "difficulty": 2,
   "type": "choice4",
+  "question": "어떤 수에 324를 더했더니 631이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "306",
+   "955",
+   "308",
+   "307"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 + 324 = 631이므로 어떤 수는 631 − 324 = 307",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 325를 더했더니 756이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "4310",
+   "431",
+   "432",
+   "1081"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 325 = 756이므로 어떤 수는 756 − 325 = 431",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 257을 더했더니 897이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "650",
+   "640",
+   "1154",
+   "660"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 257 = 897이므로 어떤 수는 897 − 257 = 640",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 403을 더했더니 703이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "300",
+   "200",
+   "100",
+   "1106"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 403 = 703이므로 어떤 수는 703 − 403 = 300",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 130을 더했더니 795가 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "665",
+   "925",
+   "666",
+   "667"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 130 = 795이므로 어떤 수는 795 − 130 = 665",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 234를 더했더니 487이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "253",
+   "252",
+   "254",
+   "721"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 234 = 487이므로 어떤 수는 487 − 234 = 253",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 133을 더했더니 545가 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "678",
+   "412",
+   "414",
+   "413"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 133 = 545이므로 어떤 수는 545 − 133 = 412",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수에 130을 더했더니 230이 되었습니다. 어떤 수는 얼마인가요?",
+  "choices": [
+   "360",
+   "200",
+   "100",
+   "300"
+  ],
+  "answer": 2,
+  "explanation": "어떤 수 + 130 = 230이므로 어떤 수는 230 − 130 = 100",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-unknown-add"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
   "question": "□ 안에 알맞은 수를 고르세요. 604 − □ = 176",
   "choices": [
    "4280",
@@ -2618,6 +2890,142 @@
   "source": "math-king:w3-pocket-money"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 129를 빼야 할 것을 잘못하여 더했더니 550이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "421",
+   "292",
+   "291",
+   "2920"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 129 = 550이므로 어떤 수는 550 − 129 = 421이에요. 바르게 계산하면 421 − 129 = 292",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 146을 빼야 할 것을 잘못하여 더했더니 648이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "502",
+   "356",
+   "357",
+   "3560"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 146 = 648이므로 어떤 수는 648 − 146 = 502예요. 바르게 계산하면 502 − 146 = 356",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 368을 빼야 할 것을 잘못하여 더했더니 882가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "1460",
+   "145",
+   "514",
+   "146"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 + 368 = 882이므로 어떤 수는 882 − 368 = 514예요. 바르게 계산하면 514 − 368 = 146",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 288을 빼야 할 것을 잘못하여 더했더니 923이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "3470",
+   "635",
+   "346",
+   "347"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 + 288 = 923이므로 어떤 수는 923 − 288 = 635예요. 바르게 계산하면 635 − 288 = 347",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 267을 빼야 할 것을 잘못하여 더했더니 733이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "199",
+   "466",
+   "198",
+   "1990"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 267 = 733이므로 어떤 수는 733 − 267 = 466이에요. 바르게 계산하면 466 − 267 = 199",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 218을 빼야 할 것을 잘못하여 더했더니 831이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "396",
+   "395",
+   "613",
+   "397"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 218 = 831이므로 어떤 수는 831 − 218 = 613이에요. 바르게 계산하면 613 − 218 = 395",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 198을 빼야 할 것을 잘못하여 더했더니 609가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "213",
+   "411",
+   "2130",
+   "203"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 198 = 609이므로 어떤 수는 609 − 198 = 411이에요. 바르게 계산하면 411 − 198 = 213",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에서 318을 빼야 할 것을 잘못하여 더했더니 834가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "1980",
+   "516",
+   "198",
+   "188"
+  ],
+  "answer": 2,
+  "explanation": "어떤 수 + 318 = 834이므로 어떤 수는 834 − 318 = 516이에요. 바르게 계산하면 516 − 318 = 198",
+  "standard": "[4수01-03]",
+  "semester": 1,
+  "unit": "덧셈과 뺄셈",
+  "source": "math-king:a3-as-wrong-sub"
+ },
+ {
   "difficulty": 2,
   "type": "choice4",
   "question": "선분, 반직선, 직선에 대한 설명으로 옳은 것을 고르세요.",
@@ -2652,6 +3060,57 @@
   "source": "math-king:l3-line-truth"
  },
  {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "한 점에서 시작하여 한쪽으로 끝없이 늘인 곧은 선을 무엇이라고 하나요?",
+  "choices": [
+   "곡선",
+   "직선",
+   "선분",
+   "반직선"
+  ],
+  "answer": 3,
+  "explanation": "한 점에서 시작하여 한쪽으로 끝없이 늘인 곧은 선은 반직선이에요.",
+  "standard": "[4수03-01]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-line-name"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "선분을 양쪽으로 끝없이 늘인 곧은 선을 무엇이라고 하나요?",
+  "choices": [
+   "직선",
+   "선분",
+   "곡선",
+   "반직선"
+  ],
+  "answer": 0,
+  "explanation": "선분을 양쪽으로 끝없이 늘인 곧은 선은 직선이에요.",
+  "standard": "[4수03-01]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-line-name"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "두 점을 곧게 이은 선을 무엇이라고 하나요?",
+  "choices": [
+   "곡선",
+   "반직선",
+   "선분",
+   "직선"
+  ],
+  "answer": 2,
+  "explanation": "두 점을 곧게 이은 선은 선분이에요.",
+  "standard": "[4수03-01]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-line-name"
+ },
+ {
   "difficulty": 3,
   "type": "choice4",
   "question": "각에 대한 설명으로 잘못된 것을 고르세요.",
@@ -2684,6 +3143,142 @@
   "semester": 1,
   "unit": "평면도형",
   "source": "math-king:l3-angle-truth"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 4개와 사각형 3개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "21개",
+   "22개",
+   "23개",
+   "24개"
+  ],
+  "answer": 3,
+  "explanation": "3 × 4 = 12, 4 × 3 = 12, 12 + 12 = 24(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 4개와 사각형 4개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "28개",
+   "26개",
+   "27개",
+   "29개"
+  ],
+  "answer": 0,
+  "explanation": "3 × 4 = 12, 4 × 4 = 16, 12 + 16 = 28(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 3개와 사각형 6개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "13개",
+   "33개",
+   "43개",
+   "23개"
+  ],
+  "answer": 1,
+  "explanation": "3 × 3 = 9, 4 × 6 = 24, 9 + 24 = 33(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 5개와 사각형 4개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "30개",
+   "32개",
+   "29개",
+   "31개"
+  ],
+  "answer": 3,
+  "explanation": "3 × 5 = 15, 4 × 4 = 16, 15 + 16 = 31(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 2개와 사각형 5개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "29개",
+   "26개",
+   "28개",
+   "27개"
+  ],
+  "answer": 1,
+  "explanation": "3 × 2 = 6, 4 × 5 = 20, 6 + 20 = 26(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 3개와 사각형 3개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "20개",
+   "19개",
+   "18개",
+   "21개"
+  ],
+  "answer": 3,
+  "explanation": "3 × 3 = 9, 4 × 3 = 12, 9 + 12 = 21(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 2개와 사각형 4개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "22개",
+   "19개",
+   "21개",
+   "20개"
+  ],
+  "answer": 0,
+  "explanation": "3 × 2 = 6, 4 × 4 = 16, 6 + 16 = 22(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "삼각형 2개와 사각형 2개가 있습니다. 이 도형들의 각은 모두 몇 개인가요?",
+  "choices": [
+   "12개",
+   "13개",
+   "15개",
+   "14개"
+  ],
+  "answer": 3,
+  "explanation": "3 × 2 = 6, 4 × 2 = 8, 6 + 8 = 14(개)",
+  "standard": "[4수03-02]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-angle-count"
  },
  {
   "difficulty": 2,
@@ -2990,6 +3585,142 @@
   "semester": 1,
   "unit": "평면도형",
   "source": "math-king:l3-rect-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 11 cm, 세로가 4 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "48 cm",
+   "28 cm",
+   "38 cm",
+   "18 cm"
+  ],
+  "answer": 2,
+  "explanation": "큰 직사각형의 가로는 11 cm, 세로는 4 + 4 = 8(cm)예요. 네 변의 길이의 합은 11 + 8 + 11 + 8 = 38(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 11 cm, 세로가 6 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "48 cm",
+   "460 cm",
+   "46 cm",
+   "47 cm"
+  ],
+  "answer": 2,
+  "explanation": "큰 직사각형의 가로는 11 cm, 세로는 6 + 6 = 12(cm)예요. 네 변의 길이의 합은 11 + 12 + 11 + 12 = 46(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 9 cm, 세로가 7 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "460 cm",
+   "45 cm",
+   "44 cm",
+   "46 cm"
+  ],
+  "answer": 3,
+  "explanation": "큰 직사각형의 가로는 9 cm, 세로는 7 + 7 = 14(cm)예요. 네 변의 길이의 합은 9 + 14 + 9 + 14 = 46(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 13 cm, 세로가 6 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "50 cm",
+   "40 cm",
+   "500 cm",
+   "30 cm"
+  ],
+  "answer": 0,
+  "explanation": "큰 직사각형의 가로는 13 cm, 세로는 6 + 6 = 12(cm)예요. 네 변의 길이의 합은 13 + 12 + 13 + 12 = 50(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 6 cm, 세로가 4 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "280 cm",
+   "28 cm",
+   "18 cm",
+   "38 cm"
+  ],
+  "answer": 1,
+  "explanation": "큰 직사각형의 가로는 6 cm, 세로는 4 + 4 = 8(cm)예요. 네 변의 길이의 합은 6 + 8 + 6 + 8 = 28(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 9 cm, 세로가 3 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "300 cm",
+   "30 cm",
+   "20 cm",
+   "40 cm"
+  ],
+  "answer": 1,
+  "explanation": "큰 직사각형의 가로는 9 cm, 세로는 3 + 3 = 6(cm)예요. 네 변의 길이의 합은 9 + 6 + 9 + 6 = 30(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 6 cm, 세로가 3 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "25 cm",
+   "26 cm",
+   "27 cm",
+   "24 cm"
+  ],
+  "answer": 3,
+  "explanation": "큰 직사각형의 가로는 6 cm, 세로는 3 + 3 = 6(cm)예요. 네 변의 길이의 합은 6 + 6 + 6 + 6 = 24(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가로가 6 cm, 세로가 2 cm인 직사각형 2개를 겹치지 않게 가로끼리 맞닿도록 위아래로 붙여 큰 직사각형을 만들었습니다. 큰 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "200 cm",
+   "20 cm",
+   "30 cm",
+   "10 cm"
+  ],
+  "answer": 1,
+  "explanation": "큰 직사각형의 가로는 6 cm, 세로는 2 + 2 = 4(cm)예요. 네 변의 길이의 합은 6 + 4 + 6 + 4 = 20(cm)",
+  "standard": "[4수03-10]",
+  "semester": 1,
+  "unit": "평면도형",
+  "source": "math-king:a3-pf-rect-join"
  },
  {
   "difficulty": 2,
@@ -4388,6 +5119,142 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "길이가 24 cm인 끈을 6 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "4도막",
+   "6도막",
+   "7도막",
+   "5도막"
+  ],
+  "answer": 0,
+  "explanation": "24 ÷ 6 = 4(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 36 cm인 끈을 6 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "4도막",
+   "5도막",
+   "6도막",
+   "7도막"
+  ],
+  "answer": 2,
+  "explanation": "36 ÷ 6 = 6(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 40 cm인 끈을 5 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "6도막",
+   "7도막",
+   "5도막",
+   "8도막"
+  ],
+  "answer": 3,
+  "explanation": "40 ÷ 5 = 8(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 40 cm인 끈을 8 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "2도막",
+   "3도막",
+   "4도막",
+   "5도막"
+  ],
+  "answer": 3,
+  "explanation": "40 ÷ 8 = 5(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 14 cm인 끈을 2 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "9도막",
+   "10도막",
+   "8도막",
+   "7도막"
+  ],
+  "answer": 3,
+  "explanation": "14 ÷ 2 = 7(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 12 cm인 끈을 4 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "2도막",
+   "1도막",
+   "4도막",
+   "3도막"
+  ],
+  "answer": 3,
+  "explanation": "12 ÷ 4 = 3(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 10 cm인 끈을 2 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "6도막",
+   "7도막",
+   "5도막",
+   "8도막"
+  ],
+  "answer": 2,
+  "explanation": "10 ÷ 2 = 5(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 4 cm인 끈을 2 cm씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "4도막",
+   "2도막",
+   "5도막",
+   "3도막"
+  ],
+  "answer": 1,
+  "explanation": "4 ÷ 2 = 2(도막)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-cut-string"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "곱셈식을 보고 □ 안에 알맞은 수를 고르세요. 6 × 4 = 24 → 24 ÷ 6 = □",
   "choices": [
    "24",
@@ -5610,6 +6477,142 @@
   "source": "math-king:l3-div-t-cards"
  },
  {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "24 ÷ 6의 몫과 4 ÷ 2의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "4",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "6 × 4 = 24이므로 24 ÷ 6 = 4, 2 × 2 = 4이므로 4 ÷ 2 = 2. 4 + 2 = 6",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "36 ÷ 6의 몫과 64 ÷ 8의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "13",
+   "14",
+   "12",
+   "140"
+  ],
+  "answer": 1,
+  "explanation": "6 × 6 = 36이므로 36 ÷ 6 = 6, 8 × 8 = 64이므로 64 ÷ 8 = 8. 6 + 8 = 14",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "40 ÷ 5의 몫과 8 ÷ 4의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "30",
+   "100",
+   "20",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "5 × 8 = 40이므로 40 ÷ 5 = 8, 4 × 2 = 8이므로 8 ÷ 4 = 2. 8 + 2 = 10",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "40 ÷ 8의 몫과 21 ÷ 7의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "8 × 5 = 40이므로 40 ÷ 8 = 5, 7 × 3 = 21이므로 21 ÷ 7 = 3. 5 + 3 = 8",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "14 ÷ 2의 몫과 24 ÷ 3의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "15",
+   "13",
+   "12",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "2 × 7 = 14이므로 14 ÷ 2 = 7, 3 × 8 = 24이므로 24 ÷ 3 = 8. 7 + 8 = 15",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "12 ÷ 4의 몫과 28 ÷ 7의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "7",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "4 × 3 = 12이므로 12 ÷ 4 = 3, 7 × 4 = 28이므로 28 ÷ 7 = 4. 3 + 4 = 7",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "16 ÷ 8의 몫과 24 ÷ 6의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "4",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "8 × 2 = 16이므로 16 ÷ 8 = 2, 6 × 4 = 24이므로 24 ÷ 6 = 4. 2 + 4 = 6",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "4 ÷ 2의 몫과 49 ÷ 7의 몫을 더하면 얼마인가요?",
+  "choices": [
+   "7",
+   "8",
+   "10",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "2 × 2 = 4이므로 4 ÷ 2 = 2, 7 × 7 = 49이므로 49 ÷ 7 = 7. 2 + 7 = 9",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-quotients"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산해 보세요. 24 ÷ 6 = □",
@@ -6154,6 +7157,142 @@
   "source": "math-king:l3-table-cond"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 딸기 맛 사탕 6개와 포도 맛 사탕 24개를 친구 6명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "5개",
+   "8개",
+   "7개",
+   "6개"
+  ],
+  "answer": 0,
+  "explanation": "6 + 24 = 30(개), 30 ÷ 6 = 5(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이수는 딸기 맛 사탕 30개와 포도 맛 사탕 12개를 친구 6명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "7개",
+   "5개",
+   "6개",
+   "4개"
+  ],
+  "answer": 0,
+  "explanation": "30 + 12 = 42(개), 42 ÷ 6 = 7(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 딸기 맛 사탕 14개와 포도 맛 사탕 26개를 친구 5명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "7개",
+   "9개",
+   "8개",
+   "10개"
+  ],
+  "answer": 2,
+  "explanation": "14 + 26 = 40(개), 40 ÷ 5 = 8(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 딸기 맛 사탕 24개와 포도 맛 사탕 16개를 친구 8명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "5개",
+   "6개",
+   "4개",
+   "7개"
+  ],
+  "answer": 0,
+  "explanation": "24 + 16 = 40(개), 40 ÷ 8 = 5(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나는 딸기 맛 사탕 8개와 포도 맛 사탕 16개를 친구 3명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "7개",
+   "9개",
+   "8개",
+   "6개"
+  ],
+  "answer": 2,
+  "explanation": "8 + 16 = 24(개), 24 ÷ 3 = 8(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서아는 딸기 맛 사탕 12개와 포도 맛 사탕 8개를 친구 5명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "2개",
+   "4개",
+   "1개",
+   "3개"
+  ],
+  "answer": 1,
+  "explanation": "12 + 8 = 20(개), 20 ÷ 5 = 4(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 딸기 맛 사탕 5개와 포도 맛 사탕 10개를 친구 3명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "3개",
+   "4개",
+   "5개",
+   "6개"
+  ],
+  "answer": 2,
+  "explanation": "5 + 10 = 15(개), 15 ÷ 3 = 5(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나는 딸기 맛 사탕 16개와 포도 맛 사탕 5개를 친구 7명에게 똑같이 나누어 주었습니다. 친구 한 명이 받은 사탕은 몇 개인가요?",
+  "choices": [
+   "4개",
+   "2개",
+   "1개",
+   "3개"
+  ],
+  "answer": 3,
+  "explanation": "16 + 5 = 21(개), 21 ÷ 7 = 3(개)",
+  "standard": "[4수01-05]",
+  "semester": 1,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-two-kinds"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산해 보세요. 60 × 4 = □",
@@ -6696,6 +7835,142 @@
   "semester": 1,
   "unit": "곱셈",
   "source": "math-king:w3-candy-bags"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "60을 4번 더한 수는 얼마인가요?",
+  "choices": [
+   "240",
+   "250",
+   "260",
+   "2400"
+  ],
+  "answer": 0,
+  "explanation": "60 × 4 = 240",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "60을 6번 더한 수는 얼마인가요?",
+  "choices": [
+   "360",
+   "350",
+   "340",
+   "3600"
+  ],
+  "answer": 0,
+  "explanation": "60 × 6 = 360",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "50을 8번 더한 수는 얼마인가요?",
+  "choices": [
+   "400",
+   "500",
+   "4000",
+   "300"
+  ],
+  "answer": 0,
+  "explanation": "50 × 8 = 400",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "80을 5번 더한 수는 얼마인가요?",
+  "choices": [
+   "200",
+   "400",
+   "300",
+   "100"
+  ],
+  "answer": 1,
+  "explanation": "80 × 5 = 400",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "20을 7번 더한 수는 얼마인가요?",
+  "choices": [
+   "140",
+   "150",
+   "130",
+   "160"
+  ],
+  "answer": 0,
+  "explanation": "20 × 7 = 140",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "40을 3번 더한 수는 얼마인가요?",
+  "choices": [
+   "120",
+   "150",
+   "140",
+   "130"
+  ],
+  "answer": 0,
+  "explanation": "40 × 3 = 120",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "20을 5번 더한 수는 얼마인가요?",
+  "choices": [
+   "300",
+   "200",
+   "1000",
+   "100"
+  ],
+  "answer": 3,
+  "explanation": "20 × 5 = 100",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "20을 2번 더한 수는 얼마인가요?",
+  "choices": [
+   "400",
+   "40",
+   "50",
+   "30"
+  ],
+  "answer": 1,
+  "explanation": "20 × 2 = 40",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-repeat"
  },
  {
   "difficulty": 2,
@@ -8060,6 +9335,142 @@
  {
   "difficulty": 2,
   "type": "choice4",
+  "question": "27 × □ < 110에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "3",
+   "4",
+   "5",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "27 × 4 = 108은 110보다 작고, 27 × 5 = 135는 110보다 작지 않아요. 가장 큰 수는 4",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "27 × □ < 184에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "8",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "27 × 6 = 162는 184보다 작고, 27 × 7 = 189는 184보다 작지 않아요. 가장 큰 수는 6",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "22 × □ < 161에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "7",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "22 × 7 = 154는 161보다 작고, 22 × 8 = 176은 161보다 작지 않아요. 가장 큰 수는 7",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "33 × □ < 153에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "1",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "33 × 4 = 132는 153보다 작고, 33 × 5 = 165는 153보다 작지 않아요. 가장 큰 수는 4",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "12 × □ < 87에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "12 × 7 = 84는 87보다 작고, 12 × 8 = 96은 87보다 작지 않아요. 가장 큰 수는 7",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "20 × □ < 75에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "2",
+   "1",
+   "4",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "20 × 3 = 60은 75보다 작고, 20 × 4 = 80은 75보다 작지 않아요. 가장 큰 수는 3",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "13 × □ < 53에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "3",
+   "5",
+   "4",
+   "2"
+  ],
+  "answer": 2,
+  "explanation": "13 × 4 = 52는 53보다 작고, 13 × 5 = 65는 53보다 작지 않아요. 가장 큰 수는 4",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "12 × □ < 32에서 □ 안에 들어갈 수 있는 한 자리 수 중 가장 큰 수는 얼마인가요?",
+  "choices": [
+   "4",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "12 × 2 = 24는 32보다 작고, 12 × 3 = 36은 32보다 작지 않아요. 가장 큰 수는 2",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-largest-digit"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
   "question": "□ 안에 알맞은 숫자를 고르세요. □9 × 8 = 552",
   "choices": [
    "6",
@@ -8600,6 +10011,142 @@
   "semester": 1,
   "unit": "곱셈",
   "source": "math-king:w3-sold-boxes"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 38명씩 5줄로 서 있고, 그 뒤에 한 줄에 24명씩 3줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "262명",
+   "263명",
+   "260명",
+   "261명"
+  ],
+  "answer": 0,
+  "explanation": "38 × 5 = 190, 24 × 3 = 72, 190 + 72 = 262(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 38명씩 7줄로 서 있고, 그 뒤에 한 줄에 44명씩 9줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "662명",
+   "660명",
+   "663명",
+   "661명"
+  ],
+  "answer": 0,
+  "explanation": "38 × 7 = 266, 44 × 9 = 396, 266 + 396 = 662(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 33명씩 8줄로 서 있고, 그 뒤에 한 줄에 31명씩 3줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "357명",
+   "358명",
+   "359명",
+   "356명"
+  ],
+  "answer": 0,
+  "explanation": "33 × 8 = 264, 31 × 3 = 93, 264 + 93 = 357(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 44명씩 5줄로 서 있고, 그 뒤에 한 줄에 39명씩 4줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "376명",
+   "378명",
+   "375명",
+   "377명"
+  ],
+  "answer": 0,
+  "explanation": "44 × 5 = 220, 39 × 4 = 156, 220 + 156 = 376(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 23명씩 8줄로 서 있고, 그 뒤에 한 줄에 29명씩 8줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "436명",
+   "426명",
+   "416명",
+   "446명"
+  ],
+  "answer": 2,
+  "explanation": "23 × 8 = 184, 29 × 8 = 232, 184 + 232 = 416(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 31명씩 4줄로 서 있고, 그 뒤에 한 줄에 42명씩 4줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "290명",
+   "291명",
+   "289명",
+   "292명"
+  ],
+  "answer": 3,
+  "explanation": "31 × 4 = 124, 42 × 4 = 168, 124 + 168 = 292(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 23명씩 5줄로 서 있고, 그 뒤에 한 줄에 24명씩 5줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "205명",
+   "215명",
+   "225명",
+   "235명"
+  ],
+  "answer": 3,
+  "explanation": "23 × 5 = 115, 24 × 5 = 120, 115 + 120 = 235(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "운동장에 학생들이 한 줄에 23명씩 3줄로 서 있고, 그 뒤에 한 줄에 39명씩 7줄로 서 있습니다. 운동장에 서 있는 학생은 모두 몇 명인가요?",
+  "choices": [
+   "342명",
+   "341명",
+   "343명",
+   "344명"
+  ],
+  "answer": 0,
+  "explanation": "23 × 3 = 69, 39 × 7 = 273, 69 + 273 = 342(명)",
+  "standard": "[4수01-04]",
+  "semester": 1,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-two-groups"
  },
  {
   "difficulty": 1,
@@ -9688,6 +11235,142 @@
   "semester": 1,
   "unit": "길이와 시간",
   "source": "math-king:l3-km-box"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 550 m, 도서관에서 공원까지는 510 m입니다. 집에서 공원까지 바로 가는 길은 1 km 150 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "920 m",
+   "940 m",
+   "910 m",
+   "930 m"
+  ],
+  "answer": 2,
+  "explanation": "도서관을 거쳐 가는 길은 1550 + 510 = 2060(m), 바로 가는 길은 1150 m예요. 2060 − 1150 = 910(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 560 m, 도서관에서 공원까지는 650 m입니다. 집에서 공원까지 바로 가는 길은 1 km 730 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "480 m",
+   "4800 m",
+   "470 m",
+   "460 m"
+  ],
+  "answer": 0,
+  "explanation": "도서관을 거쳐 가는 길은 1560 + 650 = 2210(m), 바로 가는 길은 1730 m예요. 2210 − 1730 = 480(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 400 m, 도서관에서 공원까지는 810 m입니다. 집에서 공원까지 바로 가는 길은 1 km 350 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "860 m",
+   "850 m",
+   "870 m",
+   "8600 m"
+  ],
+  "answer": 0,
+  "explanation": "도서관을 거쳐 가는 길은 1400 + 810 = 2210(m), 바로 가는 길은 1350 m예요. 2210 − 1350 = 860(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 730 m, 도서관에서 공원까지는 540 m입니다. 집에서 공원까지 바로 가는 길은 1 km 600 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "670 m",
+   "700 m",
+   "680 m",
+   "690 m"
+  ],
+  "answer": 0,
+  "explanation": "도서관을 거쳐 가는 길은 1730 + 540 = 2270(m), 바로 가는 길은 1600 m예요. 2270 − 1600 = 670(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 120 m, 도서관에서 공원까지는 740 m입니다. 집에서 공원까지 바로 가는 길은 1 km 300 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "560 m",
+   "5600 m",
+   "570 m",
+   "580 m"
+  ],
+  "answer": 0,
+  "explanation": "도서관을 거쳐 가는 길은 1120 + 740 = 1860(m), 바로 가는 길은 1300 m예요. 1860 − 1300 = 560(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 350 m, 도서관에서 공원까지는 440 m입니다. 집에서 공원까지 바로 가는 길은 1 km 670 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "110 m",
+   "1200 m",
+   "130 m",
+   "120 m"
+  ],
+  "answer": 3,
+  "explanation": "도서관을 거쳐 가는 길은 1350 + 440 = 1790(m), 바로 가는 길은 1670 m예요. 1790 − 1670 = 120(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 120 m, 도서관에서 공원까지는 540 m입니다. 집에서 공원까지 바로 가는 길은 1 km 130 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "5300 m",
+   "540 m",
+   "530 m",
+   "520 m"
+  ],
+  "answer": 2,
+  "explanation": "도서관을 거쳐 가는 길은 1120 + 540 = 1660(m), 바로 가는 길은 1130 m예요. 1660 − 1130 = 530(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "집에서 도서관까지는 1 km 600 m, 도서관에서 공원까지는 370 m입니다. 집에서 공원까지 바로 가는 길은 1 km 860 m입니다. 도서관을 거쳐 가는 길은 바로 가는 길보다 몇 m 더 먼가요?",
+  "choices": [
+   "120 m",
+   "100 m",
+   "110 m",
+   "1100 m"
+  ],
+  "answer": 2,
+  "explanation": "도서관을 거쳐 가는 길은 1600 + 370 = 1970(m), 바로 가는 길은 1860 m예요. 1970 − 1860 = 110(m)",
+  "standard": "[4수03-16]",
+  "semester": 1,
+  "unit": "길이와 시간",
+  "source": "math-king:a3-len-route-diff"
  },
  {
   "difficulty": 1,
@@ -11373,6 +13056,142 @@
   "source": "math-king:w3-cake-eat"
  },
  {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/9보다 크고 1/5보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "3개",
+   "1개",
+   "4개"
+  ],
+  "answer": 1,
+  "explanation": "분모가 6부터 8까지인 단위분수예요. 모두 3개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/10보다 크고 1/5보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "3개",
+   "1개",
+   "4개",
+   "2개"
+  ],
+  "answer": 2,
+  "explanation": "분모가 6부터 9까지인 단위분수예요. 모두 4개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/11보다 크고 1/4보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "5개",
+   "4개",
+   "6개",
+   "3개"
+  ],
+  "answer": 2,
+  "explanation": "분모가 5부터 10까지인 단위분수예요. 모두 6개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/10보다 크고 1/7보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "4개",
+   "2개",
+   "1개",
+   "3개"
+  ],
+  "answer": 1,
+  "explanation": "분모가 8부터 9까지인 단위분수예요. 모두 2개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/10보다 크고 1/2보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "7개",
+   "4개",
+   "5개",
+   "6개"
+  ],
+  "answer": 0,
+  "explanation": "분모가 3부터 9까지인 단위분수예요. 모두 7개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/7보다 크고 1/4보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "3개",
+   "4개",
+   "1개"
+  ],
+  "answer": 0,
+  "explanation": "분모가 5부터 6까지인 단위분수예요. 모두 2개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/7보다 크고 1/2보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "3개",
+   "4개",
+   "2개",
+   "5개"
+  ],
+  "answer": 1,
+  "explanation": "분모가 3부터 6까지인 단위분수예요. 모두 4개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "1/4보다 크고 1/2보다 작은 단위분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "1개",
+   "3개",
+   "0개"
+  ],
+  "answer": 1,
+  "explanation": "분모가 3부터 3까지인 단위분수예요. 모두 1개",
+  "standard": "[4수01-11]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-frac-unit-between"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "분수를 소수로 나타내어 보세요. 6/10 = □",
@@ -12597,6 +14416,142 @@
   "source": "math-king:w3-ribbon-decimal"
  },
  {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 6개, 0.1이 4개인 수는 얼마인가요?",
+  "choices": [
+   "6.6",
+   "6.4",
+   "64",
+   "6.5"
+  ],
+  "answer": 1,
+  "explanation": "1이 6개이면 6, 0.1이 4개이면 0.4이므로 6.4",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 6개, 0.1이 6개인 수는 얼마인가요?",
+  "choices": [
+   "6.6",
+   "66",
+   "6.7",
+   "6.8"
+  ],
+  "answer": 0,
+  "explanation": "1이 6개이면 6, 0.1이 6개이면 0.6이므로 6.6",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 4개, 0.1이 8개인 수는 얼마인가요?",
+  "choices": [
+   "4.9",
+   "4.8",
+   "48",
+   "4.7"
+  ],
+  "answer": 1,
+  "explanation": "1이 4개이면 4, 0.1이 8개이면 0.8이므로 4.8",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 8개, 0.1이 4개인 수는 얼마인가요?",
+  "choices": [
+   "8.3",
+   "84",
+   "8.4",
+   "8.5"
+  ],
+  "answer": 2,
+  "explanation": "1이 8개이면 8, 0.1이 4개이면 0.4이므로 8.4",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 1개, 0.1이 7개인 수는 얼마인가요?",
+  "choices": [
+   "1.7",
+   "1.8",
+   "1.9",
+   "0.17"
+  ],
+  "answer": 0,
+  "explanation": "1이 1개이면 1, 0.1이 7개이면 0.7이므로 1.7",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 3개, 0.1이 3개인 수는 얼마인가요?",
+  "choices": [
+   "33",
+   "3.3",
+   "3.5",
+   "3.4"
+  ],
+  "answer": 1,
+  "explanation": "1이 3개이면 3, 0.1이 3개이면 0.3이므로 3.3",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 1개, 0.1이 4개인 수는 얼마인가요?",
+  "choices": [
+   "1.4",
+   "1.2",
+   "14",
+   "1.3"
+  ],
+  "answer": 0,
+  "explanation": "1이 1개이면 1, 0.1이 4개이면 0.4이므로 1.4",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1이 1개, 0.1이 1개인 수는 얼마인가요?",
+  "choices": [
+   "0.11",
+   "1.1",
+   "1",
+   "0.9"
+  ],
+  "answer": 1,
+  "explanation": "1이 1개이면 1, 0.1이 1개이면 0.1이므로 1.1",
+  "standard": "[4수01-12]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-ones-tenths"
+ },
+ {
   "difficulty": 2,
   "type": "choice4",
   "question": "가장 큰 소수를 고르세요.",
@@ -13020,6 +14975,142 @@
   "semester": 1,
   "unit": "분수와 소수",
   "source": "math-king:w3-jump-far"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우의 리본은 6.4 cm이고, 동생의 리본은 25 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "3.9 mm",
+   "49 mm",
+   "59 mm",
+   "39 mm"
+  ],
+  "answer": 3,
+  "explanation": "6.4 cm는 0.1 cm가 64개이므로 64 mm예요. 64 − 25 = 39(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이수의 리본은 6.6 cm이고, 동생의 리본은 82 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "14 mm",
+   "15 mm",
+   "160 mm",
+   "16 mm"
+  ],
+  "answer": 3,
+  "explanation": "6.6 cm는 0.1 cm가 66개이므로 66 mm예요. 82 − 66 = 16(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우의 리본은 5.8 cm이고, 동생의 리본은 44 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "1.4 mm",
+   "14 mm",
+   "15 mm",
+   "13 mm"
+  ],
+  "answer": 1,
+  "explanation": "5.8 cm는 0.1 cm가 58개이므로 58 mm예요. 58 − 44 = 14(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "이수의 리본은 4.5 cm이고, 동생의 리본은 61 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "17 mm",
+   "1.6 mm",
+   "15 mm",
+   "16 mm"
+  ],
+  "answer": 3,
+  "explanation": "4.5 cm는 0.1 cm가 45개이므로 45 mm예요. 61 − 45 = 16(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나의 리본은 3.7 cm이고, 동생의 리본은 39 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "2 mm",
+   "1 mm",
+   "3 mm",
+   "20 mm"
+  ],
+  "answer": 0,
+  "explanation": "3.7 cm는 0.1 cm가 37개이므로 37 mm예요. 39 − 37 = 2(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서아의 리본은 5.3 cm이고, 동생의 리본은 76 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "24 mm",
+   "25 mm",
+   "23 mm",
+   "230 mm"
+  ],
+  "answer": 2,
+  "explanation": "5.3 cm는 0.1 cm가 53개이므로 53 mm예요. 76 − 53 = 23(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아의 리본은 3.4 cm이고, 동생의 리본은 23 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "11 mm",
+   "10 mm",
+   "1.1 mm",
+   "12 mm"
+  ],
+  "answer": 0,
+  "explanation": "3.4 cm는 0.1 cm가 34개이므로 34 mm예요. 34 − 23 = 11(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "유나의 리본은 7.2 cm이고, 동생의 리본은 95 mm입니다. 두 리본의 길이의 차는 몇 mm인가요?",
+  "choices": [
+   "23 mm",
+   "230 mm",
+   "3 mm",
+   "13 mm"
+  ],
+  "answer": 0,
+  "explanation": "7.2 cm는 0.1 cm가 72개이므로 72 mm예요. 95 − 72 = 23(mm)",
+  "standard": "[4수01-14]",
+  "semester": 1,
+  "unit": "분수와 소수",
+  "source": "math-king:a3-dec-cm-mm-diff"
  },
  {
   "difficulty": 2,
@@ -14248,6 +16339,142 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "235를 4번 더한 수는 얼마인가요?",
+  "choices": [
+   "940",
+   "930",
+   "920",
+   "9400"
+  ],
+  "answer": 0,
+  "explanation": "235 × 4 = 940",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "236을 5번 더한 수는 얼마인가요?",
+  "choices": [
+   "1200",
+   "1170",
+   "1190",
+   "1180"
+  ],
+  "answer": 3,
+  "explanation": "236 × 5 = 1180",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "195를 6번 더한 수는 얼마인가요?",
+  "choices": [
+   "11700",
+   "1160",
+   "1150",
+   "1170"
+  ],
+  "answer": 3,
+  "explanation": "195 × 6 = 1170",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "282를 4번 더한 수는 얼마인가요?",
+  "choices": [
+   "1128",
+   "1098",
+   "1108",
+   "1118"
+  ],
+  "answer": 0,
+  "explanation": "282 × 4 = 1128",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "118을 5번 더한 수는 얼마인가요?",
+  "choices": [
+   "600",
+   "610",
+   "580",
+   "590"
+  ],
+  "answer": 3,
+  "explanation": "118 × 5 = 590",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "267을 4번 더한 수는 얼마인가요?",
+  "choices": [
+   "1066",
+   "1067",
+   "10680",
+   "1068"
+  ],
+  "answer": 3,
+  "explanation": "267 × 4 = 1068",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "121을 4번 더한 수는 얼마인가요?",
+  "choices": [
+   "494",
+   "4840",
+   "484",
+   "504"
+  ],
+  "answer": 2,
+  "explanation": "121 × 4 = 484",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "118을 3번 더한 수는 얼마인가요?",
+  "choices": [
+   "3540",
+   "355",
+   "356",
+   "354"
+  ],
+  "answer": 3,
+  "explanation": "118 × 3 = 354",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-3x1-repeat"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "계산해 보세요. 60 × 40 = □",
   "choices": [
    "24",
@@ -14788,6 +17015,142 @@
   "semester": 2,
   "unit": "곱셈",
   "source": "math-king:l3-mul-tt-wrong-op"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 40 = 2400에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "70",
+   "50",
+   "80",
+   "60"
+  ],
+  "answer": 3,
+  "explanation": "2400은 24 × 100이에요. 6 × 4 = 24이므로 60 × 40 = 2400. □ = 60",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 60 = 3600에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "40",
+   "30",
+   "60",
+   "50"
+  ],
+  "answer": 2,
+  "explanation": "3600은 36 × 100이에요. 6 × 6 = 36이므로 60 × 60 = 3600. □ = 60",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 80 = 4000에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "50",
+   "500",
+   "70",
+   "60"
+  ],
+  "answer": 0,
+  "explanation": "4000은 40 × 100이에요. 5 × 8 = 40이므로 50 × 80 = 4000. □ = 50",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 50 = 4000에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "60",
+   "80",
+   "90",
+   "70"
+  ],
+  "answer": 1,
+  "explanation": "4000은 40 × 100이에요. 8 × 5 = 40이므로 80 × 50 = 4000. □ = 80",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 70 = 1400에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "10",
+   "200",
+   "30",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "1400은 14 × 100이에요. 2 × 7 = 14이므로 20 × 70 = 1400. □ = 20",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 30 = 1200에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "30",
+   "10",
+   "20",
+   "40"
+  ],
+  "answer": 3,
+  "explanation": "1200은 12 × 100이에요. 4 × 3 = 12이므로 40 × 30 = 1200. □ = 40",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 50 = 1000에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "40",
+   "30",
+   "20",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "1000은 10 × 100이에요. 2 × 5 = 10이므로 20 × 50 = 1000. □ = 20",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "□ × 20 = 400에서 □ 안에 알맞은 몇십은 얼마인가요?",
+  "choices": [
+   "30",
+   "40",
+   "10",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "400은 4 × 100이에요. 2 × 2 = 4이므로 20 × 20 = 400. □ = 20",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-tens-box"
  },
  {
   "difficulty": 1,
@@ -16014,6 +18377,142 @@
   "source": "math-king:w3-line-up"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 27을 곱해야 할 것을 잘못하여 더했더니 59가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "32",
+   "8640",
+   "865",
+   "864"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 + 27 = 59이므로 어떤 수는 59 − 27 = 32예요. 바르게 계산하면 32 × 27 = 864",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 27을 곱해야 할 것을 잘못하여 더했더니 72가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "1205",
+   "12150",
+   "1215",
+   "45"
+  ],
+  "answer": 2,
+  "explanation": "어떤 수 + 27 = 72이므로 어떤 수는 72 − 27 = 45예요. 바르게 계산하면 45 × 27 = 1215",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 22를 곱해야 할 것을 잘못하여 더했더니 82가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "1320",
+   "60",
+   "1330",
+   "1340"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 22 = 82이므로 어떤 수는 82 − 22 = 60이에요. 바르게 계산하면 60 × 22 = 1320",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 33을 곱해야 할 것을 잘못하여 더했더니 68이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "1156",
+   "1155",
+   "35",
+   "11550"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 33 = 68이므로 어떤 수는 68 − 33 = 35예요. 바르게 계산하면 35 × 33 = 1155",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 12를 곱해야 할 것을 잘못하여 더했더니 66이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "647",
+   "54",
+   "648",
+   "649"
+  ],
+  "answer": 2,
+  "explanation": "어떤 수 + 12 = 66이므로 어떤 수는 66 − 12 = 54예요. 바르게 계산하면 54 × 12 = 648",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 20을 곱해야 할 것을 잘못하여 더했더니 45가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "500",
+   "400",
+   "25",
+   "600"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 + 20 = 45이므로 어떤 수는 45 − 20 = 25예요. 바르게 계산하면 25 × 20 = 500",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 13을 곱해야 할 것을 잘못하여 더했더니 48이 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "4550",
+   "455",
+   "454",
+   "35"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 + 13 = 48이므로 어떤 수는 48 − 13 = 35예요. 바르게 계산하면 35 × 13 = 455",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "어떤 수에 12를 곱해야 할 것을 잘못하여 더했더니 24가 되었습니다. 바르게 계산하면 얼마인가요?",
+  "choices": [
+   "134",
+   "154",
+   "12",
+   "144"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 + 12 = 24이므로 어떤 수는 24 − 12 = 12예요. 바르게 계산하면 12 × 12 = 144",
+  "standard": "[4수01-04]",
+  "semester": 2,
+  "unit": "곱셈",
+  "source": "math-king:a3-mul-wrong-add"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산해 보세요. 40 ÷ 4 = □",
@@ -17238,6 +19737,142 @@
   "source": "math-king:w3-bead-bags"
  },
  {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 6 = 13에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "78",
+   "98",
+   "68",
+   "88"
+  ],
+  "answer": 0,
+  "explanation": "6 × 13 = 78이므로 □ = 78",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 6 = 14에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "84",
+   "83",
+   "86",
+   "85"
+  ],
+  "answer": 0,
+  "explanation": "6 × 14 = 84이므로 □ = 84",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 5 = 18에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "100",
+   "90",
+   "80",
+   "110"
+  ],
+  "answer": 1,
+  "explanation": "5 × 18 = 90이므로 □ = 90",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 8 = 11에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "87",
+   "86",
+   "88",
+   "89"
+  ],
+  "answer": 2,
+  "explanation": "8 × 11 = 88이므로 □ = 88",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 2 = 39에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "780",
+   "80",
+   "78",
+   "79"
+  ],
+  "answer": 2,
+  "explanation": "2 × 39 = 78이므로 □ = 78",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 4 = 14에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "26",
+   "46",
+   "56",
+   "36"
+  ],
+  "answer": 2,
+  "explanation": "4 × 14 = 56이므로 □ = 56",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 2 = 26에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "52",
+   "53",
+   "54",
+   "520"
+  ],
+  "answer": 0,
+  "explanation": "2 × 26 = 52이므로 □ = 52",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ ÷ 2 = 11에서 □ 안에 알맞은 수는 얼마인가요?",
+  "choices": [
+   "23",
+   "22",
+   "220",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "2 × 11 = 22이므로 □ = 22",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-box-dividend"
+ },
+ {
   "difficulty": 2,
   "type": "choice4",
   "question": "어떤 수를 6으로 나누었을 때 나머지가 될 수 있는 수 중에서 가장 큰 수는 얼마인가요?",
@@ -17644,6 +20279,142 @@
   "semester": 2,
   "unit": "나눗셈",
   "source": "math-king:w3-groups-needed"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 23명이 한 모둠에 3명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "8개",
+   "6개",
+   "5개",
+   "7개"
+  ],
+  "answer": 0,
+  "explanation": "23 ÷ 3 = 7 … 2이므로 3명씩 7모둠을 만들고 남은 2명이 들어갈 모둠이 하나 더 필요해요. 7 + 1 = 8(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 69명이 한 모둠에 7명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "30개",
+   "10개",
+   "9개",
+   "20개"
+  ],
+  "answer": 1,
+  "explanation": "69 ÷ 7 = 9 … 6이므로 7명씩 9모둠을 만들고 남은 6명이 들어갈 모둠이 하나 더 필요해요. 9 + 1 = 10(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 87명이 한 모둠에 5명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "20개",
+   "19개",
+   "18개",
+   "17개"
+  ],
+  "answer": 2,
+  "explanation": "87 ÷ 5 = 17 … 2이므로 5명씩 17모둠을 만들고 남은 2명이 들어갈 모둠이 하나 더 필요해요. 17 + 1 = 18(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 52명이 한 모둠에 8명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "5개",
+   "7개",
+   "6개",
+   "8개"
+  ],
+  "answer": 1,
+  "explanation": "52 ÷ 8 = 6 … 4이므로 8명씩 6모둠을 만들고 남은 4명이 들어갈 모둠이 하나 더 필요해요. 6 + 1 = 7(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 81명이 한 모둠에 4명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "41개",
+   "31개",
+   "21개",
+   "20개"
+  ],
+  "answer": 2,
+  "explanation": "81 ÷ 4 = 20 … 1이므로 4명씩 20모둠을 만들고 남은 1명이 들어갈 모둠이 하나 더 필요해요. 20 + 1 = 21(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 38명이 한 모둠에 5명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "8개",
+   "7개",
+   "10개",
+   "9개"
+  ],
+  "answer": 0,
+  "explanation": "38 ÷ 5 = 7 … 3이므로 5명씩 7모둠을 만들고 남은 3명이 들어갈 모둠이 하나 더 필요해요. 7 + 1 = 8(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 52명이 한 모둠에 3명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "17개",
+   "16개",
+   "18개",
+   "19개"
+  ],
+  "answer": 2,
+  "explanation": "52 ÷ 3 = 17 … 1이므로 3명씩 17모둠을 만들고 남은 1명이 들어갈 모둠이 하나 더 필요해요. 17 + 1 = 18(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "학생 20명이 한 모둠에 3명까지 들어갈 수 있는 모둠을 만들려고 합니다. 학생이 모두 모둠에 들어가려면 모둠은 적어도 몇 개 있어야 하나요?",
+  "choices": [
+   "7개",
+   "8개",
+   "6개",
+   "5개"
+  ],
+  "answer": 0,
+  "explanation": "20 ÷ 3 = 6 … 2이므로 3명씩 6모둠을 만들고 남은 2명이 들어갈 모둠이 하나 더 필요해요. 6 + 1 = 7(개)",
+  "standard": "[4수01-06]",
+  "semester": 2,
+  "unit": "나눗셈",
+  "source": "math-king:a3-div-min-groups"
  },
  {
   "difficulty": 2,
@@ -18088,6 +20859,142 @@
   "source": "math-king:l3-radius-truth"
  },
  {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 6 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "120 cm",
+   "11 cm",
+   "12 cm",
+   "13 cm"
+  ],
+  "answer": 2,
+  "explanation": "반지름이 6 cm이므로 지름은 6 × 2 = 12(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 5 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "10 cm",
+   "30 cm",
+   "100 cm",
+   "20 cm"
+  ],
+  "answer": 0,
+  "explanation": "반지름이 5 cm이므로 지름은 5 × 2 = 10(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 8 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "16 cm",
+   "160 cm",
+   "15 cm",
+   "14 cm"
+  ],
+  "answer": 0,
+  "explanation": "반지름이 8 cm이므로 지름은 8 × 2 = 16(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 2 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "5 cm",
+   "3 cm",
+   "4 cm",
+   "6 cm"
+  ],
+  "answer": 2,
+  "explanation": "반지름이 2 cm이므로 지름은 2 × 2 = 4(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 4 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "9 cm",
+   "7 cm",
+   "6 cm",
+   "8 cm"
+  ],
+  "answer": 3,
+  "explanation": "반지름이 4 cm이므로 지름은 4 × 2 = 8(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 3 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "4 cm",
+   "6 cm",
+   "5 cm",
+   "7 cm"
+  ],
+  "answer": 1,
+  "explanation": "반지름이 3 cm이므로 지름은 3 × 2 = 6(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 9 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "15 cm",
+   "16 cm",
+   "17 cm",
+   "18 cm"
+  ],
+  "answer": 3,
+  "explanation": "반지름이 9 cm이므로 지름은 9 × 2 = 18(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "컴퍼스의 침과 연필심 사이를 7 cm만큼 벌려서 원을 그렸습니다. 그린 원의 지름은 몇 cm인가요?",
+  "choices": [
+   "14 cm",
+   "13 cm",
+   "15 cm",
+   "140 cm"
+  ],
+  "answer": 0,
+  "explanation": "반지름이 7 cm이므로 지름은 7 × 2 = 14(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-compass-diameter"
+ },
+ {
   "difficulty": 2,
   "type": "choice4",
   "question": "가 원은 반지름이 13 cm이고, 나 원은 지름이 17 cm입니다. 더 큰 원을 고르세요.",
@@ -18256,6 +21163,142 @@
   "semester": 2,
   "unit": "원",
   "source": "math-king:l3-diam-truth"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 4 cm인 원 3개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "64 cm",
+   "44 cm",
+   "640 cm",
+   "54 cm"
+  ],
+  "answer": 0,
+  "explanation": "지름은 8 cm예요. 가로는 8 × 3 = 24(cm), 세로는 8 cm이므로 네 변의 길이의 합은 24 + 8 + 24 + 8 = 64(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 4 cm인 원 4개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "90 cm",
+   "800 cm",
+   "70 cm",
+   "80 cm"
+  ],
+  "answer": 3,
+  "explanation": "지름은 8 cm예요. 가로는 8 × 4 = 32(cm), 세로는 8 cm이므로 네 변의 길이의 합은 32 + 8 + 32 + 8 = 80(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 3 cm인 원 5개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "73 cm",
+   "72 cm",
+   "71 cm",
+   "720 cm"
+  ],
+  "answer": 1,
+  "explanation": "지름은 6 cm예요. 가로는 6 × 5 = 30(cm), 세로는 6 cm이므로 네 변의 길이의 합은 30 + 6 + 30 + 6 = 72(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 5 cm인 원 3개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "70 cm",
+   "800 cm",
+   "80 cm",
+   "60 cm"
+  ],
+  "answer": 2,
+  "explanation": "지름은 10 cm예요. 가로는 10 × 3 = 30(cm), 세로는 10 cm이므로 네 변의 길이의 합은 30 + 10 + 30 + 10 = 80(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 2 cm인 원 4개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "30 cm",
+   "40 cm",
+   "20 cm",
+   "50 cm"
+  ],
+  "answer": 1,
+  "explanation": "지름은 4 cm예요. 가로는 4 × 4 = 16(cm), 세로는 4 cm이므로 네 변의 길이의 합은 16 + 4 + 16 + 4 = 40(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 3 cm인 원 2개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "360 cm",
+   "36 cm",
+   "34 cm",
+   "35 cm"
+  ],
+  "answer": 1,
+  "explanation": "지름은 6 cm예요. 가로는 6 × 2 = 12(cm), 세로는 6 cm이므로 네 변의 길이의 합은 12 + 6 + 12 + 6 = 36(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 2 cm인 원 3개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "32 cm",
+   "320 cm",
+   "12 cm",
+   "22 cm"
+  ],
+  "answer": 0,
+  "explanation": "지름은 4 cm예요. 가로는 4 × 3 = 12(cm), 세로는 4 cm이므로 네 변의 길이의 합은 12 + 4 + 12 + 4 = 32(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "반지름이 2 cm인 원 2개가 직사각형 안에 한 줄로 꼭 맞게 들어 있습니다. 원끼리는 맞닿아 있고, 원은 직사각형의 변에도 닿아 있습니다. 직사각형의 네 변의 길이의 합은 몇 cm인가요?",
+  "choices": [
+   "23 cm",
+   "22 cm",
+   "25 cm",
+   "24 cm"
+  ],
+  "answer": 3,
+  "explanation": "지름은 4 cm예요. 가로는 4 × 2 = 8(cm), 세로는 4 cm이므로 네 변의 길이의 합은 8 + 4 + 8 + 4 = 24(cm)",
+  "standard": "[4수03-06]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-box-perimeter"
  },
  {
   "difficulty": 2,
@@ -18528,6 +21571,142 @@
   "semester": 2,
   "unit": "원",
   "source": "math-king:l3-compass-rule"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 6 cm인 원 4개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "24 cm",
+   "49 cm",
+   "47 cm",
+   "48 cm"
+  ],
+  "answer": 3,
+  "explanation": "지름은 6 × 2 = 12(cm)이고, 원이 4개이므로 12 × 4 = 48(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 6 cm인 원 5개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "600 cm",
+   "70 cm",
+   "60 cm",
+   "30 cm"
+  ],
+  "answer": 2,
+  "explanation": "지름은 6 × 2 = 12(cm)이고, 원이 5개이므로 12 × 5 = 60(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 5 cm인 원 6개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "600 cm",
+   "30 cm",
+   "60 cm",
+   "70 cm"
+  ],
+  "answer": 2,
+  "explanation": "지름은 5 × 2 = 10(cm)이고, 원이 6개이므로 10 × 6 = 60(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 8 cm인 원 4개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "63 cm",
+   "65 cm",
+   "64 cm",
+   "32 cm"
+  ],
+  "answer": 2,
+  "explanation": "지름은 8 × 2 = 16(cm)이고, 원이 4개이므로 16 × 4 = 64(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 2 cm인 원 5개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "30 cm",
+   "10 cm",
+   "40 cm",
+   "20 cm"
+  ],
+  "answer": 3,
+  "explanation": "지름은 2 × 2 = 4(cm)이고, 원이 5개이므로 4 × 5 = 20(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 4 cm인 원 3개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "24 cm",
+   "12 cm",
+   "4 cm",
+   "14 cm"
+  ],
+  "answer": 0,
+  "explanation": "지름은 4 × 2 = 8(cm)이고, 원이 3개이므로 8 × 3 = 24(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 2 cm인 원 4개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "8 cm",
+   "14 cm",
+   "15 cm",
+   "16 cm"
+  ],
+  "answer": 3,
+  "explanation": "지름은 2 × 2 = 4(cm)이고, 원이 4개이므로 4 × 4 = 16(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "반지름이 2 cm인 원 3개를 겹치지 않게 한 줄로 맞닿게 늘어놓았습니다. 왼쪽 끝 원의 왼쪽 끝에서 오른쪽 끝 원의 오른쪽 끝까지의 길이는 몇 cm인가요?",
+  "choices": [
+   "11 cm",
+   "10 cm",
+   "12 cm",
+   "6 cm"
+  ],
+  "answer": 2,
+  "explanation": "지름은 2 × 2 = 4(cm)이고, 원이 3개이므로 4 × 3 = 12(cm)",
+  "standard": "[4수03-07]",
+  "semester": 2,
+  "unit": "원",
+  "source": "math-king:a3-cir-row-length"
  },
  {
   "difficulty": 2,
@@ -20283,6 +23462,142 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "1시간의 9/12는 몇 분인가요?",
+  "choices": [
+   "45분",
+   "46분",
+   "450분",
+   "47분"
+  ],
+  "answer": 0,
+  "explanation": "60분의 1/12은 60 ÷ 12 = 5(분)이므로 9/12는 5 × 9 = 45(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 9/10는 몇 분인가요?",
+  "choices": [
+   "53분",
+   "54분",
+   "540분",
+   "55분"
+  ],
+  "answer": 1,
+  "explanation": "60분의 1/10은 60 ÷ 10 = 6(분)이므로 9/10는 6 × 9 = 54(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 6/10은 몇 분인가요?",
+  "choices": [
+   "34분",
+   "35분",
+   "33분",
+   "36분"
+  ],
+  "answer": 3,
+  "explanation": "60분의 1/10은 60 ÷ 10 = 6(분)이므로 6/10은 6 × 6 = 36(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 2/10는 몇 분인가요?",
+  "choices": [
+   "13분",
+   "12분",
+   "120분",
+   "14분"
+  ],
+  "answer": 1,
+  "explanation": "60분의 1/10은 60 ÷ 10 = 6(분)이므로 2/10는 6 × 2 = 12(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 5/10는 몇 분인가요?",
+  "choices": [
+   "20분",
+   "40분",
+   "30분",
+   "10분"
+  ],
+  "answer": 2,
+  "explanation": "60분의 1/10은 60 ÷ 10 = 6(분)이므로 5/10는 6 × 5 = 30(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 5/12는 몇 분인가요?",
+  "choices": [
+   "25분",
+   "24분",
+   "23분",
+   "26분"
+  ],
+  "answer": 0,
+  "explanation": "60분의 1/12은 60 ÷ 12 = 5(분)이므로 5/12는 5 × 5 = 25(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 8/12은 몇 분인가요?",
+  "choices": [
+   "50분",
+   "400분",
+   "40분",
+   "60분"
+  ],
+  "answer": 2,
+  "explanation": "60분의 1/12은 60 ÷ 12 = 5(분)이므로 8/12은 5 × 8 = 40(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "1시간의 1/5은 몇 분인가요?",
+  "choices": [
+   "10분",
+   "120분",
+   "12분",
+   "11분"
+  ],
+  "answer": 2,
+  "explanation": "60분의 1/5은 60 ÷ 5 = 12(분)이므로 1/5은 12 × 1 = 12(분)",
+  "standard": "[4수01-09]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-of-hour"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "가분수를 고르세요.",
   "choices": [
    "5/5",
@@ -20857,6 +24172,142 @@
   "semester": 2,
   "unit": "분수",
   "source": "math-king:w3-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 9인 진분수 중에서 3/9보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "5개",
+   "4개",
+   "2개",
+   "3개"
+  ],
+  "answer": 0,
+  "explanation": "분모가 9인 진분수 중 3/9보다 큰 분수는 4/9부터 8/9까지 5개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 9인 진분수 중에서 4/9보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "4개",
+   "1개",
+   "3개",
+   "2개"
+  ],
+  "answer": 0,
+  "explanation": "분모가 9인 진분수 중 4/9보다 큰 분수는 5/9부터 8/9까지 4개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 8인 진분수 중에서 5/8보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "4개",
+   "2개",
+   "1개",
+   "3개"
+  ],
+  "answer": 1,
+  "explanation": "분모가 8인 진분수 중 5/8보다 큰 분수는 6/8부터 7/8까지 2개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 11인 진분수 중에서 4/11보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "7개",
+   "5개",
+   "6개",
+   "4개"
+  ],
+  "answer": 2,
+  "explanation": "분모가 11인 진분수 중 4/11보다 큰 분수는 5/11부터 10/11까지 6개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 5인 진분수 중에서 2/5보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "5개",
+   "3개",
+   "4개"
+  ],
+  "answer": 0,
+  "explanation": "분모가 5인 진분수 중 2/5보다 큰 분수는 3/5부터 4/5까지 2개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 7인 진분수 중에서 1/7보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "5개",
+   "7개",
+   "4개",
+   "6개"
+  ],
+  "answer": 0,
+  "explanation": "분모가 7인 진분수 중 1/7보다 큰 분수는 2/7부터 6/7까지 5개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 5인 진분수 중에서 1/5보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "4개",
+   "2개",
+   "5개",
+   "3개"
+  ],
+  "answer": 3,
+  "explanation": "분모가 5인 진분수 중 1/5보다 큰 분수는 2/5부터 4/5까지 3개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "분모가 6인 진분수 중에서 1/6보다 큰 분수는 모두 몇 개인가요?",
+  "choices": [
+   "5개",
+   "2개",
+   "3개",
+   "4개"
+  ],
+  "answer": 3,
+  "explanation": "분모가 6인 진분수 중 1/6보다 큰 분수는 2/6부터 5/6까지 4개예요.",
+  "standard": "[4수01-10]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-proper-count"
  },
  {
   "difficulty": 1,
@@ -21830,6 +25281,142 @@
  {
   "difficulty": 3,
   "type": "choice4",
+  "question": "분모가 6인 가분수 중에서 2 1/6보다 크고 15/6보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "3개",
+   "1개",
+   "4개",
+   "2개"
+  ],
+  "answer": 1,
+  "explanation": "2 1/6 = 13/6이에요. 분자가 14부터 14까지인 분수이므로 모두 1개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 6인 가분수 중에서 2 4/6보다 크고 23/6보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "7개",
+   "6개",
+   "8개",
+   "9개"
+  ],
+  "answer": 1,
+  "explanation": "2 4/6 = 16/6이에요. 분자가 17부터 22까지인 분수이므로 모두 6개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 5인 가분수 중에서 3 2/5보다 크고 19/5보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "0개",
+   "1개",
+   "3개"
+  ],
+  "answer": 2,
+  "explanation": "3 2/5 = 17/5이에요. 분자가 18부터 18까지인 분수이므로 모두 1개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 8인 가분수 중에서 2 5/8보다 크고 23/8보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "1개",
+   "3개",
+   "2개",
+   "0개"
+  ],
+  "answer": 0,
+  "explanation": "2 5/8 = 21/8이에요. 분자가 22부터 22까지인 분수이므로 모두 1개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 3인 가분수 중에서 3 1/3보다 크고 16/3보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "5개",
+   "3개",
+   "4개",
+   "6개"
+  ],
+  "answer": 0,
+  "explanation": "3 1/3 = 10/3이에요. 분자가 11부터 15까지인 분수이므로 모두 5개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 5인 가분수 중에서 1 3/5보다 크고 11/5보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "1개",
+   "3개",
+   "4개"
+  ],
+  "answer": 0,
+  "explanation": "1 3/5 = 8/5이에요. 분자가 9부터 10까지인 분수이므로 모두 2개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 3인 가분수 중에서 2 1/3보다 크고 11/3보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "1개",
+   "4개",
+   "3개"
+  ],
+  "answer": 3,
+  "explanation": "2 1/3 = 7/3이에요. 분자가 8부터 10까지인 분수이므로 모두 3개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "분모가 3인 가분수 중에서 1 2/3보다 크고 10/3보다 작은 분수는 모두 몇 개인가요?",
+  "choices": [
+   "2개",
+   "3개",
+   "1개",
+   "4개"
+  ],
+  "answer": 3,
+  "explanation": "1 2/3 = 5/3예요. 분자가 6부터 9까지인 분수이므로 모두 4개예요.",
+  "standard": "[4수01-11]",
+  "semester": 2,
+  "unit": "분수",
+  "source": "math-king:a3-frac-improper-between"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
   "question": "물통을 가득 채우려면 가 컵으로 9번 부어야 합니다. 나 컵 1개의 들이는 가 컵 3개의 들이와 같습니다. 나 컵으로는 몇 번 부어야 물통이 가득 차나요?",
   "choices": [
    "4번",
@@ -22098,6 +25685,142 @@
   "semester": 2,
   "unit": "들이와 무게",
   "source": "math-king:l3-vol-rank"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 8번, 나 그릇은 6번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "3번",
+   "4번",
+   "1번",
+   "2번"
+  ],
+  "answer": 3,
+  "explanation": "8 − 6 = 2(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 10번, 나 그릇은 11번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "1번",
+   "2번",
+   "3번",
+   "4번"
+  ],
+  "answer": 0,
+  "explanation": "11 − 10 = 1(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 6번, 나 그릇은 11번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "7번",
+   "4번",
+   "5번",
+   "6번"
+  ],
+  "answer": 2,
+  "explanation": "11 − 6 = 5(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 10번, 나 그릇은 7번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "5번",
+   "6번",
+   "4번",
+   "3번"
+  ],
+  "answer": 3,
+  "explanation": "10 − 7 = 3(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 3번, 나 그릇은 10번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "7번",
+   "5번",
+   "6번",
+   "4번"
+  ],
+  "answer": 0,
+  "explanation": "10 − 3 = 7(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 6번, 나 그릇은 5번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "3번",
+   "1번",
+   "2번",
+   "0번"
+  ],
+  "answer": 1,
+  "explanation": "6 − 5 = 1(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 3번, 나 그릇은 7번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "6번",
+   "5번",
+   "7번",
+   "4번"
+  ],
+  "answer": 3,
+  "explanation": "7 − 3 = 4(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가 그릇과 나 그릇에 물을 가득 채우려면 같은 컵으로 가 그릇은 4번, 나 그릇은 12번 부어야 합니다. 물이 더 많이 들어가는 그릇은 다른 그릇보다 컵으로 몇 번 더 들어가나요?",
+  "choices": [
+   "7번",
+   "8번",
+   "10번",
+   "9번"
+  ],
+  "answer": 1,
+  "explanation": "12 − 4 = 8(번)",
+  "standard": "[4수03-17]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-cup-diff"
  },
  {
   "difficulty": 1,
@@ -22489,6 +26212,142 @@
   "semester": 2,
   "unit": "들이와 무게",
   "source": "math-king:l3-vol-order"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 2 L 300 mL 들어 있습니다. 이 중에서 400 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "19000 mL",
+   "2000 mL",
+   "1800 mL",
+   "1900 mL"
+  ],
+  "answer": 3,
+  "explanation": "2 L 300 mL = 2300 mL, 2300 − 400 = 1900(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 2 L 500 mL 들어 있습니다. 이 중에서 900 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "1400 mL",
+   "1700 mL",
+   "1600 mL",
+   "1500 mL"
+  ],
+  "answer": 2,
+  "explanation": "2 L 500 mL = 2500 mL, 2500 − 900 = 1600(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 2 L 700 mL 들어 있습니다. 이 중에서 800 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "2000 mL",
+   "1900 mL",
+   "2100 mL",
+   "19000 mL"
+  ],
+  "answer": 1,
+  "explanation": "2 L 700 mL = 2700 mL, 2700 − 800 = 1900(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 3 L 400 mL 들어 있습니다. 이 중에서 800 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "2400 mL",
+   "2500 mL",
+   "2300 mL",
+   "2600 mL"
+  ],
+  "answer": 3,
+  "explanation": "3 L 400 mL = 3400 mL, 3400 − 800 = 2600(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 1 L 600 mL 들어 있습니다. 이 중에서 700 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "1000 mL",
+   "9000 mL",
+   "1100 mL",
+   "900 mL"
+  ],
+  "answer": 3,
+  "explanation": "1 L 600 mL = 1600 mL, 1600 − 700 = 900(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 1 L 200 mL 들어 있습니다. 이 중에서 700 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "600 mL",
+   "700 mL",
+   "500 mL",
+   "400 mL"
+  ],
+  "answer": 2,
+  "explanation": "1 L 200 mL = 1200 mL, 1200 − 700 = 500(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 1 L 400 mL 들어 있습니다. 이 중에서 500 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "9000 mL",
+   "1100 mL",
+   "1000 mL",
+   "900 mL"
+  ],
+  "answer": 3,
+  "explanation": "1 L 400 mL = 1400 mL, 1400 − 500 = 900(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "물통에 물이 1 L 100 mL 들어 있습니다. 이 중에서 700 mL를 마셨다면 남은 물은 몇 mL인가요?",
+  "choices": [
+   "500 mL",
+   "300 mL",
+   "600 mL",
+   "400 mL"
+  ],
+  "answer": 3,
+  "explanation": "1 L 100 mL = 1100 mL, 1100 − 700 = 400(mL)",
+  "standard": "[4수03-19]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-vol-left-ml"
  },
  {
   "difficulty": 2,
@@ -23445,6 +27304,142 @@
  {
   "difficulty": 3,
   "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 440 g이고, 책만의 무게는 860 g입니다. 책을 빼고 이 가방에 120 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "600 g",
+   "400 g",
+   "700 g",
+   "500 g"
+  ],
+  "answer": 2,
+  "explanation": "빈 가방은 1440 − 860 = 580(g)이에요. 580 + 120 = 700(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 670 g이고, 책만의 무게는 1 kg 80 g입니다. 책을 빼고 이 가방에 340 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "950 g",
+   "940 g",
+   "930 g",
+   "9300 g"
+  ],
+  "answer": 2,
+  "explanation": "빈 가방은 1670 − 1080 = 590(g)이에요. 590 + 340 = 930(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 830 g이고, 책만의 무게는 1 kg 340 g입니다. 책을 빼고 이 가방에 190 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "690 g",
+   "670 g",
+   "700 g",
+   "680 g"
+  ],
+  "answer": 3,
+  "explanation": "빈 가방은 1830 − 1340 = 490(g)이에요. 490 + 190 = 680(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 590 g이고, 책만의 무게는 900 g입니다. 책을 빼고 이 가방에 290 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "1010 g",
+   "980 g",
+   "990 g",
+   "1000 g"
+  ],
+  "answer": 1,
+  "explanation": "빈 가방은 1590 − 900 = 690(g)이에요. 690 + 290 = 980(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 550 g이고, 책만의 무게는 1 kg 240 g입니다. 책을 빼고 이 가방에 170 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "500 g",
+   "480 g",
+   "4800 g",
+   "490 g"
+  ],
+  "answer": 1,
+  "explanation": "빈 가방은 1550 − 1240 = 310(g)이에요. 310 + 170 = 480(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 190 g이고, 책만의 무게는 730 g입니다. 책을 빼고 이 가방에 320 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "760 g",
+   "790 g",
+   "770 g",
+   "780 g"
+  ],
+  "answer": 3,
+  "explanation": "빈 가방은 1190 − 730 = 460(g)이에요. 460 + 320 = 780(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 220 g이고, 책만의 무게는 910 g입니다. 책을 빼고 이 가방에 110 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "440 g",
+   "420 g",
+   "4200 g",
+   "430 g"
+  ],
+  "answer": 1,
+  "explanation": "빈 가방은 1220 − 910 = 310(g)이에요. 310 + 110 = 420(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "책을 넣은 가방의 무게는 1 kg 240 g이고, 책만의 무게는 620 g입니다. 책을 빼고 이 가방에 390 g짜리 필통을 넣으면 무게는 몇 g인가요?",
+  "choices": [
+   "1010 g",
+   "1000 g",
+   "10100 g",
+   "1020 g"
+  ],
+  "answer": 0,
+  "explanation": "빈 가방은 1240 − 620 = 620(g)이에요. 620 + 390 = 1010(g)",
+  "standard": "[4수03-23]",
+  "semester": 2,
+  "unit": "들이와 무게",
+  "source": "math-king:a3-wt-bag-swap"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
   "question": "좋아하는 운동을 조사했더니 모두 18명이었습니다. 축구 8명, 피구 6명이고, 줄넘기와 수영을 좋아하는 학생 수는 같습니다. 줄넘기를 좋아하는 학생은 몇 명인가요?",
   "choices": [
    "4명",
@@ -23713,5 +27708,141 @@
   "semester": 2,
   "unit": "자료의 정리",
   "source": "math-king:l3-col-rev"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 15명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 6명, 여름은 5명, 가을은 3명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "0명",
+   "3명",
+   "1명",
+   "2명"
+  ],
+  "answer": 2,
+  "explanation": "6 + 5 + 3 = 14(명), 15 − 14 = 1(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 29명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 6명, 여름은 7명, 가을은 8명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "10명",
+   "8명",
+   "7명",
+   "9명"
+  ],
+  "answer": 1,
+  "explanation": "6 + 7 + 8 = 21(명), 29 − 21 = 8(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 19명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 5명, 여름은 8명, 가을은 5명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "1명",
+   "3명",
+   "0명",
+   "2명"
+  ],
+  "answer": 0,
+  "explanation": "5 + 8 + 5 = 18(명), 19 − 18 = 1(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 22명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 8명, 여름은 5명, 가을은 7명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "2명",
+   "3명",
+   "4명",
+   "5명"
+  ],
+  "answer": 0,
+  "explanation": "8 + 5 + 7 = 20(명), 22 − 20 = 2(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 22명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 3명, 여름은 8명, 가을은 4명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "5명",
+   "6명",
+   "7명",
+   "8명"
+  ],
+  "answer": 2,
+  "explanation": "3 + 8 + 4 = 15(명), 22 − 15 = 7(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 19명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 5명, 여름은 4명, 가을은 7명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "3명",
+   "1명",
+   "2명",
+   "4명"
+  ],
+  "answer": 0,
+  "explanation": "5 + 4 + 7 = 16(명), 19 − 16 = 3(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 15명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 3명, 여름은 5명, 가을은 3명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "4명",
+   "2명",
+   "5명",
+   "3명"
+  ],
+  "answer": 0,
+  "explanation": "3 + 5 + 3 = 11(명), 15 − 11 = 4(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "우리 반 학생 19명이 좋아하는 계절을 한 가지씩 골랐습니다. 봄은 3명, 여름은 3명, 가을은 7명이 골랐고 나머지는 겨울을 골랐습니다. 겨울을 고른 학생은 몇 명인가요?",
+  "choices": [
+   "8명",
+   "6명",
+   "9명",
+   "7명"
+  ],
+  "answer": 1,
+  "explanation": "3 + 3 + 7 = 13(명), 19 − 13 = 6(명)",
+  "standard": "[4수04-01]",
+  "semester": 2,
+  "unit": "자료의 정리",
+  "source": "math-king:a3-data-collect-rest"
  }
 ]

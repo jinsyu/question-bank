@@ -2603,6 +2603,159 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/2 ÷ 2 = 1/□",
+  "choices": [
+   "4",
+   "5",
+   "7",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "1/2 ÷ 2 = 1/2 × 1/2 = 1/4이므로 □ = 2 × 2 = 4",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 3/6 ÷ 5 = 3/□",
+  "choices": [
+   "30",
+   "20",
+   "10",
+   "11"
+  ],
+  "answer": 0,
+  "explanation": "3/6 ÷ 5 = 3/6 × 1/5 = 3/30이므로 □ = 6 × 5 = 30",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 4/5 ÷ 3 = 4/□",
+  "choices": [
+   "15",
+   "16",
+   "14",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "4/5 ÷ 3 = 4/5 × 1/3 = 4/15이므로 □ = 5 × 3 = 15",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 3/8 ÷ 5 = 3/□",
+  "choices": [
+   "13",
+   "40",
+   "30",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "3/8 ÷ 5 = 3/8 × 1/5 = 3/40이므로 □ = 8 × 5 = 40",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/2 ÷ 3 = 1/□",
+  "choices": [
+   "7",
+   "8",
+   "5",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "1/2 ÷ 3 = 1/2 × 1/3 = 1/6이므로 □ = 2 × 3 = 6",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/4 ÷ 5 = 1/□",
+  "choices": [
+   "20",
+   "9",
+   "200",
+   "30"
+  ],
+  "answer": 0,
+  "explanation": "1/4 ÷ 5 = 1/4 × 1/5 = 1/20이므로 □ = 4 × 5 = 20",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/2 ÷ 5 = 1/□",
+  "choices": [
+   "100",
+   "10",
+   "7",
+   "20"
+  ],
+  "answer": 1,
+  "explanation": "1/2 ÷ 5 = 1/2 × 1/5 = 1/10이므로 □ = 2 × 5 = 10",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "□ 안에 알맞은 수를 구하세요. 1/3 ÷ 3 = 1/□",
+  "choices": [
+   "6",
+   "11",
+   "10",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "1/3 ÷ 3 = 1/3 × 1/3 = 1/9이므로 □ = 3 × 3 = 9",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-den"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "계산 결과가 가장 작은 것을 고르세요.",
+  "choices": [
+   "1/5 ÷ 4",
+   "3/5 ÷ 4",
+   "1/3 ÷ 4",
+   "1/3 ÷ 2"
+  ],
+  "answer": 0,
+  "explanation": "1/3 ÷ 2 = 1/6, 1/3 ÷ 4 = 1/12, 1/5 ÷ 4 = 1/20, 3/5 ÷ 4 = 3/20 → 가장 작은 것은 1/5 ÷ 4",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-smallest"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "계산한 값을 고르세요. 2 1/5 ÷ 2",
   "choices": [
    "1 1/5",
@@ -3143,6 +3296,142 @@
   "semester": 1,
   "unit": "분수의 나눗셈",
   "source": "math-king:l6-mixed-range"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 1 1/4 m인 철사를 겹치지 않게 모두 사용하여 정오각형 한 개를 만들었습니다. 정오각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "250 cm",
+   "25 cm",
+   "45 cm",
+   "35 cm"
+  ],
+  "answer": 1,
+  "explanation": "1 1/4 ÷ 5 = 1/4 (m) → 1 m = 100 cm이므로 25 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 3 3/4 m인 철사를 겹치지 않게 모두 사용하여 정오각형 한 개를 만들었습니다. 정오각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "78 cm",
+   "75 cm",
+   "77 cm",
+   "76 cm"
+  ],
+  "answer": 1,
+  "explanation": "3 3/4 ÷ 5 = 3/4 (m) → 1 m = 100 cm이므로 75 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 1 1/5 m인 철사를 겹치지 않게 모두 사용하여 정사각형 한 개를 만들었습니다. 정사각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "20 cm",
+   "40 cm",
+   "30 cm",
+   "50 cm"
+  ],
+  "answer": 2,
+  "explanation": "1 1/5 ÷ 4 = 3/10 (m) → 1 m = 100 cm이므로 30 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 3 3/4 m인 철사를 겹치지 않게 모두 사용하여 정삼각형 한 개를 만들었습니다. 정삼각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "124 cm",
+   "126 cm",
+   "125 cm",
+   "1.25 cm"
+  ],
+  "answer": 2,
+  "explanation": "3 3/4 ÷ 3 = 1 1/4 (m) → 1 m = 100 cm이므로 125 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 1 4/5 m인 철사를 겹치지 않게 모두 사용하여 정삼각형 한 개를 만들었습니다. 정삼각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "70 cm",
+   "40 cm",
+   "50 cm",
+   "60 cm"
+  ],
+  "answer": 3,
+  "explanation": "1 4/5 ÷ 3 = 3/5 (m) → 1 m = 100 cm이므로 60 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 3 3/5 m인 철사를 겹치지 않게 모두 사용하여 정육각형 한 개를 만들었습니다. 정육각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "70 cm",
+   "60 cm",
+   "600 cm",
+   "80 cm"
+  ],
+  "answer": 1,
+  "explanation": "3 3/5 ÷ 6 = 3/5 (m) → 1 m = 100 cm이므로 60 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 3 4/5 m인 철사를 겹치지 않게 모두 사용하여 정오각형 한 개를 만들었습니다. 정오각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "76 cm",
+   "77 cm",
+   "78 cm",
+   "760 cm"
+  ],
+  "answer": 0,
+  "explanation": "3 4/5 ÷ 5 = 19/25 (m) → 1 m = 100 cm이므로 76 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "길이가 1 1/2 m인 철사를 겹치지 않게 모두 사용하여 정삼각형 한 개를 만들었습니다. 정삼각형의 한 변의 길이는 몇 cm인가요?",
+  "choices": [
+   "40 cm",
+   "60 cm",
+   "70 cm",
+   "50 cm"
+  ],
+  "answer": 3,
+  "explanation": "1 1/2 ÷ 3 = 1/2 (m) → 1 m = 100 cm이므로 50 cm",
+  "standard": "[6수01-11]",
+  "semester": 1,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd1-wire"
  },
  {
   "difficulty": 2,
@@ -5425,6 +5714,278 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "길이가 1.72 m인 리본을 4도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "0.043 m",
+   "0.42 m",
+   "4.3 m",
+   "0.43 m"
+  ],
+  "answer": 3,
+  "explanation": "1.72 ÷ 4 = 0.43(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 2.48 m인 리본을 4도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "0.062 m",
+   "0.62 m",
+   "6.2 m",
+   "0.63 m"
+  ],
+  "answer": 1,
+  "explanation": "2.48 ÷ 4 = 0.62(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 2.55 m인 리본을 3도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "0.86 m",
+   "0.85 m",
+   "8.5 m",
+   "0.085 m"
+  ],
+  "answer": 1,
+  "explanation": "2.55 ÷ 3 = 0.85(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 1.25 m인 리본을 5도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "2.5 m",
+   "0.26 m",
+   "0.25 m",
+   "0.025 m"
+  ],
+  "answer": 2,
+  "explanation": "1.25 ÷ 5 = 0.25(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 1.52 m인 리본을 2도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "0.76 m",
+   "0.076 m",
+   "0.75 m",
+   "7.6 m"
+  ],
+  "answer": 0,
+  "explanation": "1.52 ÷ 2 = 0.76(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 0.93 m인 리본을 3도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "3.1 m",
+   "0.031 m",
+   "0.31 m",
+   "0.3 m"
+  ],
+  "answer": 2,
+  "explanation": "0.93 ÷ 3 = 0.31(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 0.94 m인 리본을 2도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "4.7 m",
+   "0.48 m",
+   "0.047 m",
+   "0.47 m"
+  ],
+  "answer": 3,
+  "explanation": "0.94 ÷ 2 = 0.47(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 0.22 m인 리본을 2도막으로 똑같이 잘랐습니다. 한 도막의 길이는 몇 m인가요?",
+  "choices": [
+   "1.1 m",
+   "0.011 m",
+   "0.12 m",
+   "0.11 m"
+  ],
+  "answer": 3,
+  "explanation": "0.22 ÷ 2 = 0.11(m)",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-ribbon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 4로 나누어야 할 것을 잘못하여 4를 곱했더니 68.8이 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "43",
+   "4.2",
+   "17.2",
+   "4.3"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 = 68.8 ÷ 4 = 17.2 → 17.2 ÷ 4 = 4.3",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 4로 나누어야 할 것을 잘못하여 4를 곱했더니 99.2가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "6.1",
+   "6.2",
+   "62",
+   "24.8"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 = 99.2 ÷ 4 = 24.8 → 24.8 ÷ 4 = 6.2",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 3으로 나누어야 할 것을 잘못하여 3을 곱했더니 76.5가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "8.5",
+   "25.5",
+   "85",
+   "8.6"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 76.5 ÷ 3 = 25.5 → 25.5 ÷ 3 = 8.5",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 3으로 나누어야 할 것을 잘못하여 3을 곱했더니 50.4가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "5.6",
+   "16.8",
+   "5.5",
+   "56"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 50.4 ÷ 3 = 16.8 → 16.8 ÷ 3 = 5.6",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 2로 나누어야 할 것을 잘못하여 2를 곱했더니 30.4가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "7.6",
+   "15.2",
+   "76",
+   "7.7"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 30.4 ÷ 2 = 15.2 → 15.2 ÷ 2 = 7.6",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 3으로 나누어야 할 것을 잘못하여 3을 곱했더니 27.9가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "9.3",
+   "3.1",
+   "3",
+   "31"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 = 27.9 ÷ 3 = 9.3 → 9.3 ÷ 3 = 3.1",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 2로 나누어야 할 것을 잘못하여 2를 곱했더니 18.8이 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "47",
+   "9.4",
+   "4.6",
+   "4.7"
+  ],
+  "answer": 3,
+  "explanation": "어떤 수 = 18.8 ÷ 2 = 9.4 → 9.4 ÷ 2 = 4.7",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 2로 나누어야 할 것을 잘못하여 2를 곱했더니 4.4가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "1.1",
+   "1.2",
+   "11",
+   "2.2"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 4.4 ÷ 2 = 2.2 → 2.2 ÷ 2 = 1.1",
+  "standard": "[6수01-15]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-wrong-mul"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "계산해 보세요. 2.58 ÷ 6 = □",
   "choices": [
    "0.043",
@@ -7461,6 +8022,142 @@
   "semester": 1,
   "unit": "소수의 나눗셈",
   "source": "math-king:l6-wwd-dec-wrong"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 5 L로 86 km를 가고, 나 자동차는 휘발유 8 L로 96 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "5.3 km",
+   "5.4 km",
+   "5.2 km",
+   "52 km"
+  ],
+  "answer": 2,
+  "explanation": "가: 86 ÷ 5 = 17.2(km), 나: 96 ÷ 8 = 12(km) → 가 자동차가 17.2 − 12 = 5.2(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 8 L로 108 km를 가고, 나 자동차는 휘발유 2 L로 38 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "55 km",
+   "5.7 km",
+   "5.5 km",
+   "5.6 km"
+  ],
+  "answer": 2,
+  "explanation": "가: 108 ÷ 8 = 13.5(km), 나: 38 ÷ 2 = 19(km) → 나 자동차가 19 − 13.5 = 5.5(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 8 L로 75 km를 가고, 나 자동차는 휘발유 5 L로 64 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "3.424 km",
+   "3.425 km",
+   "3.423 km",
+   "34.25 km"
+  ],
+  "answer": 1,
+  "explanation": "가: 75 ÷ 8 = 9.375(km), 나: 64 ÷ 5 = 12.8(km) → 나 자동차가 12.8 − 9.375 = 3.425(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 8 L로 83 km를 가고, 나 자동차는 휘발유 4 L로 36 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "1.374 km",
+   "1.373 km",
+   "13.75 km",
+   "1.375 km"
+  ],
+  "answer": 3,
+  "explanation": "가: 83 ÷ 8 = 10.375(km), 나: 36 ÷ 4 = 9(km) → 가 자동차가 10.375 − 9 = 1.375(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 8 L로 64 km를 가고, 나 자동차는 휘발유 4 L로 38 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "15 km",
+   "1.4 km",
+   "1.3 km",
+   "1.5 km"
+  ],
+  "answer": 3,
+  "explanation": "가: 64 ÷ 8 = 8(km), 나: 38 ÷ 4 = 9.5(km) → 나 자동차가 9.5 − 8 = 1.5(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 8 L로 106 km를 가고, 나 자동차는 휘발유 2 L로 24 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "12.5 km",
+   "1.25 km",
+   "1.26 km",
+   "1.27 km"
+  ],
+  "answer": 1,
+  "explanation": "가: 106 ÷ 8 = 13.25(km), 나: 24 ÷ 2 = 12(km) → 가 자동차가 13.25 − 12 = 1.25(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 2 L로 24 km를 가고, 나 자동차는 휘발유 4 L로 58 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "2.7 km",
+   "25 km",
+   "2.6 km",
+   "2.5 km"
+  ],
+  "answer": 3,
+  "explanation": "가: 24 ÷ 2 = 12(km), 나: 58 ÷ 4 = 14.5(km) → 나 자동차가 14.5 − 12 = 2.5(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가 자동차는 휘발유 8 L로 70 km를 가고, 나 자동차는 휘발유 4 L로 58 km를 갑니다. 휘발유 1 L로 더 멀리 가는 자동차는 다른 자동차보다 1 L로 몇 km 더 가나요?",
+  "choices": [
+   "5.75 km",
+   "57.5 km",
+   "5.74 km",
+   "5.76 km"
+  ],
+  "answer": 0,
+  "explanation": "가: 70 ÷ 8 = 8.75(km), 나: 58 ÷ 4 = 14.5(km) → 나 자동차가 14.5 − 8.75 = 5.75(km) 더 가요.",
+  "standard": "[6수01-14]",
+  "semester": 1,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd1-fuel"
  },
  {
   "difficulty": 1,
@@ -11443,6 +12140,278 @@
  {
   "difficulty": 2,
   "type": "choice4",
+  "question": "26000원인 물건을 20% 할인하여 팔고 있습니다. 할인한 가격에서 500원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "20300원",
+   "4700원",
+   "20800원",
+   "20400원"
+  ],
+  "answer": 0,
+  "explanation": "할인 금액 5200원 → 26000 − 5200 = 20800(원) → 20800 − 500 = 20300(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "26000원인 물건을 25% 할인하여 팔고 있습니다. 할인한 가격에서 2000원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "4500원",
+   "17500원",
+   "19500원",
+   "17600원"
+  ],
+  "answer": 1,
+  "explanation": "할인 금액 6500원 → 26000 − 6500 = 19500(원) → 19500 − 2000 = 17500(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "20000원인 물건을 40% 할인하여 팔고 있습니다. 할인한 가격에서 500원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "12000원",
+   "11600원",
+   "7500원",
+   "11500원"
+  ],
+  "answer": 3,
+  "explanation": "할인 금액 8000원 → 20000 − 8000 = 12000(원) → 12000 − 500 = 11500(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "40000원인 물건을 20% 할인하여 팔고 있습니다. 할인한 가격에서 500원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "7500원",
+   "31500원",
+   "32000원",
+   "31600원"
+  ],
+  "answer": 1,
+  "explanation": "할인 금액 8000원 → 40000 − 8000 = 32000(원) → 32000 − 500 = 31500(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "8000원인 물건을 30% 할인하여 팔고 있습니다. 할인한 가격에서 500원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "5100원",
+   "5200원",
+   "5600원",
+   "1900원"
+  ],
+  "answer": 0,
+  "explanation": "할인 금액 2400원 → 8000 − 2400 = 5600(원) → 5600 − 500 = 5100(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "18000원인 물건을 20% 할인하여 팔고 있습니다. 할인한 가격에서 2000원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "14400원",
+   "12400원",
+   "12500원",
+   "1600원"
+  ],
+  "answer": 1,
+  "explanation": "할인 금액 3600원 → 18000 − 3600 = 14400(원) → 14400 − 2000 = 12400(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "8000원인 물건을 10% 할인하여 팔고 있습니다. 할인한 가격에서 1000원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "6100원",
+   "6300원",
+   "6200원",
+   "7200원"
+  ],
+  "answer": 2,
+  "explanation": "할인 금액 800원 → 8000 − 800 = 7200(원) → 7200 − 1000 = 6200(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "13000원인 물건을 10% 할인하여 팔고 있습니다. 할인한 가격에서 500원 할인 쿠폰을 더 쓴다면 내야 할 돈은 얼마인가요?",
+  "choices": [
+   "11300원",
+   "11200원",
+   "11700원",
+   "800원"
+  ],
+  "answer": 1,
+  "explanation": "할인 금액 1300원 → 13000 − 1300 = 11700(원) → 11700 − 500 = 11200(원)",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-sale-coupon"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 25번 던져 19번 넣었고, 서아는 50번 던져 42번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "85%",
+   "84%",
+   "76%",
+   "840%"
+  ],
+  "answer": 1,
+  "explanation": "지우: 19/25 × 100 = 76(%), 서아: 42/50 × 100 = 84(%) → 더 높은 성공률은 84%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 20번 던져 14번 넣었고, 서아는 50번 던져 37번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "740%",
+   "70%",
+   "75%",
+   "74%"
+  ],
+  "answer": 3,
+  "explanation": "지우: 14/20 × 100 = 70(%), 서아: 37/50 × 100 = 74(%) → 더 높은 성공률은 74%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 25번 던져 14번 넣었고, 서아는 50번 던져 22번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "560%",
+   "56%",
+   "44%",
+   "55%"
+  ],
+  "answer": 1,
+  "explanation": "지우: 14/25 × 100 = 56(%), 서아: 22/50 × 100 = 44(%) → 더 높은 성공률은 56%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 50번 던져 38번 넣었고, 서아는 25번 던져 12번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "760%",
+   "48%",
+   "66%",
+   "76%"
+  ],
+  "answer": 3,
+  "explanation": "지우: 38/50 × 100 = 76(%), 서아: 12/25 × 100 = 48(%) → 더 높은 성공률은 76%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 20번 던져 10번 넣었고, 서아는 50번 던져 42번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "83%",
+   "84%",
+   "50%",
+   "840%"
+  ],
+  "answer": 1,
+  "explanation": "지우: 10/20 × 100 = 50(%), 서아: 42/50 × 100 = 84(%) → 더 높은 성공률은 84%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 50번 던져 44번 넣었고, 서아는 20번 던져 8번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "86%",
+   "40%",
+   "87%",
+   "88%"
+  ],
+  "answer": 3,
+  "explanation": "지우: 44/50 × 100 = 88(%), 서아: 8/20 × 100 = 40(%) → 더 높은 성공률은 88%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 20번 던져 8번 넣었고, 서아는 25번 던져 15번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "60%",
+   "40%",
+   "50%",
+   "600%"
+  ],
+  "answer": 0,
+  "explanation": "지우: 8/20 × 100 = 40(%), 서아: 15/25 × 100 = 60(%) → 더 높은 성공률은 60%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "농구 선수 지우는 공을 20번 던져 16번 넣었고, 서아는 50번 던져 29번 넣었습니다. 성공률이 더 높은 선수의 성공률은 몇 %인가요?",
+  "choices": [
+   "58%",
+   "800%",
+   "80%",
+   "70%"
+  ],
+  "answer": 2,
+  "explanation": "지우: 16/20 × 100 = 80(%), 서아: 29/50 × 100 = 58(%) → 더 높은 성공률은 80%",
+  "standard": "[6수02-03]",
+  "semester": 1,
+  "unit": "비와 비율",
+  "source": "math-king:a6-rt-success"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
   "question": "전체 20명 중 1명이 찬성했습니다. 찬성한 사람은 전체의 몇 %인가요?",
   "choices": [
    "6%",
@@ -14586,6 +15555,142 @@
   "source": "math-king:l6-diff-den-reverse"
  },
  {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 2/3 m, 파란 끈은 1/6 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "6배",
+   "5배",
+   "4배",
+   "7배"
+  ],
+  "answer": 2,
+  "explanation": "2/3 ÷ 1/6 = 4/6 ÷ 1/6 = 4 ÷ 1 = 4(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 1 1/2 m, 파란 끈은 3/10 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "5배",
+   "6배",
+   "4배",
+   "7배"
+  ],
+  "answer": 0,
+  "explanation": "1 1/2 ÷ 3/10 = 15/10 ÷ 3/10 = 15 ÷ 3 = 5(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 1 2/3 m, 파란 끈은 5/6 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "4배",
+   "3배",
+   "1배",
+   "2배"
+  ],
+  "answer": 3,
+  "explanation": "1 2/3 ÷ 5/6 = 10/6 ÷ 5/6 = 10 ÷ 5 = 2(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 1 3/4 m, 파란 끈은 7/8 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "2배",
+   "5배",
+   "4배",
+   "3배"
+  ],
+  "answer": 0,
+  "explanation": "1 3/4 ÷ 7/8 = 14/8 ÷ 7/8 = 14 ÷ 7 = 2(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 3/5 m, 파란 끈은 3/10 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "3배",
+   "2배",
+   "4배",
+   "1배"
+  ],
+  "answer": 1,
+  "explanation": "3/5 ÷ 3/10 = 6/10 ÷ 3/10 = 6 ÷ 3 = 2(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 1/4 m, 파란 끈은 1/12 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "3배",
+   "6배",
+   "4배",
+   "5배"
+  ],
+  "answer": 0,
+  "explanation": "1/4 ÷ 1/12 = 3/12 ÷ 1/12 = 3 ÷ 1 = 3(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 1 1/4 m, 파란 끈은 5/8 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "1배",
+   "4배",
+   "2배",
+   "3배"
+  ],
+  "answer": 2,
+  "explanation": "1 1/4 ÷ 5/8 = 10/8 ÷ 5/8 = 10 ÷ 5 = 2(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빨간 끈은 1/2 m, 파란 끈은 1/4 m입니다. 빨간 끈의 길이는 파란 끈의 길이의 몇 배인가요?",
+  "choices": [
+   "1배",
+   "3배",
+   "2배",
+   "4배"
+  ],
+  "answer": 2,
+  "explanation": "1/2 ÷ 1/4 = 2/4 ÷ 1/4 = 2 ÷ 1 = 2(배)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-times"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산해 보세요. 8 ÷ 1/4 = □",
@@ -15946,6 +17051,142 @@
   "source": "math-king:w6-flour-bread"
  },
  {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 1/3시간 동안 1 1/3 km를 걸었습니다. 같은 빠르기로 2시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "7 km",
+   "4 km",
+   "8 km",
+   "6 km"
+  ],
+  "answer": 2,
+  "explanation": "1시간 동안 1 1/3 ÷ 1/3 = 4(km) → 4 × 2 = 8(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 1/2시간 동안 2 1/2 km를 걸었습니다. 같은 빠르기로 2시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "100 km",
+   "5 km",
+   "20 km",
+   "10 km"
+  ],
+  "answer": 3,
+  "explanation": "1시간 동안 2 1/2 ÷ 1/2 = 5(km) → 5 × 2 = 10(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 1/2시간 동안 2 1/2 km를 걸었습니다. 같은 빠르기로 4시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "5 km",
+   "200 km",
+   "20 km",
+   "30 km"
+  ],
+  "answer": 2,
+  "explanation": "1시간 동안 2 1/2 ÷ 1/2 = 5(km) → 5 × 4 = 20(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 3/4시간 동안 2 1/4 km를 걸었습니다. 같은 빠르기로 2시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "3 km",
+   "5 km",
+   "6 km",
+   "4 km"
+  ],
+  "answer": 2,
+  "explanation": "1시간 동안 2 1/4 ÷ 3/4 = 3(km) → 3 × 2 = 6(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 1/5시간 동안 2/5 km를 걸었습니다. 같은 빠르기로 4시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "2 km",
+   "7 km",
+   "9 km",
+   "8 km"
+  ],
+  "answer": 3,
+  "explanation": "1시간 동안 2/5 ÷ 1/5 = 2(km) → 2 × 4 = 8(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 1/4시간 동안 1/2 km를 걸었습니다. 같은 빠르기로 3시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "7 km",
+   "6 km",
+   "5 km",
+   "2 km"
+  ],
+  "answer": 1,
+  "explanation": "1시간 동안 1/2 ÷ 1/4 = 2(km) → 2 × 3 = 6(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 5/6시간 동안 1 2/3 km를 걸었습니다. 같은 빠르기로 2시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "5 km",
+   "6 km",
+   "4 km",
+   "2 km"
+  ],
+  "answer": 2,
+  "explanation": "1시간 동안 1 2/3 ÷ 5/6 = 2(km) → 2 × 2 = 4(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "수아는 1/6시간 동안 1/2 km를 걸었습니다. 같은 빠르기로 2시간 동안 걷는다면 몇 km를 걸을 수 있나요?",
+  "choices": [
+   "3 km",
+   "6 km",
+   "8 km",
+   "7 km"
+  ],
+  "answer": 1,
+  "explanation": "1시간 동안 1/2 ÷ 1/6 = 3(km) → 3 × 2 = 6(km)",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-walk"
+ },
+ {
   "difficulty": 1,
   "type": "choice4",
   "question": "계산하여 기약분수로 나타낸 것을 고르세요. 2 1/5 ÷ 1/2",
@@ -16488,6 +17729,142 @@
   "semester": 2,
   "unit": "분수의 나눗셈",
   "source": "math-king:l6-mf-two-step"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 2 1/6 ÷ 1/2 = □/6 ÷ 1/2",
+  "choices": [
+   "14",
+   "3",
+   "15",
+   "13"
+  ],
+  "answer": 3,
+  "explanation": "2 1/6 = (6 × 2 + 1)/6 = 13/6",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 3 5/8 ÷ 1/9 = □/8 ÷ 1/9",
+  "choices": [
+   "290",
+   "29",
+   "30",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "3 5/8 = (8 × 3 + 5)/8 = 29/8",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 4 2/5 ÷ 1/2 = □/5 ÷ 1/2",
+  "choices": [
+   "22",
+   "6",
+   "12",
+   "220"
+  ],
+  "answer": 0,
+  "explanation": "4 2/5 = (5 × 4 + 2)/5 = 22/5",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 2 5/8 ÷ 1/3 = □/8 ÷ 1/3",
+  "choices": [
+   "210",
+   "21",
+   "7",
+   "22"
+  ],
+  "answer": 1,
+  "explanation": "2 5/8 = (8 × 2 + 5)/8 = 21/8",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 2 6/7 ÷ 7/8 = □/7 ÷ 7/8",
+  "choices": [
+   "40",
+   "30",
+   "20",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "2 6/7 = (7 × 2 + 6)/7 = 20/7",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 1 3/4 ÷ 3/4 = □/4 ÷ 3/4",
+  "choices": [
+   "5",
+   "4",
+   "6",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "1 3/4 = (4 × 1 + 3)/4 = 7/4",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 2 1/2 ÷ 4/5 = □/2 ÷ 4/5",
+  "choices": [
+   "7",
+   "6",
+   "3",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "2 1/2 = (2 × 2 + 1)/2 = 5/2",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "대분수를 가분수로 바꾸어 계산하려고 합니다. □ 안에 알맞은 수를 구하세요. 1 1/2 ÷ 1/7 = □/2 ÷ 1/7",
+  "choices": [
+   "1",
+   "3",
+   "2",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "1 1/2 = (2 × 1 + 1)/2 = 3/2",
+  "standard": "[6수01-11]",
+  "semester": 2,
+  "unit": "분수의 나눗셈",
+  "source": "math-king:a6-fd2-improper"
  },
  {
   "difficulty": 1,
@@ -17716,6 +19093,142 @@
  {
   "difficulty": 1,
   "type": "choice4",
+  "question": "길이가 3.6 m인 끈을 0.6 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "7도막",
+   "60도막",
+   "6도막",
+   "8도막"
+  ],
+  "answer": 2,
+  "explanation": "3.6 ÷ 0.6 = 36 ÷ 6 = 6(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 4.8 m인 끈을 0.6 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "80도막",
+   "9도막",
+   "8도막",
+   "10도막"
+  ],
+  "answer": 2,
+  "explanation": "4.8 ÷ 0.6 = 48 ÷ 6 = 8(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 5.5 m인 끈을 0.5 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "13도막",
+   "12도막",
+   "11도막",
+   "110도막"
+  ],
+  "answer": 2,
+  "explanation": "5.5 ÷ 0.5 = 55 ÷ 5 = 11(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 5.6 m인 끈을 0.8 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "70도막",
+   "7도막",
+   "8도막",
+   "6도막"
+  ],
+  "answer": 1,
+  "explanation": "5.6 ÷ 0.8 = 56 ÷ 8 = 7(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 2 m인 끈을 0.2 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "30도막",
+   "100도막",
+   "10도막",
+   "20도막"
+  ],
+  "answer": 2,
+  "explanation": "2 ÷ 0.2 = 20 ÷ 2 = 10(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 2 m인 끈을 0.4 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "6도막",
+   "4도막",
+   "5도막",
+   "50도막"
+  ],
+  "answer": 2,
+  "explanation": "2 ÷ 0.4 = 20 ÷ 4 = 5(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 1.4 m인 끈을 0.2 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "6도막",
+   "8도막",
+   "70도막",
+   "7도막"
+  ],
+  "answer": 3,
+  "explanation": "1.4 ÷ 0.2 = 14 ÷ 2 = 7(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "길이가 0.6 m인 끈을 0.2 m씩 자르면 몇 도막이 되나요?",
+  "choices": [
+   "4도막",
+   "30도막",
+   "2도막",
+   "3도막"
+  ],
+  "answer": 3,
+  "explanation": "0.6 ÷ 0.2 = 6 ÷ 2 = 3(도막)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-cut"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
   "question": "계산해 보세요. 26.23 ÷ 6.1 = □",
   "choices": [
    "4.1",
@@ -18940,6 +20453,142 @@
  {
   "difficulty": 2,
   "type": "choice4",
+  "question": "어떤 수를 0.6으로 나누어야 할 것을 잘못하여 0.6을 곱했더니 4.32가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "13",
+   "12",
+   "120",
+   "7.2"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 = 4.32 ÷ 0.6 = 7.2 → 7.2 ÷ 0.6 = 12",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.6으로 나누어야 할 것을 잘못하여 0.6을 곱했더니 6.48이 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "19",
+   "18",
+   "1.8",
+   "10.8"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 = 6.48 ÷ 0.6 = 10.8 → 10.8 ÷ 0.6 = 18",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.5로 나누어야 할 것을 잘못하여 0.5를 곱했더니 6.5가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "13",
+   "26",
+   "27",
+   "2.6"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 = 6.5 ÷ 0.5 = 13 → 13 ÷ 0.5 = 26",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.8로 나누어야 할 것을 잘못하여 0.8을 곱했더니 8.32가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "13",
+   "1.3",
+   "12",
+   "10.4"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 8.32 ÷ 0.8 = 10.4 → 10.4 ÷ 0.8 = 13",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.2로 나누어야 할 것을 잘못하여 0.2를 곱했더니 0.92가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "33",
+   "4.6",
+   "23",
+   "2.3"
+  ],
+  "answer": 2,
+  "explanation": "어떤 수 = 0.92 ÷ 0.2 = 4.6 → 4.6 ÷ 0.2 = 23",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.4로 나누어야 할 것을 잘못하여 0.4를 곱했더니 1.28이 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "8",
+   "80",
+   "3.2",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 1.28 ÷ 0.4 = 3.2 → 3.2 ÷ 0.4 = 8",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.2로 나누어야 할 것을 잘못하여 0.2를 곱했더니 0.52가 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "13",
+   "1.3",
+   "2.6",
+   "14"
+  ],
+  "answer": 0,
+  "explanation": "어떤 수 = 0.52 ÷ 0.2 = 2.6 → 2.6 ÷ 0.2 = 13",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "어떤 수를 0.2로 나누어야 할 것을 잘못하여 0.2를 곱했더니 0.08이 되었습니다. 바르게 계산한 값은 얼마인가요?",
+  "choices": [
+   "20",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "어떤 수 = 0.08 ÷ 0.2 = 0.4 → 0.4 ÷ 0.2 = 2",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-wrong-mul"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
   "question": "60 ÷ 7의 몫을 반올림하여 소수 첫째 자리까지 나타내세요.",
   "choices": [
    "8.5",
@@ -20024,6 +21673,142 @@
   "semester": 2,
   "unit": "소수의 나눗셈",
   "source": "math-king:l6-rem-error"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 15.8 m로 꽃 한 송이에 3.1 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "2.9 m",
+   "3 m",
+   "28 m",
+   "2.8 m"
+  ],
+  "answer": 3,
+  "explanation": "15.8 ÷ 3.1 = 5 … 0.3 → 꽃 5송이, 남은 리본 0.3 m → 3.1 − 0.3 = 2.8(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 24.1 m로 꽃 한 송이에 3.1 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "0.7 m",
+   "0.07 m",
+   "2.4 m",
+   "0.6 m"
+  ],
+  "answer": 0,
+  "explanation": "24.1 ÷ 3.1 = 7 … 2.4 → 꽃 7송이, 남은 리본 2.4 m → 3.1 − 2.4 = 0.7(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 20 m로 꽃 한 송이에 2.4 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "1.6 m",
+   "1.5 m",
+   "0.8 m",
+   "0.16 m"
+  ],
+  "answer": 0,
+  "explanation": "20 ÷ 2.4 = 8 … 0.8 → 꽃 8송이, 남은 리본 0.8 m → 2.4 − 0.8 = 1.6(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 21.4 m로 꽃 한 송이에 3.8 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "1.3 m",
+   "14 m",
+   "1.4 m",
+   "2.4 m"
+  ],
+  "answer": 2,
+  "explanation": "21.4 ÷ 3.8 = 5 … 2.4 → 꽃 5송이, 남은 리본 2.4 m → 3.8 − 2.4 = 1.4(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 9.9 m로 꽃 한 송이에 1.2 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "0.8 m",
+   "0.3 m",
+   "9 m",
+   "0.9 m"
+  ],
+  "answer": 3,
+  "explanation": "9.9 ÷ 1.2 = 8 … 0.3 → 꽃 8송이, 남은 리본 0.3 m → 1.2 − 0.3 = 0.9(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 10.3 m로 꽃 한 송이에 2.2 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "7 m",
+   "1.5 m",
+   "0.6 m",
+   "0.7 m"
+  ],
+  "answer": 3,
+  "explanation": "10.3 ÷ 2.2 = 4 … 1.5 → 꽃 4송이, 남은 리본 1.5 m → 2.2 − 1.5 = 0.7(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 6.6 m로 꽃 한 송이에 1.3 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "1.2 m",
+   "0.12 m",
+   "1.3 m",
+   "0.1 m"
+  ],
+  "answer": 0,
+  "explanation": "6.6 ÷ 1.3 = 5 … 0.1 → 꽃 5송이, 남은 리본 0.1 m → 1.3 − 0.1 = 1.2(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "리본 4.3 m로 꽃 한 송이에 1.2 m씩 사용하여 꽃을 최대한 많이 만들었습니다. 남은 리본으로 꽃을 한 송이 더 만들려면 리본이 적어도 몇 m 더 있어야 하나요?",
+  "choices": [
+   "0.6 m",
+   "0.7 m",
+   "0.5 m",
+   "5 m"
+  ],
+  "answer": 2,
+  "explanation": "4.3 ÷ 1.2 = 3 … 0.7 → 꽃 3송이, 남은 리본 0.7 m → 1.2 − 0.7 = 0.5(m)",
+  "standard": "[6수01-15]",
+  "semester": 2,
+  "unit": "소수의 나눗셈",
+  "source": "math-king:a6-dd2-need-more"
  },
  {
   "difficulty": 1,
@@ -23441,6 +25226,278 @@
   "semester": 2,
   "unit": "비례식과 비례배분",
   "source": "math-king:w6-share-save"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 28 cm인 직사각형의 가로와 세로의 비가 4 : 3입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "7 cm",
+   "16 cm",
+   "6 cm",
+   "8 cm"
+  ],
+  "answer": 3,
+  "explanation": "가로 + 세로 = 28 ÷ 2 = 14(cm) → 가로 = 14 × 4/7 = 8(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 90 cm인 직사각형의 가로와 세로의 비가 4 : 5입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "20 cm",
+   "200 cm",
+   "10 cm",
+   "40 cm"
+  ],
+  "answer": 0,
+  "explanation": "가로 + 세로 = 90 ÷ 2 = 45(cm) → 가로 = 45 × 4/9 = 20(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 24 cm인 직사각형의 가로와 세로의 비가 3 : 1입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "18 cm",
+   "11 cm",
+   "9 cm",
+   "10 cm"
+  ],
+  "answer": 2,
+  "explanation": "가로 + 세로 = 24 ÷ 2 = 12(cm) → 가로 = 12 × 3/4 = 9(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 56 cm인 직사각형의 가로와 세로의 비가 5 : 2입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "40 cm",
+   "30 cm",
+   "20 cm",
+   "200 cm"
+  ],
+  "answer": 2,
+  "explanation": "가로 + 세로 = 56 ÷ 2 = 28(cm) → 가로 = 28 × 5/7 = 20(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 42 cm인 직사각형의 가로와 세로의 비가 1 : 6입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "1 cm",
+   "3 cm",
+   "2 cm",
+   "6 cm"
+  ],
+  "answer": 1,
+  "explanation": "가로 + 세로 = 42 ÷ 2 = 21(cm) → 가로 = 21 × 1/7 = 3(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 50 cm인 직사각형의 가로와 세로의 비가 3 : 2입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "15 cm",
+   "30 cm",
+   "17 cm",
+   "16 cm"
+  ],
+  "answer": 0,
+  "explanation": "가로 + 세로 = 50 ÷ 2 = 25(cm) → 가로 = 25 × 3/5 = 15(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 16 cm인 직사각형의 가로와 세로의 비가 1 : 3입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "3 cm",
+   "1 cm",
+   "4 cm",
+   "2 cm"
+  ],
+  "answer": 3,
+  "explanation": "가로 + 세로 = 16 ÷ 2 = 8(cm) → 가로 = 8 × 1/4 = 2(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "둘레가 96 cm인 직사각형의 가로와 세로의 비가 1 : 7입니다. 이 직사각형의 가로는 몇 cm인가요?",
+  "choices": [
+   "6 cm",
+   "12 cm",
+   "4 cm",
+   "5 cm"
+  ],
+  "answer": 0,
+  "explanation": "가로 + 세로 = 96 ÷ 2 = 48(cm) → 가로 = 48 × 1/8 = 6(cm)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-rect-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 5000원, 도하는 7000원을 내어 9000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "1260원",
+   "1500원",
+   "1750원",
+   "1250원"
+  ],
+  "answer": 3,
+  "explanation": "남은 돈 5000 + 7000 − 9000 = 3000(원), 낸 돈의 비 5000 : 7000 = 5 : 7 → 3000 × 5/12 = 1250(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 1500원, 도하는 1000원을 내어 2000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "400원",
+   "300원",
+   "250원",
+   "200원"
+  ],
+  "answer": 1,
+  "explanation": "남은 돈 1500 + 1000 − 2000 = 500(원), 낸 돈의 비 1500 : 1000 = 3 : 2 → 500 × 3/5 = 300(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 3000원, 도하는 5000원을 내어 2000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "3750원",
+   "2250원",
+   "3000원",
+   "2260원"
+  ],
+  "answer": 1,
+  "explanation": "남은 돈 3000 + 5000 − 2000 = 6000(원), 낸 돈의 비 3000 : 5000 = 3 : 5 → 6000 × 3/8 = 2250(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 3500원, 도하는 1500원을 내어 3000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "1400원",
+   "1300원",
+   "1000원",
+   "600원"
+  ],
+  "answer": 0,
+  "explanation": "남은 돈 3500 + 1500 − 3000 = 2000(원), 낸 돈의 비 3500 : 1500 = 7 : 3 → 2000 × 7/10 = 1400(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 3000원, 도하는 5000원을 내어 4000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "1500원",
+   "1400원",
+   "2500원",
+   "2000원"
+  ],
+  "answer": 0,
+  "explanation": "남은 돈 3000 + 5000 − 4000 = 4000(원), 낸 돈의 비 3000 : 5000 = 3 : 5 → 4000 × 3/8 = 1500(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 7000원, 도하는 3000원을 내어 8000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "1400원",
+   "1000원",
+   "600원",
+   "1300원"
+  ],
+  "answer": 0,
+  "explanation": "남은 돈 7000 + 3000 − 8000 = 2000(원), 낸 돈의 비 7000 : 3000 = 7 : 3 → 2000 × 7/10 = 1400(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 2000원, 도하는 3000원을 내어 4000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "500원",
+   "400원",
+   "600원",
+   "700원"
+  ],
+  "answer": 1,
+  "explanation": "남은 돈 2000 + 3000 − 4000 = 1000(원), 낸 돈의 비 2000 : 3000 = 2 : 3 → 1000 × 2/5 = 400(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "지우는 3000원, 도하는 2000원을 내어 2000원짜리 선물을 샀습니다. 남은 돈을 낸 돈의 비로 나누어 가진다면 지우는 얼마를 가지게 되나요?",
+  "choices": [
+   "1500원",
+   "1800원",
+   "1700원",
+   "1200원"
+  ],
+  "answer": 1,
+  "explanation": "남은 돈 3000 + 2000 − 2000 = 3000(원), 낸 돈의 비 3000 : 2000 = 3 : 2 → 3000 × 3/5 = 1800(원)",
+  "standard": "[6수02-05]",
+  "semester": 2,
+  "unit": "비례식과 비례배분",
+  "source": "math-king:a6-pp-change-share"
  },
  {
   "difficulty": 3,

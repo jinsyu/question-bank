@@ -22,7 +22,7 @@ describe("문제 은행 검수에서 넘어온 결함", () => {
     const bad = new Set<string>();
     for (const { g } of entries) for (const p of Array.from({ length: 30 }, (_, s) => g.make(createRandom(s)))) if (/(?<![\d.])\d+각형/.test(visibleText(p))) bad.add(g.id);
     expect([...bad]).toEqual([]);
-  });
+  }, 30_000); // 전 학년 생성기를 모두 돌려 기본 5초를 넘는다
 
   it("풀이에 같은 값을 '= '로 되풀이하지 않는다(5/12 = 5/12, 1 t = 1000 kg이므로 1 t = 1000 kg)", () => {
     for (const id of ["frac-times-whole", "m5-three-terms", "l5-fm-three", "l5-rel-cond", "wt-ton"])

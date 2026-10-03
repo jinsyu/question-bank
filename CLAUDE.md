@@ -1,6 +1,6 @@
 # question-bank
 
-초등 3~6학년 문제를 만드는 유일한 곳. 앱(math-king, arena, rpg)은 이 저장소를 패키지로 받아 쓴다. 구조와 배경은 `README.md`, `docs/handoff-unify-question-bank.md`.
+초등 1~6학년 문제를 만드는 유일한 곳. 앱(math-king, arena, rpg)은 이 저장소를 패키지로 받아 쓴다. 구조와 배경은 `README.md`, `docs/handoff-unify-question-bank.md`.
 
 ## "문항 만들어 줘" 요청을 받으면
 
