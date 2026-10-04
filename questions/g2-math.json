@@ -1014,7 +1014,7 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "36 + 29 = 65예요. 65 − 29는 얼마일까요?",
+    "question": "□ + 29 = 65일 때 □는 얼마일까요?",
     "choices": [
       "36",
       "94",
@@ -1022,7 +1022,7 @@
       "46"
     ],
     "answer": 0,
-    "explanation": "덧셈식에서 29를 빼면 처음 수 36이 돼요.",
+    "explanation": "□는 65−29=36이에요.",
     "standard": "[2수01-07]",
     "semester": 1,
     "unit": "덧셈과 뺄셈"
@@ -1060,17 +1060,17 @@
     "unit": "덧셈과 뺄셈"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "1 cm가 7번 들어가는 길이는 몇 cm일까요?",
+    "question": "1 cm가 6번 들어가는 길이와 1 cm가 3번 들어가는 길이를 합하면 몇 cm일까요?",
     "choices": [
-      "1 cm",
-      "6 cm",
       "8 cm",
-      "7 cm"
+      "10 cm",
+      "3 cm",
+      "9 cm"
     ],
     "answer": 3,
-    "explanation": "1 cm가 7번이면 7 cm예요.",
+    "explanation": "6+3=9이므로 9 cm예요.",
     "standard": "[2수03-10]",
     "semester": 1,
     "unit": "길이 재기"
@@ -1094,7 +1094,7 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "가 막대는 4 cm, 나 막대는 6 cm예요. 두 막대를 길게 이어 붙인 뒤 3 cm를 잘라 내면 남는 길이는 몇 cm일까요?",
+    "question": "(가) 막대는 4 cm, (나) 막대는 6 cm예요. 두 막대를 길게 이어 붙인 뒤 3 cm를 잘라 내면 남는 길이는 몇 cm일까요?",
     "choices": [
       "10 cm",
       "7 cm",
@@ -1408,7 +1408,7 @@
     "unit": "시각과 시간"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "영화가 오후 2시에 시작해서 1시간 30분 뒤에 끝났어요. 영화가 끝난 시각은 언제일까요?",
     "choices": [
@@ -1488,15 +1488,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "7단 곱셈구구의 곱은 7, 14, 21, 28, …이에요. 곱은 몇씩 커질까요?",
+    "question": "6단 곱셈구구의 곱은 6, 12, 18, 24, …예요. 다음에 올 수는 무엇일까요?",
     "choices": [
-      "7씩",
-      "1씩",
-      "2씩",
-      "14씩"
+      "30",
+      "28",
+      "32",
+      "36"
     ],
     "answer": 0,
-    "explanation": "7, 14, 21, 28은 7씩 커져요.",
+    "explanation": "6씩 커지므로 24 다음은 30이에요.",
     "standard": "[2수02-01]",
     "semester": 2,
     "unit": "규칙 찾기"
