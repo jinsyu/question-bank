@@ -6320,5 +6320,881 @@
     "explanation": "옆면 가로는 18.84cm예요. 18.84 ÷ 3.14 = 6cm가 지름이라 반지름은 3cm예요.",
     "semester": 2,
     "unit": "원기둥, 원뿔, 구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "각뿔의 옆면의 수는 밑면의 변의 수와 같다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "사각뿔은 밑면의 변이 4개이고 옆면도 4개예요.",
+    "semester": 1,
+    "unit": "각기둥과 각뿔"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "각뿔의 꼭짓점에서 밑면에 수직으로 내린 선분의 길이를 무엇이라고 할까요?",
+    "choices": [
+      "밑면의 둘레",
+      "옆면의 모서리",
+      "각뿔의 높이",
+      "밑면의 대각선"
+    ],
+    "answer": 2,
+    "explanation": "각뿔의 꼭짓점에서 밑면에 수직으로 내린 선분의 길이가 각뿔의 높이예요.",
+    "semester": 1,
+    "unit": "각기둥과 각뿔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "삼각기둥의 전개도에서 밑면과 옆면은 각각 몇 개일까요?",
+    "choices": [
+      "밑면 2개, 옆면 3개",
+      "밑면 3개, 옆면 2개",
+      "밑면 2개, 옆면 2개",
+      "밑면 1개, 옆면 3개"
+    ],
+    "answer": 0,
+    "explanation": "삼각기둥은 밑면이 2개이고 옆면은 밑면의 변의 수와 같은 3개예요.",
+    "semester": 1,
+    "unit": "각기둥과 각뿔"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "육각뿔의 꼭짓점의 수와 면의 수를 더하면 몇 개일까요?",
+    "choices": [
+      "12개",
+      "13개",
+      "26개",
+      "14개"
+    ],
+    "answer": 3,
+    "explanation": "육각뿔은 꼭짓점이 7개, 면이 7개라서 7+7=14(개)예요.",
+    "semester": 1,
+    "unit": "각기둥과 각뿔"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "꼭짓점이 16개인 각기둥의 모서리는 몇 개일까요?",
+    "choices": [
+      "16개",
+      "24개",
+      "21개",
+      "18개"
+    ],
+    "answer": 1,
+    "explanation": "꼭짓점이 16개이면 팔각기둥이고 모서리는 8×3=24(개)예요.",
+    "semester": 1,
+    "unit": "각기둥과 각뿔"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "비율 0.25를 백분율로 나타내면 2.5%이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "0.25에 100을 곱하면 25%이에요.",
+    "semester": 1,
+    "unit": "비와 비율"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'10에 대한 3의 비'를 분수로 나타낸 비율은 무엇일까요?",
+    "choices": [
+      "10/3",
+      "3/10",
+      "3/13",
+      "7/10"
+    ],
+    "answer": 1,
+    "explanation": "기준량이 10이고 비교하는 양이 3이므로 3/10이에요.",
+    "semester": 1,
+    "unit": "비와 비율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "경기 수에 대한 이긴 경기 수의 비율이 가장 높은 팀은? 가 팀 20경기 12승, 나 팀 25경기 15승, 다 팀 30경기 21승, 라 팀 16경기 8승",
+    "choices": [
+      "가 팀",
+      "나 팀",
+      "라 팀",
+      "다 팀"
+    ],
+    "answer": 3,
+    "explanation": "가 60%, 나 60%, 다 70%, 라 50%이므로 다 팀이 가장 높아요.",
+    "semester": 1,
+    "unit": "비와 비율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "넓이가 4 km²인 마을에 3200명이 살아요. 넓이에 대한 인구의 비율은 얼마일까요?",
+    "choices": [
+      "800",
+      "80",
+      "8000",
+      "1280"
+    ],
+    "answer": 0,
+    "explanation": "3200÷4=800이에요.",
+    "semester": 1,
+    "unit": "비와 비율"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "20% 할인했더니 가격이 4000원이 되었어요. 할인하기 전 가격은 얼마일까요?",
+    "choices": [
+      "4800원",
+      "3200원",
+      "5000원",
+      "6000원"
+    ],
+    "answer": 2,
+    "explanation": "할인된 값은 정가의 80%이므로 정가의 20%에 해당하는 값이 1000원이고 정가는 5000원이에요.",
+    "semester": 1,
+    "unit": "비와 비율"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "원주율은 원의 크기가 커지면 함께 커진다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "원주율은 원의 크기와 관계없이 일정해요.",
+    "semester": 2,
+    "unit": "원의 넓이"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "원의 넓이를 구하는 식으로 알맞은 것은?",
+    "choices": [
+      "(반지름)×(지름)×(원주율)",
+      "(지름)×(지름)×(원주율)",
+      "(반지름)×(반지름)×(원주율)×2",
+      "(반지름)×(반지름)×(원주율)"
+    ],
+    "answer": 3,
+    "explanation": "원의 넓이는 반지름×반지름×원주율이에요.",
+    "semester": 2,
+    "unit": "원의 넓이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지름이 20 cm인 반원의 넓이는 몇 cm²일까요? (원주율 3.14)",
+    "choices": [
+      "314 cm²",
+      "157 cm²",
+      "78.5 cm²",
+      "628 cm²"
+    ],
+    "answer": 1,
+    "explanation": "원의 넓이 10×10×3.14=314에서 반을 구하면 157이에요.",
+    "semester": 2,
+    "unit": "원의 넓이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "반지름이 10 cm인 원의 넓이를 원주율 3.1로 구하면 몇 cm²일까요?",
+    "choices": [
+      "620 cm²",
+      "31 cm²",
+      "310 cm²",
+      "961 cm²"
+    ],
+    "answer": 2,
+    "explanation": "10×10×3.1=310이에요.",
+    "semester": 2,
+    "unit": "원의 넓이"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "원주가 37.68 cm인 원의 넓이는 몇 cm²일까요? (원주율 3.14)",
+    "choices": [
+      "113.04 cm²",
+      "226.08 cm²",
+      "452.16 cm²",
+      "37.68 cm²"
+    ],
+    "answer": 0,
+    "explanation": "지름 37.68÷3.14=12, 반지름 6이므로 6×6×3.14=113.04예요.",
+    "semester": 2,
+    "unit": "원의 넓이"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "겉넓이가 같은 두 직육면체는 부피도 반드시 같다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "겉넓이가 같아도 모양이 다르면 부피는 달라질 수 있어요.",
+    "semester": 1,
+    "unit": "직육면체의 부피와 겉넓이"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 모서리가 4 cm인 정육면체의 겉넓이는 몇 cm²일까요?",
+    "choices": [
+      "64 cm²",
+      "80 cm²",
+      "96 cm²",
+      "16 cm²"
+    ],
+    "answer": 2,
+    "explanation": "한 면의 넓이 4×4=16에 6을 곱하면 96이에요.",
+    "semester": 1,
+    "unit": "직육면체의 부피와 겉넓이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "직육면체 (가)는 가로 8 cm, 세로 5 cm, 높이 2 cm이고 (나)는 가로 6 cm, 세로 4 cm, 높이 4 cm예요. 부피가 더 큰 것과 그 차는?",
+    "choices": [
+      "(가), 16 cm³",
+      "(나), 6 cm³",
+      "(나), 16 cm³",
+      "(가), 6 cm³"
+    ],
+    "answer": 2,
+    "explanation": "(가)는 80 cm³, (나)는 96 cm³라서 (나)가 16 cm³ 더 커요.",
+    "semester": 1,
+    "unit": "직육면체의 부피와 겉넓이"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "한 모서리가 1 cm인 쌓기나무를 가로 6개, 세로 4개, 높이 3층으로 쌓은 직육면체의 부피는 몇 cm³일까요?",
+    "choices": [
+      "13 cm³",
+      "72 cm³",
+      "24 cm³",
+      "36 cm³"
+    ],
+    "answer": 1,
+    "explanation": "쌓기나무가 6×4×3=72(개)이고 1개의 부피가 1 cm³예요.",
+    "semester": 1,
+    "unit": "직육면체의 부피와 겉넓이"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가로 20 cm, 세로 10 cm인 직육면체 모양 수조에 물 1.5 L를 부으면 물의 높이는 몇 cm일까요? (1 L=1000 cm³)",
+    "choices": [
+      "15 cm",
+      "75 cm",
+      "0.75 cm",
+      "7.5 cm"
+    ],
+    "answer": 3,
+    "explanation": "1.5 L는 1500 cm³이고 바닥 넓이가 200 cm²라서 1500÷200=7.5예요.",
+    "semester": 1,
+    "unit": "직육면체의 부피와 겉넓이"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "구는 어느 방향에서 보아도 모양이 원이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "구는 어느 쪽에서 보아도 둥근 원 모양이에요.",
+    "semester": 2,
+    "unit": "원기둥, 원뿔, 구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "구의 중심에서 구의 겉면 위의 한 점까지 이은 선분을 무엇이라고 할까요?",
+    "choices": [
+      "구의 모선의 길이",
+      "구의 밑면의 둘레",
+      "구의 반지름",
+      "구의 높이"
+    ],
+    "answer": 2,
+    "explanation": "구의 중심에서 겉면까지의 선분이 구의 반지름이에요.",
+    "semester": 2,
+    "unit": "원기둥, 원뿔, 구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "원기둥의 전개도에서 옆면의 세로와 길이가 같은 것은?",
+    "choices": [
+      "밑면의 지름",
+      "원기둥의 높이",
+      "밑면의 반지름",
+      "밑면의 둘레"
+    ],
+    "answer": 1,
+    "explanation": "옆면의 세로는 원기둥의 높이와 같아요.",
+    "semester": 2,
+    "unit": "원기둥, 원뿔, 구"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "구의 중심을 지나고 구의 겉면 위의 두 점을 잇는 가장 긴 선분을 무엇이라고 할까요?",
+    "choices": [
+      "구의 지름",
+      "구의 반지름",
+      "구의 둘레",
+      "구의 높이"
+    ],
+    "answer": 0,
+    "explanation": "구의 중심을 지나고 구의 겉면 위의 두 점을 이은 선분이 구의 지름이에요.",
+    "semester": 2,
+    "unit": "원기둥, 원뿔, 구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 변이 6 cm인 정사각형을 한 변을 기준으로 한 바퀴 돌려 만든 원기둥을 앞에서 본 모양의 둘레는 몇 cm일까요?",
+    "choices": [
+      "24 cm",
+      "36 cm",
+      "18 cm",
+      "72 cm"
+    ],
+    "answer": 1,
+    "explanation": "앞에서 본 모양은 가로 12 cm, 세로 6 cm인 직사각형이라 (12+6)×2=36이에요.",
+    "semester": 2,
+    "unit": "원기둥, 원뿔, 구"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "띠그래프에서 각 항목이 차지하는 길이를 모두 더하면 띠 전체의 길이가 된다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "항목의 비율을 모두 더하면 100%이므로 띠 전체가 돼요.",
+    "semester": 1,
+    "unit": "여러 가지 그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "원그래프에서 전체의 30%인 항목의 중심각은 몇 도일까요?",
+    "choices": [
+      "30°",
+      "90°",
+      "108°",
+      "120°"
+    ],
+    "answer": 2,
+    "explanation": "360×30/100=108°예요.",
+    "semester": 1,
+    "unit": "여러 가지 그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "계절별 좋아하는 학생 수가 봄 12명, 여름 18명, 가을 6명, 겨울 4명(모두 40명)이에요. 띠그래프에서 여름이 차지하는 비율은?",
+    "choices": [
+      "18%",
+      "30%",
+      "60%",
+      "45%"
+    ],
+    "answer": 3,
+    "explanation": "18÷40=0.45이므로 45%예요.",
+    "semester": 1,
+    "unit": "여러 가지 그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "원그래프에서 A는 40%, B는 35%, C는 15%이고 나머지는 D예요. D의 중심각은 몇 도일까요?",
+    "choices": [
+      "36°",
+      "10°",
+      "54°",
+      "90°"
+    ],
+    "answer": 0,
+    "explanation": "D는 10%이고 10%에 해당하는 각은 36°예요.",
+    "semester": 1,
+    "unit": "여러 가지 그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "전체 길이가 20 cm인 띠그래프에서 축구가 40%, 야구가 35%이고 나머지가 농구예요. 농구가 차지하는 길이는?",
+    "choices": [
+      "4 cm",
+      "7 cm",
+      "5 cm",
+      "8 cm"
+    ],
+    "answer": 2,
+    "explanation": "농구는 25%이고 20 cm의 25%에 해당하는 길이는 5 cm예요.",
+    "semester": 1,
+    "unit": "여러 가지 그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "3/5 ÷ 3/10의 몫은 2이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "3/5 × 10/3 = 2예요.",
+    "semester": 2,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1/6 ÷ 1/2의 몫은 얼마일까요?",
+    "choices": [
+      "3",
+      "1/12",
+      "2/3",
+      "1/3"
+    ],
+    "answer": 3,
+    "explanation": "1/6 × 2/1 = 2/6 = 1/3이에요.",
+    "semester": 2,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "(가) 4/5 ÷ 2/5, (나) 4/5 ÷ 4/5, (다) 4/5 ÷ 8/5 중 몫이 가장 큰 것은?",
+    "choices": [
+      "(나)",
+      "(가)",
+      "(다)",
+      "모두 같다"
+    ],
+    "answer": 1,
+    "explanation": "몫은 (가)가 2, (나)가 1, (다)가 1/2이에요.",
+    "semester": 2,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3/4 ÷ 1/2의 몫을 3/4 × 1/2 = 3/8이라고 계산했어요. 바르게 계산한 몫은?",
+    "choices": [
+      "3/8",
+      "2/3",
+      "1과 1/2",
+      "1과 1/4"
+    ],
+    "answer": 2,
+    "explanation": "나누는 수를 뒤집어 3/4 × 2/1 = 3/2 = 1과 1/2이에요.",
+    "semester": 2,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수를 3/8으로 나누었더니 몫이 4/5가 되었어요. 어떤 수는 얼마일까요?",
+    "choices": [
+      "3/10",
+      "2와 2/15",
+      "15/32",
+      "1과 1/5"
+    ],
+    "answer": 0,
+    "explanation": "어떤 수는 4/5 × 3/8 = 3/10이에요.",
+    "semester": 2,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "비 6 : 8을 가장 간단한 자연수의 비로 나타내면 3 : 4이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "전항과 후항을 2로 나누면 3 : 4예요.",
+    "semester": 2,
+    "unit": "비례식과 비례배분"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "비례식으로 알맞은 것은?",
+    "choices": [
+      "3 : 4 = 6 : 8",
+      "3 : 4 = 6 : 7",
+      "3 : 4 = 4 : 3",
+      "3 : 4 = 5 : 7"
+    ],
+    "answer": 0,
+    "explanation": "3 : 4와 6 : 8은 비율이 모두 3/4이에요.",
+    "semester": 2,
+    "unit": "비례식과 비례배분"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "리본 90 cm를 2 : 3으로 나누면 짧은 쪽은 몇 cm일까요?",
+    "choices": [
+      "54 cm",
+      "30 cm",
+      "36 cm",
+      "45 cm"
+    ],
+    "answer": 2,
+    "explanation": "90×2/5=36이에요.",
+    "semester": 2,
+    "unit": "비례식과 비례배분"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A는 3 m에 4500원, B는 5 m에 7000원이에요. 1 m의 값이 더 싼 것은?",
+    "choices": [
+      "A가 더 싸다",
+      "B가 더 싸다",
+      "값이 같다",
+      "알 수 없다"
+    ],
+    "answer": 1,
+    "explanation": "A는 1 m에 1500원, B는 1 m에 1400원이에요.",
+    "semester": 2,
+    "unit": "비례식과 비례배분"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "형과 동생이 3 : 5로 사탕을 나누었더니 동생이 형보다 18개 더 많아요. 사탕은 모두 몇 개일까요?",
+    "choices": [
+      "54개",
+      "90개",
+      "48개",
+      "72개"
+    ],
+    "answer": 3,
+    "explanation": "비의 차 2가 18개이므로 1은 9개이고 전체는 8×9=72(개)예요.",
+    "semester": 2,
+    "unit": "비례식과 비례배분"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "(자연수)÷(자연수)의 몫은 항상 자연수이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "3÷4처럼 몫이 분수가 되는 경우도 있어요.",
+    "semester": 1,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2/7 ÷ 2는 얼마일까요?",
+    "choices": [
+      "2/14",
+      "4/7",
+      "1/7",
+      "1/14"
+    ],
+    "answer": 2,
+    "explanation": "분자 2를 2로 나누면 1/7이에요.",
+    "semester": 1,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "(가)는 8/9 ÷ 4이고 (나)는 8/9 ÷ 2예요. 몫이 더 큰 것과 그 값은?",
+    "choices": [
+      "(나), 4/9",
+      "(가), 2/9",
+      "(나), 2/9",
+      "(가), 4/9"
+    ],
+    "answer": 0,
+    "explanation": "(가)는 2/9, (나)는 4/9라서 (나)가 더 커요.",
+    "semester": 1,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "(분수)÷(자연수)를 곱셈으로 바꾸어 계산하는 방법은?",
+    "choices": [
+      "나누는 수를 그대로 곱한다",
+      "분모와 분자를 모두 더한다",
+      "나누어지는 수의 분모에서 그 수를 뺀다",
+      "나누는 수 대신 1/(그 수)를 곱한다"
+    ],
+    "answer": 3,
+    "explanation": "4÷3 = 4×1/3처럼 나누는 수를 1/(그 수)로 바꾸어 곱해요.",
+    "semester": 1,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "7/8 m 리본에서 1/4 m를 쓰고 남은 리본을 3명이 똑같이 나누면 한 명이 가지는 길이는?",
+    "choices": [
+      "5/8 m",
+      "5/24 m",
+      "7/24 m",
+      "1/12 m"
+    ],
+    "answer": 1,
+    "explanation": "7/8−2/8=5/8이고 5/8÷3=5/24예요.",
+    "semester": 1,
+    "unit": "분수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "7.2 ÷ 0.6의 몫은 72 ÷ 6의 몫과 같다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "나누는 수와 나누어지는 수에 똑같이 10을 곱해도 몫은 같아요.",
+    "semester": 2,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.36 ÷ 0.06의 몫은 얼마일까요?",
+    "choices": [
+      "60",
+      "6",
+      "0.6",
+      "0.06"
+    ],
+    "answer": 1,
+    "explanation": "36÷6=6이에요.",
+    "semester": 2,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "철사 8.4 m를 1.2 m씩 자르면 몇 도막이 될까요?",
+    "choices": [
+      "6도막",
+      "8도막",
+      "70도막",
+      "7도막"
+    ],
+    "answer": 3,
+    "explanation": "8.4÷1.2=7이에요.",
+    "semester": 2,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "(가) 4.2 ÷ 0.6, (나) 4.2 ÷ 0.7, (다) 4.2 ÷ 0.3 중 몫이 가장 작은 것은?",
+    "choices": [
+      "(나)",
+      "(가)",
+      "(다)",
+      "모두 같다"
+    ],
+    "answer": 0,
+    "explanation": "몫은 (가)가 7, (나)가 6, (다)가 14예요.",
+    "semester": 2,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "물 7.2 L를 0.9 L들이 병에 나누어 담고 병 하나에 1500원씩 값을 매기면 병값은 모두 얼마일까요?",
+    "choices": [
+      "8000원",
+      "10500원",
+      "12000원",
+      "13500원"
+    ],
+    "answer": 2,
+    "explanation": "병은 7.2÷0.9=8(개)이고 8×1500=12000(원)이에요.",
+    "semester": 2,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "쌓기나무로 만든 모양을 위, 앞, 옆에서 본 모양이 같으면 쌓은 모양도 반드시 같다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "보이는 모양이 같아도 쌓은 개수가 다를 수 있어요.",
+    "semester": 2,
+    "unit": "공간과 입체"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 모서리가 1 cm인 쌓기나무 8개로 가로 2개, 세로 2개, 2층인 정육면체를 만들면 부피는 몇 cm³일까요?",
+    "choices": [
+      "4 cm³",
+      "12 cm³",
+      "6 cm³",
+      "8 cm³"
+    ],
+    "answer": 3,
+    "explanation": "쌓기나무 1개의 부피가 1 cm³이고 모두 8개예요.",
+    "semester": 2,
+    "unit": "공간과 입체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "위에서 본 모양의 각 칸에 쌓은 개수가 앞줄은 왼쪽부터 2, 1이고 뒷줄은 왼쪽부터 3, 1이에요. 앞에서 본 높이는?",
+    "choices": [
+      "왼쪽 2층, 오른쪽 1층",
+      "왼쪽 3층, 오른쪽 1층",
+      "왼쪽 3층, 오른쪽 2층",
+      "왼쪽 2층, 오른쪽 3층"
+    ],
+    "answer": 1,
+    "explanation": "앞에서 보면 각 줄에서 높은 쪽이 보여서 왼쪽은 3층, 오른쪽은 1층이에요.",
+    "semester": 2,
+    "unit": "공간과 입체"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "위에서 본 모양의 각 칸에 쌓은 개수가 앞줄은 왼쪽부터 2, 2이고 뒷줄은 왼쪽부터 1, 3이에요. 쌓기나무는 모두 몇 개일까요?",
+    "choices": [
+      "6개",
+      "7개",
+      "9개",
+      "8개"
+    ],
+    "answer": 3,
+    "explanation": "2+2+1+3=8(개)예요.",
+    "semester": 2,
+    "unit": "공간과 입체"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "위에서 본 모양이 2×2칸이에요. 앞에서 본 높이는 왼쪽 2층, 오른쪽 3층이고, 오른쪽 옆에서 본 높이는 앞쪽 3층, 뒤쪽 2층이에요. 가장 많을 때와 가장 적을 때의 개수 차는?",
+    "choices": [
+      "2개",
+      "1개",
+      "3개",
+      "4개"
+    ],
+    "answer": 0,
+    "explanation": "가장 많으면 2+3+2+2=9(개), 가장 적으면 1+3+2+1=7(개)라서 차는 2개예요.",
+    "semester": 2,
+    "unit": "공간과 입체"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "(소수)÷(자연수)의 몫의 소수점은 나누어지는 수의 소수점 위치에 맞추어 찍는다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "몫의 소수점은 나누어지는 수의 소수점과 같은 자리에 찍어요.",
+    "semester": 1,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "7.2 ÷ 4는 얼마일까요?",
+    "choices": [
+      "1.8",
+      "18",
+      "0.18",
+      "1.2"
+    ],
+    "answer": 0,
+    "explanation": "72÷4=18이므로 7.2÷4=1.8이에요.",
+    "semester": 1,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "자동차가 휘발유 3 L로 51.9 km를 갔어요. 휘발유 1 L로 간 거리는 몇 km일까요?",
+    "choices": [
+      "173 km",
+      "1.73 km",
+      "17.3 km",
+      "18.3 km"
+    ],
+    "answer": 2,
+    "explanation": "51.9÷3=17.3이에요.",
+    "semester": 1,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5 ÷ 3의 몫을 반올림하여 소수 첫째 자리까지 나타내면 얼마일까요?",
+    "choices": [
+      "1.6",
+      "1.7",
+      "1.67",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "5÷3=1.666…이고 둘째 자리에서 반올림하면 1.7이에요.",
+    "semester": 1,
+    "unit": "소수의 나눗셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "둘레가 17.5 cm인 정오각형의 한 변과 같은 길이를 한 변으로 하는 정삼각형의 둘레는 몇 cm일까요?",
+    "choices": [
+      "17.5 cm",
+      "8.75 cm",
+      "3.5 cm",
+      "10.5 cm"
+    ],
+    "answer": 3,
+    "explanation": "한 변은 17.5÷5=3.5이고 정삼각형 둘레는 3.5×3=10.5예요.",
+    "semester": 1,
+    "unit": "소수의 나눗셈"
   }
 ]
