@@ -11,7 +11,7 @@ type Unit = { grade: number; semester: 1 | 2; title: string; standards: { code: 
 
 const units = allUnits as Unit[];
 
-const GRADES = [3, 4, 5, 6];
+const GRADES = [1, 2, 3, 4, 5, 6];
 /** 생성기 하나에서 뽑는 서로 다른 문제 수, 그만큼 뽑으려고 시도하는 횟수 */
 const PER_GENERATOR = 8;
 const TRIES = 80;
