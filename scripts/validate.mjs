@@ -12,7 +12,7 @@ const allQuestions = new Map(); // 문제+보기 → 파일 (다른 파일끼리
 const seenByGroup = new Map(); // 학년-과목 → 문제 문장 (같은 학년·과목은 파일이 여러 개여도 문장이 하나뿐이어야 한다)
 for (const file of files) {
   // g4-math.json 또는 g4-math.mathking.json (같은 학년·과목의 추가 파일)
-  const m = basename(file).match(/^g([3-6])-([a-z]+)(\.[\w-]+)?\.json$/);
+  const m = basename(file).match(/^g([1-6])-([a-z]+)(\.[\w-]+)?\.json$/);
   if (!m || !SUBJECTS.includes(m[2])) {
     console.error(`${file}: 파일 이름 형식이 틀렸어요`);
     errors++;

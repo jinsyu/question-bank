@@ -3,6 +3,8 @@
 파일 이름: `g{학년}-{과목}.json` (예: `g4-science.json`)
 과목: `korean`, `math`, `social`, `science`, `english`
 
+1·2학년(`g1-`, `g2-`)은 `korean`, `math`만 있어요. 검사(`npm run check`)는 받지만 rpg는 3~6학년 파일만 읽어서 1·2학년 문항은 rpg에 들어가지 않아요.
+
 각 파일은 문제 배열이에요.
 
 ```json
