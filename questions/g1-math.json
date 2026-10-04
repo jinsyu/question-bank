@@ -655,5 +655,869 @@
     "explanation": "1, 2, 4, 8은 1씩 커지지 않아요.",
     "semester": 2,
     "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "수 '여덟'을 숫자로 쓰면 무엇일까요?",
+    "choices": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "여덟은 숫자 8이에요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "9까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "7 바로 앞에 오는 수는 무엇일까요?",
+    "choices": [
+      "5",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "6 다음이 7이에요. 7 바로 앞의 수는 6이에요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "9까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3, 8, 5, 6 중에서 가장 큰 수는 무엇일까요?",
+    "choices": [
+      "3",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "8이 가장 커요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "9까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "0은 아무것도 없다는 것을 나타내는 수예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "아무것도 없을 때 0이라고 써요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "9까지의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "서아는 앞에서 셋째이고 뒤에서 둘째에 서 있어요. 줄을 선 사람은 모두 몇 명일까요?",
+    "choices": [
+      "5명",
+      "6명",
+      "3명",
+      "4명"
+    ],
+    "answer": 3,
+    "explanation": "서아를 포함해 앞에 2명, 뒤에 1명이에요. 2+1+1=4(명)",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "9까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "6, 4, 9, 2를 작은 수부터 차례로 쓴 것은 무엇일까요?",
+    "choices": [
+      "2, 4, 6, 9",
+      "9, 6, 4, 2",
+      "2, 4, 9, 6",
+      "4, 2, 6, 9"
+    ],
+    "answer": 0,
+    "explanation": "작은 수부터 쓰면 2, 4, 6, 9예요.",
+    "standard": "[2수01-03]",
+    "semester": 1,
+    "unit": "9까지의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "상자 모양인 물건은 무엇일까요?",
+    "choices": [
+      "축구공",
+      "주사위",
+      "통조림",
+      "구슬"
+    ],
+    "answer": 1,
+    "explanation": "주사위는 상자 모양이에요.",
+    "standard": "[2수03-01]",
+    "semester": 1,
+    "unit": "여러 가지 모양"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "둥근기둥 모양인 물건은 무엇일까요?",
+    "choices": [
+      "주사위",
+      "수박",
+      "통조림",
+      "책"
+    ],
+    "answer": 2,
+    "explanation": "통조림은 둥근기둥 모양이에요.",
+    "standard": "[2수03-01]",
+    "semester": 1,
+    "unit": "여러 가지 모양"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "공 모양은 어느 방향으로도 잘 굴러가요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "공 모양은 모두 둥글어서 잘 굴러가요.",
+    "standard": "[2수03-01]",
+    "semester": 1,
+    "unit": "여러 가지 모양"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "평평한 면이 하나도 없는 모양은 무엇일까요?",
+    "choices": [
+      "상자 모양",
+      "둥근기둥 모양",
+      "상자 모양과 둥근기둥 모양",
+      "공 모양"
+    ],
+    "answer": 3,
+    "explanation": "공 모양은 어디나 둥글어서 평평한 면이 없어요.",
+    "standard": "[2수03-01]",
+    "semester": 1,
+    "unit": "여러 가지 모양"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가에는 주사위와 과자 상자, 나에는 통조림과 음료수 캔, 다에는 축구공과 구슬을 모았어요. 나에 모인 물건은 어떤 모양일까요?",
+    "choices": [
+      "둥근기둥 모양",
+      "상자 모양",
+      "공 모양",
+      "모두 다른 모양"
+    ],
+    "answer": 0,
+    "explanation": "통조림과 음료수 캔은 둥근기둥 모양이에요.",
+    "standard": "[2수03-01]",
+    "semester": 1,
+    "unit": "여러 가지 모양"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "주사위, 지우개, 음료수 캔, 책 중에서 모양이 다른 하나는 무엇일까요?",
+    "choices": [
+      "주사위",
+      "음료수 캔",
+      "지우개",
+      "책"
+    ],
+    "answer": 1,
+    "explanation": "음료수 캔은 둥근기둥, 나머지는 상자 모양이에요.",
+    "standard": "[2수03-01]",
+    "semester": 1,
+    "unit": "여러 가지 모양"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "사탕 4개가 있었는데 2개를 더 받았어요. 사탕은 모두 몇 개일까요?",
+    "choices": [
+      "2개",
+      "5개",
+      "6개",
+      "8개"
+    ],
+    "answer": 2,
+    "explanation": "4+2=6(개)",
+    "standard": "[2수01-05]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "비둘기 5마리 중 3마리가 날아갔어요. 남은 비둘기는 몇 마리일까요?",
+    "choices": [
+      "3마리",
+      "8마리",
+      "1마리",
+      "2마리"
+    ],
+    "answer": 3,
+    "explanation": "5−3=2(마리)",
+    "standard": "[2수01-05]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4와 몇을 모으면 9가 될까요?",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "4와 5를 모으면 9예요.",
+    "standard": "[2수01-04]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "8에서 0을 빼면 8이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "아무것도 빼지 않으면 그대로 8이에요.",
+    "standard": "[2수01-06]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "상자에 귤 2개, 바구니에 귤 4개가 있어요. 그중 1개를 먹었어요. 남은 귤은 몇 개일까요?",
+    "choices": [
+      "6개",
+      "5개",
+      "7개",
+      "3개"
+    ],
+    "answer": 1,
+    "explanation": "2+4=6, 6−1=5(개)",
+    "standard": "[2수01-06]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "8을 두 수로 가를 때 한 수가 6이면 다른 한 수는 무엇일까요?",
+    "choices": [
+      "1",
+      "3",
+      "2",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "6과 2를 모으면 8이에요.",
+    "standard": "[2수01-04]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "수 카드 2, 3, 5 중 두 장을 골라 더할 때 가장 큰 합은 무엇일까요?",
+    "choices": [
+      "7",
+      "5",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "가장 큰 두 수 5와 3을 더하면 8이에요.",
+    "standard": "[2수01-06]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "가 막대는 5칸, 나 막대는 3칸이에요. 한쪽 끝을 맞추면 더 긴 막대는 무엇일까요?",
+    "choices": [
+      "가 막대",
+      "나 막대",
+      "두 막대가 같아요",
+      "알 수 없어요"
+    ],
+    "answer": 0,
+    "explanation": "5칸이 3칸보다 길어요.",
+    "standard": "[2수03-06]",
+    "semester": 1,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "크기가 같은 솜 뭉치와 쇠공 중에서 더 가벼운 것은 무엇일까요?",
+    "choices": [
+      "쇠공",
+      "솜 뭉치",
+      "두 개가 같아요",
+      "두 개 모두 가벼워요"
+    ],
+    "answer": 1,
+    "explanation": "솜 뭉치가 쇠공보다 가벼워요.",
+    "standard": "[2수03-06]",
+    "semester": 1,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "넓이를 비교할 때 두 종이를 겹쳐 놓고 비교할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "겹쳐서 남는 쪽이 더 넓어요.",
+    "standard": "[2수03-06]",
+    "semester": 1,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "같은 양의 물을 가 그릇과 나 그릇에 각각 부었어요. 가는 가득 찼고 나는 반만 찼어요. 들이가 더 큰 그릇은 무엇일까요?",
+    "choices": [
+      "가 그릇",
+      "두 그릇이 같아요",
+      "나 그릇",
+      "알 수 없어요"
+    ],
+    "answer": 2,
+    "explanation": "같은 양의 물이 나에서는 반만 찼으니 나의 들이가 더 커요.",
+    "standard": "[2수03-06]",
+    "semester": 1,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가 종이를 나 종이 위에 올렸더니 가 종이가 나 종이 안에 쏙 들어갔어요. 더 넓은 종이는 무엇일까요?",
+    "choices": [
+      "가 종이",
+      "두 종이가 같아요",
+      "알 수 없어요",
+      "나 종이"
+    ],
+    "answer": 3,
+    "explanation": "나 종이가 가 종이를 모두 덮어서 더 넓어요.",
+    "standard": "[2수03-06]",
+    "semester": 1,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'많다'와 반대되는 말은 무엇일까요?",
+    "choices": [
+      "적다",
+      "길다",
+      "무겁다",
+      "넓다"
+    ],
+    "answer": 0,
+    "explanation": "많다의 반대말은 적다예요.",
+    "standard": "[2수03-06]",
+    "semester": 1,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'스물일곱'을 숫자로 쓰면 무엇일까요?",
+    "choices": [
+      "17",
+      "27",
+      "37",
+      "72"
+    ],
+    "answer": 1,
+    "explanation": "스물은 20, 일곱은 7이라서 27이에요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "50까지의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "40 바로 앞의 수는 무엇일까요?",
+    "choices": [
+      "41",
+      "30",
+      "39",
+      "38"
+    ],
+    "answer": 2,
+    "explanation": "39 다음이 40이에요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "50까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "37은 10개씩 묶음 몇 개와 낱개 몇 개일까요?",
+    "choices": [
+      "묶음 7개, 낱개 3개",
+      "묶음 3개, 낱개 3개",
+      "묶음 4개, 낱개 7개",
+      "묶음 3개, 낱개 7개"
+    ],
+    "answer": 3,
+    "explanation": "37은 30과 7이에요.",
+    "standard": "[2수01-01]",
+    "semester": 1,
+    "unit": "50까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "26, 31, 29를 큰 수부터 차례로 쓴 것은 무엇일까요?",
+    "choices": [
+      "31, 29, 26",
+      "26, 29, 31",
+      "29, 31, 26",
+      "31, 26, 29"
+    ],
+    "answer": 0,
+    "explanation": "큰 수부터 쓰면 31, 29, 26이에요.",
+    "standard": "[2수01-03]",
+    "semester": 1,
+    "unit": "50까지의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "30에서 시작해 5씩 두 번 뛰어 세면 어떤 수가 될까요?",
+    "choices": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": 1,
+    "explanation": "30에서 5씩 뛰어 세면 35, 40이에요.",
+    "standard": "[2수01-04]",
+    "semester": 1,
+    "unit": "50까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "35는 30과 5를 합한 수예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "30과 5를 합하면 35예요.",
+    "standard": "[2수01-03]",
+    "semester": 1,
+    "unit": "50까지의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'여든'을 숫자로 쓰면 무엇일까요?",
+    "choices": [
+      "18",
+      "40",
+      "80",
+      "90"
+    ],
+    "answer": 2,
+    "explanation": "여든은 80이에요.",
+    "standard": "[2수01-01]",
+    "semester": 2,
+    "unit": "100까지의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "69 바로 다음 수는 무엇일까요?",
+    "choices": [
+      "60",
+      "68",
+      "79",
+      "70"
+    ],
+    "answer": 3,
+    "explanation": "69 다음은 70이에요.",
+    "standard": "[2수01-03]",
+    "semester": 2,
+    "unit": "100까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "17, 24, 31, 45 중에서 짝수는 무엇일까요?",
+    "choices": [
+      "24",
+      "17",
+      "31",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "24는 둘씩 짝을 지으면 남지 않아 짝수예요.",
+    "standard": "[2수01-01]",
+    "semester": 2,
+    "unit": "100까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "73, 37, 68, 59 중에서 가장 큰 수는 무엇일까요?",
+    "choices": [
+      "37",
+      "73",
+      "68",
+      "59"
+    ],
+    "answer": 1,
+    "explanation": "십의 자리가 가장 큰 73이 가장 커요.",
+    "standard": "[2수01-03]",
+    "semester": 2,
+    "unit": "100까지의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "십의 자리 숫자가 8이고 일의 자리 숫자가 십의 자리 숫자보다 3 작은 수는 무엇일까요?",
+    "choices": [
+      "83",
+      "58",
+      "85",
+      "88"
+    ],
+    "answer": 2,
+    "explanation": "일의 자리는 8−3=5라서 85예요.",
+    "standard": "[2수01-01]",
+    "semester": 2,
+    "unit": "100까지의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "홀수는 둘씩 짝을 지으면 하나가 남는 수예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "홀수는 둘씩 짝을 지으면 1개가 남아요.",
+    "standard": "[2수01-01]",
+    "semester": 2,
+    "unit": "100까지의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "30 + 20은 얼마일까요?",
+    "choices": [
+      "40",
+      "60",
+      "10",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "10개씩 묶음 3개와 2개를 합하면 5개라서 50이에요.",
+    "standard": "[2수01-06]",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "47 − 5는 얼마일까요?",
+    "choices": [
+      "42",
+      "52",
+      "32",
+      "43"
+    ],
+    "answer": 0,
+    "explanation": "일의 자리끼리 7−5=2라서 42예요.",
+    "standard": "[2수01-06]",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "4 + 3 + 3은 얼마일까요?",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "4+3=7, 7+3=10",
+    "standard": "[2수01-08]",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "버스에 25명이 타고 있었어요. 정류장에서 3명이 내리고 4명이 탔어요. 버스에 탄 사람은 지금 몇 명일까요?",
+    "choices": [
+      "22명",
+      "32명",
+      "26명",
+      "24명"
+    ],
+    "answer": 2,
+    "explanation": "25−3=22, 22+4=26(명)",
+    "standard": "[2수01-08]",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "26 + 31은 얼마일까요?",
+    "choices": [
+      "47",
+      "67",
+      "55",
+      "57"
+    ],
+    "answer": 3,
+    "explanation": "일의 자리 6+1=7, 십의 자리 2+3=5라서 57이에요.",
+    "standard": "[2수01-06]",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민아는 구슬이 21개 있고, 서준이는 민아보다 6개 더 많아요. 두 사람의 구슬은 모두 몇 개일까요?",
+    "choices": [
+      "48개",
+      "27개",
+      "42개",
+      "54개"
+    ],
+    "answer": 0,
+    "explanation": "서준이는 21+6=27개예요. 21+27=48(개)",
+    "standard": "[2수01-06]",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세모 모양인 물건은 무엇일까요?",
+    "choices": [
+      "접시",
+      "삼각자",
+      "공책",
+      "동전"
+    ],
+    "answer": 1,
+    "explanation": "삼각자는 세모 모양이에요.",
+    "standard": "[2수03-03]",
+    "semester": 2,
+    "unit": "모양과 시각"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시계가 5시 30분을 가리켜요. 긴바늘은 어느 숫자를 가리킬까요?",
+    "choices": [
+      "5",
+      "12",
+      "6",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "30분일 때 긴바늘은 6을 가리켜요.",
+    "standard": "[2수03-07]",
+    "semester": 2,
+    "unit": "모양과 시각"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "동그라미 모양에는 뾰족한 곳이 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "동그라미 모양은 둥글어서 뾰족한 곳이 없어요.",
+    "standard": "[2수03-03]",
+    "semester": 2,
+    "unit": "모양과 시각"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "뾰족한 곳이 3개인 모양은 무엇일까요?",
+    "choices": [
+      "네모 모양",
+      "동그라미 모양",
+      "공 모양",
+      "세모 모양"
+    ],
+    "answer": 3,
+    "explanation": "세모 모양은 뾰족한 곳이 3개예요.",
+    "standard": "[2수03-03]",
+    "semester": 2,
+    "unit": "모양과 시각"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "8시 30분일 때 짧은바늘은 어느 두 숫자 사이에 있을까요?",
+    "choices": [
+      "8과 9 사이",
+      "7과 8 사이",
+      "9와 10 사이",
+      "6과 7 사이"
+    ],
+    "answer": 0,
+    "explanation": "8시에서 30분이 지나 짧은바늘이 8과 9 사이에 있어요.",
+    "standard": "[2수03-07]",
+    "semester": 2,
+    "unit": "모양과 시각"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "짧은바늘이 10과 11 사이에 있고 긴바늘이 6을 가리켜요. 몇 시일까요?",
+    "choices": [
+      "11시 30분",
+      "10시 30분",
+      "6시",
+      "10시"
+    ],
+    "answer": 1,
+    "explanation": "긴바늘이 6이면 30분이에요.",
+    "standard": "[2수03-07]",
+    "semester": 2,
+    "unit": "모양과 시각"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2, 4, 6, 8 다음에 올 수는 무엇일까요?",
+    "choices": [
+      "9",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "2씩 커지는 규칙이에요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빨강, 노랑, 파랑, 빨강, 노랑 다음에 올 색은 무엇일까요?",
+    "choices": [
+      "빨강",
+      "노랑",
+      "초록",
+      "파랑"
+    ],
+    "answer": 3,
+    "explanation": "빨강, 노랑, 파랑이 반복돼요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "10, 8, 6, 4 다음에 올 수는 무엇일까요?",
+    "choices": [
+      "2",
+      "3",
+      "0",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "2씩 작아지는 규칙이에요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "규칙을 알면 다음에 올 것을 알 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "규칙대로 이어지기 때문에 다음 것을 알 수 있어요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5, 10, 15, 20은 어떤 규칙일까요?",
+    "choices": [
+      "1씩 커져요",
+      "5씩 커져요",
+      "2씩 커져요",
+      "10씩 커져요"
+    ],
+    "answer": 1,
+    "explanation": "5, 10, 15, 20은 5씩 커져요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "빨강, 빨강, 파랑을 반복해서 늘어놓아요. 첫째부터 아홉째까지 늘어놓으면 파랑은 모두 몇 개일까요?",
+    "choices": [
+      "2개",
+      "4개",
+      "3개",
+      "6개"
+    ],
+    "answer": 2,
+    "explanation": "세 개씩 세 번 반복하니 파랑은 3개예요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
   }
 ]

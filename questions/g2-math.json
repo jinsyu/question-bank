@@ -884,5 +884,637 @@
     "explanation": "1, 2, 3, 4씩 늘어나므로 다음은 5 늘어난 16이에요.",
     "semester": 2,
     "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'삼백이십'을 수로 쓰면 무엇일까요?",
+    "choices": [
+      "320",
+      "302",
+      "230",
+      "332"
+    ],
+    "answer": 0,
+    "explanation": "삼백은 300, 이십은 20이라서 320이에요.",
+    "standard": "[2수01-02]",
+    "semester": 1,
+    "unit": "세 자리 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "100이 7개, 1이 4개인 수는 무엇일까요?",
+    "choices": [
+      "740",
+      "704",
+      "74",
+      "714"
+    ],
+    "answer": 1,
+    "explanation": "100이 7개면 700, 1이 4개면 4라서 704예요. 십의 자리는 0이에요.",
+    "standard": "[2수01-02]",
+    "semester": 1,
+    "unit": "세 자리 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "357, 375, 537 중에서 가장 큰 수는 무엇일까요?",
+    "choices": [
+      "357",
+      "375",
+      "537",
+      "357과 375"
+    ],
+    "answer": 2,
+    "explanation": "백의 자리 숫자가 가장 큰 537이 가장 커요.",
+    "standard": "[2수01-03]",
+    "semester": 1,
+    "unit": "세 자리 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "각 자리 숫자의 합이 9인 세 자리 수예요. 백의 자리 숫자는 5, 일의 자리 숫자는 1이에요. 이 수는 무엇일까요?",
+    "choices": [
+      "531",
+      "513",
+      "351",
+      "541"
+    ],
+    "answer": 0,
+    "explanation": "십의 자리 숫자는 9−5−1=3이라서 531이에요.",
+    "standard": "[2수01-02]",
+    "semester": 1,
+    "unit": "세 자리 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "꼭짓점이 4개인 도형은 무엇일까요?",
+    "choices": [
+      "삼각형",
+      "사각형",
+      "오각형",
+      "원"
+    ],
+    "answer": 1,
+    "explanation": "사각형은 꼭짓점이 4개예요.",
+    "standard": "[2수03-04]",
+    "semester": 1,
+    "unit": "여러 가지 도형"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "삼각형과 사각형은 변이 모두 곧은 선으로 되어 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "삼각형과 사각형의 변은 곧은 선이에요.",
+    "standard": "[2수03-05]",
+    "semester": 1,
+    "unit": "여러 가지 도형"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "오각형의 꼭짓점의 수와 육각형의 변의 수를 더하면 모두 몇 개일까요?",
+    "choices": [
+      "10개",
+      "12개",
+      "11개",
+      "9개"
+    ],
+    "answer": 2,
+    "explanation": "오각형의 꼭짓점은 5개, 육각형의 변은 6개예요. 5+6=11(개)",
+    "standard": "[2수03-05]",
+    "semester": 1,
+    "unit": "여러 가지 도형"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "35 + 27은 얼마일까요?",
+    "choices": [
+      "52",
+      "72",
+      "63",
+      "62"
+    ],
+    "answer": 3,
+    "explanation": "일의 자리 5+7=12에서 10을 올려 십의 자리를 계산하면 62예요.",
+    "standard": "[2수01-06]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "36 + 29 = 65예요. 65 − 29는 얼마일까요?",
+    "choices": [
+      "36",
+      "94",
+      "29",
+      "46"
+    ],
+    "answer": 0,
+    "explanation": "덧셈식에서 29를 빼면 처음 수 36이 돼요.",
+    "standard": "[2수01-07]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "□ − 24 = 38일 때 □는 얼마일까요?",
+    "choices": [
+      "14",
+      "62",
+      "52",
+      "72"
+    ],
+    "answer": 1,
+    "explanation": "□는 38+24=62예요.",
+    "standard": "[2수01-09]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "사탕이 52개 있었어요. 19개를 먹고 24개를 더 샀어요. 사탕은 모두 몇 개일까요?",
+    "choices": [
+      "95개",
+      "47개",
+      "57개",
+      "67개"
+    ],
+    "answer": 2,
+    "explanation": "52−19=33, 33+24=57(개)",
+    "standard": "[2수01-08]",
+    "semester": 1,
+    "unit": "덧셈과 뺄셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1 cm가 7번 들어가는 길이는 몇 cm일까요?",
+    "choices": [
+      "1 cm",
+      "6 cm",
+      "8 cm",
+      "7 cm"
+    ],
+    "answer": 3,
+    "explanation": "1 cm가 7번이면 7 cm예요.",
+    "standard": "[2수03-10]",
+    "semester": 1,
+    "unit": "길이 재기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "연필의 한끝을 눈금 0에 맞췄더니 다른 끝이 눈금 9와 10 사이에서 10에 더 가까웠어요. 연필의 길이는 약 몇 cm일까요?",
+    "choices": [
+      "약 10 cm",
+      "약 9 cm",
+      "약 11 cm",
+      "약 19 cm"
+    ],
+    "answer": 0,
+    "explanation": "10에 더 가까우니 약 10 cm예요.",
+    "standard": "[2수03-12]",
+    "semester": 1,
+    "unit": "길이 재기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가 막대는 4 cm, 나 막대는 6 cm예요. 두 막대를 길게 이어 붙인 뒤 3 cm를 잘라 내면 남는 길이는 몇 cm일까요?",
+    "choices": [
+      "10 cm",
+      "7 cm",
+      "13 cm",
+      "5 cm"
+    ],
+    "answer": 1,
+    "explanation": "4+6=10, 10−3=7(cm)",
+    "standard": "[2수03-10]",
+    "semester": 1,
+    "unit": "길이 재기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "구슬을 '둥근 것'과 '네모난 것'으로 나누었어요. 이 분류의 기준은 무엇일까요?",
+    "choices": [
+      "색깔",
+      "크기",
+      "모양",
+      "개수"
+    ],
+    "answer": 2,
+    "explanation": "둥근지 네모난지로 나누었으니 모양이 기준이에요.",
+    "standard": "[2수04-01]",
+    "semester": 1,
+    "unit": "분류하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "닭, 고양이, 오리, 말을 다리 수로 분류했어요. 다리가 2개인 동물은 모두 몇 마리일까요?",
+    "choices": [
+      "1마리",
+      "3마리",
+      "4마리",
+      "2마리"
+    ],
+    "answer": 3,
+    "explanation": "닭과 오리는 다리가 2개예요.",
+    "standard": "[2수04-01]",
+    "semester": 1,
+    "unit": "분류하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공 12개를 색깔별로 분류했어요. 빨간 공 5개, 파란 공 4개이고 나머지는 노란 공이에요. 노란 공은 몇 개일까요?",
+    "choices": [
+      "3개",
+      "2개",
+      "4개",
+      "9개"
+    ],
+    "answer": 0,
+    "explanation": "12−5=7, 7−4=3(개)",
+    "standard": "[2수04-01]",
+    "semester": 1,
+    "unit": "분류하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2씩 5묶음은 모두 몇 개일까요?",
+    "choices": [
+      "7개",
+      "10개",
+      "8개",
+      "12개"
+    ],
+    "answer": 1,
+    "explanation": "2씩 5묶음은 2+2+2+2+2=10(개)",
+    "standard": "[2수01-10]",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "5 × 4는 5를 4번 더한 것과 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "5 × 4는 5+5+5+5와 같아요.",
+    "standard": "[2수01-10]",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 상자에 사과가 3개씩 들어 있어요. 4상자에 있는 사과 중 5개를 먹었어요. 남은 사과는 몇 개일까요?",
+    "choices": [
+      "12개",
+      "17개",
+      "8개",
+      "7개"
+    ],
+    "answer": 3,
+    "explanation": "3 × 4 = 12, 12−5=7(개)",
+    "standard": "[2수01-10]",
+    "semester": 1,
+    "unit": "곱셈"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'이천오백'을 수로 쓰면 무엇일까요?",
+    "choices": [
+      "2500",
+      "250",
+      "2050",
+      "2005"
+    ],
+    "answer": 0,
+    "explanation": "이천은 2000, 오백은 500이라서 2500이에요.",
+    "standard": "[2수01-02]",
+    "semester": 2,
+    "unit": "네 자리 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1000이 6개, 1이 7개인 수는 무엇일까요?",
+    "choices": [
+      "6070",
+      "6007",
+      "6700",
+      "607"
+    ],
+    "answer": 1,
+    "explanation": "6000과 7을 합하면 6007이에요.",
+    "standard": "[2수01-02]",
+    "semester": 2,
+    "unit": "네 자리 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "3524보다 100 큰 수보다 1000 작은 수는 무엇일까요?",
+    "choices": [
+      "2524",
+      "3624",
+      "2624",
+      "2634"
+    ],
+    "answer": 2,
+    "explanation": "3524+100=3624, 3624−1000=2624",
+    "standard": "[2수01-03]",
+    "semester": 2,
+    "unit": "네 자리 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2 × 7은 얼마일까요?",
+    "choices": [
+      "9",
+      "12",
+      "16",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "2 × 7 = 14",
+    "standard": "[2수01-11]",
+    "semester": 2,
+    "unit": "곱셈구구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "9 × 4는 얼마일까요?",
+    "choices": [
+      "36",
+      "32",
+      "45",
+      "27"
+    ],
+    "answer": 0,
+    "explanation": "9 × 4 = 36",
+    "standard": "[2수01-11]",
+    "semester": 2,
+    "unit": "곱셈구구"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "7 × 0은 7이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "어떤 수에 0을 곱하면 0이에요.",
+    "standard": "[2수01-11]",
+    "semester": 2,
+    "unit": "곱셈구구"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "한 줄에 8명씩 4줄 서 있어요. 그중 5명이 먼저 갔어요. 남은 학생은 몇 명일까요?",
+    "choices": [
+      "37명",
+      "27명",
+      "17명",
+      "32명"
+    ],
+    "answer": 1,
+    "explanation": "8 × 4 = 32, 32−5=27(명)",
+    "standard": "[2수01-11]",
+    "semester": 2,
+    "unit": "곱셈구구"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "340 cm는 몇 m 몇 cm일까요?",
+    "choices": [
+      "3 m 4 cm",
+      "34 m",
+      "3 m 40 cm",
+      "30 m 40 cm"
+    ],
+    "answer": 2,
+    "explanation": "100 cm가 1 m이므로 340 cm는 3 m 40 cm예요.",
+    "standard": "[2수03-11]",
+    "semester": 2,
+    "unit": "길이 재기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "50 cm, 1 m, 80 cm, 90 cm 중에서 가장 긴 것은 무엇일까요?",
+    "choices": [
+      "50 cm",
+      "80 cm",
+      "90 cm",
+      "1 m"
+    ],
+    "answer": 3,
+    "explanation": "1 m는 100 cm라서 가장 길어요.",
+    "standard": "[2수03-11]",
+    "semester": 2,
+    "unit": "길이 재기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "철사 2 m 40 cm에서 1 m 10 cm를 쓰고, 다시 50 cm를 썼어요. 남은 철사는 얼마일까요?",
+    "choices": [
+      "80 cm",
+      "1 m 30 cm",
+      "1 m 80 cm",
+      "90 cm"
+    ],
+    "answer": 0,
+    "explanation": "2 m 40 cm − 1 m 10 cm = 1 m 30 cm, 1 m 30 cm − 50 cm = 80 cm",
+    "standard": "[2수03-13]",
+    "semester": 2,
+    "unit": "길이 재기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1시간 30분은 몇 분일까요?",
+    "choices": [
+      "130분",
+      "90분",
+      "60분",
+      "100분"
+    ],
+    "answer": 1,
+    "explanation": "1시간은 60분이므로 60+30=90(분)",
+    "standard": "[2수03-08]",
+    "semester": 2,
+    "unit": "시각과 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "일주일은 며칠일까요?",
+    "choices": [
+      "5일",
+      "6일",
+      "7일",
+      "10일"
+    ],
+    "answer": 2,
+    "explanation": "일주일은 7일이에요.",
+    "standard": "[2수03-09]",
+    "semester": 2,
+    "unit": "시각과 시간"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "오전 10시부터 낮 12시까지는 몇 시간일까요?",
+    "choices": [
+      "1시간",
+      "3시간",
+      "12시간",
+      "2시간"
+    ],
+    "answer": 3,
+    "explanation": "10시에서 12시까지는 2시간이에요.",
+    "standard": "[2수03-08]",
+    "semester": 2,
+    "unit": "시각과 시간"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "영화가 오후 2시에 시작해서 1시간 30분 뒤에 끝났어요. 영화가 끝난 시각은 언제일까요?",
+    "choices": [
+      "3시 30분",
+      "2시 30분",
+      "4시",
+      "3시"
+    ],
+    "answer": 0,
+    "explanation": "2시에서 1시간 뒤는 3시, 30분 뒤는 3시 30분이에요.",
+    "standard": "[2수03-08]",
+    "semester": 2,
+    "unit": "시각과 시간"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "자료를 표로 나타내면 각 항목의 수를 쉽게 알 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "표로 나타내면 항목별 수를 한눈에 알아보기 쉬워요.",
+    "standard": "[2수04-02]",
+    "semester": 2,
+    "unit": "표와 그래프"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "축구 6명, 농구 4명, 야구 3명, 피구 5명이 좋아해요. 가장 적은 학생이 좋아하는 운동은 무엇일까요?",
+    "choices": [
+      "축구",
+      "야구",
+      "농구",
+      "피구"
+    ],
+    "answer": 1,
+    "explanation": "3명으로 가장 적은 운동은 야구예요.",
+    "standard": "[2수04-02]",
+    "semester": 2,
+    "unit": "표와 그래프"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "조사한 학생이 모두 18명이에요. 축구 6명, 농구 4명, 야구 3명이고 나머지는 피구예요. 피구를 좋아하는 학생은 몇 명일까요?",
+    "choices": [
+      "4명",
+      "6명",
+      "5명",
+      "3명"
+    ],
+    "answer": 2,
+    "explanation": "6+4+3=13, 18−13=5(명)",
+    "standard": "[2수04-03]",
+    "semester": 2,
+    "unit": "표와 그래프"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "10, 20, 30, 40 다음에 올 수는 무엇일까요?",
+    "choices": [
+      "45",
+      "60",
+      "41",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "10씩 커지는 규칙이에요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "7단 곱셈구구의 곱은 7, 14, 21, 28, …이에요. 곱은 몇씩 커질까요?",
+    "choices": [
+      "7씩",
+      "1씩",
+      "2씩",
+      "14씩"
+    ],
+    "answer": 0,
+    "explanation": "7, 14, 21, 28은 7씩 커져요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "○, △, △ 모양이 반복되도록 늘어놓아요. 열째에 놓이는 모양은 무엇일까요?",
+    "choices": [
+      "△",
+      "○",
+      "□",
+      "☆"
+    ],
+    "answer": 1,
+    "explanation": "3개씩 반복돼요. 열째는 아홉째(△) 다음이므로 새 묶음의 첫째인 ○예요.",
+    "standard": "[2수02-01]",
+    "semester": 2,
+    "unit": "규칙 찾기"
   }
 ]

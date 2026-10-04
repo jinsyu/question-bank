@@ -876,5 +876,631 @@
     "explanation": "길다의 반대말은 짧다예요.",
     "semester": 2,
     "unit": "낱말의 뜻 알기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'가을 [하느리] 높고 푸르러요.'의 [하느리]를 바르게 쓴 것은 무엇일까요?",
+    "choices": [
+      "하늘이",
+      "하느리",
+      "하늘리",
+      "하을이"
+    ],
+    "answer": 0,
+    "explanation": "소리는 [하느리]지만 '하늘이'라고 써요.",
+    "standard": "[2국04-02]",
+    "semester": 1,
+    "unit": "소리와 표기가 다른 낱말"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'이 가방은 [갑씨] 비싸요.'의 [갑씨]를 바르게 쓴 것은 무엇일까요?",
+    "choices": [
+      "값이",
+      "갑시",
+      "갑씨",
+      "값시"
+    ],
+    "answer": 0,
+    "explanation": "소리는 [갑씨]지만 '값이'라고 써요.",
+    "standard": "[2국04-02]",
+    "semester": 1,
+    "unit": "소리와 표기가 다른 낱말"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'꽃'은 소리 나는 대로 '꼿'이라고 써요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "소리는 [꼳]이지만 '꽃'이라고 써요.",
+    "standard": "[2국04-02]",
+    "semester": 1,
+    "unit": "소리와 표기가 다른 낱말"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "[꼬츨]은 어떤 낱말을 소리 나는 대로 쓴 것일까요?",
+    "choices": [
+      "꼿을",
+      "꽃이",
+      "꽃을",
+      "꼬를"
+    ],
+    "answer": 2,
+    "explanation": "'꽃을'은 [꼬츨]로 소리 나요.",
+    "standard": "[2국04-02]",
+    "semester": 1,
+    "unit": "소리와 표기가 다른 낱말"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'고양이가 의자 위에서 잠을 자요'에서 '어디에서'에 해당하는 말은 무엇일까요?",
+    "choices": [
+      "의자 위에서",
+      "고양이가",
+      "잠을",
+      "자요"
+    ],
+    "answer": 0,
+    "explanation": "고양이가 잠을 자는 곳은 '의자 위에서'예요.",
+    "standard": "[2국04-03]",
+    "semester": 1,
+    "unit": "문장 만들기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'예쁜', '꽃이', '피었어요'를 알맞은 순서로 이어 쓴 문장은 무엇일까요?",
+    "choices": [
+      "꽃이 예쁜 피었어요.",
+      "예쁜 꽃이 피었어요.",
+      "피었어요 예쁜 꽃이.",
+      "예쁜 피었어요 꽃이."
+    ],
+    "answer": 1,
+    "explanation": "꾸미는 말 '예쁜'은 꾸밈을 받는 '꽃이' 앞에 써요.",
+    "standard": "[2국04-03]",
+    "semester": 1,
+    "unit": "문장 만들기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'나는 공원에서'는 뜻이 완전한 문장이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'어찌하다'에 해당하는 말이 없어서 뜻이 완전하지 않아요.",
+    "standard": "[2국04-03]",
+    "semester": 1,
+    "unit": "문장 만들기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'나는 어제 놀이공원에 갔어요'에서 '언제'와 '어디에'에 해당하는 말을 차례로 쓴 것은 무엇일까요?",
+    "choices": [
+      "나는, 갔어요",
+      "놀이공원에, 어제",
+      "어제, 놀이공원에",
+      "어제, 갔어요"
+    ],
+    "answer": 2,
+    "explanation": "갔던 때는 '어제', 간 곳은 '놀이공원에'예요.",
+    "standard": "[2국04-03]",
+    "semester": 1,
+    "unit": "문장 만들기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "겨울에는 눈이 와요. 아이들은 눈사람을 만들어요. 아이들이 만드는 것은 무엇일까요?",
+    "choices": [
+      "눈싸움",
+      "얼음",
+      "썰매",
+      "눈사람"
+    ],
+    "answer": 3,
+    "explanation": "글에 아이들이 눈사람을 만든다고 했어요.",
+    "standard": "[2국02-03]",
+    "semester": 1,
+    "unit": "글의 중심 내용"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사과, 귤, 딸기에는 비타민이 많아요. 비타민은 몸을 튼튼하게 해 줘요. 이 글의 중심 내용은 무엇일까요?",
+    "choices": [
+      "과일은 몸에 좋아요",
+      "사과는 빨개요",
+      "딸기는 비싸요",
+      "귤은 겨울에 먹어요"
+    ],
+    "answer": 0,
+    "explanation": "두 문장 모두 과일이 몸에 좋다는 내용이에요.",
+    "standard": "[2국02-03]",
+    "semester": 1,
+    "unit": "글의 중심 내용"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "민수는 매일 아침 공원을 달려요. 비가 와도 우산을 쓰고 달려요. 이 글의 중심 내용은 무엇일까요?",
+    "choices": [
+      "민수는 비를 좋아해요",
+      "민수는 매일 달리기를 해요",
+      "민수는 우산을 샀어요",
+      "민수는 공원에서 놀아요"
+    ],
+    "answer": 1,
+    "explanation": "비가 와도 달린다고 했으니 매일 달리기를 한다는 내용이에요.",
+    "standard": "[2국02-03]",
+    "semester": 1,
+    "unit": "글의 중심 내용"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구가 내 생일에 편지를 써 주었어요. 내 마음은 어떨까요?",
+    "choices": [
+      "화가 나고 속상해요",
+      "심심하고 지루해요",
+      "기쁘고 고마워요",
+      "무섭고 떨려요"
+    ],
+    "answer": 2,
+    "explanation": "편지를 받으면 기쁘고 고마워요.",
+    "standard": "[2국02-04]",
+    "semester": 1,
+    "unit": "인물의 마음과 생각"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "동생이 넘어져서 울고 있어요. 나는 어떻게 하면 좋을까요?",
+    "choices": [
+      "못 본 척 지나가요",
+      "그냥 다른 곳으로 가요",
+      "같이 따라 울어요",
+      "어디 아프냐고 물어봐요"
+    ],
+    "answer": 3,
+    "explanation": "다친 동생을 걱정하며 도와주어요.",
+    "standard": "[2국02-04]",
+    "semester": 1,
+    "unit": "인물의 마음과 생각"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "하준이는 달리기에서 넘어져 꼴찌를 했어요. 친구들이 박수를 쳐 주었어요. 하준이의 마음은 어떻게 바뀌었을까요?",
+    "choices": [
+      "속상했다가 힘이 나요",
+      "계속 화가 나요",
+      "기뻤다가 슬퍼져요",
+      "무섭다가 졸려요"
+    ],
+    "answer": 0,
+    "explanation": "꼴찌를 해서 속상했지만 박수를 받아 힘이 났어요.",
+    "standard": "[2국02-04]",
+    "semester": 1,
+    "unit": "인물의 마음과 생각"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "짝을 소개하는 글에 넣기 알맞은 것은 무엇일까요?",
+    "choices": [
+      "어제 먹은 저녁",
+      "이름과 좋아하는 것",
+      "옆집 강아지 이름",
+      "내가 본 영화 제목"
+    ],
+    "answer": 1,
+    "explanation": "소개하는 글에는 소개할 대상의 이름, 좋아하는 것 같은 내용을 써요.",
+    "standard": "[2국03-03]",
+    "semester": 1,
+    "unit": "겪은 일과 소개하는 글"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'어제 나는 동생과 시장에서 사과를 샀어요'에서 '무엇을'에 해당하는 말은 무엇일까요?",
+    "choices": [
+      "동생과",
+      "시장에서",
+      "사과를",
+      "어제"
+    ],
+    "answer": 2,
+    "explanation": "산 것은 '사과를'이에요.",
+    "standard": "[2국04-03]",
+    "semester": 1,
+    "unit": "겪은 일과 소개하는 글"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'오늘 점심에 돈가스를 먹었다. 맛있어서 두 번 먹었다.'에서 느낌이 드러난 말은 무엇일까요?",
+    "choices": [
+      "점심에",
+      "돈가스를",
+      "먹었다",
+      "맛있어서"
+    ],
+    "answer": 3,
+    "explanation": "'맛있어서'에 먹은 뒤의 느낌이 나타나 있어요.",
+    "standard": "[2국03-04]",
+    "semester": 1,
+    "unit": "겪은 일과 소개하는 글"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구와 이야기할 때 말차례를 지키는 모습은 무엇일까요?",
+    "choices": [
+      "친구가 말을 끝내면 말해요",
+      "친구 말 중간에 끼어들어요",
+      "큰 소리로 계속 말해요",
+      "대답하지 않고 딴짓해요"
+    ],
+    "answer": 0,
+    "explanation": "말차례를 지키려면 친구가 말을 마칠 때까지 기다려요.",
+    "standard": "[2국01-03]",
+    "semester": 1,
+    "unit": "듣고 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "발표할 때는 바닥만 보며 작은 소리로 말해도 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "발표할 때는 앞을 보고 알맞은 크기로 말해야 해요.",
+    "standard": "[2국01-04]",
+    "semester": 1,
+    "unit": "듣고 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구가 '큰 소리로 말해 줘.'라고 했어요. 알맞은 행동은 무엇일까요?",
+    "choices": [
+      "화를 내요",
+      "더 크게 다시 말해요",
+      "계속 작게 말해요",
+      "말을 멈추고 가 버려요"
+    ],
+    "answer": 1,
+    "explanation": "잘 들리지 않는 친구를 위해 더 크게 말해 줘요.",
+    "standard": "[2국01-03]",
+    "semester": 1,
+    "unit": "듣고 말하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "병아리가 우는 소리를 흉내 낸 말은 무엇일까요?",
+    "choices": [
+      "꿀꿀",
+      "음매",
+      "삐약삐약",
+      "멍멍"
+    ],
+    "answer": 2,
+    "explanation": "병아리는 '삐약삐약' 하고 울어요.",
+    "standard": "[2국05-01]",
+    "semester": 2,
+    "unit": "흉내 내는 말"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'아기가 □□ 걸어요'에서 □□에 알맞은 말은 무엇일까요?",
+    "choices": [
+      "엉금엉금",
+      "깡충깡충",
+      "펄럭펄럭",
+      "아장아장"
+    ],
+    "answer": 3,
+    "explanation": "아기가 걷는 모습은 '아장아장'이에요.",
+    "standard": "[2국05-01]",
+    "semester": 2,
+    "unit": "흉내 내는 말"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "소리가 아니라 모양을 흉내 낸 말은 무엇일까요?",
+    "choices": [
+      "반짝반짝",
+      "멍멍",
+      "야옹",
+      "꼬끼오"
+    ],
+    "answer": 0,
+    "explanation": "'반짝반짝'은 모양을 흉내 낸 말이고 나머지는 소리를 흉내 낸 말이에요.",
+    "standard": "[2국05-01]",
+    "semester": 2,
+    "unit": "흉내 내는 말"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구에게 사과할 때 알맞은 말은 무엇일까요?",
+    "choices": [
+      "내 잘못 아니거든.",
+      "미안해. 조심할게.",
+      "그게 뭐 어때서!",
+      "몰라, 상관없어."
+    ],
+    "answer": 1,
+    "explanation": "잘못했을 때는 미안한 마음을 고운 말로 전해요.",
+    "standard": "[2국01-02]",
+    "semester": 2,
+    "unit": "바르고 고운 말"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "할아버지께서 '밥 먹었니?'라고 물으셨어요. 알맞게 대답한 것은 무엇일까요?",
+    "choices": [
+      "응, 먹었어.",
+      "어, 먹었다.",
+      "네, 먹었어요.",
+      "됐거든."
+    ],
+    "answer": 2,
+    "explanation": "어른께는 '~어요'를 붙여 높임말로 말해요.",
+    "standard": "[2국01-02]",
+    "semester": 2,
+    "unit": "바르고 고운 말"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "할머니께 '밥 먹어.'라고 말하는 것은 알맞아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "할머니께는 '진지 드세요.'처럼 높임말로 말해야 해요.",
+    "standard": "[2국01-02]",
+    "semester": 2,
+    "unit": "바르고 고운 말"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "흥부는 다친 제비의 다리를 고쳐 주었어요. 이때 흥부의 마음으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "귀찮아요",
+      "얄미워요",
+      "심심해요",
+      "불쌍해요"
+    ],
+    "answer": 3,
+    "explanation": "다친 제비를 도와준 것은 불쌍하게 여겨서예요.",
+    "standard": "[2국05-02]",
+    "semester": 2,
+    "unit": "이야기 읽고 생각 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "토끼가 호랑이에게 잡혔지만 꾀를 내어 도망쳤어요. 이 이야기에서 알게 된 점은 무엇일까요?",
+    "choices": [
+      "어려울 때 꾀를 내면 도움이 돼요",
+      "호랑이는 언제나 이기는 동물이에요",
+      "토끼는 힘이 아주 센 동물이에요",
+      "도망치는 것은 나쁜 일이에요"
+    ],
+    "answer": 0,
+    "explanation": "토끼는 꾀로 위기를 벗어났어요.",
+    "standard": "[2국05-02]",
+    "semester": 2,
+    "unit": "이야기 읽고 생각 말하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "개미는 열심히 일했고 베짱이는 놀기만 했어요. 겨울이 되자 베짱이는 먹을 것이 없었어요. 베짱이는 앞으로 어떻게 해야 할까요?",
+    "choices": [
+      "계속 놀기만 해요",
+      "미리 준비하고 열심히 일해요",
+      "개미의 음식을 몰래 가져가요",
+      "겨울잠을 자요"
+    ],
+    "answer": 1,
+    "explanation": "미리 준비해 두었다면 먹을 것이 있었을 거예요.",
+    "standard": "[2국05-02]",
+    "semester": 2,
+    "unit": "이야기 읽고 생각 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'달 달 무슨 달 쟁반같이 둥근 달'에서 노래하는 달의 모양은 무엇일까요?",
+    "choices": [
+      "초승달",
+      "그믐달",
+      "둥근 달",
+      "반달"
+    ],
+    "answer": 2,
+    "explanation": "쟁반처럼 둥글다고 했어요.",
+    "standard": "[2국05-04]",
+    "semester": 2,
+    "unit": "시와 노래"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "노래를 부를 때 가사의 뜻을 생각하며 부르면 더 즐거워요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "가사를 생각하면 장면이 떠올라 더 재미있어요.",
+    "standard": "[2국05-04]",
+    "semester": 2,
+    "unit": "시와 노래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'바람이 나뭇잎과 손뼉을 쳐요'에서 바람은 무엇을 하고 있을까요?",
+    "choices": [
+      "낮잠을 자요",
+      "노래를 불러요",
+      "공부를 해요",
+      "나뭇잎을 흔들어요"
+    ],
+    "answer": 3,
+    "explanation": "바람이 불어 나뭇잎이 흔들리는 모습이에요.",
+    "standard": "[2국05-01]",
+    "semester": 2,
+    "unit": "시와 노래"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'빗방울이 톡톡 창문을 두드려요'에서 알 수 있는 날씨는 무엇일까요?",
+    "choices": [
+      "비 오는 날",
+      "눈 오는 날",
+      "바람 부는 날",
+      "더운 여름날"
+    ],
+    "answer": 0,
+    "explanation": "빗방울이 창문을 두드리니 비 오는 날이에요.",
+    "standard": "[2국05-01]",
+    "semester": 2,
+    "unit": "시와 노래"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "그림일기에는 겪은 일에 대한 내 생각이나 느낌도 쓸 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "겪은 일과 함께 생각이나 느낌을 쓸 수 있어요.",
+    "standard": "[2국06-02]",
+    "semester": 2,
+    "unit": "글과 그림으로 표현하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "소풍에서 도시락을 먹은 일을 그림일기로 나타내요. 그림으로 그리기 알맞은 장면은 무엇일까요?",
+    "choices": [
+      "어제 본 만화 영화 장면",
+      "친구와 도시락을 먹는 모습",
+      "내일 학원에 가는 모습",
+      "지난겨울에 만든 눈사람"
+    ],
+    "answer": 1,
+    "explanation": "그림일기의 그림은 글로 쓴 일과 관련 있게 그려요.",
+    "standard": "[2국06-02]",
+    "semester": 2,
+    "unit": "글과 그림으로 표현하기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "비 오는 날 우산을 쓰고 걷는 모습을 그린 그림일기예요. 그림과 어울리지 않는 글은 무엇일까요?",
+    "choices": [
+      "오늘 우산을 쓰고 학교에 갔다.",
+      "비가 와서 길이 젖었다.",
+      "오늘은 햇볕이 쨍쨍했다.",
+      "우산이 노란색이었다."
+    ],
+    "answer": 2,
+    "explanation": "비 오는 날 그림에 햇볕이 쨍쨍했다는 글은 어울리지 않아요.",
+    "standard": "[2국06-02]",
+    "semester": 2,
+    "unit": "글과 그림으로 표현하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'밝다'와 뜻이 반대인 말은 무엇일까요?",
+    "choices": [
+      "맑다",
+      "깨끗하다",
+      "넓다",
+      "어둡다"
+    ],
+    "answer": 3,
+    "explanation": "밝다의 반대는 어둡다예요.",
+    "standard": "[2국02-01]",
+    "semester": 2,
+    "unit": "낱말의 뜻 알기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'무섭다'와 뜻이 비슷한 낱말은 무엇일까요?",
+    "choices": [
+      "두렵다",
+      "기쁘다",
+      "심심하다",
+      "고맙다"
+    ],
+    "answer": 0,
+    "explanation": "무섭다와 두렵다는 뜻이 비슷해요.",
+    "standard": "[2국02-01]",
+    "semester": 2,
+    "unit": "낱말의 뜻 알기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'가볍다'와 '무겁다'는 뜻이 비슷한 낱말이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "가볍다와 무겁다는 뜻이 반대예요.",
+    "standard": "[2국02-01]",
+    "semester": 2,
+    "unit": "낱말의 뜻 알기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'낮다'와 뜻이 반대인 말과 '느리다'와 뜻이 반대인 말을 차례로 쓴 것은 무엇일까요?",
+    "choices": [
+      "깊다, 빠르다",
+      "높다, 빠르다",
+      "높다, 늦다",
+      "넓다, 가깝다"
+    ],
+    "answer": 1,
+    "explanation": "낮다의 반대는 높다, 느리다의 반대는 빠르다예요.",
+    "standard": "[2국02-01]",
+    "semester": 2,
+    "unit": "낱말의 뜻 알기"
   }
 ]
