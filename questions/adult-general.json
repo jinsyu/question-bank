@@ -2188,5 +2188,735 @@
     "explanation": "선행 조직자와 유의미 학습은 오수벨이 제시했어요.",
     "semester": 1,
     "unit": "교육 상식"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "6·25 전쟁의 정전 협정은 1953년에 맺어졌다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "1953년 7월 27일 판문점에서 정전 협정이 맺어졌어요.",
+    "semester": 1,
+    "unit": "한국사"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "고조선에 있었던 것으로 전해지는 법은 무엇인가요?",
+    "choices": [
+      "8조법",
+      "경국대전",
+      "대명률",
+      "과전법"
+    ],
+    "answer": 0,
+    "explanation": "고조선의 8조법은 3개 조항만 전해져요. 경국대전은 조선의 법전이에요.",
+    "semester": 1,
+    "unit": "한국사"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세조 때 편찬을 시작한 경국대전을 완성해 반포한 왕은?",
+    "choices": [
+      "태종",
+      "성종",
+      "세종",
+      "영조"
+    ],
+    "answer": 1,
+    "explanation": "세조가 시작한 경국대전은 성종 때 완성·반포되었어요.",
+    "semester": 1,
+    "unit": "한국사"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4·19 혁명의 직접 계기가 된 사건은 무엇인가요?",
+    "choices": [
+      "5·10 총선거",
+      "사사오입 개헌",
+      "3·15 부정 선거",
+      "6·29 선언"
+    ],
+    "answer": 2,
+    "explanation": "1960년 3·15 부정 선거에 항의하는 시위가 4·19 혁명으로 이어졌어요.",
+    "semester": 1,
+    "unit": "한국사"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "다음 중 가장 늦게 일어난 사건은 무엇인가요?",
+    "choices": [
+      "귀주 대첩",
+      "무신 정변",
+      "살수 대첩",
+      "위화도 회군"
+    ],
+    "answer": 3,
+    "explanation": "살수 대첩(612)→귀주 대첩(1019)→무신 정변(1170)→위화도 회군(1388) 순이에요.",
+    "semester": 1,
+    "unit": "한국사"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "함무라비 법전이 만들어진 고대 문명은 무엇인가요?",
+    "choices": [
+      "메소포타미아 문명",
+      "이집트 문명",
+      "인더스 문명",
+      "황허 문명"
+    ],
+    "answer": 0,
+    "explanation": "바빌로니아의 함무라비왕이 메소포타미아에서 만든 법전이에요.",
+    "semester": 1,
+    "unit": "세계사"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1962년 미국과 소련이 핵전쟁 직전까지 간 사건은?",
+    "choices": [
+      "베를린 봉쇄",
+      "쿠바 미사일 위기",
+      "수에즈 위기",
+      "6일 전쟁"
+    ],
+    "answer": 1,
+    "explanation": "소련이 쿠바에 미사일 기지를 지으려 해 미·소가 정면으로 맞섰어요.",
+    "semester": 1,
+    "unit": "세계사"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "아편 전쟁 뒤 맺은 난징 조약으로 영국에 넘어간 곳은?",
+    "choices": [
+      "마카오",
+      "상하이",
+      "홍콩섬",
+      "타이완"
+    ],
+    "answer": 2,
+    "explanation": "1842년 난징 조약으로 홍콩섬이 영국에 넘어갔어요. 마카오는 포르투갈이에요.",
+    "semester": 1,
+    "unit": "세계사"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "십자군 전쟁은 이슬람 세력이 유럽을 정복하려고 일으킨 전쟁이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "서유럽 크리스트교 세력이 성지 예루살렘 회복을 내세워 일으켰어요.",
+    "semester": 1,
+    "unit": "세계사"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "아소카왕이 불교를 널리 퍼뜨린 인도의 왕조는?",
+    "choices": [
+      "굽타 왕조",
+      "무굴 제국",
+      "쿠샨 왕조",
+      "마우리아 왕조"
+    ],
+    "answer": 3,
+    "explanation": "아소카왕은 마우리아 왕조의 왕이에요. 무굴 제국은 이슬람 왕조예요.",
+    "semester": 1,
+    "unit": "세계사"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "번개는 같은 곳에 두 번 떨어지지 않는다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "높은 건물처럼 뾰족한 곳에는 번개가 여러 번 떨어져요.",
+    "semester": 1,
+    "unit": "과학"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "혈액에서 산소를 운반하는 세포는 무엇인가요?",
+    "choices": [
+      "적혈구",
+      "백혈구",
+      "혈소판",
+      "신경 세포"
+    ],
+    "answer": 0,
+    "explanation": "적혈구의 헤모글로빈이 산소와 결합해 운반해요.",
+    "semester": 1,
+    "unit": "과학"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다이아몬드와 흑연을 이루는 원소는 무엇인가요?",
+    "choices": [
+      "규소",
+      "탄소",
+      "질소",
+      "황"
+    ],
+    "answer": 1,
+    "explanation": "둘 다 탄소로만 이루어졌고 원자 배열이 달라 성질이 달라요.",
+    "semester": 1,
+    "unit": "과학"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "우리나라에서 여름이 겨울보다 더운 주된 까닭은?",
+    "choices": [
+      "태양과 더 가까워서",
+      "자전이 느려져서",
+      "태양 고도가 높아서",
+      "대기가 두꺼워져서"
+    ],
+    "answer": 2,
+    "explanation": "자전축이 기울어 여름엔 태양 고도가 높고 낮이 길어요. 거리는 오히려 겨울에 가까워요.",
+    "semester": 1,
+    "unit": "과학"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "공을 똑바로 위로 던졌을 때, 가장 높은 지점에서 공의 가속도는? (공기 저항 무시)",
+    "choices": [
+      "0",
+      "위로 약 9.8 m/s²",
+      "아래로 약 4.9 m/s²",
+      "아래로 약 9.8 m/s²"
+    ],
+    "answer": 3,
+    "explanation": "속도가 0이어도 중력은 계속 작용해 가속도는 아래로 g예요.",
+    "semester": 1,
+    "unit": "과학"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세계에서 면적이 가장 넓은 나라는 어디인가요?",
+    "choices": [
+      "러시아",
+      "캐나다",
+      "중국",
+      "미국"
+    ],
+    "answer": 0,
+    "explanation": "러시아가 가장 넓고 캐나다가 그다음이에요.",
+    "semester": 1,
+    "unit": "지리"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "남극은 북극보다 대체로 따뜻하다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "남극은 높은 대륙 위 두꺼운 빙상이라 바다 위 북극보다 훨씬 추워요.",
+    "semester": 1,
+    "unit": "지리"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "우리나라에서 석회 동굴과 돌리네가 발달한 지역의 암석은?",
+    "choices": [
+      "화강암",
+      "석회암",
+      "현무암",
+      "편마암"
+    ],
+    "answer": 1,
+    "explanation": "석회암이 빗물에 녹아 카르스트 지형이 생겨요.",
+    "semester": 1,
+    "unit": "지리"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "날짜 변경선을 동쪽에서 서쪽으로 넘으면 날짜는?",
+    "choices": [
+      "하루 뺀다",
+      "한 시간 늦춘다",
+      "하루 더한다",
+      "바꾸지 않는다"
+    ],
+    "answer": 2,
+    "explanation": "미국에서 일본 쪽으로 가듯 서쪽으로 넘으면 하루를 더해요.",
+    "semester": 1,
+    "unit": "지리"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "서울이 낮 12시일 때 겨울철 영국 런던은 몇 시인가요?",
+    "choices": [
+      "오후 9시",
+      "오후 3시",
+      "오전 9시",
+      "오전 3시"
+    ],
+    "answer": 3,
+    "explanation": "서울은 그리니치보다 9시간 빨라요. 겨울엔 런던 서머타임이 없어 오전 3시예요.",
+    "semester": 1,
+    "unit": "지리"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "예금자 보호 제도는 원금과 이자를 합쳐 정해진 한도 안에서 보호한다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "예금자 보호는 원금과 소정의 이자를 합해 1인당 한도까지만 보호해요.",
+    "semester": 1,
+    "unit": "경제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한쪽 가격이 오르면 다른 쪽 수요가 늘어나는 재화의 관계는?",
+    "choices": [
+      "대체재",
+      "보완재",
+      "열등재",
+      "공공재"
+    ],
+    "answer": 0,
+    "explanation": "버터와 마가린처럼 서로 대신 쓸 수 있는 재화예요. 보완재는 함께 쓰는 재화예요.",
+    "semester": 1,
+    "unit": "경제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "중앙은행이 기준 금리를 올리면 일반적으로 나타나는 일은?",
+    "choices": [
+      "통화량이 늘어난다",
+      "대출 이자가 오른다",
+      "예금 이자가 내린다",
+      "소비가 늘어난다"
+    ],
+    "answer": 1,
+    "explanation": "금리가 오르면 대출 이자가 오르고 시중 돈이 줄어 소비가 위축돼요.",
+    "semester": 1,
+    "unit": "경제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "예금 금리가 연 2%, 물가 상승률이 연 3%일 때 실질 금리는 약 몇 %인가요?",
+    "choices": [
+      "1%",
+      "5%",
+      "-1%",
+      "6%"
+    ],
+    "answer": 2,
+    "explanation": "실질 금리는 명목 금리에서 물가 상승률을 뺀 값이라 2-3=-1%예요.",
+    "semester": 1,
+    "unit": "경제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "과수원 옆 양봉업자가 대가 없이 이익을 보는 것처럼, 남에게 의도치 않은 이익을 주는 현상은?",
+    "choices": [
+      "외부 불경제",
+      "규모의 경제",
+      "범위의 경제",
+      "외부 경제"
+    ],
+    "answer": 3,
+    "explanation": "긍정적 외부 효과를 외부 경제라고 해요. 손해를 주면 외부 불경제예요.",
+    "semester": 1,
+    "unit": "경제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "형사 재판에서 공소를 제기하는 사람은 누구인가요?",
+    "choices": [
+      "검사",
+      "판사",
+      "변호사",
+      "피해자"
+    ],
+    "answer": 0,
+    "explanation": "형사 재판은 검사가 공소를 제기해 시작돼요.",
+    "semester": 1,
+    "unit": "사회·법"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "우리나라 헌법은 국회 의결만으로 개정할 수 있다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "국회 재적 의원 3분의 2 이상 찬성 뒤 국민 투표를 거쳐야 해요.",
+    "semester": 1,
+    "unit": "사회·법"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "민사 재판에서 소송을 제기한 사람을 무엇이라 하나요?",
+    "choices": [
+      "피고",
+      "원고",
+      "검사",
+      "피고인"
+    ],
+    "answer": 1,
+    "explanation": "민사 소송은 원고와 피고가 다퉈요. 피고인은 형사 재판 용어예요.",
+    "semester": 1,
+    "unit": "사회·법"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "헌법 재판소가 맡는 일이 아닌 것은?",
+    "choices": [
+      "탄핵 심판",
+      "정당 해산 심판",
+      "선거 소송",
+      "권한 쟁의 심판"
+    ],
+    "answer": 2,
+    "explanation": "선거 소송은 법원(대법원·고등 법원)이 맡아요.",
+    "semester": 1,
+    "unit": "사회·법"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "미성년자가 법정 대리인 동의 없이 한 계약은 원칙적으로 어떻게 되나요?",
+    "choices": [
+      "처음부터 무효다",
+      "바로 확정된다",
+      "성립하지 않는다",
+      "취소할 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "민법상 동의 없는 미성년자의 법률 행위는 취소할 수 있어요. 무효와 다르게 취소 전까진 유효해요.",
+    "semester": 1,
+    "unit": "사회·법"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "발레 음악 '백조의 호수'를 작곡한 사람은?",
+    "choices": [
+      "차이콥스키",
+      "쇼팽",
+      "드뷔시",
+      "바그너"
+    ],
+    "answer": 0,
+    "explanation": "차이콥스키는 '호두까기 인형', '잠자는 숲속의 미녀'도 작곡했어요.",
+    "semester": 1,
+    "unit": "문화·예술"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'절규'를 그린 화가는 고흐이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'절규'는 노르웨이 화가 뭉크의 작품이에요.",
+    "semester": 1,
+    "unit": "문화·예술"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "판소리에서 북을 치며 장단을 맞추는 사람은?",
+    "choices": [
+      "소리꾼",
+      "고수",
+      "상쇠",
+      "무동"
+    ],
+    "answer": 1,
+    "explanation": "'일고수 이명창'이란 말이 있을 만큼 고수가 중요해요. 상쇠는 풍물패의 꽹과리 연주자예요.",
+    "semester": 1,
+    "unit": "문화·예술"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가우디가 설계한 사그라다 파밀리아 성당이 있는 도시는?",
+    "choices": [
+      "마드리드",
+      "리스본",
+      "바르셀로나",
+      "밀라노"
+    ],
+    "answer": 2,
+    "explanation": "스페인 바르셀로나에 있으며 지금도 짓고 있어요.",
+    "semester": 1,
+    "unit": "문화·예술"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "피카소의 '게르니카'가 다룬 폭격은 어느 전쟁 중의 일인가요?",
+    "choices": [
+      "제1차 세계 대전",
+      "제2차 세계 대전",
+      "한국 전쟁",
+      "스페인 내전"
+    ],
+    "answer": 3,
+    "explanation": "1937년 스페인 내전 때 게르니카 폭격을 그렸어요. 2차 대전 직전이라 헷갈려요.",
+    "semester": 1,
+    "unit": "문화·예술"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'노인과 바다'를 쓴 작가는 누구인가요?",
+    "choices": [
+      "헤밍웨이",
+      "포크너",
+      "스타인벡",
+      "피츠제럴드"
+    ],
+    "answer": 0,
+    "explanation": "헤밍웨이는 이 작품으로 퓰리처상을 받았어요.",
+    "semester": 1,
+    "unit": "문학"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "대하소설 '토지'를 쓴 작가는 누구인가요?",
+    "choices": [
+      "박완서",
+      "박경리",
+      "최명희",
+      "조정래"
+    ],
+    "answer": 1,
+    "explanation": "박경리가 25년에 걸쳐 완성했어요. 최명희는 '혼불', 조정래는 '태백산맥'이에요.",
+    "semester": 1,
+    "unit": "문학"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'메밀꽃 필 무렵'을 쓴 작가는 김유정이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'메밀꽃 필 무렵'은 이효석의 작품이에요. 김유정은 '봄봄', '동백꽃'을 썼어요.",
+    "semester": 1,
+    "unit": "문학"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'내 마음은 호수요'처럼 '같이', '처럼' 없이 빗대는 표현법은?",
+    "choices": [
+      "직유법",
+      "의인법",
+      "은유법",
+      "대유법"
+    ],
+    "answer": 2,
+    "explanation": "'A는 B이다' 꼴은 은유법, '같이·처럼'을 쓰면 직유법이에요.",
+    "semester": 1,
+    "unit": "문학"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "'죄와 벌'의 작가가 쓴 다른 작품은 무엇인가요?",
+    "choices": [
+      "전쟁과 평화",
+      "안나 카레니나",
+      "아버지와 아들",
+      "카라마조프가의 형제들"
+    ],
+    "answer": 3,
+    "explanation": "'죄와 벌'은 도스토옙스키 작품이에요. 톨스토이, 투르게네프 작품과 헷갈리기 쉬워요.",
+    "semester": 1,
+    "unit": "문학"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "야구에서 타자가 삼진 아웃되려면 스트라이크가 몇 개여야 하나요?",
+    "choices": [
+      "3개",
+      "2개",
+      "4개",
+      "5개"
+    ],
+    "answer": 0,
+    "explanation": "스트라이크 3개면 삼진, 볼 4개면 볼넷이에요.",
+    "semester": 1,
+    "unit": "스포츠"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "테니스에서 듀스 뒤 한 점을 먼저 얻은 상태를 부르는 말은?",
+    "choices": [
+      "러브",
+      "어드밴티지",
+      "타이브레이크",
+      "세트 포인트"
+    ],
+    "answer": 1,
+    "explanation": "어드밴티지에서 한 점을 더 따면 그 게임을 이겨요.",
+    "semester": 1,
+    "unit": "스포츠"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "볼링에서 스트라이크를 세 번 연속하는 것을 무엇이라 하나요?",
+    "choices": [
+      "더블",
+      "스페어",
+      "터키",
+      "거터"
+    ],
+    "answer": 2,
+    "explanation": "두 번 연속은 더블, 세 번 연속은 터키예요.",
+    "semester": 1,
+    "unit": "스포츠"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "올림픽 금메달은 순금으로 만든다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "1912년 대회 뒤로 금메달은 은에 금을 입혀 만들어요.",
+    "semester": 1,
+    "unit": "스포츠"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "골프에서 기준 타수 5인 홀을 2타 만에 끝내는 것은?",
+    "choices": [
+      "이글",
+      "버디",
+      "홀인원",
+      "알바트로스"
+    ],
+    "answer": 3,
+    "explanation": "기준보다 3타 적으면 알바트로스, 2타 적으면 이글이에요.",
+    "semester": 1,
+    "unit": "스포츠"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "파블로프의 고전적 조건 형성 실험에는 개가 쓰였다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "종소리와 먹이를 짝지어 개가 침을 흘리게 한 실험이에요.",
+    "semester": 1,
+    "unit": "교육 상식"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "교사의 기대대로 학생의 성취가 높아지는 현상은?",
+    "choices": [
+      "피그말리온 효과",
+      "호손 효과",
+      "플라시보 효과",
+      "낙인 효과"
+    ],
+    "answer": 0,
+    "explanation": "로젠탈의 연구로 알려졌어요. 낙인 효과는 부정적 기대의 영향이에요.",
+    "semester": 1,
+    "unit": "교육 상식"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "에빙하우스가 기억 실험으로 제시한 개념은?",
+    "choices": [
+      "학습 곡선",
+      "망각 곡선",
+      "정규 분포",
+      "성장 곡선"
+    ],
+    "answer": 1,
+    "explanation": "배운 직후 빨리 잊고 점차 완만해지는 모양이에요.",
+    "semester": 1,
+    "unit": "교육 상식"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "형성 평가의 주된 목적은 무엇인가요?",
+    "choices": [
+      "학습 전 출발점 확인",
+      "학습 후 성취 판정",
+      "학습 중 이해 확인·보완",
+      "학생 간 서열 결정"
+    ],
+    "answer": 2,
+    "explanation": "출발점 확인은 진단 평가, 학습 후 판정은 총괄 평가예요.",
+    "semester": 1,
+    "unit": "교육 상식"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "반두라의 사회 학습 이론에서 가장 핵심이 되는 개념은?",
+    "choices": [
+      "조작적 조건 형성",
+      "동화와 조절",
+      "비계 설정",
+      "관찰 학습"
+    ],
+    "answer": 3,
+    "explanation": "남의 행동과 결과를 보고 배우는 관찰 학습(모델링)이에요. 동화·조절은 피아제예요.",
+    "semester": 1,
+    "unit": "교육 상식"
   }
 ]
