@@ -32,7 +32,7 @@
 
 ## 성인(교사) 문항
 
-`adult-{과목}.json` (과목: `korean` 우리말, `english` 영어, `general` 일반상식). 망각의 탑의 '성인' 학년이 읽어요.
+`adult-{과목}.json` (과목: `korean` 우리말, `math` 두뇌 게임 수학, `english` 영어, `general` 일반상식). 망각의 탑의 '성인' 학년이 읽어요.
 형식은 위와 같고 `semester`는 항상 1이에요. rpg는 `g3~g6-` 파일만 읽어서 성인 문항은 들어가지 않아요.
 
 ## math-king에서 가져온 수학 문제

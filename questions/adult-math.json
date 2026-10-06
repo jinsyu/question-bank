@@ -1,0 +1,2228 @@
+[
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "25 × 16은 얼마인가요?",
+    "choices": [
+      "400",
+      "375",
+      "450",
+      "350"
+    ],
+    "answer": 0,
+    "explanation": "25 × 4 × 4 = 100 × 4 = 400이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "99 × 7은 얼마인가요?",
+    "choices": [
+      "683",
+      "693",
+      "703",
+      "697"
+    ],
+    "answer": 1,
+    "explanation": "100 × 7 − 7 = 693이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "48 + 37 + 52는 얼마인가요?",
+    "choices": [
+      "127",
+      "147",
+      "137",
+      "135"
+    ],
+    "answer": 2,
+    "explanation": "48 + 52 = 100에 37을 더해 137이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1000 − 387은 얼마인가요?",
+    "choices": [
+      "623",
+      "713",
+      "603",
+      "613"
+    ],
+    "answer": 3,
+    "explanation": "999 − 387 = 612에 1을 더해 613이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "15 × 15는 얼마인가요?",
+    "choices": [
+      "225",
+      "215",
+      "235",
+      "255"
+    ],
+    "answer": 0,
+    "explanation": "1 × 2 = 2 뒤에 25를 붙여 225예요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "125 × 8은 얼마인가요?",
+    "choices": [
+      "900",
+      "1000",
+      "1100",
+      "800"
+    ],
+    "answer": 1,
+    "explanation": "125 × 8 = 1000이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2를 10번 곱하면 얼마인가요?",
+    "choices": [
+      "1000",
+      "2048",
+      "1024",
+      "512"
+    ],
+    "answer": 2,
+    "explanation": "2¹⁰ = 1024예요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "35 × 35는 얼마인가요?",
+    "choices": [
+      "1125",
+      "1235",
+      "1325",
+      "1225"
+    ],
+    "answer": 3,
+    "explanation": "3 × 4 = 12 뒤에 25를 붙여 1225예요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "51 × 49는 얼마인가요?",
+    "choices": [
+      "2499",
+      "2449",
+      "2501",
+      "2599"
+    ],
+    "answer": 0,
+    "explanation": "(50 + 1) × (50 − 1) = 2500 − 1 = 2499예요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "36 × 25는 얼마인가요?",
+    "choices": [
+      "800",
+      "900",
+      "850",
+      "960"
+    ],
+    "answer": 1,
+    "explanation": "36 × 100 ÷ 4 = 900이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1부터 20까지 자연수를 모두 더하면 얼마인가요?",
+    "choices": [
+      "200",
+      "220",
+      "210",
+      "190"
+    ],
+    "answer": 2,
+    "explanation": "(1 + 20) × 20 ÷ 2 = 210이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4.5 × 18은 얼마인가요?",
+    "choices": [
+      "72",
+      "90",
+      "80",
+      "81"
+    ],
+    "answer": 3,
+    "explanation": "4.5를 두 배, 18을 반으로 하면 9 × 9 = 81이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "91은 소수(1과 자기 자신으로만 나누어지는 수)예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "91 = 7 × 13이라 소수가 아니에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "37 × 3 = 111일 때 37 × 27은 얼마인가요?",
+    "choices": [
+      "999",
+      "990",
+      "1011",
+      "989"
+    ],
+    "answer": 0,
+    "explanation": "37 × 27 = 111 × 9 = 999예요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "98 × 102는 얼마인가요?",
+    "choices": [
+      "10004",
+      "9996",
+      "9994",
+      "9986"
+    ],
+    "answer": 1,
+    "explanation": "(100 − 2) × (100 + 2) = 10000 − 4 = 9996이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1 + 3 + 5 + … + 39는 얼마인가요?",
+    "choices": [
+      "380",
+      "420",
+      "400",
+      "390"
+    ],
+    "answer": 2,
+    "explanation": "1부터 39까지 홀수 20개의 합은 20 × 20 = 400이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "999 × 999는 얼마인가요?",
+    "choices": [
+      "999001",
+      "998999",
+      "997001",
+      "998001"
+    ],
+    "answer": 3,
+    "explanation": "999 × 1000 − 999 = 998001이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1234 + 2341 + 3412 + 4123은 얼마인가요?",
+    "choices": [
+      "11110",
+      "11100",
+      "10110",
+      "11010"
+    ],
+    "answer": 0,
+    "explanation": "각 자리 숫자의 합이 모두 10이라 10 × 1111 = 11110이에요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "5 × 5 × 5 × 4 × 4 × 4를 계산하면 끝에 0이 몇 개 이어지나요?",
+    "choices": [
+      "2개",
+      "3개",
+      "4개",
+      "6개"
+    ],
+    "answer": 1,
+    "explanation": "(5 × 4)³ = 20³ = 8000이라 0이 3개예요.",
+    "semester": 1,
+    "unit": "암산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2, 4, 8, 16 다음에 올 수는?",
+    "choices": [
+      "24",
+      "30",
+      "32",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "앞 수에 2를 곱해요: 16 × 2 = 32.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1, 4, 9, 16 다음에 올 수는?",
+    "choices": [
+      "20",
+      "24",
+      "36",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "1², 2², 3², 4² 다음은 5² = 25예요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "3, 7, 11, 15 다음에 올 수는?",
+    "choices": [
+      "19",
+      "18",
+      "20",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "4씩 커져요: 15 + 4 = 19.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1, 1, 2, 3, 5, 8 다음에 올 수는?",
+    "choices": [
+      "11",
+      "13",
+      "12",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "앞의 두 수를 더해요: 5 + 8 = 13.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "100, 91, 82, 73 다음에 올 수는?",
+    "choices": [
+      "63",
+      "65",
+      "64",
+      "54"
+    ],
+    "answer": 2,
+    "explanation": "9씩 작아져요: 73 − 9 = 64.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1, 8, 27, 64 다음에 올 수는?",
+    "choices": [
+      "100",
+      "81",
+      "216",
+      "125"
+    ],
+    "answer": 3,
+    "explanation": "세제곱수예요: 5³ = 125.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "81, 27, 9, 3 다음에 올 수는?",
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "1/3"
+    ],
+    "answer": 0,
+    "explanation": "3으로 나누어요: 3 ÷ 3 = 1.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2, 3, 5, 8, 12, 17 다음에 올 수는?",
+    "choices": [
+      "22",
+      "23",
+      "24",
+      "29"
+    ],
+    "answer": 1,
+    "explanation": "차가 1, 2, 3, 4, 5로 늘어 17 + 6 = 23이에요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2, 3, 5, 7, 11, 13 다음에 올 수는?",
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "19"
+    ],
+    "answer": 2,
+    "explanation": "소수를 차례로 늘어놓았어요. 13 다음 소수는 17이에요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1, 2, 6, 24, 120 다음에 올 수는?",
+    "choices": [
+      "240",
+      "600",
+      "144",
+      "720"
+    ],
+    "answer": 3,
+    "explanation": "×2, ×3, ×4, ×5 다음 ×6이라 120 × 6 = 720이에요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "4, 6, 9, 13.5 다음에 올 수는?",
+    "choices": [
+      "20.25",
+      "18",
+      "20.5",
+      "18.75"
+    ],
+    "answer": 0,
+    "explanation": "1.5배씩 커져요: 13.5 × 1.5 = 20.25.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "1, 2, 4, 8, …처럼 2배씩 커지는 수열의 열째 수는 512예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "열째 수는 1 × 2⁹ = 512예요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "2, 6, 12, 20, 30 다음에 올 수는?",
+    "choices": [
+      "40",
+      "42",
+      "36",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "1×2, 2×3, 3×4, … 다음은 6 × 7 = 42예요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "0, 3, 8, 15, 24 다음에 올 수는?",
+    "choices": [
+      "33",
+      "36",
+      "35",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "제곱수보다 1 작은 수예요: 6² − 1 = 35.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1, 11, 21, 1211, 111221 다음에 올 수는?",
+    "choices": [
+      "1112221",
+      "312221",
+      "211321",
+      "312211"
+    ],
+    "answer": 3,
+    "explanation": "앞 수를 읽어요: 1이 3개, 2가 2개, 1이 1개 → 312211.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "3, 5, 9, 17, 33 다음에 올 수는?",
+    "choices": [
+      "65",
+      "49",
+      "64",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "앞 수에 2를 곱하고 1을 빼요: 33 × 2 − 1 = 65.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1, 4, 2, 8, 3, 12, 4 다음에 올 수는?",
+    "choices": [
+      "5",
+      "16",
+      "20",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "홀수째는 1, 2, 3, 4이고 짝수째는 바로 앞 수의 4배예요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "5, 6, 14, 15, 23, 24 다음에 올 수는?",
+    "choices": [
+      "25",
+      "33",
+      "32",
+      "31"
+    ],
+    "answer": 2,
+    "explanation": "+1, +8이 번갈아 나와요: 24 + 8 = 32.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "첫째 수가 7이고 5씩 커지는 수열의 스무째 수는?",
+    "choices": [
+      "107",
+      "100",
+      "97",
+      "102"
+    ],
+    "answer": 3,
+    "explanation": "7 + 5 × 19 = 102예요.",
+    "semester": 1,
+    "unit": "수 규칙 찾기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1만 원의 20%는 얼마인가요?",
+    "choices": [
+      "2000원",
+      "200원",
+      "20000원",
+      "8000원"
+    ],
+    "answer": 0,
+    "explanation": "10000 × 0.2 = 2000원이에요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.25를 백분율로 나타내면?",
+    "choices": [
+      "2.5%",
+      "25%",
+      "0.25%",
+      "250%"
+    ],
+    "answer": 1,
+    "explanation": "0.25 × 100 = 25%예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "3/4을 백분율로 나타내면?",
+    "choices": [
+      "34%",
+      "70%",
+      "75%",
+      "80%"
+    ],
+    "answer": 2,
+    "explanation": "3 ÷ 4 = 0.75 → 75%예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1/8은 몇 %인가요?",
+    "choices": [
+      "8%",
+      "18%",
+      "0.125%",
+      "12.5%"
+    ],
+    "answer": 3,
+    "explanation": "1 ÷ 8 = 0.125 → 12.5%예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "40개 중 10개는 몇 %인가요?",
+    "choices": [
+      "25%",
+      "40%",
+      "10%",
+      "30%"
+    ],
+    "answer": 0,
+    "explanation": "10 ÷ 40 = 0.25 → 25%예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "8만 원짜리 옷을 25% 할인하면 얼마인가요?",
+    "choices": [
+      "2만 원",
+      "6만 원",
+      "5만 5천 원",
+      "7만 5천 원"
+    ],
+    "answer": 1,
+    "explanation": "80000 × 0.75 = 60000원이에요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가격을 20% 올린 뒤 다시 20% 내리면 처음과 비교해 어떻게 되나요?",
+    "choices": [
+      "처음과 같아요",
+      "4% 올라가요",
+      "4% 내려가요",
+      "2% 내려가요"
+    ],
+    "answer": 2,
+    "explanation": "1.2 × 0.8 = 0.96이라 4% 내려가요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "학생 수가 200명에서 250명이 되면 몇 % 늘었나요?",
+    "choices": [
+      "20%",
+      "50%",
+      "125%",
+      "25%"
+    ],
+    "answer": 3,
+    "explanation": "늘어난 50명 ÷ 200명 = 0.25예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "15의 40%와 40의 15%를 비교하면?",
+    "choices": [
+      "두 값이 같아요",
+      "15의 40%가 커요",
+      "40의 15%가 커요",
+      "비교할 수 없어요"
+    ],
+    "answer": 0,
+    "explanation": "15 × 0.4 = 6, 40 × 0.15 = 6으로 같아요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "30% 할인한 값에서 다시 10%를 할인하면 처음 값의 몇 % 할인인가요?",
+    "choices": [
+      "40%",
+      "37%",
+      "33%",
+      "35%"
+    ],
+    "answer": 1,
+    "explanation": "0.7 × 0.9 = 0.63이라 37% 할인이에요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "어떤 수의 10%의 10%는 그 수의 1%예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "0.1 × 0.1 = 0.01이에요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어떤 수의 120%가 60이면 그 수는?",
+    "choices": [
+      "72",
+      "48",
+      "50",
+      "45"
+    ],
+    "answer": 2,
+    "explanation": "60 ÷ 1.2 = 50이에요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1년에 10%씩 2년 동안 늘면 처음보다 모두 몇 % 늘어나나요?",
+    "choices": [
+      "20%",
+      "22%",
+      "11%",
+      "21%"
+    ],
+    "answer": 3,
+    "explanation": "1.1 × 1.1 = 1.21이라 21% 늘어요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가격이 50% 오른 뒤 원래 가격으로 돌아가려면 몇 % 내려야 하나요?",
+    "choices": [
+      "약 33%",
+      "50%",
+      "25%",
+      "약 67%"
+    ],
+    "answer": 0,
+    "explanation": "1.5배에서 1배가 되려면 1/3, 약 33%를 내려야 해요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A는 B보다 25% 많아요. B는 A보다 몇 % 적나요?",
+    "choices": [
+      "25%",
+      "20%",
+      "75%",
+      "15%"
+    ],
+    "answer": 1,
+    "explanation": "A = 1.25B이면 B = 0.8A라 20% 적어요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "정가에서 20% 할인해 팔아도 원가의 20% 이익이에요. 정가는 원가의 몇 배인가요?",
+    "choices": [
+      "1.4배",
+      "1.2배",
+      "1.5배",
+      "1.6배"
+    ],
+    "answer": 2,
+    "explanation": "정가 × 0.8 = 원가 × 1.2이므로 정가 = 원가 × 1.5예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "반 학생의 60%가 여학생이고, 여학생의 50%가 안경을 써요. 안경 쓴 여학생은 반 전체의 몇 %인가요?",
+    "choices": [
+      "50%",
+      "10%",
+      "20%",
+      "30%"
+    ],
+    "answer": 3,
+    "explanation": "0.6 × 0.5 = 0.3 → 30%예요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "값이 2만 원에서 2만 5천 원으로 올랐다가 다시 2만 원이 되었어요. 두 번째 변화는 몇 % 내린 것인가요?",
+    "choices": [
+      "20%",
+      "25%",
+      "5%",
+      "15%"
+    ],
+    "answer": 0,
+    "explanation": "5000 ÷ 25000 = 0.2라 20% 내렸어요.",
+    "semester": 1,
+    "unit": "비율·백분율"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "동전 2개를 던질 때 둘 다 앞면일 확률은?",
+    "choices": [
+      "1/2",
+      "1/4",
+      "1/3",
+      "1/8"
+    ],
+    "answer": 1,
+    "explanation": "1/2 × 1/2 = 1/4이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "셔츠 3벌, 바지 4벌로 입을 수 있는 차림은 몇 가지인가요?",
+    "choices": [
+      "7가지",
+      "16가지",
+      "12가지",
+      "9가지"
+    ],
+    "answer": 2,
+    "explanation": "3 × 4 = 12가지예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "세 사람이 한 줄로 서는 방법은 몇 가지인가요?",
+    "choices": [
+      "3가지",
+      "9가지",
+      "8가지",
+      "6가지"
+    ],
+    "answer": 3,
+    "explanation": "3 × 2 × 1 = 6가지예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1부터 10까지 수 카드 중 한 장을 뽑을 때 3의 배수일 확률은?",
+    "choices": [
+      "3/10",
+      "1/3",
+      "1/10",
+      "3/7"
+    ],
+    "answer": 0,
+    "explanation": "3의 배수는 3, 6, 9로 3장이라 3/10이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "주사위 2개를 던져 눈의 합이 7일 확률은?",
+    "choices": [
+      "1/11",
+      "1/6",
+      "7/36",
+      "1/12"
+    ],
+    "answer": 1,
+    "explanation": "(1, 6)부터 (6, 1)까지 6가지 ÷ 36 = 1/6이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다섯 명 중 대표 2명을 뽑는 방법은 몇 가지인가요?",
+    "choices": [
+      "20가지",
+      "25가지",
+      "10가지",
+      "5가지"
+    ],
+    "answer": 2,
+    "explanation": "5 × 4 ÷ 2 = 10가지예요(순서 상관없음).",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "여섯 팀이 서로 한 번씩 경기하면 모두 몇 경기인가요?",
+    "choices": [
+      "30경기",
+      "36경기",
+      "12경기",
+      "15경기"
+    ],
+    "answer": 3,
+    "explanation": "6 × 5 ÷ 2 = 15경기예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "동전 3개를 던질 때 앞면이 적어도 1개 나올 확률은?",
+    "choices": [
+      "7/8",
+      "1/2",
+      "3/4",
+      "3/8"
+    ],
+    "answer": 0,
+    "explanation": "모두 뒷면일 확률 1/8을 빼면 7/8이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "0, 1, 2, 3 카드로 만들 수 있는 두 자리 수는 몇 개인가요? (같은 카드는 한 번만)",
+    "choices": [
+      "12개",
+      "9개",
+      "16개",
+      "6개"
+    ],
+    "answer": 1,
+    "explanation": "십의 자리 3가지 × 일의 자리 3가지 = 9개예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "동전을 다섯 번 던져 모두 앞면이 나왔다면 다음에 뒷면이 나올 확률은 1/2보다 커요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "동전은 앞의 결과와 상관없이 늘 1/2이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빨간 공 3개, 파란 공 2개에서 2개를 꺼낼 때 둘 다 빨간 공일 확률은?",
+    "choices": [
+      "9/25",
+      "3/5",
+      "3/10",
+      "2/5"
+    ],
+    "answer": 2,
+    "explanation": "3/5 × 2/4 = 3/10이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "주사위 2개를 던져 두 눈이 같을 확률은?",
+    "choices": [
+      "1/36",
+      "1/12",
+      "1/3",
+      "1/6"
+    ],
+    "answer": 3,
+    "explanation": "(1, 1)부터 (6, 6)까지 6가지 ÷ 36 = 1/6이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "1부터 100까지 수 중 3의 배수도 5의 배수도 아닌 수는 몇 개인가요?",
+    "choices": [
+      "53개",
+      "47개",
+      "59개",
+      "50개"
+    ],
+    "answer": 0,
+    "explanation": "100 − 33 − 20 + 6 = 53개예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "주사위 2개를 던져 눈의 합이 9 이상일 확률은?",
+    "choices": [
+      "1/4",
+      "5/18",
+      "1/3",
+      "11/36"
+    ],
+    "answer": 1,
+    "explanation": "합 9·10·11·12는 4 + 3 + 2 + 1 = 10가지, 10/36 = 5/18이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "APPLE의 글자 5개를 한 줄로 늘어놓는 방법은 몇 가지인가요?",
+    "choices": [
+      "120가지",
+      "24가지",
+      "60가지",
+      "30가지"
+    ],
+    "answer": 2,
+    "explanation": "P가 2개라 5! ÷ 2 = 60가지예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "문 3개 중 1개 뒤에 상품이 있어요. 하나를 고르면, 답을 아는 사회자가 남은 문 중 꽝인 문 하나를 반드시 열어 줘요. 고른 문을 바꾸면 상품을 받을 확률은?",
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "answer": 3,
+    "explanation": "처음에 꽝을 골랐을 확률 2/3만큼 바꾸면 이겨요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "가로 3칸, 세로 2칸인 바둑판 길에서 왼쪽 아래 끝에서 오른쪽 위 끝까지 가는 가장 짧은 길은 몇 가지인가요?",
+    "choices": [
+      "10가지",
+      "6가지",
+      "5가지",
+      "12가지"
+    ],
+    "answer": 0,
+    "explanation": "오른쪽 3번, 위 2번의 순서를 정하면 5 × 4 ÷ 2 = 10가지예요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "열쇠 4개 중 맞는 것은 1개예요. 하나씩 시험할 때 셋째 번에 처음 열릴 확률은?",
+    "choices": [
+      "1/3",
+      "1/4",
+      "3/4",
+      "1/12"
+    ],
+    "answer": 1,
+    "explanation": "3/4 × 2/3 × 1/2 = 1/4이에요.",
+    "semester": 1,
+    "unit": "확률·경우의 수"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A는 B보다 키가 크고, B는 C보다 키가 커요. 키가 가장 작은 사람은?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "알 수 없어요"
+    ],
+    "answer": 2,
+    "explanation": "A > B > C라 가장 작은 사람은 C예요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'모든 새는 날 수 있다'가 거짓임을 보이려면 날지 못하는 새 한 마리면 돼요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "반례 하나면 '모든 ~'은 거짓이 돼요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "한 줄로 선 8명 중 철수 앞에 3명이 있어요. 철수 뒤에는 몇 명이 있나요?",
+    "choices": [
+      "5명",
+      "3명",
+      "2명",
+      "4명"
+    ],
+    "answer": 3,
+    "explanation": "8 − 3 − 1(철수) = 4명이에요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다섯 명이 한 줄로 섰어요. 앞에서 둘째인 사람은 뒤에서 몇째인가요?",
+    "choices": [
+      "넷째",
+      "셋째",
+      "다섯째",
+      "둘째"
+    ],
+    "answer": 0,
+    "explanation": "5 − 2 + 1 = 4라 뒤에서 넷째예요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "지우는 줄의 앞에서 7번째, 뒤에서 5번째예요. 모두 몇 명인가요?",
+    "choices": [
+      "12명",
+      "11명",
+      "13명",
+      "10명"
+    ],
+    "answer": 1,
+    "explanation": "7 + 5 − 1 = 11명이에요(지우를 두 번 셈).",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "A는 B의 아버지이고 B는 C의 아버지예요. A는 C의 할아버지예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "아버지의 아버지는 할아버지예요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "자물쇠 번호는 1, 2, 3을 한 번씩 써서 앞자리일수록 큰 수예요. 번호는?",
+    "choices": [
+      "123",
+      "312",
+      "321",
+      "231"
+    ],
+    "answer": 2,
+    "explanation": "큰 수부터 차례로 놓으면 321이에요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A, B, C가 달리기를 했어요. A는 1등이 아니고, B는 A보다 늦게 들어왔어요. 1등은?",
+    "choices": [
+      "A",
+      "B",
+      "알 수 없어요",
+      "C"
+    ],
+    "answer": 3,
+    "explanation": "A도 아니고 A보다 늦은 B도 아니라 C가 1등이에요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'비가 오면 땅이 젖는다'가 참일 때 반드시 참인 것은?",
+    "choices": [
+      "땅이 안 젖었으면 비가 안 왔다",
+      "땅이 젖었다면 틀림없이 비가 온 것이다",
+      "비가 안 오면 땅이 안 젖는다",
+      "땅이 젖으면 비가 안 왔다"
+    ],
+    "answer": 0,
+    "explanation": "'P이면 Q'가 참이면 'Q가 아니면 P가 아니다'도 참이에요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어떤 수에 2를 곱하고 10을 더한 뒤 2로 나누고, 처음 수를 빼면 얼마인가요?",
+    "choices": [
+      "10",
+      "5",
+      "처음 수",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "(2x + 10) ÷ 2 − x = 5예요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "(가)는 (나)보다 키가 크고, (다)는 (가)보다 키가 크며, (라)는 (나)보다 키가 작아요. 키가 가장 작은 사람은?",
+    "choices": [
+      "(나)",
+      "(가)",
+      "(라)",
+      "(다)"
+    ],
+    "answer": 2,
+    "explanation": "(다) > (가) > (나) > (라) 순서라 (라)가 가장 작아요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "흰 양말 10짝과 검은 양말 10짝이 섞인 서랍에서 보지 않고 꺼낼 때, 같은 색 2짝을 확실히 얻으려면 최소 몇 짝을 꺼내야 하나요?",
+    "choices": [
+      "2짝",
+      "11짝",
+      "21짝",
+      "3짝"
+    ],
+    "answer": 3,
+    "explanation": "색이 2가지라 3짝이면 반드시 같은 색이 둘 있어요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다섯 명이 월~금 하루씩 당번이에요. 가는 수요일, 나는 가 다음 날, 마는 월요일이고, 라는 다보다 앞 요일이에요. 다는 무슨 요일인가요?",
+    "choices": [
+      "금요일",
+      "화요일",
+      "월요일",
+      "목요일"
+    ],
+    "answer": 0,
+    "explanation": "남은 화·금 중 라가 앞이라 라는 화요일, 다는 금요일이에요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "세 상자에 '사과', '배', '사과와 배' 이름표가 모두 틀리게 붙어 있어요. 과일 하나만 꺼내 보고 모두 맞히려면 어느 상자에서 꺼내야 하나요?",
+    "choices": [
+      "'사과' 상자",
+      "'사과와 배' 상자",
+      "'배' 상자",
+      "어느 상자든 같아요"
+    ],
+    "answer": 1,
+    "explanation": "이 상자는 한 가지 과일만 있어 나온 과일로 나머지가 정해져요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "참말쟁이는 늘 참을, 거짓말쟁이는 늘 거짓을 말해요. A는 'B는 거짓말쟁이다', B는 '우리 둘 다 참말쟁이다'라고 했어요. A는?",
+    "choices": [
+      "거짓말쟁이",
+      "알 수 없어요",
+      "참말쟁이",
+      "B와 같은 쪽"
+    ],
+    "answer": 2,
+    "explanation": "B가 참이면 A의 말과 모순이라 B는 거짓말쟁이, A는 참말쟁이예요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A, B, C 중 한 명이 창문을 깼어요. A는 'B가 했어', B와 C는 각각 '나는 안 했어'라고 했어요. 한 명만 참말을 했다면 깬 사람은?",
+    "choices": [
+      "A",
+      "B",
+      "알 수 없어요",
+      "C"
+    ],
+    "answer": 3,
+    "explanation": "C가 깼을 때만 B의 말 하나만 참이 돼요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "흰 양말 10짝과 검은 양말 10짝이 섞인 서랍에서 보지 않고 꺼낼 때, 검은 양말 2짝을 확실히 얻으려면 최소 몇 짝을 꺼내야 하나요?",
+    "choices": [
+      "12짝",
+      "3짝",
+      "11짝",
+      "20짝"
+    ],
+    "answer": 0,
+    "explanation": "흰 양말 10짝이 먼저 나와도 2짝을 더 꺼내면 돼요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "동전 9개 중 1개만 가벼워요. 양팔 저울로 반드시 찾으려면 최소 몇 번 달아야 하나요?",
+    "choices": [
+      "3번",
+      "2번",
+      "4번",
+      "1번"
+    ],
+    "answer": 1,
+    "explanation": "3개씩 세 묶음으로 나눠 한 번, 남은 3개 중 2개를 다시 한 번 달아요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "케이크를 칼로 3번 곧게(평면으로) 잘라 최대 몇 조각을 만들 수 있나요? (어느 방향으로든 자를 수 있고, 조각은 옮기지 않음)",
+    "choices": [
+      "6조각",
+      "7조각",
+      "8조각",
+      "9조각"
+    ],
+    "answer": 2,
+    "explanation": "세로로 두 번 엇갈려 자르고 가로로 한 번 자르면 2 × 2 × 2 = 8조각이에요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "거짓말쟁이(늘 거짓만 말함)는 '나는 거짓말쟁이다'라고 말할 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "그 말은 참이 되므로 거짓말쟁이는 할 수 없어요.",
+    "semester": 1,
+    "unit": "논리 퍼즐"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1.5시간은 몇 분인가요?",
+    "choices": [
+      "150분",
+      "105분",
+      "75분",
+      "90분"
+    ],
+    "answer": 3,
+    "explanation": "60 × 1.5 = 90분이에요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2.3 km는 몇 m인가요?",
+    "choices": [
+      "2300 m",
+      "230 m",
+      "23000 m",
+      "2030 m"
+    ],
+    "answer": 0,
+    "explanation": "1 km = 1000 m라 2300 m예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "0.75 L는 몇 mL인가요?",
+    "choices": [
+      "75 mL",
+      "750 mL",
+      "7500 mL",
+      "705 mL"
+    ],
+    "answer": 1,
+    "explanation": "1 L = 1000 mL라 750 mL예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1 m²는 몇 cm²인가요?",
+    "choices": [
+      "100 cm²",
+      "1000 cm²",
+      "10000 cm²",
+      "1000000 cm²"
+    ],
+    "answer": 2,
+    "explanation": "100 cm × 100 cm = 10000 cm²예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "시속 60 km로 45분 가면 몇 km인가요?",
+    "choices": [
+      "40 km",
+      "60 km",
+      "27 km",
+      "45 km"
+    ],
+    "answer": 3,
+    "explanation": "1분에 1 km씩 가서 45 km예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1년(365일)은 약 몇 주인가요?",
+    "choices": [
+      "약 52주",
+      "약 48주",
+      "약 56주",
+      "약 40주"
+    ],
+    "answer": 0,
+    "explanation": "365 ÷ 7 ≒ 52주예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "물 1 cm³의 부피는 1 mL예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "1 mL = 1 cm³예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1 m³는 몇 L인가요?",
+    "choices": [
+      "100 L",
+      "1000 L",
+      "10000 L",
+      "1 L"
+    ],
+    "answer": 1,
+    "explanation": "1 m³ = 1000000 cm³ = 1000 L예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "시속 72 km는 초속 몇 m인가요?",
+    "choices": [
+      "12 m",
+      "36 m",
+      "20 m",
+      "7.2 m"
+    ],
+    "answer": 2,
+    "explanation": "72000 m ÷ 3600초 = 20 m예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "100만 초는 약 며칠인가요?",
+    "choices": [
+      "약 1일",
+      "약 115일",
+      "약 30일",
+      "약 12일"
+    ],
+    "answer": 3,
+    "explanation": "하루는 86400초라 1000000 ÷ 86400 ≒ 11.6일이에요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "가로 2 m, 세로 3 m, 높이 50 cm인 수조의 들이는 몇 L인가요?",
+    "choices": [
+      "3000 L",
+      "300 L",
+      "30000 L",
+      "300000 L"
+    ],
+    "answer": 0,
+    "explanation": "2 × 3 × 0.5 = 3 m³ = 3000 L예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "넓이가 1 ha(10000 m²)인 정사각형 땅의 한 변은 몇 m인가요?",
+    "choices": [
+      "10 m",
+      "100 m",
+      "1000 m",
+      "2500 m"
+    ],
+    "answer": 1,
+    "explanation": "100 × 100 = 10000이라 100 m예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "정육면체의 모서리를 2배로 늘리면 부피는 몇 배가 되나요?",
+    "choices": [
+      "2배",
+      "4배",
+      "8배",
+      "6배"
+    ],
+    "answer": 2,
+    "explanation": "2 × 2 × 2 = 8배예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "지름이 2배인 원 모양 피자는 넓이가 몇 배인가요?",
+    "choices": [
+      "2배",
+      "3배",
+      "8배",
+      "4배"
+    ],
+    "answer": 3,
+    "explanation": "넓이는 길이 배수의 제곱이라 2² = 4배예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "10억 초는 약 몇 년인가요?",
+    "choices": [
+      "약 32년",
+      "약 3년",
+      "약 320년",
+      "약 12년"
+    ],
+    "answer": 0,
+    "explanation": "1년은 약 3150만 초라 10억 ÷ 3150만 ≒ 32년이에요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "종이를 반으로 10번 접으면 두께는 처음의 약 몇 배인가요?",
+    "choices": [
+      "약 20배",
+      "약 1000배",
+      "약 100배",
+      "약 10000배"
+    ],
+    "answer": 1,
+    "explanation": "2¹⁰ = 1024라 약 1000배예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "시속 90 km로 달리는 차가 2.4 km 터널을 지나는 데 걸리는 시간은? (차 길이는 생각하지 않음)",
+    "choices": [
+      "2분 40초",
+      "1분 6초",
+      "1분 36초",
+      "2분 24초"
+    ],
+    "answer": 2,
+    "explanation": "1분에 1.5 km를 가므로 2.4 ÷ 1.5 = 1.6분 = 1분 36초예요.",
+    "semester": 1,
+    "unit": "단위 환산·어림"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오늘이 화요일이면 10일 뒤는 무슨 요일인가요?",
+    "choices": [
+      "목요일",
+      "토요일",
+      "수요일",
+      "금요일"
+    ],
+    "answer": 3,
+    "explanation": "10 = 7 + 3이라 화요일에서 3일 뒤인 금요일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "오전 9시 40분에서 2시간 35분 뒤는 몇 시 몇 분인가요?",
+    "choices": [
+      "오후 12시 15분",
+      "오전 11시 15분",
+      "오후 1시 15분",
+      "오후 12시 5분"
+    ],
+    "answer": 0,
+    "explanation": "9시 40분 + 2시간 = 11시 40분, 35분 더해 12시 15분이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "3시 정각에 두 시곗바늘이 이루는 작은 쪽 각은?",
+    "choices": [
+      "30°",
+      "90°",
+      "45°",
+      "120°"
+    ],
+    "answer": 1,
+    "explanation": "한 칸이 30°라 3칸이면 90°예요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1월 1일이 월요일이면 1월 31일은?",
+    "choices": [
+      "화요일",
+      "목요일",
+      "수요일",
+      "월요일"
+    ],
+    "answer": 2,
+    "explanation": "30일 뒤이고 30 = 28 + 2라 월요일에서 2일 뒤인 수요일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "90분짜리 영화가 오후 7시 50분에 시작하면 끝나는 시각은?",
+    "choices": [
+      "오후 9시 40분",
+      "오후 9시 10분",
+      "오후 8시 20분",
+      "오후 9시 20분"
+    ],
+    "answer": 3,
+    "explanation": "7시 50분 + 1시간 30분 = 9시 20분이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "평년 1년 365일은 몇 주 며칠인가요?",
+    "choices": [
+      "52주 1일",
+      "52주 2일",
+      "51주 6일",
+      "53주 1일"
+    ],
+    "answer": 0,
+    "explanation": "7 × 52 = 364라 52주 1일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "3시 30분에 두 시곗바늘이 이루는 작은 쪽 각은?",
+    "choices": [
+      "90°",
+      "75°",
+      "60°",
+      "105°"
+    ],
+    "answer": 1,
+    "explanation": "시침은 105°, 분침은 180° 자리라 차는 75°예요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "10월 6일이 화요일이면 같은 해 12월 25일은?",
+    "choices": [
+      "목요일",
+      "토요일",
+      "금요일",
+      "수요일"
+    ],
+    "answer": 2,
+    "explanation": "80일 뒤이고 80 = 7 × 11 + 3이라 금요일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "하루에 5분씩 빨라지는 시계를 정오에 맞췄어요. 3일 뒤 정오에 이 시계가 가리키는 시각은?",
+    "choices": [
+      "오전 11시 45분",
+      "오후 12시 5분",
+      "오후 12시 3분",
+      "오후 12시 15분"
+    ],
+    "answer": 3,
+    "explanation": "5분 × 3일 = 15분 빨라져요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "2100년은 윤년이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "100의 배수는 400의 배수일 때만 윤년이라 2100년은 평년이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "어떤 달의 1일이 금요일이에요. 이 달의 셋째 월요일은 며칠인가요?",
+    "choices": [
+      "18일",
+      "17일",
+      "11일",
+      "21일"
+    ],
+    "answer": 0,
+    "explanation": "첫 월요일이 4일이라 4, 11, 18일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "윤년인 해의 1월 1일이 일요일이면 12월 31일은?",
+    "choices": [
+      "일요일",
+      "월요일",
+      "화요일",
+      "토요일"
+    ],
+    "answer": 1,
+    "explanation": "365일 뒤 = 52주 1일 뒤라 월요일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "일요일 오후 8시에서 50시간 뒤는?",
+    "choices": [
+      "수요일 오후 10시",
+      "화요일 오후 8시",
+      "화요일 오후 10시",
+      "월요일 오후 10시"
+    ],
+    "answer": 2,
+    "explanation": "48시간 뒤 화요일 오후 8시, 2시간 더해 오후 10시예요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "하루(24시간) 동안 시침과 분침은 몇 번 겹치나요?",
+    "choices": [
+      "24번",
+      "23번",
+      "12번",
+      "22번"
+    ],
+    "answer": 3,
+    "explanation": "12시간에 11번 겹쳐 하루에 22번이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "4시 20분에 두 시곗바늘이 이루는 작은 쪽 각은?",
+    "choices": [
+      "10°",
+      "0°",
+      "20°",
+      "30°"
+    ],
+    "answer": 0,
+    "explanation": "시침 130°, 분침 120° 자리라 차는 10°예요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "바늘 시계가 거울에 비친 모습이 3시 10분처럼 보여요. 실제 시각은?",
+    "choices": [
+      "9시 50분",
+      "8시 50분",
+      "9시 10분",
+      "8시 10분"
+    ],
+    "answer": 1,
+    "explanation": "12시에서 3시 10분을 빼면 8시 50분이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 날로부터 100일 뒤가 일요일이에요. 그날은 무슨 요일이었나요?",
+    "choices": [
+      "화요일",
+      "토요일",
+      "금요일",
+      "목요일"
+    ],
+    "answer": 2,
+    "explanation": "100 = 7 × 14 + 2라 일요일에서 2일 앞인 금요일이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "2시와 3시 사이에 두 시곗바늘이 겹치는 시각에 가장 가까운 것은?",
+    "choices": [
+      "2시 5분",
+      "2시 15분",
+      "2시 20분",
+      "2시 11분"
+    ],
+    "answer": 3,
+    "explanation": "60 + 0.5m = 6m에서 m = 120/11 ≒ 10.9분이에요.",
+    "semester": 1,
+    "unit": "시계·달력 계산"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "쇠 1 kg이 솜 1 kg보다 무거워요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "둘 다 1 kg이라 무게가 같아요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "나무 10그루를 한 줄로 5 m 간격으로 심으면 처음부터 끝까지 거리는?",
+    "choices": [
+      "45 m",
+      "50 m",
+      "55 m",
+      "40 m"
+    ],
+    "answer": 0,
+    "explanation": "간격은 9개라 5 × 9 = 45 m예요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "1 m 막대를 10 cm씩 자르려면 몇 번 잘라야 하나요?",
+    "choices": [
+      "10번",
+      "9번",
+      "11번",
+      "8번"
+    ],
+    "answer": 1,
+    "explanation": "10도막을 만드는 데 9번 자르면 돼요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "20 m 길에 양 끝을 포함해 2 m마다 기둥을 세우면 몇 개인가요?",
+    "choices": [
+      "10개",
+      "9개",
+      "11개",
+      "12개"
+    ],
+    "answer": 2,
+    "explanation": "간격 10개에 기둥은 하나 더 많아 11개예요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "케이크 반의 반의 반은 전체의 얼마인가요?",
+    "choices": [
+      "1/6",
+      "3/8",
+      "1/16",
+      "1/8"
+    ],
+    "answer": 3,
+    "explanation": "1/2 × 1/2 × 1/2 = 1/8이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "30을 1/2로 나누고 10을 더하면?",
+    "choices": [
+      "70",
+      "25",
+      "40",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "30 ÷ 1/2 = 60, 60 + 10 = 70이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "약 3알을 30분마다 한 알씩 먹으면 다 먹는 데 몇 분 걸리나요?",
+    "choices": [
+      "90분",
+      "60분",
+      "30분",
+      "120분"
+    ],
+    "answer": 1,
+    "explanation": "바로 한 알, 30분 뒤, 60분 뒤에 먹어요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "배트와 공이 합쳐서 11000원이고, 배트가 공보다 10000원 비싸요. 공은 얼마인가요?",
+    "choices": [
+      "1000원",
+      "1500원",
+      "500원",
+      "100원"
+    ],
+    "answer": 2,
+    "explanation": "공 + (공 + 10000) = 11000이라 공은 500원이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "기계 3대가 6분에 물건 3개를 만들어요. 기계 6대가 물건 12개를 만드는 데 몇 분 걸리나요?",
+    "choices": [
+      "24분",
+      "6분",
+      "3분",
+      "12분"
+    ],
+    "answer": 3,
+    "explanation": "한 대가 6분에 1개라 6대는 6분에 6개, 12개는 12분이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "연못의 수련이 날마다 2배로 늘어 40일째에 연못을 다 덮었어요. 절반을 덮은 날은?",
+    "choices": [
+      "39일째",
+      "20일째",
+      "38일째",
+      "30일째"
+    ],
+    "answer": 0,
+    "explanation": "다음 날 2배가 되어 다 덮으므로 하루 전인 39일째예요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "통나무를 4도막으로 자르는 데 12분 걸려요. 같은 빠르기로 8도막으로 자르려면 몇 분 걸리나요?",
+    "choices": [
+      "24분",
+      "28분",
+      "32분",
+      "21분"
+    ],
+    "answer": 1,
+    "explanation": "3번에 12분이라 1번에 4분, 7번은 28분이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "1부터 100까지 쓸 때 숫자 9는 모두 몇 번 쓰나요?",
+    "choices": [
+      "10번",
+      "11번",
+      "20번",
+      "19번"
+    ],
+    "answer": 2,
+    "explanation": "일의 자리 10번, 십의 자리(90~99) 10번이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "물건을 7000원에 사서 8000원에 팔고, 다시 9000원에 사서 10000원에 팔았어요. 모두 얼마 이익인가요?",
+    "choices": [
+      "1000원",
+      "3000원",
+      "4000원",
+      "2000원"
+    ],
+    "answer": 3,
+    "explanation": "두 번 모두 1000원씩 이익이라 2000원이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에 3을 곱해야 할 것을 3으로 나누었더니 4가 나왔어요. 바르게 계산한 값은?",
+    "choices": [
+      "36",
+      "12",
+      "4/3",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "어떤 수는 4 × 3 = 12, 바른 값은 12 × 3 = 36이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "무게 100 kg인 수박의 99%가 물이에요. 말려서 물이 98%가 되면 무게는 몇 kg인가요?",
+    "choices": [
+      "99 kg",
+      "50 kg",
+      "98 kg",
+      "90 kg"
+    ],
+    "answer": 1,
+    "explanation": "물 아닌 1 kg이 2%가 되므로 전체는 50 kg이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "달팽이가 깊이 10 m인 우물 바닥에서 낮에 3 m 오르고 밤에 2 m 미끄러져요. 우물을 나오는 날은?",
+    "choices": [
+      "10일째",
+      "9일째",
+      "8일째",
+      "7일째"
+    ],
+    "answer": 2,
+    "explanation": "7일 밤까지 7 m, 8일째 낮에 3 m 올라 10 m에 닿아요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "갈 때 시속 60 km, 올 때 시속 40 km로 같은 길을 왕복했어요. 왕복 평균 속력은?",
+    "choices": [
+      "시속 50 km",
+      "시속 45 km",
+      "시속 52 km",
+      "시속 48 km"
+    ],
+    "answer": 3,
+    "explanation": "120 km라 하면 2 + 3 = 5시간, 240 ÷ 5 = 48이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "책의 쪽 번호가 1쪽부터 120쪽까지 있어요. 쪽 번호에 쓰인 숫자는 모두 몇 개인가요?",
+    "choices": [
+      "252개",
+      "240개",
+      "360개",
+      "249개"
+    ],
+    "answer": 0,
+    "explanation": "9 + 90 × 2 + 21 × 3 = 9 + 180 + 63 = 252개예요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "0.999…(9가 끝없이 이어짐)는 1과 같은 수예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "1/3 = 0.333…의 3배가 0.999…이고 1/3의 3배는 1이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "엄마는 딸보다 26살 많고, 6년 뒤에는 엄마 나이가 딸 나이의 3배가 돼요. 지금 딸은 몇 살인가요?",
+    "choices": [
+      "13살",
+      "7살",
+      "8살",
+      "6살"
+    ],
+    "answer": 1,
+    "explanation": "6년 뒤 나이 차 26 = 딸의 2배라 딸은 13살, 지금 7살이에요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  },
+  {
+    "difficulty": 3,
+    "type": "ox",
+    "question": "2 km 길의 처음 1 km를 시속 30 km로 달렸다면, 남은 1 km를 아무리 빨리 달려도 전체 평균을 시속 60 km로 만들 수 없어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "시속 60 km 평균엔 2분이 필요한데 처음 1 km에 이미 2분을 썼어요.",
+    "semester": 1,
+    "unit": "함정 문제"
+  }
+]

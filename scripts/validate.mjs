@@ -4,7 +4,7 @@ import { basename, join } from "node:path";
 
 const DIR = "questions";
 const SUBJECTS = ["korean", "math", "social", "science", "english"];
-const ADULT_SUBJECTS = ["korean", "english", "general"]; // 성인(교사) 문항: adult-{과목}.json
+const ADULT_SUBJECTS = ["korean", "math", "english", "general"]; // 성인(교사) 문항: adult-{과목}.json
 const files = process.argv.slice(2).length ? process.argv.slice(2) : readdirSync(DIR).filter((f) => f.endsWith(".json")).map((f) => join(DIR, f));
 
 let errors = 0;
