@@ -1,0 +1,2204 @@
+[
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'reluctant'의 뜻은?",
+  "choices": [
+   "마지못해 하는",
+   "열정적인",
+   "지나치게 신중한",
+   "정직한"
+  ],
+  "answer": 0,
+  "explanation": "reluctant는 '마지못해 하는, 꺼리는'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'curious'의 뜻은?",
+  "choices": [
+   "조심스러운",
+   "호기심 많은",
+   "화난",
+   "몹시 피곤한"
+  ],
+  "answer": 1,
+  "explanation": "curious는 '호기심 많은'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'borrow'의 뜻은?",
+  "choices": [
+   "빌려주다",
+   "갚다",
+   "빌리다",
+   "훔치다"
+  ],
+  "answer": 2,
+  "explanation": "borrow는 '빌리다', lend는 '빌려주다'예요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'ancient'의 뜻은?",
+  "choices": [
+   "최신의",
+   "거대한",
+   "위험한",
+   "고대의"
+  ],
+  "answer": 3,
+  "explanation": "ancient는 '고대의, 아주 오래된'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'deadline'의 뜻은?",
+  "choices": [
+   "마감 기한",
+   "사망 원인",
+   "출발선",
+   "최종 점수"
+  ],
+  "answer": 0,
+  "explanation": "deadline은 '마감 기한'이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'abroad'의 뜻은?",
+  "choices": [
+   "넓게",
+   "해외로",
+   "위로",
+   "집으로"
+  ],
+  "answer": 1,
+  "explanation": "abroad는 '해외로, 해외에서'라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'polite'의 뜻은?",
+  "choices": [
+   "무례한",
+   "인기 있는",
+   "예의 바른",
+   "조용한"
+  ],
+  "answer": 2,
+  "explanation": "polite는 '예의 바른, 공손한'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'meticulous'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "성급한",
+   "무관심한",
+   "관대한",
+   "꼼꼼한"
+  ],
+  "answer": 3,
+  "explanation": "meticulous는 '세심한, 꼼꼼한'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'tentative'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "잠정적인",
+   "주의 깊은",
+   "긴장한",
+   "영구적인"
+  ],
+  "answer": 0,
+  "explanation": "tentative는 '잠정적인, 임시의'라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'compulsory'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "자발적인",
+   "의무적인",
+   "복잡한",
+   "경쟁적인"
+  ],
+  "answer": 1,
+  "explanation": "compulsory는 '의무적인, 필수의'라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'thrive'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "목마르다",
+   "위협하다",
+   "번성하다",
+   "던지다"
+  ],
+  "answer": 2,
+  "explanation": "thrive는 '번성하다, 잘 자라다'라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'scarce'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "무서운",
+   "흉터가 있는",
+   "풍부한",
+   "부족한"
+  ],
+  "answer": 3,
+  "explanation": "scarce는 '부족한, 드문'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'candid'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "솔직한",
+   "달콤한",
+   "후보의",
+   "지나치게 신중한"
+  ],
+  "answer": 0,
+  "explanation": "candid는 '솔직한'이라는 뜻이에요. '후보'는 candidate예요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'meager'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "풍성한",
+   "빈약한",
+   "온순한",
+   "무의미한"
+  ],
+  "answer": 1,
+  "explanation": "meager는 '빈약한, 불충분한'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'mundane'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "기이한",
+   "신성한",
+   "평범한",
+   "위험한"
+  ],
+  "answer": 2,
+  "explanation": "mundane은 '평범한, 일상적인'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'grateful'은 '고마워하는'이라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "grateful은 '고마워하는, 감사하는'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'nonchalant'는 '태연한, 무심한'이라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "nonchalant는 '태연한, 무심한'이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'generous'의 반의어는?",
+  "choices": [
+   "kind",
+   "wealthy",
+   "honest",
+   "stingy"
+  ],
+  "answer": 3,
+  "explanation": "generous(너그러운)의 반의어는 stingy(인색한)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'ancient'의 반의어는?",
+  "choices": [
+   "modern",
+   "old",
+   "huge",
+   "ruined"
+  ],
+  "answer": 0,
+  "explanation": "ancient(고대의)의 반의어는 modern(현대의)이에요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'accept'의 반의어는?",
+  "choices": [
+   "receive",
+   "reject",
+   "admit",
+   "adopt"
+  ],
+  "answer": 1,
+  "explanation": "accept(받아들이다)의 반의어는 reject(거절하다)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'begin'과 뜻이 비슷한 말은?",
+  "choices": [
+   "finish",
+   "stop",
+   "start",
+   "pause"
+  ],
+  "answer": 2,
+  "explanation": "begin과 start는 모두 '시작하다'예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'huge'와 뜻이 비슷한 말은?",
+  "choices": [
+   "tiny",
+   "miniature",
+   "shallow",
+   "enormous"
+  ],
+  "answer": 3,
+  "explanation": "huge와 enormous는 모두 '거대한'이에요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'obvious'와 뜻이 가장 가까운 것은?",
+  "choices": [
+   "evident",
+   "obscure",
+   "curious",
+   "hidden"
+  ],
+  "answer": 0,
+  "explanation": "obvious와 evident는 모두 '분명한'이에요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'expand'의 반의어는?",
+  "choices": [
+   "extend",
+   "shrink",
+   "enlarge",
+   "develop"
+  ],
+  "answer": 1,
+  "explanation": "expand(확장하다)의 반의어는 shrink(줄어들다)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'abundant'의 반의어는?",
+  "choices": [
+   "plentiful",
+   "ample",
+   "scarce",
+   "rich"
+  ],
+  "answer": 2,
+  "explanation": "abundant(풍부한)의 반의어는 scarce(부족한)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'diminish'와 뜻이 가장 가까운 것은?",
+  "choices": [
+   "increase",
+   "finish",
+   "divide",
+   "decrease"
+  ],
+  "answer": 3,
+  "explanation": "diminish와 decrease는 모두 '줄어들다'예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'vague'와 뜻이 가장 가까운 것은?",
+  "choices": [
+   "unclear",
+   "precise",
+   "empty",
+   "vast"
+  ],
+  "answer": 0,
+  "explanation": "vague와 unclear는 모두 '모호한'이에요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'transparent'의 반의어는?",
+  "choices": [
+   "clear",
+   "opaque",
+   "obvious",
+   "visible"
+  ],
+  "answer": 1,
+  "explanation": "transparent(투명한)의 반의어는 opaque(불투명한)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'benevolent'의 반의어는?",
+  "choices": [
+   "charitable",
+   "humane",
+   "malevolent",
+   "gracious"
+  ],
+  "answer": 2,
+  "explanation": "benevolent(자비로운)의 반의어는 malevolent(악의적인)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'frugal'과 뜻이 가장 가까운 것은?",
+  "choices": [
+   "wasteful",
+   "fragile",
+   "generous",
+   "thrifty"
+  ],
+  "answer": 3,
+  "explanation": "frugal과 thrifty는 모두 '검소한'이에요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'verbose'의 반의어는?",
+  "choices": [
+   "concise",
+   "wordy",
+   "lengthy",
+   "vocal"
+  ],
+  "answer": 0,
+  "explanation": "verbose(장황한)의 반의어는 concise(간결한)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'impeccable'과 뜻이 가장 가까운 것은?",
+  "choices": [
+   "impatient",
+   "flawless",
+   "defective",
+   "careless"
+  ],
+  "answer": 1,
+  "explanation": "impeccable과 flawless는 모두 '흠잡을 데 없는'이에요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'adversary'와 뜻이 가장 가까운 것은?",
+  "choices": [
+   "ally",
+   "advisor",
+   "opponent",
+   "colleague"
+  ],
+  "answer": 2,
+  "explanation": "adversary와 opponent는 모두 '적수, 상대'예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'hostile'의 반의어는?",
+  "choices": [
+   "aggressive",
+   "unfriendly",
+   "rival",
+   "friendly"
+  ],
+  "answer": 3,
+  "explanation": "hostile(적대적인)의 반의어는 friendly(우호적인)예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'reluctant'와 'willing'은 반의어 관계이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "reluctant(꺼리는)와 willing(기꺼이 하는)은 반의어예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'candid'와 'frank'는 반의어 관계이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "둘 다 '솔직한'이라는 뜻의 유의어예요.",
+  "semester": 1,
+  "unit": "반의어·유의어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'give up'의 뜻은?",
+  "choices": [
+   "포기하다",
+   "나눠 주다",
+   "들어 올리다",
+   "일어나다"
+  ],
+  "answer": 0,
+  "explanation": "give up은 '포기하다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'look for'의 뜻은?",
+  "choices": [
+   "돌보다",
+   "찾다",
+   "기대하다",
+   "조사하다"
+  ],
+  "answer": 1,
+  "explanation": "look for는 '찾다'예요. 돌보다는 look after예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'turn off'의 뜻은?",
+  "choices": [
+   "켜다",
+   "돌아서다",
+   "끄다",
+   "거절하다"
+  ],
+  "answer": 2,
+  "explanation": "turn off는 '끄다', turn on은 '켜다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'piece of cake'의 뜻은?",
+  "choices": [
+   "작은 생일 선물",
+   "맛있는 간식",
+   "행운의 징조",
+   "아주 쉬운 일"
+  ],
+  "answer": 3,
+  "explanation": "a piece of cake는 '아주 쉬운 일'이에요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'put off'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "미루다",
+   "입다",
+   "참다",
+   "내려놓다"
+  ],
+  "answer": 0,
+  "explanation": "put off는 '미루다'예요. 참다는 put up with예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'look up to'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "경멸하다",
+   "존경하다",
+   "조사하다",
+   "돌보다"
+  ],
+  "answer": 1,
+  "explanation": "look up to는 '존경하다', look down on은 '경멸하다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'run out of'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "~을 우연히 만나다",
+   "~을 서두르다",
+   "~이 다 떨어지다",
+   "~을 대신하다"
+  ],
+  "answer": 2,
+  "explanation": "run out of는 '~이 다 떨어지다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'call off'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "전화를 끊다",
+   "부르다",
+   "연기하다",
+   "취소하다"
+  ],
+  "answer": 3,
+  "explanation": "call off는 '취소하다'예요. 연기는 put off예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'break the ice'의 뜻은?",
+  "choices": [
+   "어색함을 깨다",
+   "약속을 어기다",
+   "기록을 깨다",
+   "화를 내다"
+  ],
+  "answer": 0,
+  "explanation": "break the ice는 '어색한 분위기를 깨다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'beat around the bush'의 뜻은?",
+  "choices": [
+   "열심히 일하다",
+   "말을 돌려 하다",
+   "길을 잃다",
+   "비밀을 털어놓다"
+  ],
+  "answer": 1,
+  "explanation": "beat around the bush는 '요점을 피해 말을 돌리다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'a blessing in disguise'의 뜻은?",
+  "choices": [
+   "숨은 재능",
+   "거짓 친절",
+   "전화위복",
+   "뜻밖의 손님"
+  ],
+  "answer": 2,
+  "explanation": "처음엔 불행 같지만 결국 좋은 일, 즉 전화위복이에요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'cut corners'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "사업을 확장하다",
+   "비용을 나누다",
+   "갈등을 피하다",
+   "대충 하다"
+  ],
+  "answer": 3,
+  "explanation": "cut corners는 '(시간·돈을 아끼려) 대충 하다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'once in a blue moon'의 뜻은?",
+  "choices": [
+   "아주 드물게",
+   "매달 한 번",
+   "밤늦게",
+   "우울할 때"
+  ],
+  "answer": 0,
+  "explanation": "once in a blue moon은 '아주 드물게'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'get cold feet'의 뜻은?",
+  "choices": [
+   "감기에 걸리다",
+   "겁먹고 망설이다",
+   "갑자기 무관심해지다",
+   "화가 가라앉다"
+  ],
+  "answer": 1,
+  "explanation": "get cold feet는 '(중요한 일 앞에서) 겁이 나 망설이다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'look after'는 '돌보다'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "look after는 '돌보다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'pull someone's leg'는 '남의 발목을 잡다'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "pull someone's leg는 '농담으로 놀리다'예요.",
+  "semester": 1,
+  "unit": "숙어·구동사"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: She ___ to school every day.",
+  "choices": [
+   "go",
+   "going",
+   "goes",
+   "gone"
+  ],
+  "answer": 2,
+  "explanation": "주어가 3인칭 단수이고 현재 습관이므로 goes예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: I ___ a movie last night.",
+  "choices": [
+   "watch",
+   "watching",
+   "will watch",
+   "watched"
+  ],
+  "answer": 3,
+  "explanation": "last night은 과거이므로 watched예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: There ___ many books on the desk.",
+  "choices": [
+   "are",
+   "is",
+   "be",
+   "was"
+  ],
+  "answer": 0,
+  "explanation": "many books는 복수이고 현재이므로 are예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: He is taller ___ his brother.",
+  "choices": [
+   "then",
+   "than",
+   "that",
+   "as"
+  ],
+  "answer": 1,
+  "explanation": "비교급 뒤에는 than을 써요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'child'의 복수형은?",
+  "choices": [
+   "childs",
+   "childrens",
+   "children",
+   "childen"
+  ],
+  "answer": 2,
+  "explanation": "child의 복수형은 children이에요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: I have lived here ___ 2015.",
+  "choices": [
+   "for",
+   "during",
+   "by",
+   "since"
+  ],
+  "answer": 3,
+  "explanation": "현재완료에서 시작 시점 앞에는 since를 써요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: If I ___ rich, I would buy a boat.",
+  "choices": [
+   "were",
+   "am",
+   "will be",
+   "have been"
+  ],
+  "answer": 0,
+  "explanation": "현재 사실의 반대(가정법 과거)라 were를 써요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: This is the house ___ I was born.",
+  "choices": [
+   "which",
+   "where",
+   "what",
+   "who"
+  ],
+  "answer": 1,
+  "explanation": "장소 선행사 뒤 완전한 절이므로 관계부사 where예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: I'm looking forward to ___ you.",
+  "choices": [
+   "see",
+   "saw",
+   "seeing",
+   "be seen"
+  ],
+  "answer": 2,
+  "explanation": "look forward to의 to는 전치사라 동명사가 와요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: By next year, I ___ here for ten years.",
+  "choices": [
+   "had been working",
+   "am working",
+   "worked",
+   "will have worked"
+  ],
+  "answer": 3,
+  "explanation": "미래 시점까지의 계속이므로 미래완료예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: He denied ___ the money.",
+  "choices": [
+   "taking",
+   "to take",
+   "take",
+   "taken"
+  ],
+  "answer": 0,
+  "explanation": "deny는 동명사를 목적어로 써요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: The man ___ car was stolen called the police.",
+  "choices": [
+   "who",
+   "whose",
+   "which",
+   "whom"
+  ],
+  "answer": 1,
+  "explanation": "'그의 차'라는 소유 관계라 whose예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: Neither Tom nor his friends ___ coming.",
+  "choices": [
+   "is",
+   "am",
+   "are",
+   "was"
+  ],
+  "answer": 2,
+  "explanation": "neither A nor B는 B(friends)에 수를 맞춰 are예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: Had I known, I ___ you.",
+  "choices": [
+   "will have told",
+   "would tell",
+   "had been telling",
+   "would have told"
+  ],
+  "answer": 3,
+  "explanation": "Had I known은 가정법 과거완료라 would have told예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: Not until midnight ___ he come home.",
+  "choices": [
+   "did",
+   "he",
+   "was",
+   "is"
+  ],
+  "answer": 0,
+  "explanation": "부정어구가 앞에 오면 도치되어 did he come이 돼요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: It's high time we ___ home.",
+  "choices": [
+   "go",
+   "went",
+   "will go",
+   "going"
+  ],
+  "answer": 1,
+  "explanation": "It's high time 뒤에는 과거형 동사를 써요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: Scarcely had I arrived ___ it began to rain.",
+  "choices": [
+   "than",
+   "then",
+   "when",
+   "that"
+  ],
+  "answer": 2,
+  "explanation": "scarcely ~ when은 '~하자마자'예요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: I'd rather you ___ smoke here.",
+  "choices": [
+   "don't",
+   "won't",
+   "doesn't",
+   "didn't"
+  ],
+  "answer": 3,
+  "explanation": "would rather 뒤 절에는 과거형을 써서 현재 바람을 나타내요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'informations'는 바른 복수형이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "information은 셀 수 없는 명사라 -s를 붙이지 않아요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'I am knowing the answer.'는 자연스러운 표현이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "know는 상태 동사라 진행형을 쓰지 않아요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'Each of the students has a book.'은 문법적으로 맞다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "each of 뒤 주어는 단수 취급이라 has가 맞아요.",
+  "semester": 1,
+  "unit": "문법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'How are you?'에 알맞은 대답은?",
+  "choices": [
+   "I'm fine, thanks.",
+   "I'm ten.",
+   "It's a sunny Monday.",
+   "You're welcome."
+  ],
+  "answer": 0,
+  "explanation": "안부를 묻는 말이므로 I'm fine, thanks.가 알맞아요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Thank you.'에 알맞은 대답은?",
+  "choices": [
+   "Me too.",
+   "You're welcome.",
+   "That's a good idea.",
+   "I'm sorry."
+  ],
+  "answer": 1,
+  "explanation": "감사 인사에는 You're welcome.으로 답해요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Nice to meet you.'에 알맞은 대답은?",
+  "choices": [
+   "Me neither.",
+   "See you.",
+   "Same here.",
+   "Good job."
+  ],
+  "answer": 2,
+  "explanation": "Same here.는 '저도요'라는 뜻으로 알맞아요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "가게에서 '그냥 둘러보는 중이에요'는?",
+  "choices": [
+   "I'm just shopping out.",
+   "I look around only.",
+   "I'm only see.",
+   "I'm just looking."
+  ],
+  "answer": 3,
+  "explanation": "가게에서는 I'm just looking.이라고 해요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "음식을 권할 때 'Help yourself.'의 뜻은?",
+  "choices": [
+   "마음껏 드세요",
+   "스스로 하세요",
+   "도와주세요",
+   "혼자 계세요"
+  ],
+  "answer": 0,
+  "explanation": "음식을 권할 때 Help yourself.는 '마음껏 드세요'예요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "전화에서 '잠시만 기다려 주세요'는?",
+  "choices": [
+   "Wait me, please.",
+   "Hold on, please.",
+   "Stay a phone, please.",
+   "Keep calling, please."
+  ],
+  "answer": 1,
+  "explanation": "전화에서는 Hold on, please.라고 해요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "식당에서 '계산서 주세요'에 해당하는 말은?",
+  "choices": [
+   "Count, please.",
+   "Pay me, please.",
+   "Check, please.",
+   "Bill me up."
+  ],
+  "answer": 2,
+  "explanation": "식당에서는 Check, please.라고 해요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'It's on me.'의 뜻은?",
+  "choices": [
+   "내 잘못이에요",
+   "내 차례예요",
+   "내가 앉을게요",
+   "내가 낼게요"
+  ],
+  "answer": 3,
+  "explanation": "It's on me.는 '내가 살게요'예요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Break a leg!'는 언제 하는 말인가?",
+  "choices": [
+   "공연 전 행운을 빌 때",
+   "다친 사람을 위로할 때",
+   "상대를 꾸짖을 때",
+   "작별 인사를 할 때"
+  ],
+  "answer": 0,
+  "explanation": "Break a leg!는 공연 전에 행운을 빌어 주는 말이에요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "회화에서 'I'll play it by ear.'가 뜻하는 것은?",
+  "choices": [
+   "소문을 믿을게요",
+   "상황 봐서 정할게요",
+   "끝까지 들을게요",
+   "바로 거절하도록 할게요"
+  ],
+  "answer": 1,
+  "explanation": "play it by ear는 '그때그때 상황 봐서 하다'예요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "회화에서 'Don't hold your breath.'가 뜻하는 것은?",
+  "choices": [
+   "비밀을 꼭 지켜 줘",
+   "서두르지 마",
+   "너무 기대하지 마",
+   "겁먹지 마"
+  ],
+  "answer": 2,
+  "explanation": "일이 곧 일어나리라 기대하지 말라는 뜻이에요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'I'm swamped.'의 뜻은?",
+  "choices": [
+   "길을 잃었어요",
+   "흠뻑 젖어 버렸어요",
+   "너무 졸려요",
+   "일이 너무 많아요"
+  ],
+  "answer": 3,
+  "explanation": "swamped는 '(일에) 파묻힌, 몹시 바쁜'이에요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'See you later.'는 헤어질 때 하는 인사이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "See you later.는 '나중에 봐'라는 작별 인사예요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'My bad.'는 '내 잘못이야'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "My bad.는 가볍게 잘못을 인정하는 말이에요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'I'm under the weather.'는 '기분이 아주 좋다'는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "under the weather는 '몸이 좀 안 좋다'예요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'핸드폰'을 바른 영어로 하면?",
+  "choices": [
+   "cell phone",
+   "hand phone",
+   "hand mobile",
+   "call machine"
+  ],
+  "answer": 0,
+  "explanation": "휴대 전화는 cell phone(미)·mobile phone(영)이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'노트북 컴퓨터'를 바른 영어로 하면?",
+  "choices": [
+   "note computer",
+   "laptop",
+   "desk book",
+   "note PC"
+  ],
+  "answer": 1,
+  "explanation": "노트북 컴퓨터는 영어로 보통 laptop이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'아이쇼핑'을 바른 영어로 하면?",
+  "choices": [
+   "eye shopping",
+   "sight shopping time",
+   "window shopping",
+   "look shopping"
+  ],
+  "answer": 2,
+  "explanation": "아이쇼핑은 window shopping이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "유명인의 '사인'을 바른 영어로 하면?",
+  "choices": [
+   "sign name",
+   "signal",
+   "design",
+   "autograph"
+  ],
+  "answer": 3,
+  "explanation": "유명인의 사인은 autograph예요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'헬스장'을 바른 영어로 하면?",
+  "choices": [
+   "gym",
+   "health",
+   "muscle room",
+   "power house"
+  ],
+  "answer": 0,
+  "explanation": "헬스장은 gym이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "응원하는 '파이팅!'에 해당하는 자연스러운 영어는?",
+  "choices": [
+   "Fighting!",
+   "Go for it!",
+   "Fight on fire!",
+   "Fight up!"
+  ],
+  "answer": 1,
+  "explanation": "응원할 때는 Go for it! 등을 써요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'에어컨'을 바른 영어로 하면?",
+  "choices": [
+   "air condition machine",
+   "cooling fan box",
+   "air conditioner",
+   "air control"
+  ],
+  "answer": 2,
+  "explanation": "에어컨은 air conditioner예요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'개그맨'을 바른 영어로 하면?",
+  "choices": [
+   "gag actor",
+   "joke talker",
+   "fun player",
+   "comedian"
+  ],
+  "answer": 3,
+  "explanation": "개그맨은 comedian이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'컨닝(시험 부정행위)'을 바른 영어로 하면?",
+  "choices": [
+   "cheating",
+   "cunning",
+   "copying sheet",
+   "peeking test"
+  ],
+  "answer": 0,
+  "explanation": "시험 부정행위는 cheating이에요. cunning은 '교활한'이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'와이셔츠'를 바른 영어로 하면?",
+  "choices": [
+   "Y-shirt",
+   "dress shirt",
+   "white shirts",
+   "why shirt"
+  ],
+  "answer": 1,
+  "explanation": "와이셔츠는 dress shirt예요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'SNS'를 영어권에서 흔히 부르는 말은?",
+  "choices": [
+   "SNS life",
+   "social net show",
+   "social media",
+   "web talk"
+  ],
+  "answer": 2,
+  "explanation": "영어권에서는 보통 social media라고 해요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'스킨십'에 가장 가까운 바른 영어는?",
+  "choices": [
+   "skinship",
+   "skin touch",
+   "skinship contact act",
+   "physical affection"
+  ],
+  "answer": 3,
+  "explanation": "스킨십은 physical affection 등으로 표현해요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'리모컨'을 바른 영어로 하면?",
+  "choices": [
+   "remote",
+   "remocon",
+   "remote contact",
+   "control box"
+  ],
+  "answer": 0,
+  "explanation": "리모컨은 remote(remote control)예요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "호텔의 '모닝콜'을 바른 영어로 하면?",
+  "choices": [
+   "morning call",
+   "wake-up call",
+   "alarm phone",
+   "early ring"
+  ],
+  "answer": 1,
+  "explanation": "호텔 모닝콜은 wake-up call이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'더치페이하자'에 해당하는 자연스러운 영어는?",
+  "choices": [
+   "Let's Dutch pay.",
+   "Let's pay Dutch style.",
+   "Let's split the bill.",
+   "Let's half money."
+  ],
+  "answer": 2,
+  "explanation": "각자 내자는 말은 Let's split the bill.이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'원룸'을 미국 영어로 하면?",
+  "choices": [
+   "one room",
+   "one-room house",
+   "solo house",
+   "studio"
+  ],
+  "answer": 3,
+  "explanation": "원룸은 미국에서 studio (apartment)라고 해요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "자동차 '핸들'은 영어로 'steering wheel'이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "자동차 핸들은 steering wheel이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'아파트'는 영어로 'apart'라고 한다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "아파트는 apartment예요. apart는 '떨어져'라는 뜻이에요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "주방의 '믹서기'는 영어로 'blender'라고 한다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "주방 믹서기는 blender예요.",
+  "semester": 1,
+  "unit": "콩글리시 바로잡기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: They left ___ bags here.",
+  "choices": [
+   "their",
+   "there",
+   "they're",
+   "them"
+  ],
+  "answer": 0,
+  "explanation": "'그들의'는 소유격 their예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: It's ___ hot today.",
+  "choices": [
+   "to",
+   "too",
+   "two",
+   "toe"
+  ],
+  "answer": 1,
+  "explanation": "'너무'는 too예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: Can you ___ me your pen?",
+  "choices": [
+   "borrow",
+   "owe",
+   "lend",
+   "take"
+  ],
+  "answer": 2,
+  "explanation": "'빌려주다'는 lend예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: I ___ the answer.",
+  "choices": [
+   "no",
+   "now",
+   "known",
+   "know"
+  ],
+  "answer": 3,
+  "explanation": "'알다'는 know예요. 발음이 같은 no, 비슷한 now와 헷갈리지 마세요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "빈칸: I didn't sleep well, so I feel ___.",
+  "choices": [
+   "tired",
+   "tiring",
+   "tire",
+   "tires"
+  ],
+  "answer": 0,
+  "explanation": "사람이 피곤함을 느끼면 tired예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: The new rule will ___ all students.",
+  "choices": [
+   "effect",
+   "affect",
+   "effort",
+   "afford"
+  ],
+  "answer": 1,
+  "explanation": "'영향을 주다'라는 동사는 affect예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: Your advice had a big ___ on me.",
+  "choices": [
+   "affect",
+   "affair",
+   "effect",
+   "effort"
+  ],
+  "answer": 2,
+  "explanation": "'영향'이라는 명사는 effect예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: Please ___ the book on the table.",
+  "choices": [
+   "lie",
+   "lain",
+   "lied",
+   "lay"
+  ],
+  "answer": 3,
+  "explanation": "목적어를 '놓다'는 lay예요. lie는 '눕다'예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: The ___ of our school is kind.",
+  "choices": [
+   "principal",
+   "principle",
+   "principality",
+   "primate"
+  ],
+  "answer": 0,
+  "explanation": "교장은 principal, 원칙은 principle이에요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: I need to buy some ___ for my letters.",
+  "choices": [
+   "stationary",
+   "stationery",
+   "station",
+   "statement"
+  ],
+  "answer": 1,
+  "explanation": "문구류는 stationery, '정지된'은 stationary예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "빈칸: She ___ me to finish early.",
+  "choices": [
+   "advice",
+   "adviced",
+   "advised",
+   "advise"
+  ],
+  "answer": 2,
+  "explanation": "동사 advise의 과거형 advised예요. advice는 명사예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: The teacher tried to ___ a response from the shy student.",
+  "choices": [
+   "illicit",
+   "explicit",
+   "implicit",
+   "elicit"
+  ],
+  "answer": 3,
+  "explanation": "elicit은 '(반응을) 끌어내다'예요. illicit은 '불법의'예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'complement'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "보완하다",
+   "칭찬하다",
+   "완료하다",
+   "불평하다"
+  ],
+  "answer": 0,
+  "explanation": "complement는 '보완하다', compliment는 '칭찬하다'예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: The medicine had several adverse ___.",
+  "choices": [
+   "affects",
+   "effects",
+   "efforts",
+   "affairs"
+  ],
+  "answer": 1,
+  "explanation": "부작용은 adverse effects예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'간간이 되풀이되는'의 뜻에 가장 가까운 단어는?",
+  "choices": [
+   "continuous",
+   "contiguous",
+   "continual",
+   "contingent"
+  ],
+  "answer": 2,
+  "explanation": "continual은 반복되는, continuous는 끊김 없는이에요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'economical'의 뜻으로 알맞은 것은?",
+  "choices": [
+   "경제학의",
+   "생태학의",
+   "천문학의",
+   "절약하는"
+  ],
+  "answer": 3,
+  "explanation": "economical은 '절약하는, 경제적인'이에요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'quiet'와 'quite'는 같은 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "quiet는 '조용한', quite는 '꽤'예요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'desert'는 '사막', 'dessert'는 '후식'이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "s가 하나면 사막, 둘이면 후식이에요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'imply'는 '암시하다', 'infer'는 '추론하다'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "말하는 이가 imply하고 듣는 이가 infer해요.",
+  "semester": 1,
+  "unit": "혼동 어휘"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'책을 펴세요'를 영어로 하면?",
+  "choices": [
+   "Open your books.",
+   "Close your books.",
+   "Read your books.",
+   "Take your books."
+  ],
+  "answer": 0,
+  "explanation": "책을 펴라는 말은 Open your books.예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Line up, please.'의 뜻은?",
+  "choices": [
+   "손을 드세요",
+   "줄을 서세요",
+   "자리에 앉으세요",
+   "조용히 하세요"
+  ],
+  "answer": 1,
+  "explanation": "line up은 '줄을 서다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Raise your hand.'의 뜻은?",
+  "choices": [
+   "손을 씻으세요",
+   "손을 잡으세요",
+   "손을 드세요",
+   "손뼉을 치세요"
+  ],
+  "answer": 2,
+  "explanation": "raise your hand는 '손을 들다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'짝과 함께 하세요'를 영어로 하면?",
+  "choices": [
+   "Work in groups.",
+   "Work alone.",
+   "Work at home.",
+   "Work in pairs."
+  ],
+  "answer": 3,
+  "explanation": "짝 활동은 Work in pairs.예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Eyes on me.'의 뜻은?",
+  "choices": [
+   "선생님을 보세요",
+   "눈을 감으세요",
+   "눈을 비비세요",
+   "칠판을 지우세요"
+  ],
+  "answer": 0,
+  "explanation": "Eyes on me.는 '나(선생님)를 보세요'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Take out your pencils.'의 뜻은?",
+  "choices": [
+   "연필을 깎으세요",
+   "연필을 꺼내세요",
+   "연필을 넣으세요",
+   "연필을 빌려주세요"
+  ],
+  "answer": 1,
+  "explanation": "take out은 '꺼내다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Pass these papers back.'의 뜻은?",
+  "choices": [
+   "앞으로 제출하세요",
+   "바닥에 버리세요",
+   "뒤로 전달하세요",
+   "반으로 접으세요"
+  ],
+  "answer": 2,
+  "explanation": "pass back은 '뒤로 전달하다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Who's absent today?'의 뜻은?",
+  "choices": [
+   "오늘 누가 당번인가요?",
+   "오늘 누가 지각했나요?",
+   "오늘 누가 발표하나요?",
+   "오늘 누가 결석했나요?"
+  ],
+  "answer": 3,
+  "explanation": "absent는 '결석한'이에요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Hand in your homework.'의 뜻은?",
+  "choices": [
+   "숙제를 제출하세요",
+   "숙제를 시작하세요",
+   "숙제를 나눠 주세요",
+   "숙제를 확인하세요"
+  ],
+  "answer": 0,
+  "explanation": "hand in은 '제출하다', hand out은 '나눠 주다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "칭찬하는 말이 아닌 것은?",
+  "choices": [
+   "Good job!",
+   "Too bad!",
+   "Well done!",
+   "Excellent!"
+  ],
+  "answer": 1,
+  "explanation": "Too bad!는 '안됐다'는 뜻으로 칭찬이 아니에요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Let's take a break.'의 뜻은?",
+  "choices": [
+   "무언가를 부수자",
+   "시작하자",
+   "잠깐 쉬자",
+   "정리하자"
+  ],
+  "answer": 2,
+  "explanation": "take a break는 '잠깐 쉬다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Be quiet, please.'와 비슷한 뜻의 말은?",
+  "choices": [
+   "Speak up, please.",
+   "Louder, please.",
+   "Talk freely.",
+   "Settle down."
+  ],
+  "answer": 3,
+  "explanation": "Settle down.은 '진정하고 조용히 해'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Speak up, please.'의 뜻은?",
+  "choices": [
+   "크게 말해 주세요",
+   "그만 말하세요",
+   "위로 올라가세요",
+   "천천히 말해 주세요"
+  ],
+  "answer": 0,
+  "explanation": "speak up은 '더 크게 말하다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Who wants to volunteer?'에서 volunteer의 뜻은?",
+  "choices": [
+   "투표하다",
+   "자원하다",
+   "방문하다",
+   "비교하다"
+  ],
+  "answer": 1,
+  "explanation": "volunteer는 '자원하다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "빈칸: Please ___ the handouts to your classmates.",
+  "choices": [
+   "contribute",
+   "attribute",
+   "distribute",
+   "retribute"
+  ],
+  "answer": 2,
+  "explanation": "distribute는 '나눠 주다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'Let's wrap up today's lesson.'의 뜻은?",
+  "choices": [
+   "수업을 시작하자",
+   "수업을 포장하자",
+   "수업을 뒤로 미루자",
+   "수업을 마무리하자"
+  ],
+  "answer": 3,
+  "explanation": "wrap up은 '마무리하다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'Can you elaborate on that?'의 뜻은?",
+  "choices": [
+   "자세히 말해 줄래?",
+   "짧게 줄여 줄래?",
+   "그걸 다시 써 줄래?",
+   "그걸 지워 줄래?"
+  ],
+  "answer": 0,
+  "explanation": "elaborate on은 '더 자세히 설명하다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'Jot down the key words.'의 뜻은?",
+  "choices": [
+   "핵심어를 지우세요",
+   "핵심어를 적어 두세요",
+   "핵심어를 크게 읽으세요",
+   "핵심어를 발표하세요"
+  ],
+  "answer": 1,
+  "explanation": "jot down은 '간단히 적어 두다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'Sit down, please.'는 '앉으세요'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "Sit down은 '앉다'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'Hand out'은 '제출하다'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "hand out은 '나눠 주다', 제출은 hand in이에요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'pop quiz'는 '예고 없이 보는 쪽지 시험'이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "pop quiz는 예고 없이 보는 짧은 시험이에요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'library'는 '도서관'이라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "library는 '도서관'이에요.",
+  "semester": 1,
+  "unit": "어휘 뜻"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'Stand up.'은 '앉으세요'라는 뜻이다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "Stand up.은 '일어서세요'예요.",
+  "semester": 1,
+  "unit": "교실 영어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'Excuse me.'는 남의 주의를 끌 때 쓸 수 있다.",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "Excuse me.는 말을 걸거나 주의를 끌 때 써요.",
+  "semester": 1,
+  "unit": "생활 회화"
+ }
+]

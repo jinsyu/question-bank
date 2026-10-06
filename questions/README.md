@@ -30,6 +30,11 @@
 - `unit`: 단원 이름 (짧게)
 - 검증: 저장소 루트에서 `npm run check`
 
+## 성인(교사) 문항
+
+`adult-{과목}.json` (과목: `korean` 우리말, `english` 영어, `general` 일반상식). 망각의 탑의 '성인' 학년이 읽어요.
+형식은 위와 같고 `semester`는 항상 1이에요. rpg는 `g3~g6-` 파일만 읽어서 성인 문항은 들어가지 않아요.
+
 ## math-king에서 가져온 수학 문제
 
 `g{학년}-math.mathking.json`은 수학 문제 생성기(`src/math/content`, math-king에서 옮겨 옴)에서 뽑은 파일이에요. 손으로 고치지 말고 다시 만들어요.

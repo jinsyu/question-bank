@@ -4,6 +4,7 @@ import { basename, join } from "node:path";
 
 const DIR = "questions";
 const SUBJECTS = ["korean", "math", "social", "science", "english"];
+const ADULT_SUBJECTS = ["korean", "english", "general"]; // 성인(교사) 문항: adult-{과목}.json
 const files = process.argv.slice(2).length ? process.argv.slice(2) : readdirSync(DIR).filter((f) => f.endsWith(".json")).map((f) => join(DIR, f));
 
 let errors = 0;
@@ -11,9 +12,9 @@ const report = [];
 const allQuestions = new Map(); // 문제+보기 → 파일 (다른 파일끼리 중복/덮어쓰기 감지)
 const seenByGroup = new Map(); // 학년-과목 → 문제 문장 (같은 학년·과목은 파일이 여러 개여도 문장이 하나뿐이어야 한다)
 for (const file of files) {
-  // g4-math.json 또는 g4-math.mathking.json (같은 학년·과목의 추가 파일)
-  const m = basename(file).match(/^g([1-6])-([a-z]+)(\.[\w-]+)?\.json$/);
-  if (!m || !SUBJECTS.includes(m[2])) {
+  // g4-math.json 또는 g4-math.mathking.json (같은 학년·과목의 추가 파일), 성인은 adult-general.json
+  const m = basename(file).match(/^(g[1-6]|adult)-([a-z]+)(\.[\w-]+)?\.json$/);
+  if (!m || !(m[1] === "adult" ? ADULT_SUBJECTS : SUBJECTS).includes(m[2])) {
     console.error(`${file}: 파일 이름 형식이 틀렸어요`);
     errors++;
     continue;
