@@ -43,22 +43,22 @@
     "unit": "한글 자음과 모음"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "자음 'ㅅ'과 모음 'ㅜ'를 합쳐 쓴 글자는 무엇일까요?",
+    "question": "자음 'ㄷ'과 모음 'ㅜ'를 합쳐 쓴 글자는 무엇일까요?",
     "choices": [
-      "서",
-      "수",
-      "사",
-      "소"
+      "두",
+      "도",
+      "더",
+      "다"
     ],
-    "answer": 1,
-    "explanation": "ㅅ과 ㅜ를 합치면 '수'예요.",
+    "answer": 0,
+    "explanation": "'ㄷ'과 'ㅜ'를 합치면 '두'예요.",
     "semester": 1,
     "unit": "한글 자음과 모음"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "모음 글자만 모아 놓은 것은 무엇일까요?",
     "choices": [
@@ -103,7 +103,7 @@
     "unit": "글자 읽고 쓰기"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "ox",
     "question": "'오리'는 두 글자예요.",
     "choices": [
@@ -113,25 +113,27 @@
     "answer": 0,
     "explanation": "'오'와 '리' 두 글자예요.",
     "semester": 1,
-    "unit": "글자 읽고 쓰기"
+    "unit": "글자 읽고 쓰기",
+    "standard": "[2국02-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "'구'와 '두'를 차례로 쓰려고 해요. 발에 신는 물건 이름이 되도록 쓴 것은 무엇일까요?",
+    "question": "발에 신는 물건의 이름을 바르게 쓴 것은 무엇일까요?",
     "choices": [
-      "구구",
+      "구도",
+      "고두",
       "구두",
-      "두두",
-      "두구"
+      "구드"
     ],
-    "answer": 1,
-    "explanation": "구, 두를 차례로 쓰면 '구두'예요.",
+    "answer": 2,
+    "explanation": "발에 신는 물건은 '구두'라고 써요.",
     "semester": 1,
-    "unit": "글자 읽고 쓰기"
+    "unit": "글자 읽고 쓰기",
+    "standard": "[2국03-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "귀가 길고 깡충깡충 뛰어다니는 동물의 이름을 바르게 쓴 것은 무엇일까요?",
     "choices": [
@@ -143,7 +145,8 @@
     "answer": 2,
     "explanation": "토끼는 귀가 길고 깡충깡충 뛰어요.",
     "semester": 1,
-    "unit": "글자 읽고 쓰기"
+    "unit": "글자 읽고 쓰기",
+    "standard": "[2국03-01]"
   },
   {
     "difficulty": 1,
@@ -191,9 +194,9 @@
     "unit": "낱말 알아보기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "ox",
-    "question": "'가방'과 '방가'는 같은 낱말이에요.",
+    "question": "'가방'의 글자 순서를 바꾼 '방가'는 '가방'과 같은 낱말이에요.",
     "choices": [
       "O",
       "X"
@@ -201,10 +204,11 @@
     "answer": 1,
     "explanation": "글자 순서가 바뀌면 다른 낱말이에요.",
     "semester": 1,
-    "unit": "낱말 알아보기"
+    "unit": "낱말 알아보기",
+    "standard": "[2국02-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "'나'로 시작하지 않는 낱말은 무엇일까요?",
     "choices": [
@@ -216,7 +220,8 @@
     "answer": 2,
     "explanation": "다리는 '다'로 시작해요.",
     "semester": 1,
-    "unit": "낱말 알아보기"
+    "unit": "낱말 알아보기",
+    "standard": "[2국02-01]"
   },
   {
     "difficulty": 1,
@@ -234,19 +239,20 @@
     "unit": "문장과 문장 부호"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "묻는 문장의 끝에 쓰는 문장 부호는 무엇일까요?",
+    "question": "'사과( ) 배( ) 귤을 샀어요.'의 ( )에 알맞은 문장 부호는 무엇일까요?",
     "choices": [
-      "?",
-      ".",
       ",",
-      "!"
+      "?",
+      "!",
+      "."
     ],
     "answer": 0,
-    "explanation": "묻는 문장 끝에는 물음표를 써요.",
+    "explanation": "여러 가지를 늘어놓을 때에는 그 사이에 쉼표(,)를 써요.",
     "semester": 1,
-    "unit": "문장과 문장 부호"
+    "unit": "문장과 문장 부호",
+    "standard": "[2국04-03]"
   },
   {
     "difficulty": 2,
@@ -262,34 +268,36 @@
     "unit": "문장과 문장 부호"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "낱말이 아니라 문장인 것은 무엇일까요?",
     "choices": [
-      "하늘",
-      "비가 와요.",
-      "우산",
-      "강아지"
+      "파란 하늘",
+      "비가 와요",
+      "노란 우산",
+      "작은 강아지"
     ],
     "answer": 1,
-    "explanation": "뜻이 끝까지 통하는 것이 문장이에요.",
+    "explanation": "'비가 와요'는 무엇이 어찌하는지 끝까지 말해서 문장이에요.",
     "semester": 1,
-    "unit": "문장과 문장 부호"
+    "unit": "문장과 문장 부호",
+    "standard": "[2국04-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "'나는', '빵을', '먹어요'를 이어서 자연스러운 문장을 만든 것은 무엇일까요?",
     "choices": [
-      "먹어요 나는 빵을",
-      "나는 먹어요 빵을",
-      "나는 빵을 먹어요",
-      "빵을 먹어요 나는"
+      "먹어요 나는 빵을.",
+      "나는 먹어요 빵을.",
+      "나는 빵을 먹어요.",
+      "빵을 먹어요 나는."
     ],
     "answer": 2,
     "explanation": "누가, 무엇을, 어찌한다 차례로 써요.",
     "semester": 1,
-    "unit": "문장과 문장 부호"
+    "unit": "문장과 문장 부호",
+    "standard": "[2국04-03]"
   },
   {
     "difficulty": 1,
@@ -307,7 +315,7 @@
     "unit": "고운 말과 대화"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
     "question": "친구가 넘어졌을 때 건네면 좋은 말은 무엇일까요?",
     "choices": [
@@ -319,7 +327,8 @@
     "answer": 0,
     "explanation": "걱정하는 마음을 담아 물어요.",
     "semester": 1,
-    "unit": "고운 말과 대화"
+    "unit": "고운 말과 대화",
+    "standard": "[2국01-02]"
   },
   {
     "difficulty": 2,
@@ -335,9 +344,9 @@
     "unit": "고운 말과 대화"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "친구의 물건을 실수로 밟았어요. 어떻게 말하면 좋을까요?",
+    "question": "친구의 발을 실수로 밟았어요. 어떻게 말하면 좋을까요?",
     "choices": [
       "왜 거기 있었어?",
       "미안해. 많이 아프니?",
@@ -347,10 +356,11 @@
     "answer": 1,
     "explanation": "사과하고 걱정하는 말을 해요.",
     "semester": 1,
-    "unit": "고운 말과 대화"
+    "unit": "고운 말과 대화",
+    "standard": "[2국01-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
     "question": "선생님이 말씀하실 때 바르게 듣는 모습은 무엇일까요?",
     "choices": [
@@ -362,12 +372,13 @@
     "answer": 2,
     "explanation": "말하는 사람을 바라보며 들어요.",
     "semester": 1,
-    "unit": "고운 말과 대화"
+    "unit": "고운 말과 대화",
+    "standard": "[2국01-03]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "끝말잇기를 해요. 사자, 자전거, 거□에서 □에 들어갈 낱말로 알맞은 것은 무엇일까요?",
+    "question": "끝말잇기를 해요. '사자 - 자전거 - □'에서 □에 들어갈 낱말로 알맞은 것은 무엇일까요?",
     "choices": [
       "구름",
       "고래",
@@ -377,10 +388,11 @@
     "answer": 3,
     "explanation": "자전거의 끝 글자 '거'로 시작해요.",
     "semester": 1,
-    "unit": "말놀이와 시"
+    "unit": "말놀이와 시",
+    "standard": "[2국05-01]"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
     "question": "'멍멍' 소리를 내는 동물은 무엇일까요?",
     "choices": [
@@ -392,7 +404,8 @@
     "answer": 0,
     "explanation": "멍멍은 강아지 소리예요.",
     "semester": 1,
-    "unit": "말놀이와 시"
+    "unit": "말놀이와 시",
+    "standard": "[2국05-01]"
   },
   {
     "difficulty": 2,
@@ -450,10 +463,11 @@
     "answer": 3,
     "explanation": "꽃의 받침은 'ㅊ'이에요.",
     "semester": 2,
-    "unit": "받침 있는 글자"
+    "unit": "받침 있는 글자",
+    "standard": "[2국04-01]"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
     "question": "받침이 있는 글자는 무엇일까요?",
     "choices": [
@@ -465,7 +479,8 @@
     "answer": 0,
     "explanation": "'강'에는 받침 'ㅇ'이 있어요.",
     "semester": 2,
-    "unit": "받침 있는 글자"
+    "unit": "받침 있는 글자",
+    "standard": "[2국04-01]"
   },
   {
     "difficulty": 2,
@@ -476,12 +491,13 @@
       "X"
     ],
     "answer": 1,
-    "explanation": "밥은 ㅂ, 밤은 ㅁ이에요.",
+    "explanation": "'밥'의 받침은 'ㅂ', '밤'의 받침은 'ㅁ'이에요.",
     "semester": 2,
-    "unit": "받침 있는 글자"
+    "unit": "받침 있는 글자",
+    "standard": "[2국04-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "받침 'ㄴ'이 있는 글자는 무엇일까요?",
     "choices": [
@@ -493,10 +509,11 @@
     "answer": 1,
     "explanation": "산에는 받침 'ㄴ'이 있어요.",
     "semester": 2,
-    "unit": "받침 있는 글자"
+    "unit": "받침 있는 글자",
+    "standard": "[2국04-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "글자마다 받침이 모두 있는 낱말은 무엇일까요?",
     "choices": [
@@ -508,78 +525,84 @@
     "answer": 2,
     "explanation": "책, 상 모두 받침이 있어요.",
     "semester": 2,
-    "unit": "받침 있는 글자"
+    "unit": "받침 있는 글자",
+    "standard": "[2국04-01]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'강아지가 짖어요. 나는 깜짝 놀랐어요.'를 소리 내어 읽을 때 가장 길게 쉬는 곳은 어디일까요?",
+    "choices": [
+      "'강아지가' 뒤",
+      "'짖어요.' 뒤",
+      "'나는' 뒤",
+      "'깜짝' 뒤"
+    ],
+    "answer": 1,
+    "explanation": "문장이 끝나는 마침표 뒤에서 가장 길게 쉬어 읽어요.",
+    "semester": 2,
+    "unit": "띄어 읽기",
+    "standard": "[2국02-02]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "알맞게 띄어 읽으면 듣는 사람이 문장의 뜻을 더 쉽게 알 수 있어요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "뜻이 잘 드러나게 띄어 읽으면 듣는 사람이 잘 알아들어요.",
+    "semester": 2,
+    "unit": "띄어 읽기",
+    "standard": "[2국02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'민수야, 같이 놀자.'를 알맞게 띄어 읽은 것은 무엇일까요?",
+    "choices": [
+      "민수야, / 같이 놀자.",
+      "민 / 수야, 같이 놀자.",
+      "민수야, 같 / 이 놀자.",
+      "민수야, 같이 놀 / 자."
+    ],
+    "answer": 0,
+    "explanation": "쉼표가 있는 '민수야,' 뒤에서 쉬어 읽어요.",
+    "semester": 2,
+    "unit": "띄어 읽기",
+    "standard": "[2국02-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'나는 공원에 가요'를 바르게 띄어 읽은 것은 무엇일까요?",
+    "question": "'우리는 / 운동장에서 / 공을 차요.'처럼 문장에 '/'를 그어 놓았어요. '/'는 무엇을 나타낼까요?",
     "choices": [
-      "나 / 는공원 / 에가요",
-      "나는공 / 원에 / 가요",
-      "나는공원에 / 가 / 요",
-      "나는 / 공원에 / 가요"
+      "크게 읽는 곳",
+      "쉬어 읽는 곳",
+      "지우는 글자",
+      "틀린 낱말"
     ],
-    "answer": 3,
-    "explanation": "낱말이 끊기지 않게 읽어요.",
+    "answer": 1,
+    "explanation": "'/'는 읽을 때 잠깐 쉬어 읽는 곳을 나타내요.",
     "semester": 2,
-    "unit": "띄어 읽기"
+    "unit": "띄어 읽기",
+    "standard": "[2국02-02]"
   },
   {
     "difficulty": 2,
     "type": "ox",
-    "question": "띄어 읽기는 낱말 한가운데를 끊어서 읽는 것이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "뜻이 잘 드러나게 낱말 사이에서 쉬어요.",
-    "semester": 2,
-    "unit": "띄어 읽기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "띄어쓰기가 바른 문장은 무엇일까요?",
-    "choices": [
-      "나는 책을 읽어요",
-      "나는책을읽어요",
-      "나는책을 읽어요",
-      "나는 책을읽어요"
-    ],
-    "answer": 0,
-    "explanation": "낱말 사이를 띄어 써요.",
-    "semester": 2,
-    "unit": "띄어 읽기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "'비가 와요. 우산을 써요.'를 읽을 때 마침표를 만나면 어떻게 읽을까요?",
-    "choices": [
-      "쉬지 않고 이어 읽어요",
-      "조금 쉬었다가 읽어요",
-      "건너뛰고 읽어요",
-      "소리를 지르며 읽어요"
-    ],
-    "answer": 1,
-    "explanation": "문장이 끝나면 조금 쉬어 읽어요.",
-    "semester": 2,
-    "unit": "띄어 읽기"
-  },
-  {
-    "difficulty": 3,
-    "type": "ox",
-    "question": "'아버지가 방에 들어가신다'와 '아버지 가방에 들어가신다'는 띄어쓰기가 달라서 뜻이 달라요.",
+    "question": "'아버지가 방에 들어가신다'와 '아버지 가방에 들어가신다'는 띄어 읽는 곳이 달라서 뜻이 달라져요.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 0,
-    "explanation": "띄어쓰기에 따라 뜻이 달라질 수 있어요.",
+    "explanation": "어디에서 띄어 읽느냐에 따라 뜻이 달라질 수 있어요.",
     "semester": 2,
-    "unit": "띄어 읽기"
+    "unit": "띄어 읽기",
+    "standard": "[2국02-02]"
   },
   {
     "difficulty": 1,
@@ -625,7 +648,7 @@
     "unit": "문장 쓰기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "문장 부호가 알맞게 쓰인 문장은 무엇일까요?",
     "choices": [
@@ -640,16 +663,16 @@
     "unit": "문장 쓰기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "오늘 한 일을 문장으로 알맞게 쓴 것은 무엇일까요?",
     "choices": [
-      "나는 공원",
       "나는 공원에서 놀았어요.",
-      "놀았어요 공원 나는",
-      "공원에서"
+      "나는 공원에서.",
+      "공원에서 나는 놀았어요 나는.",
+      "놀았어요 나는 공원에서."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "누가 어디서 무엇을 했는지 써요.",
     "semester": 2,
     "unit": "문장 쓰기"
@@ -672,7 +695,7 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "소풍날 아침에 비가 와서 소풍이 취소되었어요. 마음은 어떨까요?",
+    "question": "소풍날 아침에 비가 와서 소풍이 취소되었어요. 서연이의 마음은 어떨까요?",
     "choices": [
       "신나요",
       "뿌듯해요",
@@ -700,14 +723,14 @@
     "unit": "인물의 마음"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "하나는 친구의 장난감을 망가뜨렸어요. 하나가 친구에게 할 말로 알맞은 것은 무엇일까요?",
     "choices": [
-      "하하, 재미있다.",
-      "미안해. 내가 망가뜨렸어.",
-      "난 몰라.",
-      "내 것이 아니야."
+      "하하, 정말 재미있다.",
+      "미안해, 내가 망가뜨렸어.",
+      "그건 난 정말 몰라.",
+      "원래 고장 난 거야."
     ],
     "answer": 1,
     "explanation": "잘못했으면 솔직하게 사과해요.",
@@ -715,17 +738,17 @@
     "unit": "인물의 마음"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "철수는 달리기에서 1등을 했어요. 철수의 마음으로 알맞지 않은 것은 무엇일까요?",
     "choices": [
       "기뻐요",
       "뿌듯해요",
-      "슬프고 외로워요",
+      "슬퍼요",
       "자랑스러워요"
     ],
     "answer": 2,
-    "explanation": "1등을 하면 기쁘고 뿌듯해요.",
+    "explanation": "1등을 하면 기쁘고 뿌듯해요. 슬픈 마음은 알맞지 않아요.",
     "semester": 2,
     "unit": "인물의 마음"
   },
@@ -742,55 +765,59 @@
     "answer": 3,
     "explanation": "세수 다음은 밥 먹기예요.",
     "semester": 2,
-    "unit": "순서대로 말하기"
+    "unit": "순서대로 말하기",
+    "standard": "[2국01-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "일이 일어난 차례를 말할 때 쓰는 말은 무엇일까요?",
     "choices": [
-      "먼저, 그다음, 마지막으로",
+      "먼저, 다음에, 끝으로",
       "그러나, 하지만, 그런데",
-      "와, 아, 어머",
-      "그리고, 그리고, 그리고"
+      "와, 어머나, 깜짝이야",
+      "그래서, 그러니까, 그러면"
     ],
     "answer": 0,
     "explanation": "차례를 나타내는 말이에요.",
     "semester": 2,
-    "unit": "순서대로 말하기"
+    "unit": "순서대로 말하기",
+    "standard": "[2국01-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "씨앗 심기, 물 주기, 싹 나기를 일어나는 차례대로 쓴 것은 무엇일까요?",
+    "question": "싹 나기, 씨앗 심기, 물 주기를 일어나는 차례대로 바르게 쓴 것은 무엇일까요?",
     "choices": [
       "싹 나기, 물 주기, 씨앗 심기",
       "씨앗 심기, 물 주기, 싹 나기",
-      "싹 나기, 씨앗 심기, 물 주기",
+      "물 주기, 씨앗 심기, 싹 나기",
       "물 주기, 싹 나기, 씨앗 심기"
     ],
     "answer": 1,
     "explanation": "심고 물을 주면 싹이 나요.",
     "semester": 2,
-    "unit": "순서대로 말하기"
+    "unit": "순서대로 말하기",
+    "standard": "[2국01-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "빵을 만들어요. 재료 모으기, 반죽하기, 오븐에 굽기, 맛있게 먹기 중 가장 마지막에 하는 일은 무엇일까요?",
+    "question": "빵을 만들어요. 오븐에 굽기, 재료 모으기, 맛있게 먹기, 반죽하기 중 오븐에 굽기 바로 전에 하는 일은 무엇일까요?",
     "choices": [
       "반죽하기",
       "재료 모으기",
       "맛있게 먹기",
       "오븐에 굽기"
     ],
-    "answer": 2,
-    "explanation": "다 구운 뒤에 먹어요.",
+    "answer": 0,
+    "explanation": "재료를 모으고 반죽한 다음에 오븐에 구워요.",
     "semester": 2,
-    "unit": "순서대로 말하기"
+    "unit": "순서대로 말하기",
+    "standard": "[2국01-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "민지는 먼저 양치를 하고, 그다음 잠옷을 입고, 마지막으로 이불을 덮었어요. 두 번째로 한 일은 무엇일까요?",
     "choices": [
@@ -802,7 +829,8 @@
     "answer": 3,
     "explanation": "양치, 잠옷, 이불 차례예요.",
     "semester": 2,
-    "unit": "순서대로 말하기"
+    "unit": "순서대로 말하기",
+    "standard": "[2국01-01]"
   },
   {
     "difficulty": 1,
@@ -837,20 +865,21 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "개미는 작지만 힘이 세요. 자기 몸보다 큰 먹이를 옮겨요. 개미의 모습으로 알맞은 것은 무엇일까요?",
+    "question": "개미는 작지만 힘이 세요. 자기 몸보다 큰 먹이를 옮겨요. 이 글은 개미의 어떤 점을 말하고 있나요?",
     "choices": [
-      "날 수 있어요",
-      "물속에서 살아요",
-      "작지만 힘이 세요",
-      "크고 느려요"
+      "힘이 센 점",
+      "사는 곳",
+      "먹이의 맛",
+      "몸의 색깔"
     ],
-    "answer": 2,
-    "explanation": "글에 작지만 힘이 세다고 나와요.",
+    "answer": 0,
+    "explanation": "글 전체가 개미가 힘이 세다는 점을 말해요.",
     "semester": 2,
-    "unit": "짧은 글의 중심 내용"
+    "unit": "짧은 글의 중심 내용",
+    "standard": "[2국02-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
     "question": "봄이 오면 꽃이 피어요. 나비가 꽃에 날아와요. 이 글에 나오지 않는 것은 무엇일까요?",
     "choices": [
@@ -865,14 +894,14 @@
     "unit": "짧은 글의 중심 내용"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "수진이는 줄넘기를 열심히 연습했어요. 처음에는 한 번도 못 넘었지만 이제는 열 번을 넘어요. 이 글의 중심 내용은 무엇일까요?",
     "choices": [
       "연습해서 줄넘기를 잘하게 됐어요",
-      "친구와 싸웠어요",
-      "줄넘기를 싫어하게 됐어요",
-      "줄넘기가 너무 비싸요"
+      "처음에는 줄넘기를 한 번도 못 넘었어요",
+      "수진이는 줄넘기 열 번을 넘고 싶어요",
+      "수진이는 줄넘기 연습을 그만두었어요"
     ],
     "answer": 0,
     "explanation": "연습한 덕분에 실력이 늘었어요.",
@@ -1221,7 +1250,7 @@
     ],
     "answer": 0,
     "explanation": "'눈'은 '누'에 받침 'ㄴ'이 있는 글자예요.",
-    "standard": "[2국04-02]",
+    "standard": "[2국04-01]",
     "semester": 2,
     "unit": "받침 있는 글자"
   },
@@ -1237,7 +1266,7 @@
     ],
     "answer": 1,
     "explanation": "'나', '비', '모', '자'에는 받침이 없어요.",
-    "standard": "[2국04-02]",
+    "standard": "[2국04-01]",
     "semester": 2,
     "unit": "받침 있는 글자"
   },
@@ -1251,7 +1280,7 @@
     ],
     "answer": 0,
     "explanation": "'밥'은 '바'에 받침 'ㅂ'이 있는 글자예요.",
-    "standard": "[2국04-02]",
+    "standard": "[2국04-01]",
     "semester": 2,
     "unit": "받침 있는 글자"
   },
@@ -1267,7 +1296,7 @@
     ],
     "answer": 2,
     "explanation": "'밤'은 '바'에 받침 'ㅁ'이 있어요.",
-    "standard": "[2국04-02]",
+    "standard": "[2국04-01]",
     "semester": 2,
     "unit": "받침 있는 글자"
   },
@@ -1318,15 +1347,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "'동생이 밥을 먹어요'에서 '누가'에 해당하는 낱말은 무엇일까요?",
+    "question": "'누가'가 빠져서 뜻이 완전하지 않은 문장은 무엇일까요?",
     "choices": [
-      "동생이",
-      "밥을",
-      "먹어요",
-      "맛있게"
+      "밥을 먹어요.",
+      "동생이 밥을 먹어요.",
+      "언니가 노래해요.",
+      "아빠가 웃어요."
     ],
     "answer": 0,
-    "explanation": "밥을 먹는 사람은 '동생이'예요.",
+    "explanation": "'밥을 먹어요.'에는 먹는 사람이 누구인지 나타내는 말이 없어요.",
     "standard": "[2국03-02]",
     "semester": 2,
     "unit": "문장 쓰기"
