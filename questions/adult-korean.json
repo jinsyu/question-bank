@@ -2914,5 +2914,8035 @@
   "explanation": "느낌표는 감탄, 부르는 말, 놀람의 물음 끝에 써요. 단순한 물음에는 물음표를 써요.",
   "semester": 1,
   "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'매우 드물고 신기하다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "히한하다",
+   "희한하다",
+   "희안하다",
+   "희얀하다"
+  ],
+  "answer": 1,
+  "explanation": "한자어 '희한(稀罕)'에서 온 말이라 '희한하다'로 적어요. 소리 [히안]에 끌려 틀리기 쉬워요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "쇠고기를 넣고 얼큰하게 끓인 국의 바른 표기는?",
+  "choices": [
+   "육게장",
+   "육깨장",
+   "육계장",
+   "육개장"
+  ],
+  "answer": 3,
+  "explanation": "'개장'에서 온 말이라 '육개장'이에요. 닭고기를 넣었다고 '계(鷄)'로 쓰지 않아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "잘 때 머리를 받치는 물건의 바른 표기는?",
+  "choices": [
+   "베개",
+   "배게",
+   "배개",
+   "베게"
+  ],
+  "answer": 0,
+  "explanation": "'베다'에 '-개'가 붙은 말이라 '베개'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'이 일을 ( )?'(어찌해야 하나)의 빈칸에 알맞은 표기는?",
+  "choices": [
+   "어떡게",
+   "어떻해",
+   "어떻헤",
+   "어떡해"
+  ],
+  "answer": 3,
+  "explanation": "'어떻게 해'가 줄어든 말은 '어떡해'예요. '어떻게'는 방법을 묻는 부사예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "한 손에 쥘 만한 분량을 뜻하는 바른 표기는?",
+  "choices": [
+   "웅큼",
+   "움쿰",
+   "움큼",
+   "웅쿰"
+  ],
+  "answer": 2,
+  "explanation": "표준어는 '움큼'이에요. '한 움큼', '두 움큼'처럼 써요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'같은 말을 되풀이하다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "되내다",
+   "되뇌이다",
+   "되뇌다",
+   "되뇌우다"
+  ],
+  "answer": 2,
+  "explanation": "표준어는 '되뇌다'이고 '되뇌이다'는 잘못이에요. 활용도 '되뇌어', '되뇌었다'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'몹시 흥분하여 입가에 문 거품'의 바른 표기는?",
+  "choices": [
+   "개거품",
+   "개꺼품",
+   "게거품",
+   "게꺼품"
+  ],
+  "answer": 2,
+  "explanation": "게가 내뿜는 거품에 빗댄 말이라 '게거품'이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'어려움을 참고 견디다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "무릎쓰다",
+   "무릅쓰다",
+   "무릎스다",
+   "무릅스다"
+  ],
+  "answer": 1,
+  "explanation": "신체의 '무릎'과 상관없는 말이라 '무릅쓰다'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "넓고 얇게 켠 나무판의 바른 표기는?",
+  "choices": [
+   "널빤지",
+   "널판지",
+   "넓판지",
+   "널반지"
+  ],
+  "answer": 0,
+  "explanation": "'널빤지'가 표준어예요. '널판자'도 표준어지만 '널판지'는 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "두 그릇 몫을 한 그릇에 담은 음식의 바른 표기는?",
+  "choices": [
+   "곱배기",
+   "꼽빼기",
+   "곱빽이",
+   "곱빼기"
+  ],
+  "answer": 3,
+  "explanation": "[빼기]로 소리 나는 '곱빼기'는 '-빼기'로 적어요. '뚝배기'처럼 [배기]로 나는 말과 구별해요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "눈에서 나오는 진득한 액체의 바른 표기는?",
+  "choices": [
+   "눈곲",
+   "눈콥",
+   "눈꼽",
+   "눈곱"
+  ],
+  "answer": 3,
+  "explanation": "'눈'과 '곱'이 합친 말이라 [눈꼽]으로 소리 나도 '눈곱'으로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'일정한 때보다 앞서'를 뜻하는 부사의 바른 표기는?",
+  "choices": [
+   "일찍이",
+   "일직이",
+   "일찌기",
+   "일찍히"
+  ],
+  "answer": 0,
+  "explanation": "'일찍'에 '-이'가 붙은 말이라 원형을 밝혀 '일찍이'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "쓰러뜨려도 다시 일어서는 장난감의 바른 표기는?",
+  "choices": [
+   "오뚝이",
+   "오뚝기",
+   "오똑이",
+   "오뚜기"
+  ],
+  "answer": 0,
+  "explanation": "'오뚝하다'의 '오뚝'에 '-이'가 붙어 '오뚝이'예요. 상표 이름 때문에 헷갈리기 쉬워요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "바느질 도구를 담는 그릇의 바른 표기는?",
+  "choices": [
+   "반짓고리",
+   "반짖고리",
+   "반짇고리",
+   "반질고리"
+  ],
+  "answer": 2,
+  "explanation": "'바느질+고리'에서 ㄹ이 ㄷ으로 바뀐 말이라 받침을 ㄷ으로 적어요. 사이시옷이 아니에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'그다음 날, 둘째 날'의 바른 표기는?",
+  "choices": [
+   "이틋날",
+   "이튼날",
+   "이튿날",
+   "이틀날"
+  ],
+  "answer": 2,
+  "explanation": "'이틀+날'에서 ㄹ이 ㄷ으로 바뀌어 '이튿날'이에요. '사흗날'도 같은 원리예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'안과 밖'을 뜻하는 바른 표기는?",
+  "choices": [
+   "앞밖",
+   "안밖",
+   "안팎",
+   "안팍"
+  ],
+  "answer": 2,
+  "explanation": "'안'은 옛말에서 ㅎ을 지닌 말이라 '밖'과 만나 '안팎'이 돼요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "기름기나 뼈가 없는 순 살의 고기를 바르게 쓴 것은?",
+  "choices": [
+   "살쿄기",
+   "살꼬기",
+   "살코기",
+   "살고기"
+  ],
+  "answer": 2,
+  "explanation": "'살'이 옛말에서 ㅎ을 지닌 말이라 '고기'와 만나 '살코기'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "후회의 뜻으로 '미리 공부( ).'의 빈칸에 알맞은 표기는?",
+  "choices": [
+   "할거얼",
+   "할꺼얼",
+   "할껄",
+   "할걸"
+  ],
+  "answer": 3,
+  "explanation": "어미 '-ㄹ걸'은 [껄]로 소리 나도 예사소리로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'제 이름은 지수( ).'의 빈칸에 알맞은 표기는?",
+  "choices": [
+   "얘요",
+   "에요",
+   "이예요",
+   "예요"
+  ],
+  "answer": 3,
+  "explanation": "받침 없는 말 뒤에는 '이에요'가 줄어든 '예요'를 써요. '이예요'는 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'그건 제 것이 ( ).'의 빈칸에 알맞은 표기는?",
+  "choices": [
+   "아니에요",
+   "아니이에요",
+   "아니예요",
+   "아니애요"
+  ],
+  "answer": 0,
+  "explanation": "'아니다'의 어간 '아니-'에 '-에요'가 붙어 '아니에요'예요. 줄여서 '아녜요'라고도 써요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'남을 해치는 짓'을 뜻하는 바른 표기는?",
+  "choices": [
+   "해꼬치",
+   "해코지",
+   "해꼬지",
+   "해코치"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '해코지'예요. 소리에 끌려 '해꼬지'로 쓰기 쉬워요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'나누지 않은 덩어리 전부'를 뜻하는 바른 표기는?",
+  "choices": [
+   "통째로",
+   "통채로",
+   "통쨰로",
+   "통체로"
+  ],
+  "answer": 0,
+  "explanation": "'그대로 전부'를 뜻하는 접미사는 '-째'예요. '-채'는 쓰지 않아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'같은 것을 되풀이해 이용하다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "울궈먹다",
+   "울겨먹다",
+   "우러먹다",
+   "우려먹다"
+  ],
+  "answer": 3,
+  "explanation": "'우리다'에서 온 '우려먹다'가 바른 표기예요. '울궈먹다'는 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'눈치로 미리 알려 줌'을 뜻하는 바른 표기는?",
+  "choices": [
+   "귀뜸",
+   "귀띰",
+   "귀띔",
+   "귓뜸"
+  ],
+  "answer": 2,
+  "explanation": "'귀'와 '뜨이다'가 어울린 말로 '귀띔'이 표준이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'남을 몹시 다그치다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "닥달하다",
+   "닦달하다",
+   "닥딸하다",
+   "닦딸하다"
+  ],
+  "answer": 1,
+  "explanation": "받침이 ㄲ인 '닦달하다'가 바른 표기예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'관계가 복잡하게 뒤섞이다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "얽히고섥히다",
+   "얽히고설키다",
+   "얽키고설키다",
+   "얼키고설키다"
+  ],
+  "answer": 1,
+  "explanation": "'얽히다'는 원형을 밝히고 '설키다'는 어원이 불분명해 소리대로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'잠그다'와 '치르다'를 바르게 활용한 것은?",
+  "choices": [
+   "문을 잠궈 두고 시험을 치뤘다",
+   "문을 잠궈 두고 시험을 치렀다",
+   "문을 잠가 두고 시험을 치렀다",
+   "문을 잠가 두고 시험을 치뤘다"
+  ],
+  "answer": 2,
+  "explanation": "두 말 모두 'ㅡ'가 탈락해 '잠가', '치렀다'가 돼요. '잠궈', '치뤘다'는 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'-하-'가 줄어든 표기로 바른 것은?",
+  "choices": [
+   "넉넉치 않다",
+   "섭섭지 않다",
+   "깨끗치 않다",
+   "익숙치 않다"
+  ],
+  "answer": 1,
+  "explanation": "ㄱ·ㄷ·ㅂ 받침 뒤에서는 '하'가 통째로 줄어요. 그래서 '깨끗지', '넉넉지', '익숙지'가 맞아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'회계 ( )'의 빈칸에 알맞은 표기는?",
+  "choices": [
+   "연또",
+   "연도",
+   "련도",
+   "년도"
+  ],
+  "answer": 1,
+  "explanation": "단어 첫머리의 '년'은 두음 법칙으로 '연도'가 돼요. 숫자 뒤에서는 '2025년도'로 써요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "두음 법칙에 맞게 쓴 것은?",
+  "choices": [
+   "실낙원",
+   "신녀성",
+   "공념불",
+   "남존녀비"
+  ],
+  "answer": 0,
+  "explanation": "'실+낙원'처럼 뒷말이 독립된 단어면 두음 법칙을 적용해요. 나머지는 '신여성·공염불·남존여비'예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'률/율' 표기가 바른 것은?",
+  "choices": [
+   "비률",
+   "합격률",
+   "백분률",
+   "실패률"
+  ],
+  "answer": 1,
+  "explanation": "모음과 ㄴ 받침 뒤에서는 '율', 그 밖에서는 '률'이에요. '비율·실패율·백분율'이 맞아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "손님을 맞이하는 말로 바른 표기는?",
+  "choices": [
+   "어서 오십시오",
+   "어서 오십시요",
+   "어서 오십시여",
+   "어서 오십씨오"
+  ],
+  "answer": 0,
+  "explanation": "문장을 끝내는 어미는 '-오'예요. [요]로 소리 나도 '오십시오'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'키가 작고 짧다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "짤다랗다",
+   "짧따랗다",
+   "짧다랗다",
+   "짤따랗다"
+  ],
+  "answer": 3,
+  "explanation": "겹받침의 뒤 자음이 소리 나지 않으면 소리대로 적어 '짤따랗다'예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "무를 깍둑깍둑 썰어 담근 김치의 바른 표기는?",
+  "choices": [
+   "깍둑이",
+   "깍뚜기",
+   "깍두기",
+   "깎두기"
+  ],
+  "answer": 2,
+  "explanation": "ㄱ 받침 뒤의 된소리는 같은 음절이 겹치지 않으면 예사소리로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'왈칵 달려들어 냉큼 무는 모양'의 바른 표기는?",
+  "choices": [
+   "덮석",
+   "덥썩",
+   "덥석",
+   "덥쩍"
+  ],
+  "answer": 2,
+  "explanation": "ㅂ 받침 뒤에서 나는 된소리는 따로 적지 않아 '덥석'으로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'눈( )을 찌푸리다', '엄마 등( )에'의 빈칸 짝으로 바른 것은?",
+  "choices": [
+   "눈살, 등쌀",
+   "눈쌀, 등살",
+   "눈쌀, 등쌀",
+   "눈살, 등살"
+  ],
+  "answer": 0,
+  "explanation": "미간의 주름은 '눈살', 남을 괴롭히는 짓은 '등쌀'이에요. '등살'은 등의 근육이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'내일 비가 ( ) 모르겠다'의 빈칸에 알맞은 표기는?",
+  "choices": [
+   "올넌지",
+   "올른지",
+   "올런지",
+   "올는지"
+  ],
+  "answer": 3,
+  "explanation": "어미는 '-ㄹ는지'예요. 흔히 쓰는 '-ㄹ런지'는 잘못된 표기예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'키에 ( ) 옷을 고르다'의 빈칸에 들어갈 바른 표기는?",
+  "choices": [
+   "알마즌",
+   "알맞은",
+   "알맞흔",
+   "알맞는"
+  ],
+  "answer": 1,
+  "explanation": "'알맞다'는 형용사라 '-는'이 아닌 '-은'이 붙어요. '걸맞은'도 같아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'오히려'와 같은 뜻의 바른 표기는?",
+  "choices": [
+   "되려",
+   "되레",
+   "뒤레",
+   "되례"
+  ],
+  "answer": 1,
+  "explanation": "'도리어'의 준말은 '되레'예요. '되려'는 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'어려 보이다'를 뜻하는 바른 표기는?",
+  "choices": [
+   "앳되다",
+   "앳띠다",
+   "애띠다",
+   "애뙤다"
+  ],
+  "answer": 0,
+  "explanation": "'앳되다'가 표준어예요. '애띠다'로 잘못 쓰기 쉬워요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'숟가락'의 ㄷ 받침은 '술'의 ㄹ이 ㄷ으로 바뀐 것일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'술+가락'에서 ㄹ이 ㄷ으로 바뀐 말이에요. 그래서 '젓가락'과 달리 ㄷ으로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "어미 '-ㄹ까'는 '-ㄹ게'와 달리 된소리로 적을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "의문을 나타내는 '-ㄹ까', '-ㄹ쏘냐' 등은 된소리로 적어요. '-ㄹ게'는 예사소리예요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'책상이에요'를 '책상이예요'로 써도 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "받침 있는 말 뒤에는 '이에요'를 써요. '이예요'는 어디에서도 맞지 않아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'흡연을 삼가 주세요'는 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "기본형이 '삼가다'라 '삼가 주세요'가 맞아요. '삼가해'는 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'서슴지 않고 대답했다'는 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "기본형이 '서슴다'라 '서슴지'가 맞아요. '서슴치'는 '서슴하다'가 없어 잘못이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'떡볶이'를 '떡볶기'로 써도 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'볶-'에 '-이'가 붙은 말이라 '떡볶이'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'넓적하다'와 '널찍하다'는 둘 다 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "겹받침 ㄼ의 ㅂ이 소리 나면 '넓적하다', 소리 나지 않으면 '널찍하다'로 적어요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'하늘을 날으는 새'는 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'날다'는 '-는' 앞에서 ㄹ이 탈락해 '나는'이 맞아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'공부할려고 앉았다'는 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "어미는 '-려고'라 '공부하려고'가 맞아요. ㄹ을 덧붙이지 않아요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "귀밑에서 턱까지 난 수염을 '구렛나루'로 쓰는 것이 바를까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '구레나룻'이에요. 사이시옷도 없고 끝 받침은 ㅅ이에요.",
+  "semester": 1,
+  "unit": "맞춤법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'것'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "먹을것이 많다",
+   "먹을것 이 많다",
+   "먹 을것이 많다",
+   "먹을 것이 많다"
+  ],
+  "answer": 3,
+  "explanation": "'것'은 의존 명사라 앞말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'듯이'의 띄어쓰기가 바른 문장은?",
+  "choices": [
+   "뛸 듯이 기뻤다",
+   "뛸듯이기뻤다",
+   "뛸듯이 기뻤다",
+   "뛸 듯이기뻤다"
+  ],
+  "answer": 0,
+  "explanation": "관형어 뒤 '듯이'는 의존 명사라 띄어요. 붙여 쓸 수 있는 것은 보조 용언 '듯하다'예요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'같이'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "너 같이 착한 사람",
+   "너같이 착한 사람",
+   "나와같이 하자",
+   "친구와같이 갔다"
+  ],
+  "answer": 1,
+  "explanation": "체언 바로 뒤 '같이'는 조사라 붙여 써요. '와/과' 뒤의 '같이'는 부사라 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "조사가 겹칠 때 바르게 쓴 것은?",
+  "choices": [
+   "집 에서처럼",
+   "집에서 처 럼",
+   "집에서처럼",
+   "집에서 처럼"
+  ],
+  "answer": 2,
+  "explanation": "조사가 여러 개 이어지면 모두 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'커녕'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "밥 은커녕 물도 없다",
+   "밥은커녕 물도 없다",
+   "밥은커 녕 물도 없다",
+   "밥은 커녕 물도 없다"
+  ],
+  "answer": 1,
+  "explanation": "'은커녕'은 조사라 앞말에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'겸'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "아침 겸점심",
+   "아침겸 점심",
+   "아침 겸 점심",
+   "아침겸점심"
+  ],
+  "answer": 2,
+  "explanation": "두 말을 이어 주는 '겸'은 의존 명사라 앞뒤를 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "경기 이름의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "청군대백군",
+   "청군 대백군",
+   "청군 대 백군",
+   "청군대 백군"
+  ],
+  "answer": 2,
+  "explanation": "두 말을 이어 대비하는 '대'는 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'1234567'을 한글로 띄어 쓴 것으로 바른 것은?",
+  "choices": [
+   "백이십삼만사천오백육십칠",
+   "백이십삼만 사천오백육십칠",
+   "백이십삼 만 사천오백육십칠",
+   "백이십삼만 사천 오백 육십칠"
+  ],
+  "answer": 1,
+  "explanation": "수를 한글로 적을 때는 '만' 단위로 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'간'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "서울 부산간 열차",
+   "한국 일본간 경기",
+   "부모 자식간에도",
+   "이틀간 머물렀다"
+  ],
+  "answer": 3,
+  "explanation": "기간의 '간'은 접미사라 붙이고, 관계의 '간'은 의존 명사라 '부모 자식 간'처럼 띄어요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'첫'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "첫 눈",
+   "첫 사랑",
+   "첫 만남",
+   "첫 걸음"
+  ],
+  "answer": 2,
+  "explanation": "'첫사랑·첫눈·첫걸음'은 한 단어라 붙이고, '첫 만남'은 관형사와 명사라 띄어요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'보다'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "보다 나은 삶",
+   "너 보다 크다",
+   "보다나은 삶",
+   "나 보다 낫다"
+  ],
+  "answer": 0,
+  "explanation": "'더'를 뜻하는 부사 '보다'는 띄어 쓰고, 비교의 조사 '보다'는 '너보다'처럼 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'차'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "인사차 들렀다",
+   "막 나가려던차",
+   "가려던차에 왔다",
+   "연수 차 왔다"
+  ],
+  "answer": 0,
+  "explanation": "'목적'의 '차'는 접미사라 붙이고, '-던 차'의 '차'는 의존 명사라 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'뿐더러'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "잘 할뿐 더러",
+   "잘할뿐 더러",
+   "잘할뿐더러",
+   "잘할 뿐더러"
+  ],
+  "answer": 2,
+  "explanation": "'-ㄹ뿐더러'는 하나의 어미라 붙여 써요. 의존 명사 '뿐'과 구별해요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'수록'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "갈수록 좋다",
+   "갈 수록 좋다",
+   "갈수 록 좋다",
+   "갈 수 록 좋다"
+  ],
+  "answer": 0,
+  "explanation": "'-ㄹ수록'은 어미라 붙여 써요. 의존 명사 '수'로 착각하기 쉬워요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한 단어라서 붙여 써야 하는 것은?",
+  "choices": [
+   "어느쪽",
+   "어느곳",
+   "어느날",
+   "어느새"
+  ],
+  "answer": 3,
+  "explanation": "'어느새'는 부사 한 단어예요. '어느 날', '어느 곳', '어느 쪽'은 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'따라'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "오늘 따라 춥다",
+   "오늘따라 춥다",
+   "오 늘따라 춥다",
+   "오늘따라춥다"
+  ],
+  "answer": 1,
+  "explanation": "'따라'는 '특별히'의 뜻을 더하는 조사라 앞말에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'채'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "옷을 입은채 로",
+   "옷을 입은채로",
+   "옷을 입은 채로",
+   "옷을 입 은 채로"
+  ],
+  "answer": 2,
+  "explanation": "'채'는 의존 명사라 앞말과 띄고, 뒤의 조사 '로'는 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'때문'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "비때 문에 늦었다",
+   "비 때 문에 늦었다",
+   "비때문에 늦었다",
+   "비 때문에 늦었다"
+  ],
+  "answer": 3,
+  "explanation": "'때문'은 의존 명사라 앞말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'중'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "지금 회의중입니다",
+   "지금 회의 중 입니다",
+   "지금 회 의중입니다",
+   "지금 회의 중입니다"
+  ],
+  "answer": 3,
+  "explanation": "'중'은 의존 명사라 띄고, '이다'는 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'텐데'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "내일 갈 텐데",
+   "내일 갈텐데",
+   "내일 갈텐 데",
+   "내일 갈 텐 데"
+  ],
+  "answer": 0,
+  "explanation": "'텐데'는 의존 명사 '터'에 '-ㄴ데'가 붙은 말이라 앞말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'내지'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "열 내지스물",
+   "열 내지 스물",
+   "열내지스물",
+   "열내지 스물"
+  ],
+  "answer": 1,
+  "explanation": "'내지'는 부사라 앞뒤를 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'나름'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "사람나 름이다",
+   "사 람나름이다",
+   "사람나름이다",
+   "사람 나름이다"
+  ],
+  "answer": 3,
+  "explanation": "'나름'은 의존 명사라 앞말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'김'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "온김에 들렀다",
+   "온 김에 들렀다",
+   "온 김 에 들렀다",
+   "온김 에 들렀다"
+  ],
+  "answer": 1,
+  "explanation": "'김'은 의존 명사라 띄고, 조사 '에'는 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'쯤'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "한달 쯤 걸린다",
+   "한 달쯤 걸린다",
+   "한달쯤 걸린다",
+   "한 달 쯤 걸린다"
+  ],
+  "answer": 1,
+  "explanation": "'달'은 단위 명사라 띄고, '쯤'은 접미사라 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'-여'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "십 여명이 왔다",
+   "십 여 명이 왔다",
+   "십여 명이 왔다",
+   "십여명이 왔다"
+  ],
+  "answer": 2,
+  "explanation": "'-여'는 접미사라 수에 붙이고, 단위 명사 '명'은 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'밖에'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "너밖에 없다",
+   "너 밖 에 없다",
+   "너밖에없다",
+   "너 밖에 없다"
+  ],
+  "answer": 0,
+  "explanation": "'오직'의 뜻인 '밖에'는 조사라 붙여 써요. 바깥을 뜻하는 '밖'과 구별해요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'등'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "책상,의자등",
+   "책상, 의 자등",
+   "책상, 의자등",
+   "책상, 의자 등"
+  ],
+  "answer": 3,
+  "explanation": "나열 끝의 '등'은 의존 명사라 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'-상'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "인터넷상에서",
+   "인터넷 상에서",
+   "인터넷상 에서",
+   "인 터넷상에서"
+  ],
+  "answer": 0,
+  "explanation": "'그것과 관계된 처지'를 뜻하는 '-상'은 접미사라 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'부터'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "지 금부터 시작",
+   "지금 부터 시작",
+   "지금부터 시작",
+   "지금부 터 시작"
+  ],
+  "answer": 2,
+  "explanation": "'부터'는 조사라 앞말에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'거'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "나는 갈거야",
+   "나는 갈 거야",
+   "나는 갈 거 야",
+   "나는 갈거 야"
+  ],
+  "answer": 1,
+  "explanation": "'거'는 '것'의 구어형 의존 명사라 앞말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'줄'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "수영할줄 안다",
+   "수영할 줄안다",
+   "수영할줄안다",
+   "수영할 줄 안다"
+  ],
+  "answer": 3,
+  "explanation": "'줄'은 방법을 뜻하는 의존 명사라 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'리'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "그럴리 가 없다",
+   "그럴 리가없다",
+   "그럴 리가 없다",
+   "그럴리가 없다"
+  ],
+  "answer": 2,
+  "explanation": "'리'는 이유를 뜻하는 의존 명사라 띄고, '가'는 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'안'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "밥을 안 먹는다",
+   "밥을 안먹 는다",
+   "밥을 안 먹 는다",
+   "밥을 안먹는다"
+  ],
+  "answer": 0,
+  "explanation": "부정의 부사 '안'은 뒷말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'조차'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "너조 차 몰랐다",
+   "너 조차 몰랐다",
+   "너 조 차 몰랐다",
+   "너조차 몰랐다"
+  ],
+  "answer": 3,
+  "explanation": "'조차'는 조사라 앞말에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'끼리'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "우리끼리 놀자",
+   "우 리끼리 놀자",
+   "우리 끼리 놀자",
+   "우리끼 리 놀자"
+  ],
+  "answer": 0,
+  "explanation": "'-끼리'는 접미사라 앞말에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'어치'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "천원어치",
+   "천 원어치",
+   "천 원 어치",
+   "천원 어치"
+  ],
+  "answer": 1,
+  "explanation": "한글 수 뒤 단위 '원'은 띄고, '-어치'는 접미사라 '원'에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'외'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "그 외 에도 많다",
+   "그외에도 많다",
+   "그외 에도 많다",
+   "그 외에도 많다"
+  ],
+  "answer": 3,
+  "explanation": "'외'는 의존 명사라 관형사 '그'와 띄고 조사는 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'이래'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "입학 이 래 처음",
+   "입학 이래 처음",
+   "입 학이래 처음",
+   "입학이래 처음"
+  ],
+  "answer": 1,
+  "explanation": "'이래'는 '그 뒤로'를 뜻하는 의존 명사라 앞말과 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'다시피'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "보다시피 어렵다",
+   "보다시 피 어렵다",
+   "보다 시피 어렵다",
+   "보 다시피 어렵다"
+  ],
+  "answer": 0,
+  "explanation": "'-다시피'는 어미라 어간에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'주'의 띄어쓰기가 바른 것은?",
+  "choices": [
+   "이 번 주에 만나",
+   "이 번주에 만나",
+   "이번 주에 만나",
+   "이번주에 만나"
+  ],
+  "answer": 2,
+  "explanation": "'이번 주'는 한 단어가 아니라 띄어 써요. '이번'은 한 단어예요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'3개월'처럼 아라비아 숫자 뒤의 단위 명사는 붙여 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "아라비아 숫자와 함께 쓰거나 순서를 나타내면 단위 명사를 붙여 쓸 수 있어요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "성과 이름을 구분하기 어려울 때 '남궁 억'처럼 띄어 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "성과 이름은 붙여 쓰는 것이 원칙이지만 구분할 필요가 있으면 띄어 쓸 수 있어요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'서울대학교'를 '서울 대학교'로 띄어 쓰는 것도 허용될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "고유 명사는 단어별로 띄는 것이 원칙이고 단위별로 띄어 쓸 수도 있어요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "단음절 낱말이 이어진 '좀 더 큰 것'을 '좀더 큰것'으로 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "한 음절 단어가 연이어 나타날 때는 붙여 쓸 수 있어요. 한글 맞춤법 제46항이에요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'검토한바 문제가 없었다'처럼 '-ㄴ바'를 붙여 쓰는 것이 바를까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'-니까'의 뜻으로 앞뒤를 잇는 '-ㄴ바'는 어미라 붙여 써요. '들은 바'의 '바'와 달라요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'책을 읽어도 보았다'를 '읽어도보았다'로 붙여 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "보조 용언은 붙여 쓸 수 있지만 앞말에 조사가 붙으면 붙여 쓸 수 없어요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'좋아하다'를 '좋아 하다'로 띄어 써도 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'-어하다'가 붙은 말은 한 단어라 반드시 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'나는 학생 이다'처럼 '이다'를 띄어 써도 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'이다'는 서술격 조사라 앞말에 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'띄어쓰기'처럼 동사 '띄어 쓰다'도 붙여 쓸까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "명사 '띄어쓰기'는 한 단어지만 동사 '띄어 쓰다'는 두 단어라 띄어 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'수십 명'의 '수십'은 '수 십'으로 띄어 쓸까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'몇'을 뜻하는 '수-'는 접두사라 '수십', '수백'처럼 붙여 써요.",
+  "semester": 1,
+  "unit": "띄어쓰기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "낙지와 비슷한 작은 연체동물의 표준어는?",
+  "choices": [
+   "주꾸미",
+   "주꾸메",
+   "쭈꾸메",
+   "쭈꾸미"
+  ],
+  "answer": 0,
+  "explanation": "표준어는 '주꾸미'예요. 흔히 쓰는 '쭈꾸미'는 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "돌덩이보다 작은 돌의 표준어는?",
+  "choices": [
+   "돌맹이",
+   "돌멩이",
+   "돌멍이",
+   "돌멩기"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '돌멩이'예요. '돌맹이'는 잘못이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "머리카락을 양쪽으로 갈랐을 때 생기는 금의 표준어는?",
+  "choices": [
+   "가르마",
+   "가름마",
+   "가리마",
+   "가르매"
+  ],
+  "answer": 0,
+  "explanation": "'가르마'가 표준어예요. '가리마'는 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "짐을 일 때 머리에 받치는 둥근 물건의 표준어는?",
+  "choices": [
+   "또아리",
+   "똬리",
+   "또가리",
+   "똬아리"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 준말 '똬리'예요. 본말처럼 보이는 '또아리'는 표준어가 아니에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "머리털이 어지럽게 일어난 모양의 표준어는?",
+  "choices": [
+   "부시시",
+   "부스스",
+   "부스시",
+   "부시스"
+  ],
+  "answer": 1,
+  "explanation": "'부스스'가 표준어예요. 'ㅣ' 모음으로 바꾼 '부시시'는 잘못이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'정신이 맑지 못하고 흐릿하다'를 뜻하는 표준어는?",
+  "choices": [
+   "흐리멍떵하다",
+   "흐리멍당하다",
+   "흐리멍덩하다",
+   "흐리멍텅하다"
+  ],
+  "answer": 2,
+  "explanation": "'흐리멍덩하다'가 표준어예요. 더 널리 쓰이는 '흐리멍텅하다'는 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'오래되어 낡다'를 뜻하는 표준어는?",
+  "choices": [
+   "캐캐묵다",
+   "케케묵다",
+   "케켸묵다",
+   "켸켸묵다"
+  ],
+  "answer": 1,
+  "explanation": "이중 모음을 단모음으로 바꾼 '케케묵다'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'두말할 것 없이 당연히'를 뜻하는 표준어는?",
+  "choices": [
+   "으래",
+   "으례",
+   "으레이",
+   "으레"
+  ],
+  "answer": 3,
+  "explanation": "'으례'에서 이중 모음이 줄어든 '으레'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'성격이 까다롭고 별나다'를 뜻하는 표준어는?",
+  "choices": [
+   "괴퐉하다",
+   "괴퍅하다",
+   "괴팍하다",
+   "괴팩하다"
+  ],
+  "answer": 2,
+  "explanation": "한자 '乖愎'은 원래 '괴퍅'이지만 단모음화한 '괴팍하다'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "키가 크고 잎이 작은 버드나뭇과 나무의 표준어는?",
+  "choices": [
+   "미로나무",
+   "미루나무",
+   "미류나무",
+   "미려나무"
+  ],
+  "answer": 1,
+  "explanation": "'미류(美柳)나무'에서 모음이 바뀐 '미루나무'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "밥에 넣어 먹는 콩의 한 종류 표준어는?",
+  "choices": [
+   "강낭콩",
+   "강랑콩",
+   "강냥콩",
+   "강남콩"
+  ],
+  "answer": 0,
+  "explanation": "어원은 '강남(江南)콩'이지만 바뀐 소리를 따라 '강낭콩'이 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "음식을 끓이는 그릇의 표준어는?",
+  "choices": [
+   "넴비",
+   "남비",
+   "냄비",
+   "냄삐"
+  ],
+  "answer": 2,
+  "explanation": "'ㅣ' 역행 동화가 굳어진 '냄비'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "멋을 잘 부리는 사람의 표준어는?",
+  "choices": [
+   "멋쟁이",
+   "멋짱이",
+   "멋장이",
+   "멋젱이"
+  ],
+  "answer": 0,
+  "explanation": "기술자는 '-장이', 그 밖의 성질·버릇을 가진 사람은 '-쟁이'를 붙여요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "서울에서 나고 자란 사람을 뜻하는 표준어는?",
+  "choices": [
+   "서울나기",
+   "서울네기",
+   "서울내기",
+   "서울래기"
+  ],
+  "answer": 2,
+  "explanation": "'ㅣ' 역행 동화를 인정해 '-내기'가 표준이에요. '시골내기', '풋내기'도 같아요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "아기의 첫 생일 잔치를 뜻하는 표준어는?",
+  "choices": [
+   "돐잔치",
+   "돌잔치",
+   "돍잔치",
+   "돌짠치"
+  ],
+  "answer": 1,
+  "explanation": "생일은 '돌'이에요. '돐'은 표준어 규정에서 버린 말이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'열두 번째 차례'를 뜻하는 표준어는?",
+  "choices": [
+   "열두재",
+   "열두째",
+   "열둘재",
+   "열둘째"
+  ],
+  "answer": 1,
+  "explanation": "차례는 '둘째'지만 십 단위 이상에서는 '열두째'예요. '열둘째'는 '열두 개째'를 뜻해요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "감탄을 나타내는 '이제 보니 그렇( )!'의 표준어는?",
+  "choices": [
+   "구만",
+   "구먼",
+   "군만",
+   "구몬"
+  ],
+  "answer": 1,
+  "explanation": "새로 깨달은 감탄의 어미는 '-구먼'이에요. '-구만'은 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'머물다'를 바르게 활용한 것은?",
+  "choices": [
+   "잠시 머물어 가자",
+   "손에 갖어 보다",
+   "말이 서툴어서",
+   "잠시 머물러 가자"
+  ],
+  "answer": 3,
+  "explanation": "준말 '머물다·서툴다·갖다'는 모음 어미 앞에서 본말로 활용해요. '서툴러서', '가져'가 맞아요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "음식이 기도로 들어가 기침이 나는 것을 뜻하는 말은?",
+  "choices": [
+   "사례들리다",
+   "사래들리다",
+   "사레들리다",
+   "싸레들리다"
+  ],
+  "answer": 2,
+  "explanation": "'사레들리다'가 표준어예요. '사례'는 고마움을 갚는 일이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "자동차가 다른 차선에 비집고 들어가는 일의 표준어는?",
+  "choices": [
+   "끼어들끼",
+   "끼여들기",
+   "끼여들끼",
+   "끼어들기"
+  ],
+  "answer": 3,
+  "explanation": "스스로 들어가는 동작이라 '끼다'의 피동 '끼이다'가 아닌 '끼어들다'를 써요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "혼인한 두 집안의 부모가 서로 부르는 말의 표준어는?",
+  "choices": [
+   "사돈",
+   "사똔",
+   "사둔",
+   "사든"
+  ],
+  "answer": 0,
+  "explanation": "양성 모음 형태인 '사돈'이 표준어예요. '사둔'은 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "아버지의 남자 형제를 부르는 표준어는?",
+  "choices": [
+   "삼촌",
+   "쌈촌",
+   "삼춘",
+   "삼쵼"
+  ],
+  "answer": 0,
+  "explanation": "'삼촌(三寸)'이 표준어예요. 소리에 끌린 '삼춘'은 잘못이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "잔칫집에 돈이나 물건을 보내 돕는 일의 표준어는?",
+  "choices": [
+   "부좃",
+   "부조",
+   "부주",
+   "부저"
+  ],
+  "answer": 1,
+  "explanation": "'부조(扶助)'가 표준어예요. '부주'는 잘못이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "글의 한 토막을 뜻하는 표준어는?",
+  "choices": [
+   "구졀",
+   "귀졀",
+   "귀절",
+   "구절"
+  ],
+  "answer": 3,
+  "explanation": "한자 '句'가 붙은 말은 모두 '구'로 적어 '구절'이 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'암-'이 붙은 말 중 표준어는?",
+  "choices": [
+   "암개",
+   "암돼지",
+   "암닭",
+   "암탉"
+  ],
+  "answer": 3,
+  "explanation": "'암-'은 일부 말과 만나 ㅎ이 덧나요. '암퇘지', '암캐'가 맞아요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'어떻든 간에'를 뜻하는 표준어는?",
+  "choices": [
+   "아무뜬",
+   "아뭏든",
+   "아무툰",
+   "아무튼"
+  ],
+  "answer": 3,
+  "explanation": "'아무러하든'이 줄어든 '아무튼'이 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "국이나 찌개의 국물 속 덩어리를 뜻하는 표준어는?",
+  "choices": [
+   "껀더기",
+   "건데기",
+   "건더기",
+   "건덕이"
+  ],
+  "answer": 2,
+  "explanation": "'건더기'가 표준어예요. 'ㅣ' 역행 동화를 따른 '건데기'는 잘못이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "뿌리가 손가락만 한 어린 무를 뜻하는 표준어는?",
+  "choices": [
+   "알타리무",
+   "알타리무우",
+   "총각무",
+   "총각무우"
+  ],
+  "answer": 2,
+  "explanation": "표준어 규정에서 '총각무'를 표준어로 삼았어요. '알타리무'는 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "위아래 대립이 없을 때 '웃-'을 쓰는 표준어는?",
+  "choices": [
+   "위돈",
+   "웃니",
+   "윗돈",
+   "웃돈"
+  ],
+  "answer": 3,
+  "explanation": "'아랫돈'이 없으니 '웃돈'이에요. '윗니'는 '아랫니'가 있어 '윗-'을 써요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'잘못을 꾸짖어 알아듣게 말하다'의 표준어는?",
+  "choices": [
+   "나므라다",
+   "나무레다",
+   "나무래다",
+   "나무라다"
+  ],
+  "answer": 3,
+  "explanation": "'나무라다'가 표준어예요. 활용형도 '나무라', '나무랐다'예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "남의 앞잡이 노릇을 하는 사람을 낮잡는 표준어는?",
+  "choices": [
+   "끄나뿔",
+   "끄나불",
+   "끄나플",
+   "끄나풀"
+  ],
+  "answer": 3,
+  "explanation": "표준어는 '끄나풀'이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "재산을 다 잃고 가진 것이 없는 사람의 표준어는?",
+  "choices": [
+   "빈털더리",
+   "빈털털리",
+   "빈털터리",
+   "빈털털이"
+  ],
+  "answer": 2,
+  "explanation": "'빈털터리'가 표준어예요. '털털이'로 분석해 쓰기 쉬워요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "복수 표준어가 아닌 짝은 무엇인가요?",
+  "choices": [
+   "두루뭉술하다·두리뭉실하다",
+   "뇌졸중·뇌졸증",
+   "맨날·만날",
+   "복숭아뼈·복사뼈"
+  ],
+  "answer": 1,
+  "explanation": "'뇌졸중(腦卒中)'만 표준어예요. 나머지 짝은 2011년에 함께 표준어가 됐어요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "방의 위쪽 면과 '천( )부지'를 바르게 쓴 짝은?",
+  "choices": [
+   "천정·천장부지",
+   "천장·천장부지",
+   "천정·천정부지",
+   "천장·천정부지"
+  ],
+  "answer": 3,
+  "explanation": "방의 위쪽 면은 '천장'이 표준어지만 '천정부지(天井不知)'는 그대로 '천정'으로 써요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "얄밉도록 약은 사람을 뜻하는 표준어는?",
+  "choices": [
+   "깍쟁이",
+   "깎쟁이",
+   "깍짱이",
+   "깍장이"
+  ],
+  "answer": 0,
+  "explanation": "성질을 나타내는 '-쟁이'를 붙여 '깍쟁이'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "남의 조종대로 움직이는 사람을 빗대는 표준어는?",
+  "choices": [
+   "꼭두각시",
+   "꼭둑각시",
+   "꼭두깍시",
+   "꼭뚜각시"
+  ],
+  "answer": 0,
+  "explanation": "'꼭두각시'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "두 다리가 갈라진 곳을 뜻하는 표준어는?",
+  "choices": [
+   "가랭이",
+   "까랑이",
+   "가랑이",
+   "가랑니"
+  ],
+  "answer": 2,
+  "explanation": "'가랑이'가 표준어예요. 'ㅣ' 역행 동화를 따른 '가랭이'는 잘못이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "어떤 사물을 빗대어 알아맞히는 놀이의 표준어는?",
+  "choices": [
+   "수수께끼",
+   "수수께기",
+   "수수깨끼",
+   "수수꼐끼"
+  ],
+  "answer": 0,
+  "explanation": "'수수께끼'가 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'( ) 사람 잡지 마'(일과 관계없는)의 빈칸에 알맞은 말은?",
+  "choices": [
+   "애먼",
+   "엄한",
+   "앰한",
+   "애믄"
+  ],
+  "answer": 0,
+  "explanation": "'일과 관계없이 억울한'을 뜻하는 말은 '애먼'이에요. '엄한'은 '엄하다'의 활용형이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "몸이 길고 납작한 은백색 바닷물고기의 표준어는?",
+  "choices": [
+   "깔치",
+   "칼치",
+   "갈치",
+   "갈추"
+  ],
+  "answer": 2,
+  "explanation": "표준어는 '갈치'예요. '칼치'는 방언이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'소고기'와 '쇠고기'는 둘 다 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'쇠고기'와 함께 '소고기'도 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'봉숭아'와 '봉선화'는 둘 다 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "두 말 모두 표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "먹은 음식 때문에 위에서 가스가 나오는 것을 '트름'이라 할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '트림'이에요. '트름'은 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'가엾다'와 '가엽다'는 둘 다 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "둘 다 표준어예요. 활용도 '가엾어', '가여워' 둘 다 맞아요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'이웃에 놀러 가다'의 뜻인 '마실'은 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "2015년에 '마을'의 뜻으로 '마실'이 표준어로 인정됐어요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'허구헌 날 놀기만 한다'의 '허구헌'은 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'날이나 세월이 매우 오래다'를 뜻하는 말은 '허구하다'라서 '허구한 날'이 맞아요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'처음부터'를 뜻하는 '애시당초'는 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '애당초' 또는 '애초'예요. '애시당초'는 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'아예, 전적으로'를 뜻하는 '숫제'는 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'숫제'는 표준어 부사예요. 접두사 '숫-'이 붙은 말로 오해해 틀리기 쉬워요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'마음이 안타깝다'를 뜻하는 '애닯다'는 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '애달프다'예요. '애닯다'는 표준어 규정에서 버린 말이에요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "소 뼈를 고아 만든 국을 '설농탕'으로 써도 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'설렁탕'만 표준어예요. 한자어처럼 보이는 '설농탕'은 비표준어예요.",
+  "semester": 1,
+  "unit": "표준어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'sausage'의 바른 표기는?",
+  "choices": [
+   "소시지",
+   "소세지",
+   "쏘시지",
+   "소시쥐"
+  ],
+  "answer": 0,
+  "explanation": "'소세지'로 많이 쓰지만 표기법은 '소시지'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'supermarket'의 바른 표기는?",
+  "choices": [
+   "수퍼마켓",
+   "슈퍼마켓",
+   "슈퍼마켇",
+   "수퍼마켙"
+  ],
+  "answer": 1,
+  "explanation": "'super'는 '슈퍼', 받침은 'ㅅ'으로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'enquête(설문 조사)'의 바른 표기는?",
+  "choices": [
+   "앙케이트",
+   "앙켓",
+   "앙케트",
+   "앙께뜨"
+  ],
+  "answer": 2,
+  "explanation": "프랑스어에서 온 말로 '앙케트'가 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'mania'의 바른 표기는?",
+  "choices": [
+   "매니아",
+   "메니아",
+   "마니야",
+   "마니아"
+  ],
+  "answer": 3,
+  "explanation": "'매니아'가 흔하지만 표준 표기는 '마니아'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'ketchup'의 바른 표기는?",
+  "choices": [
+   "케첩",
+   "케찹",
+   "캐첩",
+   "켓첩"
+  ],
+  "answer": 0,
+  "explanation": "'케찹'으로 많이 쓰지만 '케첩'이 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'sandal'의 바른 표기는?",
+  "choices": [
+   "샌달",
+   "샌들",
+   "샌덜",
+   "쌘들"
+  ],
+  "answer": 1,
+  "explanation": "'샌달'이 아니라 '샌들'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'window'의 바른 표기는?",
+  "choices": [
+   "윈도우",
+   "윈더우",
+   "윈도",
+   "윈두"
+  ],
+  "answer": 2,
+  "explanation": "이중 모음 [ou]는 '오'로 적어 '윈도'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'snack'의 바른 표기는?",
+  "choices": [
+   "스넥",
+   "쓰낵",
+   "스내크",
+   "스낵"
+  ],
+  "answer": 3,
+  "explanation": "[æ]는 '애'로 적어 '스낵'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'target'의 바른 표기는?",
+  "choices": [
+   "타깃",
+   "타겟",
+   "타켓",
+   "타깃트"
+  ],
+  "answer": 0,
+  "explanation": "'타겟'이 흔하지만 표기법은 '타깃'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'carpet'의 바른 표기는?",
+  "choices": [
+   "카페트",
+   "카펫",
+   "카펱",
+   "카핏"
+  ],
+  "answer": 1,
+  "explanation": "받침 'ㅅ'으로 적어 '카펫'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'pamphlet'의 바른 표기는?",
+  "choices": [
+   "팜플렛",
+   "팸플렛",
+   "팸플릿",
+   "팜플릿"
+  ],
+  "answer": 2,
+  "explanation": "'팜플렛'이 흔하지만 '팸플릿'이 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'symposium'의 바른 표기는?",
+  "choices": [
+   "심포지움",
+   "심포지옴",
+   "씸포지엄",
+   "심포지엄"
+  ],
+  "answer": 3,
+  "explanation": "'-um'을 '엄'으로 적어 '심포지엄'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'propose'의 바른 표기는?",
+  "choices": [
+   "프러포즈",
+   "프로포즈",
+   "프로퍼즈",
+   "프러퍼즈"
+  ],
+  "answer": 0,
+  "explanation": "첫 모음이 약한 [ə]라 '프러포즈'로 적어요. '프로포즈'는 틀려요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'remote control'을 줄인 말의 바른 표기는?",
+  "choices": [
+   "리모콘",
+   "리모컨",
+   "리모트콘",
+   "리머컨"
+  ],
+  "answer": 1,
+  "explanation": "'control'의 '컨'을 살려 '리모컨'이 표준어예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'rent-a-car'의 바른 표기는?",
+  "choices": [
+   "렌트카",
+   "렌타카",
+   "렌터카",
+   "랜터카"
+  ],
+  "answer": 2,
+  "explanation": "'rent-a-'가 '렌터'로 읽혀 '렌터카'가 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'endorphin'의 바른 표기는?",
+  "choices": [
+   "엔돌핀",
+   "엔도핀",
+   "앤도르핀",
+   "엔도르핀"
+  ],
+  "answer": 3,
+  "explanation": "'엔돌핀'은 비표준이고 '엔도르핀'이 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "독일어 'Gips'에서 온, 다친 곳을 굳히는 붕대의 바른 표기는?",
+  "choices": [
+   "깁스",
+   "기브스",
+   "기프스",
+   "깊스"
+  ],
+  "answer": 0,
+  "explanation": "된소리를 쓰지 않는 원칙의 예외로 굳어진 '깁스'가 표준어예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Las Vegas'의 바른 표기는?",
+  "choices": [
+   "라스베가스",
+   "라스베이거스",
+   "라스베이가스",
+   "라스베거스"
+  ],
+  "answer": 1,
+  "explanation": "[ei]는 '에이'로 적어 '라스베이거스'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Singapore'의 바른 표기는?",
+  "choices": [
+   "싱가폴",
+   "씽가포르",
+   "싱가포르",
+   "싱가뽀르"
+  ],
+  "answer": 2,
+  "explanation": "'싱가폴'이 아니라 '싱가포르'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Malaysia'의 바른 표기는?",
+  "choices": [
+   "말레이지아",
+   "말레시아",
+   "말라이시아",
+   "말레이시아"
+  ],
+  "answer": 3,
+  "explanation": "'말레이지아'가 아니라 '말레이시아'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'Shakespeare'의 바른 표기는?",
+  "choices": [
+   "셰익스피어",
+   "세익스피어",
+   "쉐익스피어",
+   "셰익스피아"
+  ],
+  "answer": 0,
+  "explanation": "[ʃe]는 '셰'로 적어 '셰익스피어'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "화가 'Gogh'의 바른 표기는?",
+  "choices": [
+   "고호",
+   "고흐",
+   "고그",
+   "고크"
+  ],
+  "answer": 1,
+  "explanation": "네덜란드어 발음을 따라 '고흐'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "시험 부정행위 'cunning'의 바른 표기는?",
+  "choices": [
+   "컨닝",
+   "커닌",
+   "커닝",
+   "컨닌"
+  ],
+  "answer": 2,
+  "explanation": "같은 자음 'nn'은 겹쳐 적지 않아 '커닝'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'counselor'의 바른 표기는?",
+  "choices": [
+   "카운셀러",
+   "카운설러",
+   "카운쓸러",
+   "카운슬러"
+  ],
+  "answer": 3,
+  "explanation": "'카운셀러'가 흔하지만 '카운슬러'가 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'dynamic'의 바른 표기는?",
+  "choices": [
+   "다이내믹",
+   "다이나믹",
+   "다이너믹",
+   "다이네믹"
+  ],
+  "answer": 0,
+  "explanation": "[æ]는 '애'로 적어 '다이내믹'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'jacket'의 바른 표기는?",
+  "choices": [
+   "자켓",
+   "재킷",
+   "쟈켓",
+   "재켓"
+  ],
+  "answer": 1,
+  "explanation": "'자켓'이 흔하지만 '재킷'이 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'outlet(할인 매장)'의 바른 표기는?",
+  "choices": [
+   "아울렛",
+   "아웃레트",
+   "아웃렛",
+   "아울릿"
+  ],
+  "answer": 2,
+  "explanation": "'아울렛' 간판이 많지만 표기법은 '아웃렛'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'film'의 바른 표기는?",
+  "choices": [
+   "필림",
+   "휠름",
+   "필룸",
+   "필름"
+  ],
+  "answer": 3,
+  "explanation": "'필림'이 아니라 '필름'으로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'massage'의 바른 표기는?",
+  "choices": [
+   "마사지",
+   "맛사지",
+   "마싸지",
+   "맛싸지"
+  ],
+  "answer": 0,
+  "explanation": "받침을 덧붙이지 않고 '마사지'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'cardigan'의 바른 표기는?",
+  "choices": [
+   "가디건",
+   "카디건",
+   "카디간",
+   "가디간"
+  ],
+  "answer": 1,
+  "explanation": "'가디건'이 흔하지만 'c'는 'ㅋ'으로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'license'의 바른 표기는?",
+  "choices": [
+   "라이센스",
+   "라이쎈스",
+   "라이선스",
+   "라이선쓰"
+  ],
+  "answer": 2,
+  "explanation": "'라이센스'가 흔하지만 표기법은 '라이선스'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'sofa'의 바른 표기는?",
+  "choices": [
+   "쇼파",
+   "쏘파",
+   "소퍄",
+   "소파"
+  ],
+  "answer": 3,
+  "explanation": "'쇼파'는 비표준이고 '소파'가 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'Hollywood'의 바른 표기는?",
+  "choices": [
+   "할리우드",
+   "헐리우드",
+   "헐리웃",
+   "할리웃"
+  ],
+  "answer": 0,
+  "explanation": "'헐리우드'가 아니라 '할리우드'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'carol'의 바른 표기는?",
+  "choices": [
+   "캐롤",
+   "캐럴",
+   "케롤",
+   "캐롤르"
+  ],
+  "answer": 1,
+  "explanation": "'캐롤'로 많이 쓰지만 표기법은 '캐럴'이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'rendez-vous'의 바른 표기는?",
+  "choices": [
+   "랑데뷰",
+   "랑대부",
+   "랑데부",
+   "란데부"
+  ],
+  "answer": 2,
+  "explanation": "프랑스어 발음을 따라 '랑데부'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "외래어 표기가 틀린 것은?",
+  "choices": [
+   "앙코르",
+   "로켓",
+   "레크리에이션",
+   "썬글라스"
+  ],
+  "answer": 3,
+  "explanation": "된소리를 쓰지 않아 '선글라스'가 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "바르게 적은 낱말끼리 짝지은 것은?",
+  "choices": [
+   "스케줄·비즈니스",
+   "스케쥴·비지니스",
+   "스케줄·비지니스",
+   "스케쥴·비즈니스"
+  ],
+  "answer": 0,
+  "explanation": "'ㅈ' 뒤 '쥬'는 '주'로, business는 '비즈니스'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "외래어 표기법에서 중국 인명을 원지음으로 적는 기준 시기는?",
+  "choices": [
+   "아편 전쟁 이후",
+   "신해혁명 이후",
+   "문화 대혁명 이후",
+   "청 건국 이후"
+  ],
+  "answer": 1,
+  "explanation": "신해혁명 이전 사람은 한자음, 이후 사람은 중국어 발음으로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "일본 지명 'Tokyo'의 바른 표기는?",
+  "choices": [
+   "토쿄",
+   "도꾜",
+   "도쿄",
+   "토오쿄오"
+  ],
+  "answer": 2,
+  "explanation": "일본어 첫소리 거센소리는 예사소리로 적어 '도쿄'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "일본 지명 'Kyushu'의 바른 표기는?",
+  "choices": [
+   "큐슈",
+   "큐우슈우",
+   "규우슈",
+   "규슈"
+  ],
+  "answer": 3,
+  "explanation": "첫소리 거센소리는 예사소리로, 장음은 적지 않아 '규슈'예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'바나나'는 외래어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "영어 'banana'에서 들어온 외래어예요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "멸종한 코끼리 'mammoth'는 '맘모스'로 적을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "외래어 표기법대로 '매머드'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'담배'는 외국어에서 들어온 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "포르투갈어 'tabaco'가 일본을 거쳐 들어와 굳은 말이에요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "외래어는 한글 현용 24자모만으로 적을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "외래어 표기법 제1항: 국어의 현용 24 자모만으로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'빵'은 포르투갈어에서 들어온 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "포르투갈어 'pão'가 일본을 거쳐 들어왔어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'카톨릭'이 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'가톨릭'으로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "서명을 뜻하는 'sign'은 '싸인'으로 적을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "된소리를 쓰지 않아 '사인'이 맞아요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "작곡가 'Bach'는 '바하'로 적을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "독일어 발음을 따라 '바흐'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'디지탈'이 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'digital'은 '디지털'로 적어요.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "일본어 'つ'는 '쯔'로 적을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'쓰'로 적어요. 예: 쓰나미.",
+  "semester": 1,
+  "unit": "외래어 표기"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'단비'의 뜻은 무엇인가요?",
+  "choices": [
+   "꼭 필요할 때 알맞게 오는 비",
+   "밤에만 조용히 내리는 가는 비",
+   "오래도록 그치지 않는 큰비",
+   "햇볕 난 날 잠깐 오다 그치는 비"
+  ],
+  "answer": 0,
+  "explanation": "'달다'와 '비'가 합쳐진 말이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "남의 과일 등을 몰래 따 먹는 장난을 이르는 말은?",
+  "choices": [
+   "노략",
+   "서리",
+   "도둑질",
+   "훼방"
+  ],
+  "answer": 1,
+  "explanation": "콩서리·수박서리의 '서리'예요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'뼘'은 무엇을 재는 길이인가요?",
+  "choices": [
+   "두 팔을 양쪽으로 쭉 벌린 길이",
+   "팔꿈치에서 가운뎃손가락 끝까지 길이",
+   "엄지와 다른 손가락을 편 길이",
+   "발뒤꿈치에서 엄지발가락 끝까지 길이"
+  ],
+  "answer": 2,
+  "explanation": "두 팔을 벌린 둘레는 '아름'이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'마중물'의 뜻은 무엇인가요?",
+  "choices": [
+   "손님을 맞을 때 대접으로 내는 물",
+   "비가 그친 뒤 웅덩이에 고인 물",
+   "우물 바닥에 가라앉아 남은 흙탕물",
+   "펌프에서 물을 끌어올리려 붓는 물"
+  ],
+  "answer": 3,
+  "explanation": "무언가를 이끌어 내는 계기라는 뜻으로도 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'진눈깨비'는 어떤 것인가요?",
+  "choices": [
+   "비가 섞여 내리는 눈",
+   "쌀알처럼 작고 단단한 눈",
+   "밤새 소리 없이 쌓인 눈",
+   "바람에 흩날려 떠다니는 눈"
+  ],
+  "answer": 0,
+  "explanation": "쌀알 같은 눈은 '싸라기눈'이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'그루터기'의 뜻은 무엇인가요?",
+  "choices": [
+   "나무 줄기의 맨 꼭대기",
+   "나무를 베고 남은 밑동",
+   "가지 끝에 새로 돋은 순",
+   "뿌리 둘레에 쌓인 흙더미"
+  ],
+  "answer": 1,
+  "explanation": "나무 꼭대기 줄기는 '우듬지'예요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'주전부리'의 뜻은 무엇인가요?",
+  "choices": [
+   "끼니를 거르고 오래 굶음",
+   "싫은 음식을 가려 먹음",
+   "때 없이 군것을 자주 먹음",
+   "한 번에 한꺼번에 많이 먹음"
+  ],
+  "answer": 2,
+  "explanation": "끼니 외에 이것저것 먹는 일이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "갓난아이가 두 팔을 머리 위로 벌리고 자는 잠은?",
+  "choices": [
+   "괭이잠",
+   "그루잠",
+   "노루잠",
+   "나비잠"
+  ],
+  "answer": 3,
+  "explanation": "팔 모양이 나비 날개 같아 '나비잠'이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "깊이 들지 못하고 자주 깨며 자는 잠은?",
+  "choices": [
+   "괭이잠",
+   "나비잠",
+   "그루잠",
+   "꽃잠"
+  ],
+  "answer": 0,
+  "explanation": "그루잠은 깼다가 다시 든 잠이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'갈무리'의 뜻은 무엇인가요?",
+  "choices": [
+   "물건을 남에게 오래 빌려줌",
+   "물건을 잘 정리해 간수함",
+   "물건을 값을 깎아 싸게 팖",
+   "물건을 이리저리 마구 흩뜨림"
+  ],
+  "answer": 1,
+  "explanation": "일을 처리해 마무리한다는 뜻도 있어요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'너나들이'의 뜻은 무엇인가요?",
+  "choices": [
+   "서로 물건을 주고받는 이웃 사이",
+   "편을 둘로 갈라 겨루는 놀이",
+   "너니 나니 하며 터놓고 지내는 사이",
+   "남의 집을 무시로 드나드는 일"
+  ],
+  "answer": 2,
+  "explanation": "서로 '너', '나' 하고 부를 만큼 가까운 사이예요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'도담도담'은 어떤 모양을 나타내나요?",
+  "choices": [
+   "물이 조금씩 괴어 넘치는 모양",
+   "작은 소리로 소곤소곤 말하는 모양",
+   "어린아이가 아장아장 걷는 모양",
+   "어린아이가 탈 없이 잘 자라는 모양"
+  ],
+  "answer": 3,
+  "explanation": "아이가 건강하게 자랄 때 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'아슴푸레하다'의 뜻은 무엇인가요?",
+  "choices": [
+   "또렷하지 않고 희미하다",
+   "몹시 아프고 쓰리다",
+   "조금 어둡고 쌀쌀하다",
+   "부끄럽고 수줍어하다"
+  ],
+  "answer": 0,
+  "explanation": "기억이나 빛이 희미할 때 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "고등어 '한 손'은 몇 마리인가요?",
+  "choices": [
+   "한 마리",
+   "두 마리",
+   "열 마리",
+   "스무 마리"
+  ],
+  "answer": 1,
+  "explanation": "큰 고기에 작은 고기를 끼운 두 마리가 한 손이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "마늘 '한 접'은 몇 개인가요?",
+  "choices": [
+   "열 개",
+   "쉰 개",
+   "백 개",
+   "스무 개"
+  ],
+  "answer": 2,
+  "explanation": "채소·과일 백 개를 '접'으로 세요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "오징어 스무 마리를 세는 단위는?",
+  "choices": [
+   "손",
+   "접",
+   "톳",
+   "축"
+  ],
+  "answer": 3,
+  "explanation": "손은 2마리, 접은 100개, 톳은 김 100장이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'오지랖'의 본래 뜻은 무엇인가요?",
+  "choices": [
+   "웃옷의 앞자락",
+   "남의 일에 끼어듦",
+   "넓은 마당",
+   "소매 끝동"
+  ],
+  "answer": 0,
+  "explanation": "앞자락이 넓으면 남을 덮는다 해서 '오지랖이 넓다'가 생겼어요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'옹골차다'의 뜻은 무엇인가요?",
+  "choices": [
+   "고집이 몹시 세고 억세다",
+   "실속 있게 꽉 차 있다",
+   "겉만 번지르르하고 빈약하다",
+   "속이 텅 비어 가볍다"
+  ],
+  "answer": 1,
+  "explanation": "내용이 알차다는 뜻이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'깜냥'의 뜻은 무엇인가요?",
+  "choices": [
+   "남을 슬쩍 속이는 꾀",
+   "남의 눈치를 보는 버릇",
+   "일을 해낼 만한 능력",
+   "쓰고 남은 작은 물건"
+  ],
+  "answer": 2,
+  "explanation": "'제 깜냥에'처럼 스스로의 능력을 말해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'자투리'의 뜻은 무엇인가요?",
+  "choices": [
+   "새로 짜서 만든 천",
+   "옷 안쪽에 대는 안감",
+   "바느질에 쓰는 도구",
+   "쓰고 남은 작은 조각"
+  ],
+  "answer": 3,
+  "explanation": "'자투리 시간'처럼 남은 작은 부분을 말해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'어귀'의 뜻은 무엇인가요?",
+  "choices": [
+   "드나드는 목의 첫머리",
+   "마을의 한가운데 자리",
+   "산의 가장 높은 꼭대기",
+   "길이 막혀 끝나는 곳"
+  ],
+  "answer": 0,
+  "explanation": "'마을 어귀'처럼 들어가는 첫머리예요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "옛말 '가람'과 '뫼'가 뜻하는 것을 차례로 고르면?",
+  "choices": [
+   "산·강",
+   "강·산",
+   "들·산",
+   "강·들"
+  ],
+  "answer": 1,
+  "explanation": "'가람'은 강, '뫼'는 산의 옛말이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'하릴없이'의 뜻은 무엇인가요?",
+  "choices": [
+   "할 일이 없어 한가하게",
+   "달리 어찌할 도리가 없이",
+   "아무 까닭 없이 갑자기",
+   "남의 눈치를 보지 않고"
+  ],
+  "answer": 1,
+  "explanation": "'하릴없다'는 어찌할 도리가 없다는 뜻이에요. '할 일 없다'와 헷갈리기 쉬워요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'부아가 나다'의 '부아'는 무엇인가요?",
+  "choices": [
+   "부끄러운 마음",
+   "슬프고 서러운 마음",
+   "두렵고 겁나는 마음",
+   "노엽거나 분한 마음"
+  ],
+  "answer": 3,
+  "explanation": "'부아'는 허파를 뜻하기도 해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "농사일 중 끼니 외에 먹는 음식을 이르는 말은?",
+  "choices": [
+   "곁두리",
+   "주전부리",
+   "입가심",
+   "군입"
+  ],
+  "answer": 0,
+  "explanation": "'새참'과 같은 뜻이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'느루'의 뜻은 무엇인가요?",
+  "choices": [
+   "한꺼번에 서둘러 몰아서",
+   "한꺼번에 몰지 않고 오래도록",
+   "남몰래 슬그머니 조금씩",
+   "처음부터 끝까지 빠짐없이"
+  ],
+  "answer": 1,
+  "explanation": "'양식을 느루 먹다'처럼 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'아람'의 뜻은 무엇인가요?",
+  "choices": [
+   "덜 익어 아직 푸른 열매",
+   "껍질을 벗겨 낸 속 알맹이",
+   "밤 따위가 익어 저절로 벌어진 상태",
+   "땅에 떨어져 썩어 가는 열매"
+  ],
+  "answer": 2,
+  "explanation": "'아람이 벌다'처럼 써요. 두 팔 둘레는 '아름'이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "일에 정신을 두지 않고 딴짓함을 이르는 말은?",
+  "choices": [
+   "헤살",
+   "넉살",
+   "너스레",
+   "해찰"
+  ],
+  "answer": 3,
+  "explanation": "'헤살'은 남의 일을 짓궂게 훼방함이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'안갚음'의 뜻은 무엇인가요?",
+  "choices": [
+   "남이 준 피해를 그대로 갚음",
+   "빌린 돈을 이자 없이 갚음",
+   "자식이 자라서 어버이를 봉양함",
+   "남의 은혜를 모르는 체함"
+  ],
+  "answer": 2,
+  "explanation": "까마귀 새끼가 자라 어미에게 먹이를 물어다 주는 데서 온 말이에요. 피해를 갚는 일은 '앙갚음'이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'희나리'의 뜻은 무엇인가요?",
+  "choices": [
+   "잘 마른 짚단",
+   "덜 마른 장작",
+   "타고 남은 재",
+   "불씨를 담는 그릇"
+  ],
+  "answer": 1,
+  "explanation": "덜 말라 불이 잘 안 붙는 장작이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "날이 막 밝을 무렵을 이르는 말은?",
+  "choices": [
+   "해거름",
+   "땅거미",
+   "갓밝이",
+   "해넘이"
+  ],
+  "answer": 2,
+  "explanation": "해거름·땅거미·해넘이는 모두 저녁 무렵이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'한뉘'의 뜻은 무엇인가요?",
+  "choices": [
+   "한나절",
+   "한겨울",
+   "한동네",
+   "한평생"
+  ],
+  "answer": 3,
+  "explanation": "살아 있는 동안 전체를 말해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'바투'의 뜻은 무엇인가요?",
+  "choices": [
+   "두 대상 사이가 썩 가깝게",
+   "아주 멀리 떨어지게",
+   "높이 솟아오르게",
+   "느릿느릿 천천히"
+  ],
+  "answer": 0,
+  "explanation": "'바투 앉다'처럼 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'고샅'의 뜻은 무엇인가요?",
+  "choices": [
+   "산 중턱에 펼쳐진 넓은 들",
+   "시골 마을의 좁은 골목길",
+   "논과 밭 사이의 좁은 경계",
+   "냇가를 따라 이어진 모래밭"
+  ],
+  "answer": 1,
+  "explanation": "'고샅길'로도 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'버금'의 뜻은 무엇인가요?",
+  "choices": [
+   "맨 마지막 차례",
+   "가장 높은 자리",
+   "으뜸의 바로 다음",
+   "처음과 끝 전체"
+  ],
+  "answer": 2,
+  "explanation": "'버금가다'처럼 으뜸 다음을 말해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'애면글면'의 뜻은 무엇인가요?",
+  "choices": [
+   "겉으로만 바쁜 척 서두르는 모양",
+   "남의 눈치를 살살 살피는 모양",
+   "일을 대충대충 끝내 버리는 모양",
+   "힘에 겨운 일에 갖은 애를 쓰는 모양"
+  ],
+  "answer": 3,
+  "explanation": "몹시 애쓰는 모습이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'구슬땀'의 뜻은 무엇인가요?",
+  "choices": [
+   "구슬처럼 방울방울 맺힌 땀",
+   "놀라서 흘리는 차가운 땀",
+   "잠을 잘 때 흘리는 땀",
+   "긴장해 손바닥에 나는 땀"
+  ],
+  "answer": 0,
+  "explanation": "땀방울이 구슬 같다는 말이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'눈시울'은 어디를 가리키나요?",
+  "choices": [
+   "두 눈썹 사이의 미간",
+   "눈언저리의 속눈썹 난 곳",
+   "눈 밑 볼 위쪽의 살",
+   "눈동자의 한가운데 부분"
+  ],
+  "answer": 1,
+  "explanation": "'눈시울이 붉어지다'처럼 써요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'도랑'의 뜻은 무엇인가요?",
+  "choices": [
+   "넓고 깊게 고인 호수",
+   "바닷가의 모래밭",
+   "매우 좁고 작은 개울",
+   "산골짜기의 폭포"
+  ],
+  "answer": 2,
+  "explanation": "'도랑 치고 가재 잡고'의 도랑이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'꼭두새벽'의 뜻은 무엇인가요?",
+  "choices": [
+   "해가 질 무렵",
+   "한밤중의 깊은 때",
+   "늦은 아침 무렵",
+   "아주 이른 새벽"
+  ],
+  "answer": 3,
+  "explanation": "'꼭두'는 맨 처음을 뜻해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'하늘'은 고유어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "한자어가 아닌 우리 고유의 말이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'샛별'은 새벽 동쪽 하늘의 금성을 이르는 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "새벽에 밝게 보이는 금성을 '샛별'이라 해요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'미쁘다'는 믿음성이 있다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'미쁘다'는 믿음성이 있다는 뜻이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'얼레'는 연줄을 감는 기구일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "연을 날릴 때 실을 감고 푸는 기구예요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'가뭇없다'는 보이던 것이 감쪽같이 사라져 찾을 수 없다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'가뭇없이 사라지다'처럼 흔적이 없다는 뜻이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'가게'는 한자와 관계없는 순 고유어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'가가(假家)'에서 온 말이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'여울'은 강물이 깊고 잔잔한 곳일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "바닥이 얕고 물살이 센 곳이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'함박웃음'은 억지로 짓는 웃음일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "크고 환하게 웃는 웃음이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'달무리'는 달이 뜨는 시각을 뜻할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "달 둘레에 생기는 둥근 테예요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'곰삭다'는 음식이 상해 못 먹게 된다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "젓갈 따위가 오래되어 푹 삭는다는 뜻이에요.",
+  "semester": 1,
+  "unit": "고유어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'고래 싸움에 ( ) 등 터진다'의 빈칸은?",
+  "choices": [
+   "새우",
+   "멸치",
+   "고등어",
+   "가재"
+  ],
+  "answer": 0,
+  "explanation": "강한 자들 싸움에 약한 자가 해를 입는다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'낮말은 새가 듣고 밤말은 ( )가 듣는다'의 빈칸은?",
+  "choices": [
+   "개",
+   "쥐",
+   "소",
+   "닭"
+  ],
+  "answer": 1,
+  "explanation": "말은 언제나 조심하라는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'소 잃고 ( ) 고친다'의 빈칸은?",
+  "choices": [
+   "헛간",
+   "울타리",
+   "외양간",
+   "대문"
+  ],
+  "answer": 2,
+  "explanation": "일이 터진 뒤에 손써도 소용없다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'하룻강아지 ( ) 무서운 줄 모른다'의 빈칸은?",
+  "choices": [
+   "곰",
+   "늑대",
+   "사자",
+   "범"
+  ],
+  "answer": 3,
+  "explanation": "철없이 함부로 덤빈다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'금강산도 식후경'의 뜻은?",
+  "choices": [
+   "배가 불러야 좋은 구경도 즐겁다",
+   "먼 길은 천천히 가야 한다",
+   "좋은 곳일수록 사람이 많다",
+   "구경은 아침 일찍 해야 한다"
+  ],
+  "answer": 0,
+  "explanation": "아무리 좋은 것도 먹고 난 뒤라야 흥이 난다는 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'입이 무겁다'의 뜻은?",
+  "choices": [
+   "말을 자꾸 더듬는다",
+   "말을 함부로 옮기지 않는다",
+   "음식을 많이 먹는다",
+   "말투가 몹시 거칠다"
+  ],
+  "answer": 1,
+  "explanation": "비밀을 잘 지킨다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'눈코 뜰 새 없다'의 뜻은?",
+  "choices": [
+   "몹시 졸리다",
+   "몹시 놀랐다",
+   "몹시 바쁘다",
+   "몹시 지루하다"
+  ],
+  "answer": 2,
+  "explanation": "정신 못 차릴 만큼 바쁘다는 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "관용구 '배가 아프다'의 뜻은?",
+  "choices": [
+   "음식을 많이 먹어 탈이 나다",
+   "배를 잡고 크게 웃다",
+   "걱정이 많아 잠을 못 자다",
+   "남이 잘되어 심술이 나다"
+  ],
+  "answer": 3,
+  "explanation": "'사촌이 땅을 사면 배가 아프다'와 같은 쓰임이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'시치미를 떼다'의 뜻은?",
+  "choices": [
+   "알고도 모르는 체하다",
+   "약속을 슬그머니 깨다",
+   "끝까지 고집을 부리다",
+   "이런저런 핑계를 대다"
+  ],
+  "answer": 0,
+  "explanation": "매 꽁지의 주인표 '시치미'를 떼는 데서 왔어요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'꿀 먹은 벙어리'의 뜻은?",
+  "choices": [
+   "맛있는 것을 혼자 먹는 사람",
+   "속에 있는 말을 하지 못하는 사람",
+   "남의 말을 잘 따르는 사람",
+   "말을 아끼고 신중한 사람"
+  ],
+  "answer": 1,
+  "explanation": "속에 있는 말을 못 하고 있는 사람을 이르는 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'같은 값이면 다홍치마'의 뜻은?",
+  "choices": [
+   "비싼 것이 결국 더 낫다",
+   "옷은 붉은색이 가장 곱다",
+   "값이 같으면 보기 좋은 것을 고른다",
+   "싼 물건은 오래 못 쓴다"
+  ],
+  "answer": 2,
+  "explanation": "같은 조건이면 더 좋은 쪽을 고른다는 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'세 살 버릇 여든까지 간다'의 뜻은?",
+  "choices": [
+   "나이 들면 버릇이 바뀐다",
+   "어른 말을 잘 들어야 한다",
+   "오래 살려면 버릇이 좋아야 한다",
+   "어릴 적 버릇은 고치기 어렵다"
+  ],
+  "answer": 3,
+  "explanation": "어릴 때 든 버릇의 무게를 말해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'낫 놓고 ( ) 자도 모른다'의 빈칸은?",
+  "choices": [
+   "기역",
+   "니은",
+   "디귿",
+   "리을"
+  ],
+  "answer": 0,
+  "explanation": "낫 모양이 'ㄱ'과 같아요. 아주 무식함을 뜻해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'바늘 도둑이 소도둑 된다'의 뜻은?",
+  "choices": [
+   "작은 것을 아끼면 큰 부자가 된다",
+   "작은 나쁜 짓도 버릇되면 커진다",
+   "도둑질은 언젠가 반드시 들킨다",
+   "남의 물건을 함부로 탐내지 마라"
+  ],
+  "answer": 1,
+  "explanation": "나쁜 버릇이 점점 커짐을 경계해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'가재는 게 편'의 뜻은?",
+  "choices": [
+   "힘센 쪽에 슬쩍 붙는다",
+   "겉과 속이 서로 다르다",
+   "비슷한 처지끼리 편든다",
+   "힘이 약하면 숨어 버린다"
+  ],
+  "answer": 2,
+  "explanation": "모양이 비슷한 가재와 게처럼 한편이 된다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'마른하늘에 날벼락'의 뜻은?",
+  "choices": [
+   "오랜 가뭄 끝의 비",
+   "작은 일에 크게 화냄",
+   "예상대로 된 일",
+   "뜻밖에 당하는 재난"
+  ],
+  "answer": 3,
+  "explanation": "생각지도 못한 화를 말해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'바가지를 긁다'의 뜻은?",
+  "choices": [
+   "듣기 싫게 잔소리를 늘어놓다",
+   "살림을 알뜰하게 아껴 쓰다",
+   "남의 돈을 몰래 가로채다",
+   "맡은 일을 서둘러 끝내다"
+  ],
+  "answer": 0,
+  "explanation": "주로 아내가 남편에게 하는 잔소리를 말해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'코가 납작해지다'의 뜻은?",
+  "choices": [
+   "으스대며 몹시 자랑하다",
+   "무안을 당해 기가 죽다",
+   "넘어져 얼굴을 다치다",
+   "냄새를 아주 잘 맡다"
+  ],
+  "answer": 1,
+  "explanation": "우쭐하던 기세가 꺾일 때 써요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'어깨가 무겁다'의 뜻은?",
+  "choices": [
+   "몸이 몹시 피곤하고 아프다",
+   "짐을 너무 많이 들었다",
+   "책임이 무거워 부담스럽다",
+   "남을 힘껏 도와주다"
+  ],
+  "answer": 2,
+  "explanation": "맡은 일의 부담을 말해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'혀를 내두르다'의 뜻은?",
+  "choices": [
+   "능청스럽게 거짓말을 하다",
+   "음식 맛을 꼼꼼히 보다",
+   "남을 얄밉게 놀려 대다",
+   "몹시 놀라거나 감탄하다"
+  ],
+  "answer": 3,
+  "explanation": "놀라서 말을 못 할 때 써요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'귀가 따갑다'의 뜻은?",
+  "choices": [
+   "여러 번 들어 듣기 싫다",
+   "남의 말을 몰래 엿듣다",
+   "귀에 염증이 생겨 아프다",
+   "작은 소리도 잘 알아듣다"
+  ],
+  "answer": 0,
+  "explanation": "같은 말을 너무 많이 들었을 때예요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'벼룩의 간을 내어 먹는다'의 뜻은?",
+  "choices": [
+   "작은 일에도 정성을 다 쏟는다",
+   "어려운 사람에게서 뜯어낸다",
+   "어려운 이웃을 몰래 돕는다",
+   "적은 음식을 고루 나눠 먹는다"
+  ],
+  "answer": 1,
+  "explanation": "없는 사람 것을 빼앗는 모습을 비꼬아요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'쥐구멍에도 볕 들 날 있다'의 뜻은?",
+  "choices": [
+   "숨겨 둔 비밀은 결국 드러난다",
+   "작은 틈이라도 미리 막아야 한다",
+   "고생하는 삶에도 좋은 때가 온다",
+   "부지런히 일하면 칭찬을 받는다"
+  ],
+  "answer": 2,
+  "explanation": "희망을 잃지 말라는 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "남의 일에 괜히 참견할 때 어울리는 속담은?",
+  "choices": [
+   "우물에 가 숭늉 찾는다",
+   "소 귀에 경 읽기",
+   "누워서 떡 먹기",
+   "남의 잔치에 감 놔라 배 놔라 한다"
+  ],
+  "answer": 3,
+  "explanation": "쓸데없이 참견하는 모습이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "일의 순서를 무시하고 몹시 서두를 때 어울리는 속담은?",
+  "choices": [
+   "우물에 가 숭늉 찾는다",
+   "밑 빠진 독에 물 붓기",
+   "수박 겉 핥기",
+   "가는 날이 장날"
+  ],
+  "answer": 0,
+  "explanation": "숭늉은 밥을 지은 뒤에야 생겨요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "아무리 애써도 보람 없는 일에 어울리는 속담은?",
+  "choices": [
+   "돌다리도 두들겨 보고 건너라",
+   "밑 빠진 독에 물 붓기",
+   "가재는 게 편",
+   "꿩 먹고 알 먹는다"
+  ],
+  "answer": 1,
+  "explanation": "채워도 채워도 새어 나가는 독이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'파리를 날리다'의 뜻은?",
+  "choices": [
+   "손님이 많아 몹시 바쁘다",
+   "남을 자꾸 귀찮게 하다",
+   "장사가 안 되어 한가하다",
+   "한꺼번에 큰돈을 벌다"
+  ],
+  "answer": 2,
+  "explanation": "손님이 없어 파리만 쫓는 모습이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'눈엣가시'의 뜻은?",
+  "choices": [
+   "아주 귀엽고 사랑스러운 사람",
+   "눈이 밝아 잘 살피는 사람",
+   "조심성이 많고 꼼꼼한 사람",
+   "몹시 미워 늘 거슬리는 사람"
+  ],
+  "answer": 3,
+  "explanation": "눈에 박힌 가시처럼 거슬리는 대상이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'가는 날이 장날'의 본래 뜻은?",
+  "choices": [
+   "뜻밖의 일과 공교롭게 맞닥뜨림",
+   "마침 운 좋게 일이 잘 풀림",
+   "부지런하면 복이 들어옴",
+   "미리 준비해야 손해가 없음"
+  ],
+  "answer": 0,
+  "explanation": "좋은 때를 만났다는 뜻으로 오해하기 쉬워요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "뜻이 나머지 셋과 다른 속담은?",
+  "choices": [
+   "누워서 떡 먹기",
+   "하늘의 별 따기",
+   "땅 짚고 헤엄치기",
+   "손 안 대고 코 풀기"
+  ],
+  "answer": 1,
+  "explanation": "셋은 아주 쉬운 일, '하늘의 별 따기'는 아주 어려운 일이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'산통을 깨다'의 '산통'은 무엇인가요?",
+  "choices": [
+   "아이를 낳을 때 겪는 고통",
+   "산에서 캐어 온 약초 묶음",
+   "점칠 때 쓰는 산가지 통",
+   "셈할 때 쓰던 나무 주판"
+  ],
+  "answer": 2,
+  "explanation": "점괘를 뽑는 산통을 깨면 일이 틀어진다는 데서 왔어요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'○○○○을 가더라도 할 말은 해야겠다'의 바른 말은?",
+  "choices": [
+   "산수갑산",
+   "삼수감산",
+   "산수감산",
+   "삼수갑산"
+  ],
+  "answer": 3,
+  "explanation": "함경도의 험한 땅 삼수와 갑산이에요. '산수(山水)'가 아니에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'열 번 찍어 안 넘어가는 나무 없다'와 뜻이 가장 가까운 것은?",
+  "choices": [
+   "낙숫물이 댓돌을 뚫는다",
+   "오르지 못할 나무는 쳐다보지도 마라",
+   "될성부른 나무는 떡잎부터 알아본다",
+   "돌다리도 두들겨 보고 건너라"
+  ],
+  "answer": 0,
+  "explanation": "둘 다 꾸준히 하면 이룬다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'백지장도 맞들면 낫다'와 뜻이 가장 반대되는 것은?",
+  "choices": [
+   "작은 고추가 더 맵다",
+   "사공이 많으면 배가 산으로 간다",
+   "소 귀에 경 읽기",
+   "개천에서 용 난다"
+  ],
+  "answer": 1,
+  "explanation": "하나는 협력의 이로움, 하나는 사람이 많은 탈이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'오금을 박다'의 뜻은?",
+  "choices": [
+   "무릎을 꿇고 잘못을 빌다",
+   "한자리에 오래 눌러앉다",
+   "함부로 못 하게 단단히 이르다",
+   "몹시 두려워 벌벌 떨다"
+  ],
+  "answer": 2,
+  "explanation": "'오금'이 무릎 뒤라 다리 이야기로 오해하기 쉬워요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'경을 치다'의 뜻은?",
+  "choices": [
+   "불경을 소리 내어 읽다",
+   "윗사람을 몹시 공경하다",
+   "시험에 떨어져 낙심하다",
+   "호된 꾸지람이나 벌을 받다"
+  ],
+  "answer": 3,
+  "explanation": "옛 형벌 '경(黥)'에서 온 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'마각을 드러내다'의 뜻은?",
+  "choices": [
+   "숨기던 정체가 드러나다",
+   "실력을 마음껏 내보이다",
+   "말을 타고 힘차게 달리다",
+   "속마음을 솔직히 털어놓다"
+  ],
+  "answer": 0,
+  "explanation": "말의 다리가 드러난다는 데서 왔어요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'구렁이 담 넘어가듯'의 뜻은?",
+  "choices": [
+   "위험을 무릅쓰고 덤벼듦",
+   "일을 슬그머니 얼버무려 넘김",
+   "몹시 빠르게 달아나 버림",
+   "남을 몰래 해치려 듦"
+  ],
+  "answer": 1,
+  "explanation": "분명히 매듭짓지 않고 넘기는 모습이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'빈대 잡으려고 초가삼간 태운다'의 뜻은?",
+  "choices": [
+   "작은 일도 꼼꼼히 처리함",
+   "가난해도 깨끗하게 살아감",
+   "작은 것 없애려다 큰 손해를 봄",
+   "남의 집에 몰래 불을 냄"
+  ],
+  "answer": 2,
+  "explanation": "손해를 따지지 않고 덤비는 어리석음이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'사돈 남 말한다'와 뜻이 가장 가까운 것은?",
+  "choices": [
+   "원님 덕에 나팔 분다",
+   "누워서 침 뱉기",
+   "가재는 게 편",
+   "똥 묻은 개가 겨 묻은 개 나무란다"
+  ],
+  "answer": 3,
+  "explanation": "둘 다 제 허물은 두고 남의 허물을 탓한다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'발 없는 말이 천 리 간다'는 말이 빨리 퍼진다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "말은 쉽게 퍼지니 조심하라는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'눈이 높다'는 정도 이상의 좋은 것만 찾는다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "기준이 높아 웬만한 것은 마음에 안 든다는 말이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'코가 빠지다'는 근심에 싸여 기가 죽는다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "걱정으로 맥이 빠진 모습이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'바람을 맞다'는 약속한 상대가 오지 않는다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "상대가 약속을 어겨 헛걸음함을 말해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'학을 떼다'의 '학'은 학질(말라리아)을 이르는 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "학질을 떼듯 몹시 애먹거나 질린다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'미역국을 먹다'는 생일을 축하받는다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "관용구로는 시험에 떨어지거나 자리에서 밀려남을 뜻해요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'개천에서 용 난다'는 집안이 좋아야 성공한다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "변변치 못한 환경에서 훌륭한 인물이 난다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'손이 맵다'는 씀씀이가 인색하다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "슬쩍 때려도 아프다, 일이 야무지다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'반죽이 좋다'는 쉽게 화를 낸다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "노여움이나 부끄럼을 타지 않는다는 뜻이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'목구멍이 포도청'의 '포도청'은 포도를 관리하던 관청일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "죄인을 잡던 조선의 관청이에요.",
+  "semester": 1,
+  "unit": "속담·관용구"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'죽마고우'의 뜻은 무엇인가요?",
+  "choices": [
+   "어릴 때부터 함께 자란 벗",
+   "어려울 때 돕는 의리 있는 벗",
+   "말없이도 마음이 통하는 벗",
+   "나이를 따지지 않고 사귀는 벗"
+  ],
+  "answer": 0,
+  "explanation": "대나무 말을 타고 함께 놀던 옛 친구라는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'작심삼일'의 뜻은 무엇인가요?",
+  "choices": [
+   "사흘 동안 깊이 생각함",
+   "세 번 생각하고 결정함",
+   "마음먹은 일을 끝내 이룸",
+   "결심이 오래가지 못함"
+  ],
+  "answer": 3,
+  "explanation": "마음먹은 것이 사흘을 못 간다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'이심전심'의 뜻은 무엇인가요?",
+  "choices": [
+   "두 마음을 품고 남을 속임",
+   "마음이 이랬다저랬다 바뀜",
+   "말없이 마음으로 뜻이 통함",
+   "남의 마음을 슬쩍 떠봄"
+  ],
+  "answer": 2,
+  "explanation": "마음에서 마음으로 전한다는 뜻이에요. '두 마음'으로 오해하기 쉬워요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'감언이설'의 뜻은 무엇인가요?",
+  "choices": [
+   "듣기 싫지만 이로운 충고",
+   "귀가 솔깃하게 꾸민 달콤한 말",
+   "짧고 핵심만 찌르는 말",
+   "앞뒤가 맞지 않는 말"
+  ],
+  "answer": 1,
+  "explanation": "달콤한 말과 이로운 듯한 말로 남을 꾀는 것이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'일편단심'의 뜻은 무엇인가요?",
+  "choices": [
+   "한쪽으로 치우친 생각",
+   "변치 않는 참된 마음",
+   "한순간의 짧은 결심",
+   "남을 의심하는 마음"
+  ],
+  "answer": 1,
+  "explanation": "한 조각 붉은 마음, 곧 변하지 않는 정성스러운 마음이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'자업자득'의 뜻은 무엇인가요?",
+  "choices": [
+   "자기가 한 일의 결과를 자기가 받음",
+   "스스로 일해 재산을 모음",
+   "남의 도움 없이 일을 이룸",
+   "자기 잘못을 남에게 돌림"
+  ],
+  "answer": 0,
+  "explanation": "자기가 저지른 일의 대가를 스스로 받는다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'대기만성'의 뜻은 무엇인가요?",
+  "choices": [
+   "큰 그릇은 쓸모가 적음",
+   "큰일일수록 서둘러야 함",
+   "그릇이 크면 많이 담김",
+   "큰 인물은 늦게 이루어짐"
+  ],
+  "answer": 3,
+  "explanation": "큰 그릇은 늦게 만들어지듯 큰 인물은 늦게 이루어진다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'동병상련'의 뜻은 무엇인가요?",
+  "choices": [
+   "같은 병이 여럿에게 번짐",
+   "같은 편끼리 서로 다툼",
+   "어려운 처지끼리 서로 동정함",
+   "아픈 사람을 정성껏 돌봄"
+  ],
+  "answer": 2,
+  "explanation": "같은 병을 앓는 사람끼리 서로 불쌍히 여긴다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "둘이 다투는 사이에 제삼자가 이익을 얻는다는 뜻의 사자성어는?",
+  "choices": [
+   "일거양득",
+   "다다익선",
+   "어부지리",
+   "자승자박"
+  ],
+  "answer": 2,
+  "explanation": "조개와 도요새가 다투는 사이 어부가 둘 다 잡았다는 이야기에서 왔어요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "몹시 놀라 넋을 잃을 지경이 되었다는 뜻의 사자성어는?",
+  "choices": [
+   "기고만장",
+   "혼비백산",
+   "의기양양",
+   "노심초사"
+  ],
+  "answer": 1,
+  "explanation": "혼이 날아가고 넋이 흩어진다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'애지중지'의 뜻은 무엇인가요?",
+  "choices": [
+   "매우 사랑하고 소중히 여김",
+   "아끼다가 결국 잃어버림",
+   "사랑과 미움이 함께 있음",
+   "귀한 것을 남에게 내줌"
+  ],
+  "answer": 0,
+  "explanation": "사랑하고 귀하게 여긴다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'박장대소'의 뜻은 무엇인가요?",
+  "choices": [
+   "소리 없이 빙그레 웃음",
+   "남을 깔보며 비웃음",
+   "억지로 꾸며 웃음",
+   "손뼉을 치며 크게 웃음"
+  ],
+  "answer": 3,
+  "explanation": "손바닥을 치며 크게 웃는다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'안하무인'의 뜻은 무엇인가요?",
+  "choices": [
+   "사람이 없는 곳에 홀로 삶",
+   "사람을 알아보지 못함",
+   "남의 눈치를 많이 봄",
+   "남을 업신여길 만큼 교만함"
+  ],
+  "answer": 3,
+  "explanation": "눈 아래에 사람이 없다는 뜻으로, 몹시 교만함을 이르러요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'역지사지'의 뜻은 무엇인가요?",
+  "choices": [
+   "지난 일을 거울로 삼음",
+   "사는 곳을 바꾸어 옮김",
+   "처지를 바꾸어 생각함",
+   "생각을 거꾸로 뒤집음"
+  ],
+  "answer": 2,
+  "explanation": "상대의 처지에서 생각해 본다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'전전긍긍'의 뜻은 무엇인가요?",
+  "choices": [
+   "잠 못 이루고 이리저리 뒤척임",
+   "몹시 두려워 벌벌 떨며 조심함",
+   "하는 일마다 거침없이 잘됨",
+   "앞만 보고 끝까지 싸움"
+  ],
+  "answer": 1,
+  "explanation": "두려워 조심하는 모습이에요. 뒤척임은 '전전반측'이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "걱정 등으로 잠 못 이루고 몸을 이리저리 뒤척인다는 뜻의 사자성어는?",
+  "choices": [
+   "전전반측",
+   "전전긍긍",
+   "노심초사",
+   "오매불망"
+  ],
+  "answer": 0,
+  "explanation": "'전전긍긍'은 두려워 조심함, '노심초사'는 애태움이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'와신상담'의 뜻은 무엇인가요?",
+  "choices": [
+   "목표를 위해 온갖 괴로움을 참음",
+   "쓴 충고를 달게 받아들임",
+   "편한 자리에 누워 쉬기만 함",
+   "몸을 낮추어 남을 섬김"
+  ],
+  "answer": 0,
+  "explanation": "섶에 눕고 쓸개를 맛보며 복수를 다짐한 고사에서 왔어요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'읍참마속'의 뜻은 무엇인가요?",
+  "choices": [
+   "울면서 말을 팔아 빚을 갚음",
+   "잘못을 뉘우치며 눈물 흘림",
+   "아끼는 부하를 끝까지 감쌈",
+   "큰 목적을 위해 아끼는 사람도 벌함"
+  ],
+  "answer": 3,
+  "explanation": "제갈량이 울면서 아끼던 장수 마속을 벤 고사예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'새옹지마'의 뜻은 무엇인가요?",
+  "choices": [
+   "나이 들어 쌓은 지혜는 쓸모 있음",
+   "변방 사람은 말을 잘 다룸",
+   "인생의 화와 복은 예측하기 어려움",
+   "잃은 뒤에야 뒤늦게 대비함"
+  ],
+  "answer": 2,
+  "explanation": "변방 노인의 말 이야기에서 왔어요. 둘째 보기는 '노마지지'예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'조삼모사'의 뜻은 무엇인가요?",
+  "choices": [
+   "계획을 아침저녁으로 자주 바꿈",
+   "간사한 꾀로 남을 속여 농락함",
+   "일찍 일어나 늦게 잠듦",
+   "적게 먹고 오래 일함"
+  ],
+  "answer": 1,
+  "explanation": "원숭이에게 도토리 개수로 꾀를 부린 이야기예요. 둘째 보기는 '조령모개'예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'군계일학'의 뜻은 무엇인가요?",
+  "choices": [
+   "무리를 이끄는 우두머리",
+   "많은 사람 가운데 뛰어난 한 사람",
+   "무리를 떠나 홀로 지내는 사람",
+   "무리에 섞여 눈에 띄지 않음"
+  ],
+  "answer": 1,
+  "explanation": "닭 무리 속의 한 마리 학이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'점입가경'의 뜻은 무엇인가요?",
+  "choices": [
+   "갈수록 더욱 흥미로워짐",
+   "처음만 좋고 끝이 나빠짐",
+   "갈수록 일이 쉬워짐",
+   "처음부터 끝까지 한결같음"
+  ],
+  "answer": 0,
+  "explanation": "점점 더 아름다운 경치로 들어간다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'함흥차사'의 뜻은 무엇인가요?",
+  "choices": [
+   "먼 길을 급히 달려감",
+   "임금의 명을 끝내 어김",
+   "소식을 빠르게 전함",
+   "심부름 가서 소식이 없거나 늦음"
+  ],
+  "answer": 3,
+  "explanation": "함흥으로 보낸 차사가 돌아오지 않았다는 이야기에서 왔어요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'부화뇌동'의 뜻은 무엇인가요?",
+  "choices": [
+   "천둥처럼 크게 화를 냄",
+   "남과 다투기를 좋아함",
+   "줏대 없이 남을 따라 움직임",
+   "남보다 앞장서 나섬"
+  ],
+  "answer": 2,
+  "explanation": "우레 소리에 맞춰 함께 울린다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'아전인수'의 뜻은 무엇인가요?",
+  "choices": [
+   "남의 논에 먼저 물을 대 줌",
+   "남의 의견을 잘 받아들임",
+   "자기에게 이롭게만 생각하고 행동함",
+   "가진 것을 공평하게 나눔"
+  ],
+  "answer": 2,
+  "explanation": "제 논에 물 대기라는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'설상가상'과 뜻이 가장 가까운 속담은?",
+  "choices": [
+   "가는 날이 장날",
+   "엎친 데 덮친 격",
+   "금강산도 식후경",
+   "누워서 떡 먹기"
+  ],
+  "answer": 1,
+  "explanation": "눈 위에 서리가 덮인다는 뜻으로, 어려운 일이 겹침을 말해요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'호가호위'의 뜻은 무엇인가요?",
+  "choices": [
+   "남의 권세를 빌려 위세를 부림",
+   "호랑이처럼 용맹하게 싸움",
+   "여우처럼 꾀가 많음",
+   "강한 자 앞에서 몸을 숨김"
+  ],
+  "answer": 0,
+  "explanation": "여우가 호랑이의 위세를 빌려 거들먹거린 이야기예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'형설지공'에서 '형'과 '설'이 가리키는 것은?",
+  "choices": [
+   "형과 아우",
+   "등잔과 달빛",
+   "가시와 눈물",
+   "반딧불과 눈"
+  ],
+  "answer": 3,
+  "explanation": "반딧불과 눈빛으로 글을 읽으며 고생해 공부했다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "뜻이 서로 반대인 사자성어끼리 짝 지은 것은?",
+  "choices": [
+   "이구동성 – 만장일치",
+   "노심초사 – 전전긍긍",
+   "오십보백보 – 대동소이",
+   "대동소이 – 천양지차"
+  ],
+  "answer": 3,
+  "explanation": "거의 같음(대동소이)과 하늘과 땅만큼 차이(천양지차)예요. 나머지는 비슷한 짝이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "자기 몸을 상하게 하면서까지 꾸며 내는 계책을 뜻하는 말은?",
+  "choices": [
+   "궁여지책",
+   "임기응변",
+   "고육지책",
+   "권모술수"
+  ],
+  "answer": 2,
+  "explanation": "'고육지책'은 제 살을 깎는 계책, '궁여지책'은 궁한 끝에 낸 계책이라 달라요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "한자에 동물이 들어 있지 않은 사자성어는?",
+  "choices": [
+   "호가호위",
+   "사필귀정",
+   "견원지간",
+   "용두사미"
+  ],
+  "answer": 1,
+  "explanation": "호가호위(호랑이·여우), 견원지간(개·원숭이), 용두사미(용·뱀)예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'등잔 밑이 어둡다'와 같은 뜻의 사자성어는?",
+  "choices": [
+   "등하불명",
+   "등화가친",
+   "오리무중",
+   "명경지수"
+  ],
+  "answer": 0,
+  "explanation": "등잔 아래가 밝지 않다는 뜻이에요. '등화가친'은 독서하기 좋은 가을이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "같은 한자가 두 번 들어 있지 않은 사자성어는?",
+  "choices": [
+   "견물생심",
+   "전전긍긍",
+   "시시비비",
+   "명명백백"
+  ],
+  "answer": 0,
+  "explanation": "전(戰)·시(是)·명(明)이 겹쳐요. 견물생심(見物生心)은 겹치는 글자가 없어요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "고사와 인물이 바르게 짝 지어지지 않은 것은?",
+  "choices": [
+   "읍참마속 – 제갈량",
+   "삼고초려 – 유비",
+   "와신상담 – 구천",
+   "수주대토 – 공자"
+  ],
+  "answer": 3,
+  "explanation": "수주대토는 『한비자』에 나오는 송나라 농부 이야기예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'오리무중'의 '오리'는 무엇인가요?",
+  "choices": [
+   "물에 사는 새 오리",
+   "다섯 개의 마을",
+   "다섯 리에 걸친 거리",
+   "다섯 갈래의 길"
+  ],
+  "answer": 2,
+  "explanation": "5리나 되는 짙은 안개 속이라는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "뜻이 나머지 셋과 다른 사자성어는?",
+  "choices": [
+   "노심초사",
+   "호사다마",
+   "전전긍긍",
+   "좌불안석"
+  ],
+  "answer": 1,
+  "explanation": "나머지는 걱정·불안을 뜻하고, '호사다마'는 좋은 일에 탈이 많다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "몇 년째 끝난다던 다리 공사가 아무리 기다려도 끝날 기미가 없을 때 알맞은 말은?",
+  "choices": [
+   "상전벽해",
+   "백년하청",
+   "일장춘몽",
+   "천재일우"
+  ],
+  "answer": 1,
+  "explanation": "황하가 맑아지기를 백 년 기다린다는 뜻으로, 기대가 이루어지기 어려움이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'일장춘몽'과 뜻이 가장 가까운 사자성어는?",
+  "choices": [
+   "남가일몽",
+   "동상이몽",
+   "비몽사몽",
+   "견원지간"
+  ],
+  "answer": 0,
+  "explanation": "둘 다 덧없는 꿈 같은 부귀영화예요. '동상이몽'은 속셈이 다름이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "친한 벗 사이와 관련 없는 사자성어는?",
+  "choices": [
+   "관포지교",
+   "수어지교",
+   "막역지우",
+   "오월동주"
+  ],
+  "answer": 3,
+  "explanation": "'오월동주'는 사이 나쁜 사람들이 한 배를 탄 처지를 말해요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'계란유골'의 뜻은 무엇인가요?",
+  "choices": [
+   "사소한 일에 트집을 잡음",
+   "겉보기와 속이 서로 다름",
+   "운이 없으면 좋은 기회도 틀어짐",
+   "약한 것도 뭉치면 강해짐"
+  ],
+  "answer": 2,
+  "explanation": "달걀에도 뼈가 있다는 뜻으로, 일이 공교롭게 안 풀림이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'일취월장'은 날로 달로 발전한다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "나날이 다달이 자라거나 발전한다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'천고마비'는 하늘이 높고 말이 살찌는 가을을 이르는 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "가을의 좋은 날씨를 이르는 말이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'십시일반'은 여럿이 한 사람을 따돌린다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "열 숟가락이 한 그릇이 되듯 여럿이 힘을 모아 한 사람을 돕는다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'오매불망'은 자나 깨나 잊지 못한다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "자면서도 깨어서도 잊지 못한다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'주마간산'은 자세히 살펴본다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "달리는 말에서 산을 보듯 대충 훑어본다는 뜻이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'반포지효'는 형제끼리 우애가 깊다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "까마귀 새끼가 자라 어미에게 먹이를 물어다 주는 효도를 말해요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'낭중지추'는 뛰어난 사람은 저절로 드러난다는 뜻일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "주머니 속 송곳이 삐져나오듯 재능은 드러나게 마련이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'반면교사'는 본받을 만한 훌륭한 본보기를 뜻할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "잘못된 모습을 보고 그렇게 하지 않도록 배우는 부정적 본보기예요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'삼수갑산'은 몹시 험하고 어려운 곳을 이르는 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "함경도의 험한 귀양지 삼수와 갑산이에요. '산수갑산'은 잘못 쓴 말이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "의지할 곳 없는 외로운 몸을 뜻하는 말로 '홀홀단신'이 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "바른 표기는 '혈혈단신'이에요.",
+  "semester": 1,
+  "unit": "사자성어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'자다'의 높임말은 무엇인가요?",
+  "choices": [
+   "주무시다",
+   "잡수시다",
+   "계시다",
+   "누우시다"
+  ],
+  "answer": 0,
+  "explanation": "'자다'를 높이는 특수 어휘는 '주무시다'예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'죽다'의 높임말은 무엇인가요?",
+  "choices": [
+   "들어가시다",
+   "넘어가시다",
+   "내려가시다",
+   "돌아가시다"
+  ],
+  "answer": 3,
+  "explanation": "웃어른이 세상을 떠났을 때 '돌아가시다'를 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'아프다'를 높이는 특수 어휘는 무엇인가요?",
+  "choices": [
+   "고단하시다",
+   "언짢으시다",
+   "편찮으시다",
+   "섭섭하시다"
+  ],
+  "answer": 2,
+  "explanation": "병을 앓는 웃어른에게는 '편찮으시다'를 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'이'를 높여 이르는 말은 무엇인가요?",
+  "choices": [
+   "이빨",
+   "치아",
+   "잇몸",
+   "앞니"
+  ],
+  "answer": 1,
+  "explanation": "'이빨'은 낮잡는 느낌이 있고, 높일 때는 '치아'예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'술'을 높여 이르는 말은 무엇인가요?",
+  "choices": [
+   "약수",
+   "약주",
+   "청주",
+   "반주"
+  ],
+  "answer": 1,
+  "explanation": "웃어른의 술은 '약주'라고 해요. '반주'는 밥에 곁들이는 술이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "남의 딸을 높여 이르는 말은 무엇인가요?",
+  "choices": [
+   "따님",
+   "딸님",
+   "여식",
+   "딸내미"
+  ],
+  "answer": 0,
+  "explanation": "'여식'은 자기 딸을 이를 때 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'선생님을 (  ) 학교에 갔다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "보시러",
+   "만나시러",
+   "보이러",
+   "뵈러"
+  ],
+  "answer": 3,
+  "explanation": "높일 사람을 만날 때는 객체 높임 '뵈다'를 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'할아버지(  ) 편지를 보냈다'의 빈칸에 알맞은 조사는?",
+  "choices": [
+   "께서",
+   "에게서",
+   "께",
+   "한테서"
+  ],
+  "answer": 2,
+  "explanation": "받는 사람을 높일 때는 '께'를 써요. '께서'는 주어를 높여요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "다음 중 해요체 문장은?",
+  "choices": [
+   "어서 오십시오",
+   "어서 오게",
+   "어서 오세요",
+   "어서 오너라"
+  ],
+  "answer": 2,
+  "explanation": "'-어요/-아요'로 끝나는 두루높임이 해요체예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "웃어른 앞에서 '나'를 낮추어 이르는 말은?",
+  "choices": [
+   "너",
+   "저",
+   "자네",
+   "그대"
+  ],
+  "answer": 1,
+  "explanation": "자기를 낮출 때는 '저'를 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'먹다'를 높여 이르는 말은?",
+  "choices": [
+   "드시다",
+   "주무시다",
+   "계시다",
+   "여쭈다"
+  ],
+  "answer": 0,
+  "explanation": "'먹다'의 높임은 '드시다·잡수시다'예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "남의 의견을 높여 이르는 말은?",
+  "choices": [
+   "소견",
+   "사견",
+   "단견",
+   "고견"
+  ],
+  "answer": 3,
+  "explanation": "'소견'은 자기 의견을 낮출 때 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "개인에게 보내는 편지 겉봉에서 받는 사람 이름 뒤에 붙여 높이는 말은?",
+  "choices": [
+   "귀중",
+   "올림",
+   "드림",
+   "귀하"
+  ],
+  "answer": 3,
+  "explanation": "'귀중'은 단체에, '올림·드림'은 보내는 사람 쪽에 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'손님 세 (  )이 오셨다'의 빈칸에 높임에 알맞은 말은?",
+  "choices": [
+   "명",
+   "개",
+   "분",
+   "놈"
+  ],
+  "answer": 2,
+  "explanation": "사람을 높여 셀 때는 '분'을 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "객체(받는 사람)를 높인 문장은 무엇인가요?",
+  "choices": [
+   "할머니께서 병원에 가셨다",
+   "나는 할머니를 모시고 병원에 갔다",
+   "할머니가 병원에 갔다",
+   "나는 동생을 데리고 병원에 갔다"
+  ],
+  "answer": 1,
+  "explanation": "'모시다'로 목적어인 할머니를 높였어요. 둘째는 주체 높임이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'이리 와서 앉게'는 어느 높임 등급인가요?",
+  "choices": [
+   "하게체",
+   "하오체",
+   "해라체",
+   "하십시오체"
+  ],
+  "answer": 0,
+  "explanation": "'-게'로 끝나며 아랫사람을 대접해 낮추는 등급이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "남의 아버지를 높여 이르는 말은?",
+  "choices": [
+   "춘부장",
+   "가친",
+   "선친",
+   "자당"
+  ],
+  "answer": 0,
+  "explanation": "가친은 자기 아버지, 선친은 돌아가신 자기 아버지, 자당은 남의 어머니예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "자기 회사를 낮추어 이르는 말은?",
+  "choices": [
+   "귀사",
+   "지사",
+   "상사",
+   "폐사"
+  ],
+  "answer": 3,
+  "explanation": "'귀사'는 상대 회사를 높이는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "자기가 쓴 원고를 낮추어 이르는 말은?",
+  "choices": [
+   "옥고",
+   "유고",
+   "졸고",
+   "탈고"
+  ],
+  "answer": 2,
+  "explanation": "'옥고'는 남의 원고를 높이는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'선생님께 제 생각을 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "말씀하셨다",
+   "말씀드렸다",
+   "말하셨다",
+   "여쭈셨다"
+  ],
+  "answer": 1,
+  "explanation": "내가 하는 일이니 '-시-' 없이 '말씀드리다'로 낮춰요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "남편의 형을 부르는 말은?",
+  "choices": [
+   "도련님",
+   "아주버님",
+   "서방님",
+   "형님"
+  ],
+  "answer": 1,
+  "explanation": "남편의 형은 '아주버님', 남편의 남동생은 '도련님·서방님'이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "아내의 언니를 이르는 말은?",
+  "choices": [
+   "처형",
+   "처제",
+   "처남",
+   "형수"
+  ],
+  "answer": 0,
+  "explanation": "아내의 언니는 '처형', 여동생은 '처제'예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'자제분'은 누구를 높여 이르는 말인가요?",
+  "choices": [
+   "남의 부모",
+   "자기 아들딸",
+   "남의 형제",
+   "남의 아들딸"
+  ],
+  "answer": 3,
+  "explanation": "남의 자녀를 높여 이르는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "뉴스 진행자가 시청자에게 주로 쓰는 높임 등급은?",
+  "choices": [
+   "하오체",
+   "하게체",
+   "하십시오체",
+   "해체"
+  ],
+  "answer": 2,
+  "explanation": "'-습니다'로 끝나는 격식 있는 아주높임이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'자네'라고 부를 수 있는 상대는 누구인가요?",
+  "choices": [
+   "처음 만난 웃어른",
+   "직장의 윗사람",
+   "대접해 줄 아랫사람이나 친구",
+   "할아버지와 할머니"
+  ],
+  "answer": 2,
+  "explanation": "'자네'는 하게체를 쓰는 상대에게 쓰는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "자기 아내를 남에게 이를 때 쓰지 않는 말은?",
+  "choices": [
+   "아내",
+   "부인",
+   "집사람",
+   "안사람"
+  ],
+  "answer": 1,
+  "explanation": "'부인'은 남의 아내를 높이는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "높임이 바르게 쓰인 문장은?",
+  "choices": [
+   "선생님께서 가셨습니다",
+   "선생님께서 가시셨습니다",
+   "선생님께서 가셨으셨습니다",
+   "선생님께서 가시었으셨습니다"
+  ],
+  "answer": 0,
+  "explanation": "'-시-'는 한 번이면 충분해요. 겹치면 어색해요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "남의 딸을 높여 이르는 '영애'와 짝을 이루어 남의 아들을 높이는 말은?",
+  "choices": [
+   "영부",
+   "영손",
+   "영제",
+   "영식"
+  ],
+  "answer": 3,
+  "explanation": "'영식'은 남의 아들, '영애'는 남의 딸을 높이는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "듣는 사람과 주어를 모두 높인 문장은?",
+  "choices": [
+   "할아버지께서 오셨어",
+   "할아버지가 왔습니다",
+   "할아버지가 왔어",
+   "할아버지께서 오셨습니다"
+  ],
+  "answer": 3,
+  "explanation": "'께서·-시-'로 주체를, '-습니다'로 듣는 이를 높였어요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "회사에서 직원이 부장에게 과장의 외출을 알릴 때 바른 말은?",
+  "choices": [
+   "김 과장은 외출했습니다",
+   "김 과장님께서는 외출했습니다",
+   "김 과장님은 외출하셨습니다",
+   "김 과장이 외출하셨습니다"
+  ],
+  "answer": 2,
+  "explanation": "직장에서는 압존법을 쓰지 않고 윗사람을 높여 말해요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "가장 자연스러운 높임 표현은?",
+  "choices": [
+   "할머니께서 허리가 편찮으시다",
+   "할머니께서 허리가 아프시다",
+   "할머니께서 허리가 아프다",
+   "할머니께 허리가 편찮다"
+  ],
+  "answer": 1,
+  "explanation": "신체 일부가 아플 때는 '아프시다'로 간접 높임해요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "퇴근하며 상사에게 하는 인사로 표준 언어 예절에 맞는 것은?",
+  "choices": [
+   "먼저 가 보겠습니다",
+   "수고하세요",
+   "수고하십시오",
+   "고생하세요"
+  ],
+  "answer": 0,
+  "explanation": "'수고'는 윗사람에게 쓰지 않는 것이 좋아요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "주체와 객체를 모두 높인 문장은?",
+  "choices": [
+   "어머니께서 할머니를 모시고 가셨다",
+   "어머니께서 할머니를 데리고 가셨다",
+   "어머니가 할머니를 모시고 갔다",
+   "나는 할머니를 모시고 갔다"
+  ],
+  "answer": 0,
+  "explanation": "'께서·-시-'로 어머니를, '모시다'로 할머니를 높였어요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "높임 정도가 높은 것부터 바르게 늘어놓은 것은?",
+  "choices": [
+   "하오체–하십시오체–하게체–해라체",
+   "하십시오체–하게체–하오체–해라체",
+   "하게체–하오체–하십시오체–해라체",
+   "하십시오체–하오체–하게체–해라체"
+  ],
+  "answer": 3,
+  "explanation": "아주높임·예사높임·예사낮춤·아주낮춤 순서예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "간접 높임이 바르게 쓰인 문장은?",
+  "choices": [
+   "그 옷은 사이즈가 없으세요",
+   "이 상품은 환불이 안 되세요",
+   "사장님 말씀이 옳으십니다",
+   "요청하신 서류는 여기 있으세요"
+  ],
+  "answer": 2,
+  "explanation": "높일 사람의 말은 간접 높임이 돼요. 나머지는 사물을 높였어요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "객체 높임 어휘가 아닌 것은?",
+  "choices": [
+   "모시다",
+   "주무시다",
+   "드리다",
+   "여쭙다"
+  ],
+  "answer": 1,
+  "explanation": "'주무시다'는 주어를 높이는 주체 높임 어휘예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'할머니께서 손자에게 용돈을 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "드렸다",
+   "주셨다",
+   "주었다",
+   "드리셨다"
+  ],
+  "answer": 1,
+  "explanation": "주는 사람은 높이고 받는 손자는 높이지 않으니 '주셨다'예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'아버지께서 할아버지께 선물을 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "드리셨다",
+   "주셨다",
+   "드렸다",
+   "주었다"
+  ],
+  "answer": 0,
+  "explanation": "주는 아버지는 '-시-', 받는 할아버지는 '드리다'로 높여요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "자기 아들을 남에게 이를 때 바른 말은?",
+  "choices": [
+   "제 아드님",
+   "제 자제분",
+   "제 영식",
+   "제 아들"
+  ],
+  "answer": 3,
+  "explanation": "아드님·자제분·영식은 모두 남의 아들을 높이는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "손님을 안내할 때 바른 표현은?",
+  "choices": [
+   "이쪽으로 오실게요",
+   "이쪽으로 오시게요",
+   "이쪽으로 오세요",
+   "이쪽으로 와 주실게요"
+  ],
+  "answer": 2,
+  "explanation": "'-ㄹ게요'는 말하는 사람의 약속이라 손님의 행동에 쓰지 않아요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'선생님께서 오셨다'의 '께서'는 주어를 높이는 조사일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'이/가' 대신 '께서'를 써서 주체를 높여요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'안녕히 가세요'는 떠나는 사람이 남는 사람에게 하는 인사일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "남는 사람이 떠나는 사람에게 하는 인사예요. 떠날 때는 '안녕히 계세요'예요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "하십시오체는 상대를 가장 높이는 등급일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "상대 높임에서 아주높임에 해당해요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "학교·회사 같은 단체에 보내는 우편물에는 이름 뒤에 '귀중'을 쓸까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "단체·기관에는 '귀중', 개인에게는 '귀하'를 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'드리다'는 문장의 주어를 높일 때 쓰는 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'드리다'는 받는 사람(객체)을 높이는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'자당'은 자기 어머니를 남에게 이르는 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'자당'은 남의 어머니를 높여 이르는 말이에요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'뵙다'는 '뵈다'보다 더 겸양하는 뜻을 나타낼까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "사전에서 '뵙다'를 '뵈다'보다 더 겸양의 뜻이라고 풀어요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "해요체는 상대를 낮추는 말이라 윗사람에게 쓰면 안 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "해요체는 두루높임이라 윗사람에게도 써요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "표준 언어 예절에서 할아버지께 아버지를 말할 때 '아버지께서 오셨습니다'처럼 높이는 것도 허용할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "가정의 압존법은 전통이지만 아버지를 높여 말하는 것도 허용해요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'-시-'는 주어가 아닌 듣는 사람을 높일 때도 쓸까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'-시-'는 주체를 높여요. 듣는 이는 '-습니다' 같은 끝말로 높여요.",
+  "semester": 1,
+  "unit": "높임법"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'셔츠를 다리미로 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "다렸다",
+   "달였다",
+   "달렸다",
+   "다랬다"
+  ],
+  "answer": 0,
+  "explanation": "다리미로 문질러 주름을 펴는 것은 '다리다'예요. '달이다'는 끓여서 진하게 만드는 거예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'봄나물이 입맛을 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "돋군다",
+   "돋운다",
+   "돋꾼다",
+   "도둔다"
+  ],
+  "answer": 1,
+  "explanation": "입맛을 당기게 하는 것은 '돋우다'예요. '돋구다'는 안경 도수를 높일 때 써요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'동생이 (  ) 넘어졌다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "일부로",
+   "일브러",
+   "일부러",
+   "일부루"
+  ],
+  "answer": 2,
+  "explanation": "'일부러'가 바른 말이에요. '일부로'로 잘못 쓰기 쉬워요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'해가 뜨자 안개가 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "거쳤다",
+   "겉혔다",
+   "걷혔다",
+   "걷쳤다"
+  ],
+  "answer": 2,
+  "explanation": "구름이나 안개가 없어지는 것은 '걷히다'예요. '거치다'는 지나가는 것이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'숙제를 (  ) 했다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "않",
+   "안",
+   "앉",
+   "안은"
+  ],
+  "answer": 1,
+  "explanation": "부정 부사는 '안', '않'은 '-지 않다'에 써요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'이제 가도 (  )?'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "돼요",
+   "되요",
+   "됬어요",
+   "되여요"
+  ],
+  "answer": 0,
+  "explanation": "'되어요'가 줄어 '돼요'가 돼요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'가방을 어깨에 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "매다",
+   "매이다",
+   "메이다",
+   "메다"
+  ],
+  "answer": 3,
+  "explanation": "어깨에 걸치면 '메다', 끈을 묶으면 '매다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'산 (  )에 마을이 있다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "넘어",
+   "너므",
+   "너머",
+   "넘머"
+  ],
+  "answer": 2,
+  "explanation": "공간을 가리키는 말은 '너머', 동작은 '넘어'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'가는 길에 편의점에 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "들렸다",
+   "들려다",
+   "들렀다",
+   "들랐다"
+  ],
+  "answer": 2,
+  "explanation": "기본형이 '들르다'라 '들렀다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'지팡이를 (  ) 걸었다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "집고",
+   "짚고",
+   "짚코",
+   "집코"
+  ],
+  "answer": 1,
+  "explanation": "땅에 대고 의지하면 '짚다', 손으로 들면 '집다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'동생은 나보다 키가 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "작다",
+   "적다",
+   "잘다",
+   "짧다"
+  ],
+  "answer": 0,
+  "explanation": "크기는 '작다', 양은 '적다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'버스를 (  ) 기다렸다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "한창",
+   "한침",
+   "한찬",
+   "한참"
+  ],
+  "answer": 3,
+  "explanation": "시간이 꽤 지나는 동안은 '한참', 가장 활발한 때는 '한창'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'어제는 얼마나 (  ) 몰라'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "춥든지",
+   "춥던디",
+   "춥덴지",
+   "춥던지"
+  ],
+  "answer": 3,
+  "explanation": "지난 일을 떠올릴 때는 '-던지', 고를 때는 '-든지'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "기쁨·노여움·슬픔·즐거움을 뜻하는 말의 바른 표기는?",
+  "choices": [
+   "희노애락",
+   "희로애락",
+   "희로에락",
+   "히로애락"
+  ],
+  "answer": 1,
+  "explanation": "'怒'는 본음이 '노'지만 이 말에서는 '로'로 읽고 적어 '희로애락'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'라면이 (  ) 맛이 없다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "부어서",
+   "불어서",
+   "붇어서",
+   "불러서"
+  ],
+  "answer": 1,
+  "explanation": "물에 젖어 커지는 '붇다'는 '불어서'로 바뀌어요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'문이 바람에 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "닫혔다",
+   "닫쳤다",
+   "다쳤다",
+   "닺혔다"
+  ],
+  "answer": 0,
+  "explanation": "저절로 닫힌 것이니 피동 '닫히다'예요. '닫치다'는 세게 닫는 거예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'얼굴에 미소를 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "띠었다",
+   "띄었다",
+   "띄웠다",
+   "띠웠다"
+  ],
+  "answer": 0,
+  "explanation": "빛깔·표정을 지니면 '띠다', 눈에 보이면 '띄다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'모델처럼 다리가 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "얇다",
+   "엷다",
+   "얕다",
+   "가늘다"
+  ],
+  "answer": 3,
+  "explanation": "둘레가 작으면 '가늘다', 두께가 작으면 '얇다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'뛰어온 아이에게 (  ) 넘어졌다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "부딪쳐",
+   "부딛혀",
+   "부딪혀",
+   "부딪여"
+  ],
+  "answer": 2,
+  "explanation": "당한 쪽이라 피동 '부딪히다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'불길이 (  ) 수 없이 번졌다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "겉잡을",
+   "걷잡을",
+   "걷짭을",
+   "겉잡힐"
+  ],
+  "answer": 1,
+  "explanation": "붙잡아 진정시키는 것은 '걷잡다', 어림하는 것은 '겉잡다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'속마음을 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "들어냈다",
+   "드러냈다",
+   "드러넸다",
+   "들어넸다"
+  ],
+  "answer": 1,
+  "explanation": "보이게 하면 '드러내다', 물건을 들어서 옮기면 '들어내다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'우산을 (  ) 걸었다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "받치고",
+   "바치고",
+   "받히고",
+   "밭치고"
+  ],
+  "answer": 0,
+  "explanation": "우산을 펴 들면 '받치다', 드리면 '바치다'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'과도한 경쟁은 (  )해야 한다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "지향",
+   "지량",
+   "지행",
+   "지양"
+  ],
+  "answer": 3,
+  "explanation": "하지 않도록 피하는 것은 '지양', 목표로 향하는 것은 '지향'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'외부인의 출입을 (  ) 금한다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "일체",
+   "일쩔",
+   "일절",
+   "일채"
+  ],
+  "answer": 2,
+  "explanation": "금지·부정에는 '일절', '모든 것'은 '일체'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'역사상 (  )가 없는 일'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "유래",
+   "유레",
+   "유례",
+   "유려"
+  ],
+  "answer": 2,
+  "explanation": "같거나 비슷한 예는 '유례', 생겨난 내력은 '유래'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'그 인물은 역사 속에 (  )했던 사람이다'의 빈칸은?",
+  "choices": [
+   "실제",
+   "실재",
+   "실체",
+   "실지"
+  ],
+  "answer": 1,
+  "explanation": "실제로 존재함은 '실재', 사실의 경우는 '실제'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'업무 효율을 (  )하다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "제고",
+   "재고",
+   "제거",
+   "재기"
+  ],
+  "answer": 0,
+  "explanation": "수준을 끌어올리면 '제고', 다시 생각하면 '재고'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'시상식 연기 (  ) 대상'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "부분",
+   "분문",
+   "부눈",
+   "부문"
+  ],
+  "answer": 3,
+  "explanation": "갈래를 나눈 범위는 '부문', 전체의 일부는 '부분'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'축사로 인사말을 (  )합니다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "가름",
+   "가늠",
+   "갈름",
+   "갈음"
+  ],
+  "answer": 3,
+  "explanation": "다른 것으로 바꾸어 대신하면 '갈음'이에요. 가름은 나눔, 가늠은 어림이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'눈을 (  ) 감고 생각에 잠겼다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "지긋이",
+   "지긋히",
+   "지그씨",
+   "지그시"
+  ],
+  "answer": 3,
+  "explanation": "슬며시 힘을 주는 모양은 '지그시'예요. '지긋이'는 나이가 비교적 많아 듬직한 모양이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'사사하다'를 바르게 쓴 문장은?",
+  "choices": [
+   "김 교수에게서 피아노를 사사받았다",
+   "김 교수에게서 피아노를 사사했다",
+   "김 교수에게 피아노를 사사받았다",
+   "김 교수에게 사사를 받았다"
+  ],
+  "answer": 1,
+  "explanation": "'사사'에 이미 가르침을 받는다는 뜻이 있어 '받다'를 붙이지 않아요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'주변 정황이 그의 결백을 간접적으로 (  )한다'의 빈칸은?",
+  "choices": [
+   "방증",
+   "반증",
+   "방정",
+   "반정"
+  ],
+  "answer": 0,
+  "explanation": "간접적으로 증명하는 증거는 '방증'이에요. '반증'은 반대되는 증거예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "아기를 밴 여성만 가리키는 말은?",
+  "choices": [
+   "임신부",
+   "임산부",
+   "산모",
+   "산부"
+  ],
+  "answer": 0,
+  "explanation": "'임산부'는 임부와 산부를 함께 이르고, '산모'는 아기를 갓 낳은 여성이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'물 한 잔을 단숨에 (  )'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "들이키고",
+   "드리켜고",
+   "들이끼고",
+   "들이켜고"
+  ],
+  "answer": 3,
+  "explanation": "마시는 것은 '들이켜다'예요. '들이키다'는 안쪽으로 옮긴다는 뜻이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'두 낱말의 뜻을 서로 (  )하기 쉽다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "혼돈",
+   "혼동",
+   "혼란",
+   "혼선"
+  ],
+  "answer": 1,
+  "explanation": "구별하지 못하고 뒤섞어 생각하는 것은 '혼동'이에요. '혼돈'은 마구 뒤섞여 갈피를 잡을 수 없는 상태예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'장난감이 (  )났다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "결단",
+   "결딴",
+   "결탄",
+   "결땅"
+  ],
+  "answer": 1,
+  "explanation": "아주 망가지면 '결딴나다', 마음을 정하면 '결단'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'남에게 모욕을 당해 (  )을 치렀다'의 빈칸은?",
+  "choices": [
+   "곤혹",
+   "곤욕",
+   "곤역",
+   "곤옥"
+  ],
+  "answer": 1,
+  "explanation": "모욕을 당하는 것은 '곤욕', 당황스러운 것은 '곤혹'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'금도(襟度)'의 사전적 뜻은 무엇인가요?",
+  "choices": [
+   "남을 너그럽게 받아들이는 도량",
+   "넘지 말아야 할 선",
+   "법으로 금한 정도",
+   "금으로 만든 칼"
+  ],
+  "answer": 0,
+  "explanation": "옷깃 금(襟)을 써서 도량을 뜻해요. '넘으면 안 될 선'은 흔한 오용이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'재원(才媛)'이 가리키는 사람은?",
+  "choices": [
+   "재주가 뛰어난 젊은 남자",
+   "재산이 많은 사람",
+   "재능 있는 나이 든 사람",
+   "재주가 뛰어난 젊은 여자"
+  ],
+  "answer": 3,
+  "explanation": "'원(媛)'이 여자를 뜻해 남자에게는 쓰지 않아요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'판이 (  ) 났다'의 빈칸에 알맞은 말은?",
+  "choices": [
+   "파토",
+   "파두",
+   "파투",
+   "파도"
+  ],
+  "answer": 2,
+  "explanation": "화투판이 깨진다는 '파투(破鬪)'에서 왔어요. '파토'는 비표준이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'안절부절하다'는 표준어일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "표준어는 '안절부절못하다'예요. '안절부절하다'는 표준어가 아니에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'한글'은 글자 이름이고 '한국어'는 언어 이름일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "한글은 우리 문자, 한국어는 우리말이라 서로 달라요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "책 앞에 쓰는 글은 '머릿말'이 아니라 '머리말'이 바른 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "[머리말]로 소리 나 사이시옷을 넣지 않고 '머리말'로 적어요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'봄이 오니 마음이 설레인다'는 바른 표현일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "기본형이 '설레다'라 '설렌다'로 써요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'두꺼운 우정'은 바른 표현일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "믿음·정이 깊으면 '두텁다'를 써서 '두터운 우정'이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'일이 커져 사달이 났다'는 바른 표현일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "사고나 탈은 '사달'이에요. '사단'은 일의 실마리예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'임대'는 돈을 내고 남의 물건을 빌려 쓰는 것을 뜻할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "빌려주는 것이 '임대', 빌려 쓰는 것이 '임차'예요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'갑절'은 '세 갑절'처럼 몇 배를 나타낼 때도 쓸까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'갑절'은 두 배만 뜻해요. 몇 배는 '곱절'로 나타내요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'홀몸이 아니다'는 아이를 배었다는 뜻으로 바르게 쓴 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "아이를 배지 않은 몸은 '홑몸'이에요. '홀몸'은 배우자나 형제가 없는 사람이에요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'주책이다'도 '주책없다'와 같은 뜻의 표준어로 인정될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "2016년 국립국어원이 '주책이다'도 표준어로 인정했어요.",
+  "semester": 1,
+  "unit": "헷갈리는 말"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'싱크홀'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "땅꺼짐",
+   "땅울림",
+   "땅갈림",
+   "흙무너짐"
+  ],
+  "answer": 0,
+  "explanation": "땅이 갑자기 꺼져 생긴 구멍이라 '땅꺼짐'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "상권이 뜨면서 원래 살던 사람들이 밀려나는 '젠트리피케이션'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "동네 갈아엎기",
+   "둥지 내몰림",
+   "상권 쏠림",
+   "골목 바꿈"
+  ],
+  "answer": 1,
+  "explanation": "원주민이 터전에서 밀려난다는 뜻을 살려 '둥지 내몰림'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'코호트 격리'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "시설 일괄 봉쇄",
+   "집단 감염 격리",
+   "동일 집단 격리",
+   "병동 단위 격리"
+  ],
+  "answer": 2,
+  "explanation": "감염자와 같은 집단을 통째로 격리한다는 뜻이라 '동일 집단 격리'예요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'웨비나'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "영상 강좌",
+   "화상 회의",
+   "누리 강연장",
+   "화상 토론회"
+  ],
+  "answer": 3,
+  "explanation": "웹과 세미나를 합친 말이라 '화상 토론회'로 다듬었어요. 화상 회의와 헷갈리기 쉬워요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "누리 소통망에서 같은 행동을 이어 가는 '챌린지'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "참여 잇기",
+   "도전 과제",
+   "따라 하기",
+   "릴레이 놀이"
+  ],
+  "answer": 0,
+  "explanation": "참여를 잇는다는 뜻으로 '참여 잇기'(도전 잇기)로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'솔푸드'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "고향 음식",
+   "위안 음식",
+   "추억 밥상",
+   "영혼 요리"
+  ],
+  "answer": 1,
+  "explanation": "마음을 따뜻하게 달래 주는 음식이라 '위안 음식'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'랜드마크'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "고갯마루",
+   "길목지",
+   "마루지",
+   "높은터"
+  ],
+  "answer": 2,
+  "explanation": "'마루'와 땅을 뜻하는 '지'를 합쳐 '마루지'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "해외에서 자국 휴대 전화를 쓰는 '로밍'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "어울통화",
+   "누리통화",
+   "나들이 전화",
+   "어울통신"
+  ],
+  "answer": 3,
+  "explanation": "다른 통신망과 어울려 쓴다는 뜻의 '어울통신'이에요. '어울통화'로 잘못 알기 쉬워요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'블로그'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "누리사랑방",
+   "누리집",
+   "누리꾼",
+   "누리마루"
+  ],
+  "answer": 0,
+  "explanation": "'누리집'은 홈페이지, '누리꾼'은 네티즌을 다듬은 말이에요. 블로그는 '누리사랑방'이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "플러그를 여러 개 꽂는 '멀티탭'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "여럿꽂개",
+   "모둠꽂이",
+   "줄전원",
+   "이음꽂이"
+  ],
+  "answer": 1,
+  "explanation": "여러 개를 모아 꽂는다는 뜻으로 '모둠꽂이'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'포스트잇'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "딱풀 종이",
+   "메모 딱지",
+   "붙임쪽지",
+   "쪽지 묶음"
+  ],
+  "answer": 2,
+  "explanation": "붙였다 뗄 수 있는 쪽지라 '붙임쪽지'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'내비게이션'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "길찾개",
+   "길잡이판",
+   "방향 안내기",
+   "길도우미"
+  ],
+  "answer": 3,
+  "explanation": "길 찾기를 도와준다는 뜻으로 '길도우미'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "늦은 아침 겸 이른 점심인 '브런치'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "아점",
+   "새참",
+   "곁두리",
+   "주전부리"
+  ],
+  "answer": 0,
+  "explanation": "아침과 점심을 줄인 '아점'이에요. 새참·곁두리는 끼니 사이 음식이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'이모티콘'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "얼굴말",
+   "그림말",
+   "표정 글자",
+   "감정 부호"
+  ],
+  "answer": 1,
+  "explanation": "그림으로 나타낸 말이라 '그림말'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "공항의 '무빙워크'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "이동 계단",
+   "미끄럼길",
+   "자동길",
+   "걷는 띠"
+  ],
+  "answer": 2,
+  "explanation": "사람을 저절로 실어 나르는 길이라 '자동길'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'커플룩'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "어울림 옷",
+   "한 벌 옷",
+   "쌍둥이 옷",
+   "짝꿍 차림"
+  ],
+  "answer": 3,
+  "explanation": "짝끼리 맞춰 입는 옷차림이라 '짝꿍 차림'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'스팸 메일'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "쓰레기 편지",
+   "광고 편지",
+   "불량 우편",
+   "낚시 편지"
+  ],
+  "answer": 0,
+  "explanation": "받는 사람이 원하지 않는 전자 우편이라 '쓰레기 편지'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'파파라치'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "사진 사냥꾼",
+   "몰래 제보꾼",
+   "뒤쫓이 기자",
+   "엿보기꾼"
+  ],
+  "answer": 1,
+  "explanation": "몰래 찍어 제보하는 사람이라 '몰래 제보꾼'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'콘텐츠'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "속살 정보",
+   "누리 자료",
+   "꾸림정보",
+   "담은 글"
+  ],
+  "answer": 2,
+  "explanation": "여러 정보를 꾸려 담았다는 뜻으로 '꾸림정보'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "새 물건의 포장을 뜯어 보이는 '언박싱'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "상자 열람",
+   "첫 사용기",
+   "포장 풀이",
+   "개봉기"
+  ],
+  "answer": 3,
+  "explanation": "'개봉(기)'로 다듬었어요. 상품을 열어 보는 과정을 담은 것이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'빅데이터'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "거대 자료",
+   "대량 정보",
+   "누적 자료",
+   "전체 자료"
+  ],
+  "answer": 0,
+  "explanation": "아주 큰 규모의 자료라 '거대 자료'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'팬데믹'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "감염병 주기적 유행",
+   "감염병 세계적 유행",
+   "감염병 복합 유행",
+   "감염병 지역 유행"
+  ],
+  "answer": 1,
+  "explanation": "팬데믹은 '세계적 유행', 엔데믹은 '주기적 유행', 멀티데믹은 '복합 유행'이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'엔데믹'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "감염병 복합 유행",
+   "감염병 세계적 유행",
+   "감염병 주기적 유행",
+   "감염병 집단 유행"
+  ],
+  "answer": 2,
+  "explanation": "특정 지역에서 주기적으로 되풀이되는 유행이라 '주기적 유행'(토착 유행)이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'스타트업'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "첫걸음 회사",
+   "거대 신생 기업",
+   "모험 기업",
+   "새싹 기업"
+  ],
+  "answer": 3,
+  "explanation": "'새싹 기업'이에요. '거대 신생 기업'은 유니콘 기업을 다듬은 말이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "매장이 문 열자마자 뛰어 들어가는 '오픈런'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "개장 질주",
+   "첫 손님 줄",
+   "문 앞 경쟁",
+   "개점 대기"
+  ],
+  "answer": 0,
+  "explanation": "문 열 때 달려간다는 뜻을 살려 '개장 질주'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'리메이크'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "원작 각색",
+   "원작 재구성",
+   "속편 제작",
+   "새판 짜기"
+  ],
+  "answer": 1,
+  "explanation": "원작을 새로 구성한다는 뜻으로 '원작 재구성'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "안에 무엇이 들었는지 모르고 사는 '블라인드 박스'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "깜짝 선물",
+   "추첨 판매",
+   "무작위 상자",
+   "가림 포장"
+  ],
+  "answer": 2,
+  "explanation": "'무작위 상자'예요. '추첨 판매'는 '래플'을 다듬은 말이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "기업 가치를 높이는 '밸류업'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "가치 평가",
+   "주가 부양",
+   "몸값 올리기",
+   "가치 향상"
+  ],
+  "answer": 3,
+  "explanation": "2024년에 '가치 향상'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "모임에서 정한 '드레스 코드'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "표준 옷차림",
+   "정장 차림",
+   "모임 옷",
+   "격식 옷"
+  ],
+  "answer": 0,
+  "explanation": "상황에 맞춰 정한 옷차림이라 '표준 옷차림'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'텀블러'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "보온컵",
+   "통컵",
+   "긴 잔",
+   "물병컵"
+  ],
+  "answer": 1,
+  "explanation": "굽과 손잡이가 없는 통 모양 컵이라 '통컵'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'다크서클'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "눈 얼룩",
+   "눈멍",
+   "눈그늘",
+   "눈밑 띠"
+  ],
+  "answer": 2,
+  "explanation": "눈 아래가 그늘진 것이라 '눈그늘'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'워라밸'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "여가 챙기기",
+   "일터 행복",
+   "근무 조절",
+   "일과 삶의 균형"
+  ],
+  "answer": 3,
+  "explanation": "워크 라이프 밸런스를 줄인 말이라 '일과 삶의 균형'(일삶균형)이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "경기나 공연 뒤에 하는 '갈라쇼'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "뒤풀이 공연",
+   "축하 무대",
+   "마무리 잔치",
+   "특별 경연"
+  ],
+  "answer": 0,
+  "explanation": "본 행사 뒤에 축하로 여는 공연이라 '뒤풀이 공연'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "새로 들어온 외국 용어의 대체어를 빠르게 정하는 국립국어원 전문가 모임은 무엇인가요?",
+  "choices": [
+   "말다듬기 학회",
+   "새말모임",
+   "우리말 지킴이",
+   "한글 누리단"
+  ],
+  "answer": 1,
+  "explanation": "2019년부터 '새말모임'이 어려운 외국 용어의 대체어를 마련해요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'에코백'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "장바구니",
+   "천 가방",
+   "친환경 가방",
+   "생활 가방"
+  ],
+  "answer": 2,
+  "explanation": "생태를 뜻하는 '에코'를 살려 '친환경 가방'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'플리마켓'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "중고 상점",
+   "골목 장터",
+   "나눔 장터",
+   "벼룩시장"
+  ],
+  "answer": 3,
+  "explanation": "원래 있던 우리말 '벼룩시장'을 다듬은 말로 골랐어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "음료를 사서 들고 나가는 '테이크아웃'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "포장 구매",
+   "즉석 판매",
+   "간편 주문",
+   "휴대 음료"
+  ],
+  "answer": 0,
+  "explanation": "사는 쪽은 '포장 구매', 파는 쪽은 '포장 판매'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'제로 웨이스트'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "새활용 운동",
+   "쓰레기 없애기",
+   "분리배출",
+   "자원 절약"
+  ],
+  "answer": 1,
+  "explanation": "쓰레기를 아예 만들지 않으려는 운동이라 '쓰레기 없애기'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "한정판 상품 판매 방식인 '래플'의 다듬은 말로 알맞은 것은 무엇인가요?",
+  "choices": [
+   "경매 판매",
+   "무작위 상자",
+   "추첨 판매",
+   "선착순 판매"
+  ],
+  "answer": 2,
+  "explanation": "'추첨 판매'예요. '무작위 상자'는 블라인드 박스를 다듬은 말이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'거대 신생 기업'은 어떤 외래어를 다듬은 말인가요?",
+  "choices": [
+   "스케일업",
+   "스타트업",
+   "빅테크",
+   "유니콘 기업"
+  ],
+  "answer": 3,
+  "explanation": "가치가 큰 비상장 신생 기업인 '유니콘 기업'을 다듬은 말이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'멀티데믹'을 다듬은 말은 '감염병 세계적 유행'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "멀티데믹은 '감염병 복합 유행'이에요. '세계적 유행'은 팬데믹이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'업사이클링'을 다듬은 말은 '재활용'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "업사이클링은 '새활용'이에요. 재활용은 리사이클링에 가까워요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'롤 모델'은 처음 '본보기'로 다듬었다가 '본보기상'으로 다시 정했을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'본보기'에 징계의 뜻도 있어 '본보기상'으로 다시 정했어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'누리집'은 '블로그'를 다듬은 말일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'누리집'은 홈페이지를 다듬은 말이에요. 블로그는 '누리사랑방'이에요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'정크푸드'를 다듬은 말은 '즉석 음식'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "정크푸드는 '부실 음식'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'슬로푸드'를 다듬은 말은 '정성 음식'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "슬로푸드는 '여유식'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'파이팅'을 다듬은 말은 '아자'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "응원하는 외침 '파이팅'은 '아자'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'팩트 체크'를 다듬은 말은 '사실 확인'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'팩트 체크'는 '사실 확인'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'셀프 카메라'를 다듬은 말은 '자가 촬영'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "스스로 찍는다는 뜻으로 '자가 촬영'으로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "ox",
+  "question": "'인플루언서'를 다듬은 말은 '영향력자'일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "영향력이 큰 사람이라 '영향력자'로 다듬었어요.",
+  "semester": 1,
+  "unit": "순화어"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'지은아, 이리 좀 와 봐.'의 쉼표는 어떤 자리에 쓴 것인가요?",
+  "choices": [
+   "부르는 말 뒤",
+   "열거 순서 뒤",
+   "도치된 문장",
+   "되풀이 생략"
+  ],
+  "answer": 0,
+  "explanation": "부르거나 대답하는 말 뒤에는 쉼표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'5, 6세기'의 쉼표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "두 수를 곱함",
+   "이웃한 수를 어림함",
+   "범위의 끝을 나타냄",
+   "둘 중 하나를 고름"
+  ],
+  "answer": 1,
+  "explanation": "이웃하는 수를 개략적으로 나타낼 때 쉼표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'우리나라의 수도는 (    )이다.'처럼 빈자리를 나타낼 때 쓰는 괄호는 무엇인가요?",
+  "choices": [
+   "대괄호",
+   "중괄호",
+   "소괄호",
+   "겹낫표"
+  ],
+  "answer": 2,
+  "explanation": "빈자리를 나타낼 때는 소괄호를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "괄호 안에 또 괄호를 써야 할 때 바깥쪽에 쓰는 괄호는 무엇인가요?",
+  "choices": [
+   "겹화살괄호",
+   "중괄호",
+   "소괄호",
+   "대괄호"
+  ],
+  "answer": 3,
+  "explanation": "괄호 안에 괄호를 쓸 때 바깥쪽에 대괄호를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'그것[한글]은 세종이 만들었다.'의 대괄호가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "원문에 없는 내용 보충",
+   "고유어와 한자어 대응",
+   "생략할 수 있는 말",
+   "여러 요소 중 선택"
+  ],
+  "answer": 0,
+  "explanation": "원문에 없는 내용을 덧붙일 때 대괄호를 써요. 소괄호로 착각하기 쉬워요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'지금 필요한 것은 지식이 아니라 실천이다.'에서 '실천'을 강조할 때 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "큰따옴표",
+   "작은따옴표",
+   "소괄호",
+   "겹낫표"
+  ],
+  "answer": 1,
+  "explanation": "문장 안에서 특별히 드러내 보일 말에는 작은따옴표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "시를 한 줄로 이어 적을 때 연이 바뀌는 곳에 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "~",
+   "/",
+   "//",
+   "·"
+  ],
+  "answer": 2,
+  "explanation": "행이 바뀌는 곳은 빗금 하나, 연이 바뀌는 곳은 빗금 두 개를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'3/4'처럼 분수를 나타낼 때 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "줄표",
+   "붙임표",
+   "쌍점",
+   "빗금"
+  ],
+  "answer": 3,
+  "explanation": "분수를 나타낼 때 빗금을 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'문방사우( ) 종이, 붓, 먹, 벼루'처럼 표제 뒤 설명을 붙일 때 빈칸의 부호는 무엇인가요?",
+  "choices": [
+   "쌍점",
+   "쉼표",
+   "줄표",
+   "물결표"
+  ],
+  "answer": 0,
+  "explanation": "표제 다음에 해당 항목을 들거나 설명할 때 쌍점을 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'65:60'처럼 '대'를 대신하는 쌍점의 띄어쓰기는 어떻게 하나요?",
+  "choices": [
+   "앞은 붙이고 뒤는 띄움",
+   "앞뒤를 모두 붙임",
+   "앞뒤를 모두 띄움",
+   "앞은 띄우고 뒤는 붙임"
+  ],
+  "answer": 1,
+  "explanation": "쌍점은 보통 앞은 붙이고 뒤는 띄우지만, '대'를 대신하거나 시와 분을 나눌 때는 앞뒤를 붙여요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'멀리뛰기는 도움닫기( )도약( )착지 순서로 한다.'처럼 차례로 이어지는 내용을 이을 때 쓰는 부호는?",
+  "choices": [
+   "쌍점",
+   "물결표",
+   "붙임표",
+   "가운뎃점"
+  ],
+  "answer": 2,
+  "explanation": "차례대로 이어지는 내용을 하나로 묶을 때 붙임표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "금기어나 비속어를 드러내지 않을 때 쓰는 '○, ×' 부호의 이름은 무엇인가요?",
+  "choices": [
+   "줄임표",
+   "빠짐표",
+   "드러냄표",
+   "숨김표"
+  ],
+  "answer": 3,
+  "explanation": "알면서도 드러내지 않을 때는 숨김표(○, ×)를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "옛 비석에서 글자를 알아볼 수 없는 자리를 '□'로 나타낼 때 이 부호의 이름은 무엇인가요?",
+  "choices": [
+   "빠짐표",
+   "숨김표",
+   "줄임표",
+   "드러냄표"
+  ],
+  "answer": 0,
+  "explanation": "글자가 빠졌거나 알아볼 수 없을 때는 빠짐표(□)를 써요. 숨김표는 일부러 감출 때예요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "줄임표의 원칙 형태는 무엇인가요?",
+  "choices": [
+   "아래 여섯 점",
+   "가운데 여섯 점",
+   "가운데 세 점",
+   "아래 세 점"
+  ],
+  "answer": 1,
+  "explanation": "원칙은 가운데 여섯 점이고, 아래 여섯 점과 가운데·아래 세 점은 허용이에요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "소괄호의 쓰임이 아닌 것은 무엇인가요?",
+  "choices": [
+   "항목의 순서 표시",
+   "생략할 수 있는 요소 표시",
+   "여러 요소 중 하나 선택",
+   "원어나 연대 보충"
+  ],
+  "answer": 2,
+  "explanation": "여러 요소 중 하나를 고를 때는 '{이, 가}'처럼 중괄호를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'국어 기본법'처럼 법률 이름을 나타낼 때 쓰지 않는 부호는 무엇인가요?",
+  "choices": [
+   "홑화살괄호",
+   "작은따옴표",
+   "홑낫표",
+   "겹낫표"
+  ],
+  "answer": 3,
+  "explanation": "법률·규정 이름은 작은따옴표, 홑낫표, 홑화살괄호로 써요. 겹낫표는 책·신문용이에요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'육군 ○○ 부대'처럼 쓴 숨김표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "알아볼 수 없는 글자",
+   "비밀로 할 내용",
+   "생략해도 되는 말",
+   "강조하는 말"
+  ],
+  "answer": 1,
+  "explanation": "숨김표는 금기어뿐 아니라 비밀을 유지해야 할 사항을 나타낼 때도 써요. 알아볼 수 없는 글자는 빠짐표예요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'그것 참 훌륭한(?) 태도야.'의 괄호 속 물음표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "모르는 내용",
+   "의심이나 빈정거림",
+   "놀람이나 감탄",
+   "말의 생략"
+  ],
+  "answer": 1,
+  "explanation": "특정 어구에 대한 의심·빈정거림은 소괄호 안 물음표로 나타내요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'너는 한국인이냐, 중국인이냐?'처럼 물음표를 맨 끝에만 쓰는 경우는?",
+  "choices": [
+   "각 물음이 독립적일 때",
+   "의문의 정도가 약할 때",
+   "선택적인 물음이 이어질 때",
+   "감탄의 뜻이 담길 때"
+  ],
+  "answer": 2,
+  "explanation": "선택적인 물음이 이어지면 맨 끝에만 물음표를 쓰고, 각 물음이 독립적이면 물음마다 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'ㄱ( ) 머리말'처럼 항목 순서를 나타내는 문자 뒤에 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "가운뎃점",
+   "쉼표",
+   "쌍점",
+   "마침표"
+  ],
+  "answer": 3,
+  "explanation": "장·절·항 등을 나타내는 문자나 숫자 다음에 마침표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "가로쓰기에서 쉼표를 달리 부르는 이름은 무엇인가요?",
+  "choices": [
+   "반점",
+   "온점",
+   "모점",
+   "고리점"
+  ],
+  "answer": 0,
+  "explanation": "쉼표는 '반점', 마침표는 '온점'이라고도 해요. 모점·고리점은 세로쓰기 부호예요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'닭과 지네( ) 개와 고양이는 상극이다.'의 빈칸에 알맞은 부호는 무엇인가요?",
+  "choices": [
+   "가운뎃점",
+   "쉼표",
+   "빗금",
+   "쌍점"
+  ],
+  "answer": 1,
+  "explanation": "짝을 지어 구별할 때 짝 사이에 쉼표를 써요. 가운뎃점은 짝 안의 어구를 묶을 때 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "큰따옴표로 인용한 말 안에 다시 인용할 때 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "대괄호",
+   "큰따옴표",
+   "작은따옴표",
+   "홑낫표"
+  ],
+  "answer": 2,
+  "explanation": "인용문 속의 인용은 작은따옴표로 나타내요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'시·군·구'의 가운뎃점 띄어쓰기는 어떻게 하나요?",
+  "choices": [
+   "앞은 띄우고 뒤는 붙임",
+   "앞은 붙이고 뒤는 띄움",
+   "앞뒤를 모두 띄움",
+   "앞뒤를 모두 붙임"
+  ],
+  "answer": 3,
+  "explanation": "가운뎃점은 앞말과 뒷말에 모두 붙여 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'집으로 돌아가자( )'처럼 청유문 끝에 기본으로 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "마침표",
+   "쉼표",
+   "쌍점",
+   "줄임표"
+  ],
+  "answer": 0,
+  "explanation": "서술·명령·청유문 끝에는 마침표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "choice4",
+  "question": "'슬픈, 사랑의 이야기'에서 쉼표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "'슬픈'이 '사랑'을 꾸밈",
+   "'슬픈'이 '이야기'를 꾸밈",
+   "두 말을 나란히 늘어놓음",
+   "'슬픈' 뒤 말을 생략함"
+  ],
+  "answer": 1,
+  "explanation": "쉼표는 바로 다음 말을 꾸미지 않을 때 써요. 그래서 슬픈 것은 이야기예요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "희곡에서 등장인물 이름과 대사를 구분할 때 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "붙임표",
+   "줄표",
+   "쌍점",
+   "쉼표"
+  ],
+  "answer": 2,
+  "explanation": "'김 과장: 난 못 참겠네.'처럼 쌍점을 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'선, 선생님'의 쉼표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "같은 말의 강조",
+   "짧게 더듬는 말",
+   "대등한 말의 열거",
+   "뒷말의 생략"
+  ],
+  "answer": 1,
+  "explanation": "짧게 더듬는 말을 나타낼 때 쉼표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'주격 조사 {이, 가}'처럼 여러 요소 가운데 하나가 선택될 수 있음을 나타내는 부호는?",
+  "choices": [
+   "대괄호",
+   "소괄호",
+   "중괄호",
+   "겹화살괄호"
+  ],
+  "answer": 2,
+  "explanation": "여러 요소 중 하나를 고를 수 있음을 보일 때 중괄호로 묶어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "책 제목을 나타낼 때 겹낫표 대신 쓸 수 있는 부호는 무엇인가요?",
+  "choices": [
+   "홑화살괄호",
+   "작은따옴표",
+   "대괄호",
+   "겹화살괄호"
+  ],
+  "answer": 3,
+  "explanation": "책·신문 제목에는 겹낫표나 겹화살괄호를 쓰고, 큰따옴표도 쓸 수 있어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "줄임표를 쓰는 경우가 아닌 것은 무엇인가요?",
+  "choices": [
+   "말없음을 나타낼 때",
+   "할 말을 줄였을 때",
+   "기간이나 범위를 나타낼 때",
+   "글의 일부를 생략할 때"
+  ],
+  "answer": 2,
+  "explanation": "기간이나 범위에는 물결표를 써요. 나머지는 줄임표의 쓰임이에요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "강조할 글자 위나 아래에 점을 찍는 부호의 이름은 무엇인가요?",
+  "choices": [
+   "가운뎃점",
+   "숨김표",
+   "빠짐표",
+   "드러냄표"
+  ],
+  "answer": 3,
+  "explanation": "드러냄표는 밑줄과 함께 중요한 부분을 드러낼 때 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "희곡에서 대사 외에 인물의 동작이나 분위기를 적을 때 쓰는 부호는 무엇인가요?",
+  "choices": [
+   "소괄호",
+   "대괄호",
+   "쌍점",
+   "줄표"
+  ],
+  "answer": 0,
+  "explanation": "동작·분위기·상태를 드러내는 지문은 소괄호로 묶어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'100미터/초'에서 빗금이 나타내는 것은 무엇인가요?",
+  "choices": [
+   "시의 행 바뀜",
+   "기준 단위당 수량",
+   "대비되는 어구",
+   "빠진 글자"
+  ],
+  "answer": 1,
+  "explanation": "기준 단위당 수량을 표시할 때 빗금을 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'「」'처럼 생긴 부호의 이름은 무엇인가요?",
+  "choices": [
+   "홑낫표",
+   "겹낫표",
+   "홑화살괄호",
+   "대괄호"
+  ],
+  "answer": 0,
+  "explanation": "「」는 홑낫표, 『』는 겹낫표, 〈〉는 홑화살괄호예요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 1,
+  "type": "choice4",
+  "question": "'근면( ) 검소( ) 협동은 우리의 미덕이다.'처럼 같은 자격의 말을 늘어놓을 때 기본으로 쓰는 부호는?",
+  "choices": [
+   "줄표",
+   "쌍점",
+   "물결표",
+   "쉼표"
+  ],
+  "answer": 3,
+  "explanation": "같은 자격의 어구를 열거할 때 쉼표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'여름에는 바다에서, 겨울에는 산에서 휴가를 즐겼다.'의 쉼표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "되풀이되는 말의 생략",
+   "부르는 말 뒤",
+   "열거 순서",
+   "도치된 문장"
+  ],
+  "answer": 0,
+  "explanation": "'휴가를 즐겼다'가 되풀이되지 않게 줄인 자리에 쉼표를 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "'우리 팀이 이겼다(!)'처럼 괄호 속에 쓴 느낌표가 나타내는 것은 무엇인가요?",
+  "choices": [
+   "모르는 내용",
+   "놀람이나 항의",
+   "빈정거림",
+   "글자 생략"
+  ],
+  "answer": 1,
+  "explanation": "특정 어구에 대한 놀람·항의는 소괄호 안 느낌표로 나타내요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "줄임표 세 점 허용, '온점' 이름 허용 등 문장 부호 규정이 크게 바뀐 개정이 시행된 해는 언제인가요?",
+  "choices": [
+   "2017년",
+   "1988년",
+   "2015년",
+   "2008년"
+  ],
+  "answer": 2,
+  "explanation": "2014년 말 고시된 개정 문장 부호가 2015년 1월 1일부터 시행됐어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "choice4",
+  "question": "금기어를 숨김표로 나타낼 때 숨김표는 몇 개를 쓰나요?",
+  "choices": [
+   "글자 수와 관계없이 한 개",
+   "언제나 두 개",
+   "언제나 세 개",
+   "숨기는 글자 수만큼"
+  ],
+  "answer": 3,
+  "explanation": "숨김표는 숨기는 말의 글자 수만큼 써요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "책 제목이 아닌 신문 기사 제목이나 표어 끝에는 마침표를 쓰지 않는 것이 원칙일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "제목이나 표어에는 마침표를 쓰지 않는 것이 원칙이고, 쓰는 것도 허용해요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "감탄의 정도가 약하면 감탄문 끝에 느낌표 대신 마침표를 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'봄이 오긴 왔구나.'처럼 감탄이 약하면 마침표를 쓸 수 있어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'3·1 운동'을 '3.1 운동'처럼 마침표로 쓰면 틀린 표기일까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "특정한 날을 나타낼 때는 마침표가 원칙이고 가운뎃점도 허용해요. 둘 다 맞아요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "'-음', '-기'로 끝나는 개조식 문장 끝에는 마침표를 쓰면 안 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "'제출함.'처럼 마침표를 쓰는 것이 원칙이고, 쓰지 않는 것도 허용해요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "의문의 정도가 약하면 의문문 끝에 물음표 대신 마침표를 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "'이 일을 어쩐단 말이냐.'처럼 의문이 약하면 마침표를 쓸 수 있어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "짝을 이루는 어구를 열거할 때 가운뎃점 대신 쉼표를 쓸 수 있을까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "2015년 개정으로 열거할 어구 사이에 가운뎃점 대신 쉼표를 쓰는 것도 허용해요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'9월 15일-9월 25일'처럼 기간을 나타낼 때 물결표 대신 붙임표를 써도 될까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 0,
+  "explanation": "기간·거리·범위는 물결표가 원칙이고 붙임표를 쓰는 것도 허용해요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "문장 첫머리의 '그러나' 뒤에는 반드시 쉼표를 써야 할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "접속어 뒤에는 쉼표를 쓰지 않는 것이 원칙이고, 쓰는 것을 허용할 뿐이에요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 3,
+  "type": "ox",
+  "question": "부제를 줄표로 묶을 때 뒤쪽 줄표는 반드시 써야 할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "2015년 개정으로 부제 뒤의 줄표는 생략할 수 있어요.",
+  "semester": 1,
+  "unit": "문장 부호"
+ },
+ {
+  "difficulty": 2,
+  "type": "ox",
+  "question": "'남반구/북반구'처럼 단어를 대비할 때 빗금 앞뒤는 띄어 써야 할까요?",
+  "choices": [
+   "O",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "빗금 앞뒤는 붙여 쓰는 것이 원칙이에요. 대비되는 것이 어구일 때만 띄어 쓸 수 있어요.",
+  "semester": 1,
+  "unit": "문장 부호"
  }
 ]
