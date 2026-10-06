@@ -32,30 +32,30 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'turn left'의 뜻은?",
+    "question": "학교 정문에서 \"Turn left and go straight. The bank is on your right.\"라는 안내를 들었어요. 가장 먼저 할 일은?",
     "choices": [
-      "오른쪽으로 도세요.",
-      "왼쪽으로 도세요.",
-      "곧장 가세요.",
-      "멈추세요."
+      "뒤로 가기",
+      "왼쪽으로 돌기",
+      "오른쪽으로 돌기",
+      "길 건너기"
     ],
     "answer": 1,
-    "explanation": "turn left는 왼쪽으로 돌라는 말이에요.",
+    "explanation": "안내의 첫 부분이 'Turn left(왼쪽으로 도세요)'예요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'go straight'의 뜻은?",
+    "question": "'Turn ___.'에서 '두 번째 모퉁이에서 오른쪽으로'가 되게 빈칸에 알맞은 말은?",
     "choices": [
-      "왼쪽으로 도세요.",
-      "오른쪽으로 도세요.",
-      "되돌아가세요.",
-      "곧장 가세요."
+      "right at the second corner",
+      "left at the second corner",
+      "right at the first corner",
+      "right at the two corners"
     ],
-    "answer": 3,
-    "explanation": "go straight는 곧장 가라는 말이에요.",
+    "answer": 0,
+    "explanation": "'두 번째 모퉁이'는 the second corner, '오른쪽으로'는 right예요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -182,15 +182,15 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'usually'의 뜻은?",
+    "question": "빈칸에 알맞은 말은? I ___ go to bed at 9. (보통)",
     "choices": [
-      "항상",
-      "보통",
-      "가끔",
-      "전혀 ~않다"
+      "never",
+      "always",
+      "once",
+      "usually"
     ],
-    "answer": 1,
-    "explanation": "usually는 보통, 대개라는 뜻이에요.",
+    "answer": 3,
+    "explanation": "'보통'은 'usually'예요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
@@ -282,14 +282,16 @@
   },
   {
     "difficulty": 1,
-    "type": "ox",
-    "question": "'next week'는 '다음 주'라는 뜻이다.",
+    "type": "choice4",
+    "question": "'the day after tomorrow'의 뜻은?",
     "choices": [
-      "O",
-      "X"
+      "모레",
+      "그저께",
+      "어제",
+      "다음 주"
     ],
     "answer": 0,
-    "explanation": "next week는 다음 주가 맞아요.",
+    "explanation": "'the day after tomorrow'는 '내일의 다음 날', 곧 모레예요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -304,7 +306,7 @@
       "more tall"
     ],
     "answer": 2,
-    "explanation": "than 앞에는 비교급 taller를 써요.",
+    "explanation": "than 앞에는 '더 키가 큰'이라는 뜻의 taller를 써요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -326,15 +328,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I ___ visit my uncle tomorrow.",
+    "question": "빈칸에 알맞은 말은? A: It's very hot in here. B: ___ open the window.",
     "choices": [
-      "was",
-      "did",
-      "am",
-      "will"
+      "Me",
+      "I'll",
+      "I was",
+      "I'm"
     ],
-    "answer": 3,
-    "explanation": "tomorrow는 미래라서 will을 써요.",
+    "answer": 1,
+    "explanation": "지금 바로 하겠다고 정한 일은 'I'll(I will)'로 말해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -349,7 +351,7 @@
       "in"
     ],
     "answer": 2,
-    "explanation": "be going to 뒤에 동사원형이 와요.",
+    "explanation": "앞으로 할 일은 'I'm going to + 할 일'로 말해요. 그래서 going 뒤에 'to'가 와요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -371,15 +373,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"Where is the bank?\"에 알맞은 대답은?",
+    "question": "A: Excuse me. Where is the bank? B: It's on the second floor of this building. A가 할 일로 알맞은 것은?",
     "choices": [
-      "It's sunny.",
-      "I'm fine.",
-      "By bus.",
-      "Go straight and turn left."
+      "버스를 타고 다른 곳에 간다",
+      "두 블록 곧장 걸어간다",
+      "건물 2층으로 올라간다",
+      "길을 건너 맞은편으로 간다"
     ],
-    "answer": 3,
-    "explanation": "위치를 물으면 길을 안내해요.",
+    "answer": 2,
+    "explanation": "'on the second floor of this building'은 이 건물 2층이라는 뜻이에요. 그러니 건물 2층으로 올라가요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -424,22 +426,22 @@
       "more big"
     ],
     "answer": 1,
-    "explanation": "than 앞에는 비교급 bigger를 써요.",
+    "explanation": "than 앞에는 '더 큰'이라는 뜻의 bigger를 써요.",
     "semester": 2,
     "unit": "비교하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"What will you do this weekend?\"에 알맞은 대답은?",
+    "question": "A: What will you do this weekend? B: I will go camping with my dad at the lake. B가 캠핑을 하는 곳은?",
     "choices": [
-      "I will go camping.",
-      "I went camping.",
-      "Yes, I will.",
-      "I camped."
+      "바닷가",
+      "공원",
+      "호숫가",
+      "산속"
     ],
-    "answer": 0,
-    "explanation": "앞으로 할 일은 will로 답해요.",
+    "answer": 2,
+    "explanation": "'at the lake'는 '호숫가에서'라는 뜻이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -491,30 +493,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? She is going to ___ a letter.",
+    "question": "\"I'm going to clean my room first. Then I'm going to play baseball. After that, I'm going to eat dinner.\" 두 번째로 할 일은?",
     "choices": [
-      "write",
-      "writes",
-      "wrote",
-      "writing"
+      "저녁 먹기",
+      "숙제하기",
+      "야구하기",
+      "방 청소하기"
     ],
-    "answer": 0,
-    "explanation": "be going to 뒤에는 동사원형을 써요.",
+    "answer": 2,
+    "explanation": "first(먼저) 방 청소, then(그다음) 야구, after that(그 뒤) 저녁 식사 차례예요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "'across from'의 뜻은?",
+    "question": "Main Street 한쪽에 학교–은행–빵집이 차례로 있고, 길 건너 맞은편에 공원–병원–서점이 같은 차례로 마주 보고 있어요. 은행 맞은편(across from the bank)에 있는 곳은?",
     "choices": [
-      "~의 옆에",
-      "~의 뒤에",
-      "~의 맞은편에",
-      "~의 안에"
+      "빵집",
+      "병원",
+      "공원",
+      "서점"
     ],
-    "answer": 2,
-    "explanation": "across from은 ~의 맞은편에라는 뜻이에요.",
+    "answer": 1,
+    "explanation": "두 줄이 같은 차례로 마주 보니 둘째 건물인 은행 맞은편은 둘째 건물인 병원이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -562,15 +564,17 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "\"I'm going to study.\"는 앞으로의 계획을 말하는 문장이다.",
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "\"I'm going to borrow some books tomorrow.\" 말한 사람이 내일 갈 곳으로 가장 알맞은 곳은?",
     "choices": [
-      "O",
-      "X"
+      "빵집",
+      "도서관",
+      "수영장",
+      "병원"
     ],
-    "answer": 0,
-    "explanation": "be going to는 앞으로의 계획을 말해요.",
+    "answer": 1,
+    "explanation": "책을 빌리는(borrow) 곳은 도서관이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -620,15 +624,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? The bank is ___ the post office and the school.",
+    "question": "길 한쪽에 건물 세 개가 왼쪽부터 (가)–(나)–(다) 차례로 있어요. (가)는 학교예요. \"The bank is between the school and the post office.\" 은행과 우체국의 자리는?",
     "choices": [
-      "next",
-      "across",
-      "between",
-      "front"
+      "은행 (다), 우체국 (나)",
+      "은행 (나), 우체국 (다)",
+      "은행 (가), 우체국 (나)",
+      "은행 (나), 우체국 (가)"
     ],
-    "answer": 2,
-    "explanation": "A와 B 사이는 between A and B예요.",
+    "answer": 1,
+    "explanation": "은행이 학교와 우체국 사이(between)에 있으니 은행은 가운데 (나), 우체국은 (다)예요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -648,7 +652,7 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? A: ___ B: Because it's my sister's birthday.",
     "choices": [
@@ -748,7 +752,7 @@
       "too"
     ],
     "answer": 1,
-    "explanation": "긴 단어의 비교급은 more를 붙여요.",
+    "explanation": "difficult처럼 긴 낱말은 앞에 more를 붙여 '더 어려운'을 나타내요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -813,17 +817,17 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? It ___ rain tomorrow.",
+    "question": "\"Tomorrow, it will be cloudy in the morning. It will rain in the afternoon.\" 내일 오후의 날씨는?",
     "choices": [
-      "is",
-      "does",
-      "will",
-      "was"
+      "비가 온다",
+      "흐리다",
+      "맑다",
+      "눈이 온다"
     ],
-    "answer": 2,
-    "explanation": "tomorrow는 미래라서 will을 써요.",
+    "answer": 0,
+    "explanation": "'in the afternoon(오후에)' 뒤에 'It will rain.'이라고 했어요. 흐린 것은 오전이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -843,15 +847,17 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "\"It's going to snow tomorrow.\"는 과거의 일을 말한다.",
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: It's going to snow a lot tomorrow. B: ___",
     "choices": [
-      "O",
-      "X"
+      "It snowed a lot yesterday.",
+      "I'm going to wear shorts.",
+      "Let's make a snowman!",
+      "Let's swim at the beach."
     ],
-    "answer": 1,
-    "explanation": "be going to와 tomorrow는 미래를 말해요.",
+    "answer": 2,
+    "explanation": "내일 눈이 많이 온다고 했으니 눈사람을 만들자는 말이 어울려요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -882,32 +888,32 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 3,
     "type": "choice4",
-    "question": "\"The library is next to the bank.\"에서 도서관의 위치는?",
+    "question": "표지판: ← Library 200 m, → Hospital 50 m. A: Where is the library? 알맞은 대답은?",
     "choices": [
-      "은행 뒤",
-      "은행 맞은편",
-      "은행 안",
-      "은행 옆"
+      "Turn right. It's 200 m away.",
+      "Turn left. It's 50 m away.",
+      "Turn right. It's 50 m away.",
+      "Turn left. It's 200 m away."
     ],
     "answer": 3,
-    "explanation": "next to는 \"~ 옆에\"라는 뜻이에요.",
+    "explanation": "도서관은 왼쪽(←)으로 200 m 떨어져 있어요. 오른쪽 50 m는 병원이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Go straight two blocks.\"의 뜻은?",
+    "question": "A: Excuse me. Is there a bank near here? B: Yes. ___",
     "choices": [
-      "두 블록 곧장 가세요.",
-      "두 번 왼쪽으로 도세요.",
-      "두 블록 뒤로 가세요.",
-      "두 시에 오세요."
+      "It's a very big bank.",
+      "I went to the bank today.",
+      "There's one on Green Street.",
+      "I don't have any money."
     ],
-    "answer": 0,
-    "explanation": "go straight는 곧장 가라는 뜻이에요.",
+    "answer": 2,
+    "explanation": "근처에 은행이 있는지 물었으니 은행이 있는 곳을 알려 줘요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -942,32 +948,32 @@
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I have a headache.\"의 뜻은?",
+    "question": "\"He has a stomachache and a cough.\"의 뜻은?",
     "choices": [
-      "나는 배가 아파요.",
-      "나는 이가 아파요.",
-      "나는 감기에 걸렸어요.",
-      "나는 머리가 아파요."
+      "그는 머리가 아프고 기침이 나요.",
+      "그는 배가 아프고 열이 나요.",
+      "그는 이가 아프고 기침이 나요.",
+      "그는 배가 아프고 기침이 나요."
     ],
     "answer": 3,
-    "explanation": "headache는 두통이에요.",
+    "explanation": "'stomachache'는 배가 아픈 것, 'cough'는 기침이에요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"What's wrong?\"에 알맞은 대답은?",
+    "question": "A: What's wrong with your brother? B: ___",
     "choices": [
-      "I have a cold.",
-      "I'm twelve.",
-      "It's Monday.",
-      "I like pizza."
+      "He's my brother.",
+      "Yes, he does.",
+      "He hurt his hand.",
+      "I hurt my hand."
     ],
-    "answer": 0,
-    "explanation": "어디가 아픈지 물을 때 써요.",
+    "answer": 2,
+    "explanation": "형(동생)이 어디가 아픈지 물었으니 He로 답해요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -1002,92 +1008,92 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I'm going to visit my grandma.\"는 언제의 일일까요?",
+    "question": "\"I visited my grandma last Sunday. I'm going to visit my uncle next Sunday. I played soccer yesterday.\" 앞으로 할 일은?",
     "choices": [
-      "지난 일",
-      "지금 하는 일",
-      "매일 하는 일",
-      "앞으로의 일"
+      "할머니 댁 방문하기",
+      "축구하기",
+      "할머니와 축구하기",
+      "삼촌 댁 방문하기"
     ],
     "answer": 3,
-    "explanation": "be going to는 앞으로의 계획을 말해요.",
+    "explanation": "'I'm going to ~'로 말한 것은 삼촌 댁 방문이에요. 나머지는 이미 한 일이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I want to be a doctor.\"의 뜻은?",
+    "question": "\"I want to be a doctor.\"와 \"My dream is to be a doctor.\"에 대한 설명으로 알맞은 것은?",
     "choices": [
-      "나는 의사가 되고 싶어요.",
-      "나는 의사를 만났어요.",
-      "나는 의사예요.",
-      "나는 병원에 가요."
-    ],
-    "answer": 0,
-    "explanation": "want to be는 \"~가 되고 싶다\"예요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"What do you want to be?\"에 알맞은 대답은?",
-    "choices": [
-      "I want some water.",
-      "I want to be a pilot.",
-      "I'm a student now.",
-      "I like blue."
-    ],
-    "answer": 1,
-    "explanation": "장래 희망을 묻는 말이에요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Let's play soccer.\"에 동의하는 말은?",
-    "choices": [
-      "No, thanks. I'm full.",
-      "You're welcome.",
-      "Sounds good.",
-      "Nice to meet you."
+      "둘 다 지금 의사라는 뜻이다.",
+      "뒤 문장만 지금 의사라는 뜻이다.",
+      "둘 다 의사가 되고 싶다는 뜻이다.",
+      "앞 문장만 의사가 되고 싶다는 뜻이다."
     ],
     "answer": 2,
-    "explanation": "Sounds good은 \"좋아\"라는 뜻이에요.",
+    "explanation": "'want to be'와 'My dream is to be'는 모두 '~이 되고 싶다'는 뜻이에요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Your sister likes airplanes. ___ B: She wants to be a pilot.",
+    "choices": [
+      "What do you want to be?",
+      "What does she want to be?",
+      "Does she like airplanes?",
+      "Where does she want to go?"
+    ],
+    "answer": 1,
+    "explanation": "B가 She로 그 사람(sister)의 꿈을 말했으니 'What does she want to be?'로 물은 거예요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: ___ B: Sure. I love bananas.",
+    "choices": [
+      "Shall we make banana milk?",
+      "Do you like green apples?",
+      "Did you eat bananas today?",
+      "Is it a yellow banana?"
+    ],
+    "answer": 0,
+    "explanation": "B가 'Sure.'로 받아들이며 바나나를 좋아한다고 했으니 바나나 우유를 만들자는 제안이 알맞아요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "\"went\"는 어떤 낱말을 지난 일을 말할 때 쓰는 꼴로 바꾼 것일까요?",
+    "question": "'got'은 어떤 낱말을 지난 일로 말할 때 쓰는 꼴일까요?",
     "choices": [
-      "want",
-      "win",
-      "wear",
-      "go"
+      "go",
+      "gate",
+      "give",
+      "get"
     ],
     "answer": 3,
-    "explanation": "go(가다)를 지난 일로 말할 때는 went(갔다)라고 해요.",
+    "explanation": "get(얻다, 받다)을 지난 일로 말할 때는 got이라고 해요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"What did you do yesterday?\"에 알맞은 대답은?",
+    "question": "A: Where were you yesterday afternoon? B: I was at the library. ___",
     "choices": [
-      "I played baseball.",
-      "I play baseball.",
-      "I will play baseball.",
-      "I'm playing baseball."
+      "I'll read books there.",
+      "I bought bread there.",
+      "I read many books there.",
+      "I swam in the pool there."
     ],
-    "answer": 0,
-    "explanation": "어제 일은 과거형으로 답해요.",
+    "answer": 2,
+    "explanation": "도서관에 있었으니 그곳에서 책을 읽었다는 말이 이어져요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -1113,35 +1119,35 @@
       "X"
     ],
     "answer": 0,
-    "explanation": "short의 비교급이에요.",
+    "explanation": "short에 er을 붙이면 '더 짧은', '키가 더 작은'이라는 뜻이 돼요.",
     "semester": 2,
     "unit": "비교하기"
   },
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "\"You should see a doctor.\"는 병원에 가 보라는 조언이다.",
+    "question": "A: I have a sore throat. B: You should sing loudly. 이 대화는 알맞다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "should는 \"~하는 게 좋겠다\"라는 뜻이에요.",
+    "answer": 1,
+    "explanation": "목이 아플 때 크게 노래하면 더 아파요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"How can I get to the park?\"의 뜻은?",
+    "question": "A: How can I get to City Hall? B: Take bus number 7 and get off at the third stop. 몇 번째 정류장에서 내릴까요?",
     "choices": [
-      "공원은 몇 시에 열어요?",
-      "공원에 어떻게 가나요?",
-      "공원이 좋아요?",
-      "공원에서 뭐 해요?"
+      "두 번째",
+      "네 번째",
+      "세 번째",
+      "일곱 번째"
     ],
-    "answer": 1,
-    "explanation": "get to는 \"~에 가다\"예요.",
+    "answer": 2,
+    "explanation": "'get off at the third stop'은 세 번째 정류장에서 내리라는 뜻이에요. 7은 버스 번호예요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -1163,15 +1169,15 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "\"this weekend\"의 뜻은?",
+    "question": "'this evening'의 뜻은?",
     "choices": [
-      "지난 주말",
-      "다음 달",
-      "오늘 밤",
-      "이번 주말"
+      "오늘 저녁",
+      "어제 저녁",
+      "내일 아침",
+      "오늘 아침"
     ],
-    "answer": 3,
-    "explanation": "this weekend는 이번 주말이에요.",
+    "answer": 0,
+    "explanation": "'this'는 '오늘의, 이번', 'evening'은 '저녁'이라 오늘 저녁이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -1297,16 +1303,14 @@
   },
   {
     "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Why do you want to be a vet? B: ___",
+    "type": "ox",
+    "question": "\"I got up late, so I was late for school.\"과 \"I was late for school because I got up late.\"는 같은 뜻이다.",
     "choices": [
-      "Because I love animals.",
-      "Yes, I do.",
-      "I'm a vet.",
-      "At the hospital."
+      "O",
+      "X"
     ],
     "answer": 0,
-    "explanation": "Why에는 Because로 이유를 말해요.",
+    "explanation": "'so' 앞과 'because' 뒤에 같은 이유(늦게 일어남)가 있어서 두 문장은 같은 뜻이에요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
@@ -1328,15 +1332,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: I have a toothache. B: ___",
+    "question": "A: I have a cough. B: ___",
     "choices": [
-      "You should eat more candy.",
-      "Let's go swimming.",
-      "You should see a dentist.",
-      "I'm happy for you."
+      "You should run outside.",
+      "You should drink warm tea.",
+      "You should eat cold ice cream.",
+      "You should shout loudly."
     ],
-    "answer": 2,
-    "explanation": "이가 아프면 치과에 가라고 조언해요.",
+    "answer": 1,
+    "explanation": "기침이 날 때는 따뜻한 차를 마시는 게 좋아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -1358,30 +1362,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I ___ a movie with my family last Sunday.",
+    "question": "빈칸에 알맞은 말은? I ___ my bike to the park last Sunday.",
     "choices": [
-      "watched",
-      "watch",
-      "will watch",
-      "watching"
+      "ride",
+      "rides",
+      "riding",
+      "rode"
     ],
-    "answer": 0,
-    "explanation": "last Sunday는 지난 일이라 watched예요.",
+    "answer": 3,
+    "explanation": "last Sunday는 지난 일이에요. ride를 지난 일로 말하면 rode예요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "\"ate\"는 어떤 낱말을 지난 일을 말할 때 쓰는 꼴로 바꾼 것일까요?",
+    "question": "'gave'는 어떤 낱말을 지난 일로 말할 때 쓰는 꼴일까요?",
     "choices": [
-      "eight",
-      "eat",
-      "enter",
-      "end"
+      "go",
+      "have",
+      "give",
+      "get"
     ],
-    "answer": 1,
-    "explanation": "eat(먹다)를 지난 일로 말할 때는 ate(먹었다)라고 해요.",
+    "answer": 2,
+    "explanation": "give(주다)를 지난 일로 말할 때는 gave라고 해요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -1476,15 +1480,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: What are you going to do tomorrow? B: ___",
+    "question": "A: ___ B: I'm going to go hiking with my dad.",
     "choices": [
-      "I went hiking.",
-      "I go hiking yesterday.",
-      "Yes, I am.",
-      "I'm going to go hiking."
+      "Where did you go yesterday?",
+      "What do you do every day?",
+      "Who did you go hiking with?",
+      "What will you do tomorrow?"
     ],
     "answer": 3,
-    "explanation": "계획을 물으면 be going to로 답해요.",
+    "explanation": "B가 앞으로 할 일을 말했으니 앞으로의 계획을 묻는 질문이 알맞아요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -1521,15 +1525,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: Let's go to the zoo. B: ___ I have to do my homework.",
+    "question": "A: Let's play basketball. B: Sorry, I'm tired. A: How about a movie at my house? B: Sounds great! B가 할 일은?",
     "choices": [
-      "Sure, sounds good.",
-      "Yes, let's go.",
-      "Sorry, I can't.",
-      "Me too."
+      "영화 보기",
+      "농구하기",
+      "잠자기",
+      "아무것도 하지 않기"
     ],
-    "answer": 2,
-    "explanation": "숙제가 있으니 거절해요.",
+    "answer": 0,
+    "explanation": "농구는 거절했지만 영화를 보자는 제안에는 'Sounds great!'로 찬성했어요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -1549,17 +1553,17 @@
     "unit": "제안하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"She wants to be a firefighter.\"에서 그녀의 꿈은?",
+    "question": "\"My dad is a firefighter. I want to be a firefighter, too.\" 알 수 있는 것은?",
     "choices": [
-      "소방관",
-      "경찰관",
-      "요리사",
-      "간호사"
+      "나는 지금 소방관이다.",
+      "아빠는 소방관이 되고 싶다.",
+      "아빠와 같은 직업을 갖고 싶다.",
+      "아빠는 경찰관이다."
     ],
-    "answer": 0,
-    "explanation": "firefighter는 소방관이에요.",
+    "answer": 2,
+    "explanation": "아빠는 소방관이고, 나도(too) 소방관이 되고 싶다고 했어요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -1607,32 +1611,32 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: What's wrong? B: I have a stomachache. 어디가 아플까요?",
+    "question": "Mina ran fast and fell down. 미나에게 생긴 일로 가장 알맞은 것은?",
     "choices": [
-      "머리",
-      "목",
-      "다리",
-      "배"
+      "She has a toothache.",
+      "She has a fever.",
+      "She hurt her knee.",
+      "She has a cold."
     ],
-    "answer": 3,
-    "explanation": "stomachache는 복통이에요.",
+    "answer": 2,
+    "explanation": "빨리 달리다 넘어졌으니(fell down) 무릎을 다쳤을 거예요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "\"on the corner\"의 뜻은?",
+    "question": "\"Stop at the traffic light.\"의 뜻은?",
     "choices": [
-      "모퉁이에",
-      "길 건너에",
-      "건물 안에",
-      "두 건물 사이에"
+      "신호등 앞에서 길을 건너세요.",
+      "신호등에서 멈추세요.",
+      "신호등에서 왼쪽으로 도세요.",
+      "신호등을 지나 곧장 가세요."
     ],
-    "answer": 0,
-    "explanation": "corner는 모퉁이예요.",
+    "answer": 1,
+    "explanation": "'stop'은 멈추다, 'traffic light'는 신호등이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -1654,28 +1658,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: Did you have fun at the party? B: ___",
+    "question": "A: Did you have fun at the party? B: No, I didn't. ___",
     "choices": [
-      "Yes, I do.",
-      "No, I'm not.",
-      "Yes, I did.",
-      "Yes, I will."
+      "I danced with my friends.",
+      "I met my best friend there.",
+      "It was the best party.",
+      "It was too noisy."
     ],
-    "answer": 2,
-    "explanation": "Did로 물으면 did로 답해요.",
+    "answer": 3,
+    "explanation": "재미없었다고 했으니 너무 시끄러웠다는 까닭이 이어져요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
     "difficulty": 1,
-    "type": "ox",
-    "question": "\"I have a runny nose.\"는 콧물이 난다는 뜻이다.",
+    "type": "choice4",
+    "question": "'take medicine'의 뜻은?",
     "choices": [
-      "O",
-      "X"
+      "약을 만들다",
+      "약을 버리다",
+      "약을 먹다",
+      "약을 사다"
     ],
-    "answer": 0,
-    "explanation": "runny nose는 콧물이에요.",
+    "answer": 2,
+    "explanation": "'take medicine'은 약을 먹는다는 말이에요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -1697,15 +1703,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"How about going to the library?\"의 뜻은?",
+    "question": "A: How about going to the library? B: Good idea. Let's meet there at 3. A: Okay. See you. 두 사람이 만나는 시각과 곳은?",
     "choices": [
-      "도서관에 가는 게 어때?",
-      "도서관은 어디 있어?",
-      "도서관에 갔니?",
-      "도서관이 좋니?"
+      "3시, 도서관",
+      "3시, 공원",
+      "2시, 도서관",
+      "2시, 공원"
     ],
     "answer": 0,
-    "explanation": "How about ~ing?는 제안하는 말이에요.",
+    "explanation": "도서관에 가자는 제안에 찬성하고 'Let's meet there at 3.'라고 했어요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -1753,17 +1759,17 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Go straight one block. It's on your left, next to the bank.\" 목적지 바로 옆에 있는 곳은?",
+    "question": "\"Go straight one block. It's on your left, next to the bank.\" 목적지에 대한 설명으로 알맞은 것은?",
     "choices": [
-      "학교",
-      "우체국",
-      "공원",
-      "은행"
+      "왼쪽, 은행 옆",
+      "오른쪽, 은행 옆",
+      "왼쪽, 은행 맞은편",
+      "오른쪽, 은행 맞은편"
     ],
-    "answer": 3,
-    "explanation": "next to the bank이므로 은행 옆이에요.",
+    "answer": 0,
+    "explanation": "'on your left'는 왼쪽, 'next to the bank'는 은행 옆이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -1858,17 +1864,17 @@
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "상태와 조언이 알맞지 않은 것은?",
     "choices": [
-      "hungry – Eat a sandwich.",
-      "cold – Get some rest.",
-      "tired – Stay up late.",
-      "thirsty – Drink water."
+      "a cold – Get some rest.",
+      "a cough – Eat cold ice cream.",
+      "thirsty – Drink water.",
+      "hungry – Eat a sandwich."
     ],
-    "answer": 2,
-    "explanation": "피곤하면 일찍 자라고 해야 해요.",
+    "answer": 1,
+    "explanation": "기침이 날 때 차가운 아이스크림을 먹으면 더 심해져요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -1918,7 +1924,7 @@
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "ox",
     "question": "\"Did you see the movie?\"에 \"Yes, I saw.\"라고 답하는 것이 알맞다.",
     "choices": [
@@ -2019,17 +2025,17 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "틀린 문장은?",
     "choices": [
+      "We are going to play.",
       "I am going to swim.",
-      "We are going to eat.",
-      "She is going to read.",
-      "He is going to plays."
+      "They is going to eat.",
+      "She is going to read."
     ],
-    "answer": 3,
-    "explanation": "going to 뒤에는 동사원형이 와요.",
+    "answer": 2,
+    "explanation": "They 뒤에는 is가 아니라 are를 써서 'They are going to eat.'이라고 해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -2064,14 +2070,14 @@
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "A: Let's go shopping this Saturday. B: Sorry, I can't. ___",
     "choices": [
-      "I'm free that day.",
-      "I love shopping.",
+      "I am free all day on Saturday.",
+      "I really love going shopping.",
       "I'm going to visit my uncle.",
-      "Let's go together."
+      "Let's go to the mall together."
     ],
     "answer": 2,
     "explanation": "거절한 뒤에는 이유를 말해요.",
@@ -2109,30 +2115,30 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "ox",
-    "question": "\"He wants to be a vet because he loves animals.\"에서 그는 수의사가 되고 싶다.",
+    "question": "\"He wants to be a vet because he loves animals.\"에서 동물을 사랑하는 것은 그가 수의사가 되고 싶은 까닭이다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 0,
-    "explanation": "vet은 수의사예요.",
+    "explanation": "because 뒤의 'he loves animals'가 꿈의 까닭이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "길 안내 순서로 알맞은 것은? (a) Turn left at the corner. (b) Go straight. (c) It's on your right.",
+    "question": "곧장 가서 모퉁이에서 오른쪽으로 돌면 왼쪽에 우체국이 있어요. 안내 순서는? (a) It's on your left. (b) Turn right at the corner. (c) Go straight.",
     "choices": [
-      "(c)-(a)-(b)",
-      "(b)-(a)-(c)",
+      "(b)-(c)-(a)",
       "(a)-(c)-(b)",
+      "(c)-(a)-(b)",
       "(c)-(b)-(a)"
     ],
-    "answer": 1,
-    "explanation": "곧장 가서 돈 뒤 마지막에 위치를 말해요.",
+    "answer": 3,
+    "explanation": "곧장 가고(c), 모퉁이에서 오른쪽으로 돈 뒤(b), 왼쪽에 있다고(a) 말해요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -2152,17 +2158,17 @@
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: You look sick. What's wrong? B: I ___ a headache.",
+    "question": "A: You look sick. B: I have a cold. A: ___",
     "choices": [
-      "am",
-      "do",
-      "go",
-      "have"
+      "You're welcome, friend.",
+      "I'm sorry to hear that.",
+      "Good for you. Have fun.",
+      "That's great news!"
     ],
-    "answer": 3,
-    "explanation": "아픈 곳은 have로 말해요.",
+    "answer": 1,
+    "explanation": "친구가 아프다고 하면 'I'm sorry to hear that.(안됐구나.)'이라고 말해요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -2184,45 +2190,45 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"I won't go camping tomorrow.\"의 뜻은?",
+    "question": "A: Will you go to the pool tomorrow? B: No, I won't. I have a cold. B가 내일 하지 않을 일과 그 까닭은?",
     "choices": [
-      "나는 내일 캠핑을 갈 거예요.",
-      "나는 내일 캠핑을 가지 않을 거예요.",
-      "나는 어제 캠핑을 안 갔어요.",
-      "나는 캠핑을 좋아하지 않아요."
+      "수영장 가기 – 숙제가 많아서",
+      "병원 가기 – 감기에 걸려서",
+      "병원 가기 – 숙제가 많아서",
+      "수영장 가기 – 감기에 걸려서"
     ],
-    "answer": 1,
-    "explanation": "won't는 will not의 줄임말이에요.",
+    "answer": 3,
+    "explanation": "'No, I won't.'는 가지 않겠다는 말이고, 'I have a cold.'가 그 까닭이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "A: Why don't we ride bikes? B: ___ It's raining now.",
     "choices": [
       "Great idea!",
-      "Sure, let's go.",
+      "I'm free now.",
       "That's not a good idea.",
-      "Me too."
+      "Sure, let's go."
     ],
     "answer": 2,
-    "explanation": "비가 와서 거절해요.",
+    "explanation": "비가 오고 있으니 좋은 생각이 아니라며 거절하는 말이 알맞아요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "Mina swims on Monday, Wednesday and Friday. How often does she swim?",
+    "question": "Jisu의 일주일: 월 – 축구, 화 – 축구, 수 – 피아노, 목 – 피아노, 금 – 축구, 토 – 축구. How often does Jisu play soccer?",
     "choices": [
-      "Three times a week",
-      "Twice a week",
-      "Once a week",
-      "Every day"
+      "Three times a week.",
+      "Four times a week.",
+      "Twice a week.",
+      "Six times a week."
     ],
-    "answer": 0,
-    "explanation": "월·수·금 세 번이라 three times a week예요.",
+    "answer": 1,
+    "explanation": "축구는 월·화·금·토, 일주일에 네 번이에요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
@@ -2244,80 +2250,80 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "\"Go straight two blocks and turn left. It's on your right.\" 도는 방향과 목적지 위치는?",
+    "question": "학교에서 두 블록 곧장 가서 왼쪽으로 돌면, 오른쪽에 은행이 있고 왼쪽에 빵집이 있어요. \"Go straight two blocks and turn left. It's on your left.\"가 가리키는 곳은?",
     "choices": [
-      "오른쪽으로 돈 뒤 왼쪽",
-      "왼쪽으로 돈 뒤 왼쪽",
-      "왼쪽으로 돈 뒤 오른쪽",
-      "오른쪽으로 돈 뒤 오른쪽"
-    ],
-    "answer": 2,
-    "explanation": "turn left로 돌고 on your right에 있어요.",
-    "semester": 1,
-    "unit": "길 안내"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "\"The bakery is across from the post office.\"의 뜻은?",
-    "choices": [
-      "빵집은 우체국 옆에 있다",
-      "빵집은 우체국 뒤에 있다",
-      "빵집은 우체국 안에 있다",
-      "빵집은 우체국 맞은편에 있다"
+      "은행",
+      "학교",
+      "우체국",
+      "빵집"
     ],
     "answer": 3,
-    "explanation": "across from은 '맞은편에'라는 뜻이에요.",
+    "explanation": "왼쪽으로 돈 뒤 왼쪽(on your left)에 있는 곳은 빵집이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "A: Why are you so happy? B: ___",
+    "question": "\"The bakery is across from the bank. The bank is next to the school.\" 빵집에서 길을 건너면 바로 있는 곳은?",
     "choices": [
+      "빵집 옆 가게",
+      "알 수 없다",
+      "은행",
+      "학교"
+    ],
+    "answer": 2,
+    "explanation": "빵집의 맞은편(across from)이 은행이라 길을 건너면 은행이에요. 학교는 은행 옆이에요.",
+    "semester": 1,
+    "unit": "길 안내"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Why are you so excited? B: ___",
+    "choices": [
+      "Because I missed the bus.",
       "Because I won the race.",
       "Because I lost my bag.",
-      "Because I have a cold.",
-      "Because I missed the bus."
+      "Because I have a cold."
     ],
-    "answer": 0,
-    "explanation": "기쁜 이유로 경주 우승이 알맞아요.",
+    "answer": 1,
+    "explanation": "신나는(excited) 이유로 경주에서 이긴 일이 알맞아요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "B의 대답이 \"Because I stayed up late.\"일 때 A의 질문으로 알맞은 것은?",
+    "question": "B의 대답이 \"Because I ran in the sun for an hour.\"일 때 A의 질문으로 알맞은 것은?",
     "choices": [
-      "Why are you hungry?",
-      "Why are you tired?",
+      "Why are you so thirsty?",
+      "Why are you cold?",
       "Where are you going?",
       "What do you want?"
     ],
-    "answer": 1,
-    "explanation": "늦게 자서 피곤한 이유를 말한 거예요.",
+    "answer": 0,
+    "explanation": "햇볕 아래에서 한 시간 동안 달렸다는 것은 목이 마른 이유로 알맞아요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: What's wrong? B: I have a toothache. A: ___",
+    "question": "A: What's wrong? B: I cut my finger. A: ___",
     "choices": [
-      "You should eat more candy.",
-      "You should drink cold soda.",
-      "You should see a dentist.",
-      "You should go to bed late."
+      "You should play the piano.",
+      "You should wash the dishes.",
+      "You should throw a ball.",
+      "You should put on a bandage."
     ],
-    "answer": 2,
-    "explanation": "이가 아프면 치과에 가야 해요.",
+    "answer": 3,
+    "explanation": "손가락을 베었으면 반창고(bandage)를 붙이는 게 좋아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"I ate too much.\"라고 말한 친구에게 가장 알맞은 조언은?",
     "choices": [
@@ -2347,7 +2353,7 @@
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "A: What did you do last weekend? 대답으로 알맞지 않은 것은?",
     "choices": [
@@ -2362,15 +2368,15 @@
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "ox",
-    "question": "\"I goed to the park yesterday.\"는 바른 문장이에요.",
+    "question": "\"I sitted on the bench yesterday.\"는 바른 문장이다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 1,
-    "explanation": "go의 과거형은 went예요.",
+    "explanation": "sit(앉다)을 지난 일로 말할 때는 sat이라고 해요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -2422,22 +2428,22 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "A: Are you going to swim? B: No, I'm not. I'm going to stay home. B가 할 일은?",
+    "question": "지수의 계획: 토요일 오전 – 피아노 수업, 토요일 오후 – 할 일 없음. A: Are you going to be busy on Saturday afternoon? 지수의 대답은?",
     "choices": [
-      "수영하기",
-      "집에 있기",
-      "친구 만나기",
-      "캠핑 가기"
+      "Yes, I am.",
+      "No, I don't.",
+      "Yes, I do.",
+      "No, I'm not."
     ],
-    "answer": 1,
-    "explanation": "stay home은 집에 있는 거예요.",
+    "answer": 3,
+    "explanation": "토요일 오후에는 할 일이 없으니 바쁘지 않아요. 'Are you ~?'로 물었으니 'No, I'm not.'으로 답해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "Tomorrow is Sunday. I ___ visit my uncle.",
+    "question": "빈칸에 알맞은 말은? Tomorrow is Sunday. I ___ visit the science museum.",
     "choices": [
       "was",
       "went to",
@@ -2445,52 +2451,52 @@
       "visited"
     ],
     "answer": 2,
-    "explanation": "내일 계획은 be going to로 말해요.",
+    "explanation": "내일 할 일은 'I'm going to ~'로 말해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "I like animals. I want to help sick dogs and cats. 이 사람의 꿈은?",
+    "question": "\"I like clothes. I want to make beautiful clothes.\" 이 사람의 꿈은?",
     "choices": [
-      "police officer",
+      "vet",
+      "designer",
       "pilot",
-      "artist",
-      "vet"
-    ],
-    "answer": 3,
-    "explanation": "아픈 동물을 돕는 사람은 수의사예요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A: What do you want to be? B: I love cooking. I want to be a ___.",
-    "choices": [
-      "chef",
-      "pilot",
-      "doctor",
-      "singer"
-    ],
-    "answer": 0,
-    "explanation": "요리를 좋아하면 요리사(chef)가 알맞아요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A: Let's play soccer after school. B: ___ I have to do my homework.",
-    "choices": [
-      "Sounds good!",
-      "Sorry, I can't.",
-      "Okay, let's go.",
-      "Why not?"
+      "farmer"
     ],
     "answer": 1,
-    "explanation": "숙제 때문에 거절하는 말이 와야 해요.",
+    "explanation": "멋진 옷을 만드는 사람은 디자이너(designer)예요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Jun: I want to be a singer. Mia: I want to be a singer, too. Leo: I want to be a doctor. 가수가 되고 싶은 사람은?",
+    "choices": [
+      "Jun and Mia",
+      "Jun and Leo",
+      "Mia and Leo",
+      "Jun, Mia, and Leo"
+    ],
+    "answer": 0,
+    "explanation": "Jun과 Mia가 가수(singer)가 되고 싶다고 했어요. Leo의 꿈은 의사예요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Do you want to come to my birthday party? B: ___ What time does it start?",
+    "choices": [
+      "Sorry, I'm busy.",
+      "It was fun.",
+      "No, I didn't.",
+      "Of course!"
+    ],
+    "answer": 3,
+    "explanation": "몇 시에 시작하는지 물었으니 가겠다고 받아들인 거예요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -2553,32 +2559,32 @@
     "unit": "길 안내"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Go straight and turn left at the second corner.\" 어디에서 어느 쪽으로 돌까요?",
+    "question": "\"Go straight and turn left at the third corner.\" 첫 번째 모퉁이를 이미 지났어요. 앞으로 몇 번째로 만나는 모퉁이에서 돌까요?",
     "choices": [
-      "첫 번째 모퉁이에서 왼쪽",
-      "두 번째 모퉁이에서 오른쪽",
-      "첫 번째 모퉁이에서 오른쪽",
-      "두 번째 모퉁이에서 왼쪽"
+      "세 번째로 만나는 모퉁이",
+      "네 번째로 만나는 모퉁이",
+      "두 번째로 만나는 모퉁이",
+      "첫 번째로 만나는 모퉁이"
     ],
-    "answer": 3,
-    "explanation": "'second corner'는 두 번째 모퉁이, 'turn left'는 왼쪽으로 돌라는 뜻이에요.",
+    "answer": 2,
+    "explanation": "세 번째 모퉁이에서 돌아야 하는데 하나를 지났으니, 앞으로 두 번째로 만나는 모퉁이예요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "\"The hospital is between the bank and the school.\" 병원 양옆에 있는 곳은?",
+    "question": "\"The hospital is between the bank and the school. The park is across from the hospital.\" 공원 맞은편 건물의 양옆에 있는 곳은?",
     "choices": [
-      "은행과 공원",
-      "학교와 공원",
+      "병원과 학교",
       "은행과 학교",
-      "공원과 우체국"
+      "학교와 공원",
+      "은행과 공원"
     ],
-    "answer": 2,
-    "explanation": "'between A and B'는 A와 B 사이라는 뜻이라 병원 양옆에 은행과 학교가 있어요.",
+    "answer": 1,
+    "explanation": "공원 맞은편은 병원이고, 병원은 은행과 학교 사이에 있어요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -2656,7 +2662,7 @@
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "수호는 한 달에 한 번 영화를 봐요. How often does Suho watch movies?",
     "choices": [
@@ -2671,7 +2677,7 @@
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? How often ___ he play baseball?",
     "choices": [
@@ -2832,32 +2838,32 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I have a cold.\"의 뜻은?",
+    "question": "\"He has a cold, so he shouldn't go swimming.\"의 뜻은?",
     "choices": [
-      "나는 추운 곳에 있어요.",
-      "나는 열이 나요.",
-      "나는 차가운 물을 마셔요.",
-      "나는 감기에 걸렸어요."
+      "그는 날이 추운데도 수영하러 갔어요.",
+      "그는 감기에 걸렸지만 수영하러 가야 해요.",
+      "그는 수영을 많이 해서 감기에 걸렸어요.",
+      "그는 감기에 걸려서 수영하지 않는 게 좋아요."
     ],
     "answer": 3,
-    "explanation": "'have a cold'는 '감기에 걸리다'라는 뜻이에요.",
+    "explanation": "'has a cold'는 감기에 걸렸다, 'shouldn't'는 '~하지 않는 게 좋다'는 뜻이에요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"You should ~.\"는 어떤 때 쓰는 말일까요?",
+    "question": "Mina wants to be healthy. 알맞지 않은 조언은?",
     "choices": [
-      "사과할 때",
-      "감사할 때",
-      "조언할 때",
-      "처음 만났을 때"
+      "Eat lots of vegetables.",
+      "Exercise every morning.",
+      "Eat fast food every day.",
+      "Sleep well at night."
     ],
     "answer": 2,
-    "explanation": "'You should ~.'는 '~하는 게 좋겠어.'라는 뜻으로 조언할 때 써요.",
+    "explanation": "날마다 패스트푸드를 먹는 것은 건강에 좋지 않아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -2892,20 +2898,20 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"You shouldn't eat too much candy.\"의 뜻은?",
+    "question": "A: Can I eat this cake? B: You shouldn't. You have a toothache. B의 말의 뜻은?",
     "choices": [
-      "사탕을 많이 먹는 게 좋아.",
-      "사탕을 조금 사 줄게.",
-      "사탕을 먹어 본 적 있니?",
-      "사탕을 너무 많이 먹지 않는 게 좋아."
+      "이가 아파도 케이크를 마음껏 먹어도 된다",
+      "이가 아프니 케이크를 꼭 먹어야 한다",
+      "케이크가 이미 하나도 남지 않았다",
+      "이가 아프니 케이크를 먹지 않는 게 좋다"
     ],
     "answer": 3,
-    "explanation": "'shouldn't'는 '~하지 않는 게 좋겠다'라는 뜻이에요.",
+    "explanation": "'shouldn't'는 '~하지 않는 게 좋겠다'는 뜻이고, 이가 아픈 것이 그 까닭이에요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? A: What's wrong with Mina? B: She ___ a fever.",
     "choices": [
@@ -2922,30 +2928,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: You look sick. B: I have a sore throat. B는 어디가 아플까요?",
+    "question": "A: I have a cough and a fever. 두 증상에 알맞은 조언은?",
     "choices": [
-      "목",
-      "머리",
-      "배",
-      "이"
+      "Eat ice cream and play.",
+      "Drink warm water and rest.",
+      "Eat ice cream and rest.",
+      "Drink warm water and play."
     ],
-    "answer": 0,
-    "explanation": "'sore throat'는 목이 아픈 것을 말해요.",
+    "answer": 1,
+    "explanation": "기침에는 따뜻한 물, 열에는 쉬기가 알맞아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "증상과 조언이 알맞게 짝지어진 것은?",
     "choices": [
-      "cold – Eat ice cream.",
-      "headache – Play loud music.",
-      "tired – Go to bed early.",
-      "hungry – Skip lunch."
+      "a cough – Don't eat cold food.",
+      "a headache – Play loud music.",
+      "a fever – Swim in the river.",
+      "a toothache – Eat more candy."
     ],
-    "answer": 2,
-    "explanation": "피곤할 때는 일찍 자는 게 좋아요. 나머지는 증상을 더 나쁘게 해요.",
+    "answer": 0,
+    "explanation": "기침이 날 때는 찬 음식을 먹지 않는 게 좋아요. 나머지는 증상을 더 나쁘게 해요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -2980,15 +2986,15 @@
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "ox",
-    "question": "\"You should stay up late.\"는 감기에 걸린 친구에게 알맞은 조언이다.",
+    "question": "\"You should go swimming.\"은 감기에 걸린 친구에게 알맞은 조언이다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 1,
-    "explanation": "'stay up late'는 늦게까지 안 자는 것이라 감기에 걸린 친구에게는 푹 쉬라고 해야 해요.",
+    "explanation": "감기에 걸리면 수영하지 말고 푹 쉬는 게 좋아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -3010,15 +3016,15 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'saw'는 어떤 낱말을 지난 일을 말할 때 쓰는 꼴로 바꾼 것일까요?",
+    "question": "'found'는 어떤 낱말을 지난 일로 말할 때 쓰는 꼴일까요?",
     "choices": [
-      "see",
-      "say",
-      "sell",
-      "sit"
+      "fine",
+      "fun",
+      "fan",
+      "find"
     ],
-    "answer": 0,
-    "explanation": "see(보다)를 지난 일로 말할 때는 saw(보았다)라고 해요.",
+    "answer": 3,
+    "explanation": "find(찾다)를 지난 일로 말할 때는 found라고 해요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -3040,18 +3046,18 @@
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'play(놀다)'를 지난 일로 말할 때는 'played'라고 해요.",
+    "question": "'win(이기다)'을 지난 일로 말할 때는 'winned'라고 한다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "play에 -ed를 붙이면 '놀았다'라는 뜻의 played가 돼요.",
+    "answer": 1,
+    "explanation": "win을 지난 일로 말할 때는 won이라고 해요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? I ___ a book yesterday.",
     "choices": [
@@ -3126,7 +3132,7 @@
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Did she make a cake?\"에 알맞은 대답은?",
     "choices": [
@@ -3164,7 +3170,7 @@
       "X"
     ],
     "answer": 1,
-    "explanation": "'didn't' 뒤에는 동사원형을 써서 'I didn't go to school.'이라고 해야 해요.",
+    "explanation": "'didn't' 뒤에는 'go'처럼 모양을 바꾸지 않은 낱말을 써서 'I didn't go to school.'이라고 해야 해요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -3207,7 +3213,7 @@
       "more fast"
     ],
     "answer": 1,
-    "explanation": "토끼가 거북보다 빠르니 'faster'를 써요. than 앞에는 비교급이 와요.",
+    "explanation": "토끼가 거북보다 빠르니 'faster'를 써요. than 앞에는 '더 ~한' 말이 와요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -3227,7 +3233,7 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "가방 A는 20,000원, 가방 B는 15,000원이에요. 옳은 문장은?",
     "choices": [
@@ -3272,7 +3278,7 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "ox",
     "question": "\"My phone is more new than yours.\"는 바른 문장이다.",
     "choices": [
@@ -3285,17 +3291,17 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'next month'의 뜻은?",
+    "question": "'last month'와 'next month' 사이에 있는 달을 나타내는 말은?",
     "choices": [
-      "지난달",
-      "이번 달",
-      "다음 달",
-      "다음 주"
+      "this month",
+      "next year",
+      "last week",
+      "this week"
     ],
-    "answer": 2,
-    "explanation": "'next'는 '다음', 'month'는 '달'이라 'next month'는 다음 달이에요.",
+    "answer": 0,
+    "explanation": "지난달(last month)과 다음 달(next month) 사이는 이번 달(this month)이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -3315,30 +3321,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: What are you going to do this summer vacation? B: ___",
+    "question": "A: What are you going to do this summer vacation? B: I'm going to visit my aunt in Busan. B의 계획으로 알맞은 것은?",
     "choices": [
-      "I'm going to learn to swim.",
-      "I learned to swim.",
-      "I swim every day.",
-      "Yes, I am."
+      "이모(고모)와 부산에서 살았다",
+      "이모(고모)가 B의 집에서 산다",
+      "부산에 사는 이모(고모) 댁에 간다",
+      "부산에서 이모(고모)가 놀러 온다"
     ],
-    "answer": 0,
-    "explanation": "앞으로의 계획을 물었으니 'I'm going to ~.'로 답해요.",
+    "answer": 2,
+    "explanation": "'I'm going to visit my aunt in Busan.'은 부산에 있는 이모(고모) 댁에 갈 거라는 뜻이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? He ___ going to visit Jeju next week.",
+    "question": "빈칸에 알맞은 말은? ___ he going to visit Jeju next week?",
     "choices": [
-      "are",
-      "am",
-      "will",
-      "is"
+      "Does",
+      "Is",
+      "Are",
+      "Am"
     ],
-    "answer": 3,
-    "explanation": "주어가 He이면 'He is going to ~.'라고 해요.",
+    "answer": 1,
+    "explanation": "주어가 he이면 'He is going to ~.'이고, 물을 때는 'Is he going to ~?'라고 해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -3358,17 +3364,17 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "앞으로의 일을 말하는 문장이 아닌 것은?",
+    "question": "\"I'll call you later.\"에서 'later'의 뜻으로 알맞은 것은?",
     "choices": [
-      "I watched TV last night.",
-      "I'm going to cook.",
-      "I'll call you later.",
-      "We will meet at 3."
+      "일찍",
+      "어제",
+      "이미",
+      "나중에"
     ],
-    "answer": 0,
-    "explanation": "'watched'와 'last night'는 지난 일을 나타내요.",
+    "answer": 3,
+    "explanation": "'later'는 '나중에'라는 뜻이에요. 나중에 전화하겠다는 말이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -3435,45 +3441,45 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'pilot'의 뜻은?",
+    "question": "'zookeeper'의 뜻은?",
     "choices": [
-      "비행기 조종사",
-      "요리사",
       "소방관",
-      "수의사"
+      "조종사",
+      "동물원 사육사",
+      "요리사"
     ],
-    "answer": 0,
-    "explanation": "'pilot'은 비행기를 조종하는 사람이에요.",
+    "answer": 2,
+    "explanation": "'zookeeper'는 동물원(zoo)에서 동물을 돌보는 사람이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'writer'의 뜻은?",
+    "question": "'reporter'의 뜻은?",
     "choices": [
       "가수",
-      "화가",
-      "농부",
-      "작가"
+      "기자",
+      "작가",
+      "화가"
     ],
-    "answer": 3,
-    "explanation": "'write(쓰다)'에 -er이 붙어 글을 쓰는 사람, 작가라는 뜻이에요.",
+    "answer": 1,
+    "explanation": "'reporter'는 소식을 알리는 기자예요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'dancer'는 무엇을 하는 사람일까요?",
+    "question": "'bus driver'가 하는 일로 알맞은 것은?",
     "choices": [
-      "노래를 부르는 사람",
-      "춤을 추는 사람",
-      "그림을 그리는 사람",
-      "요리를 하는 사람"
+      "버스를 운전한다",
+      "버스를 만든다",
+      "버스표를 판다",
+      "버스를 고친다"
     ],
-    "answer": 1,
-    "explanation": "'dance(춤추다)'에 -r이 붙어 춤을 추는 사람이라는 뜻이에요.",
+    "answer": 0,
+    "explanation": "'drive(운전하다)'에 -r이 붙은 'driver'는 운전하는 사람이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -3495,58 +3501,58 @@
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'nurse'는 '경찰관'이라는 뜻이다.",
+    "question": "'police officer'와 'firefighter'는 같은 일을 하는 사람이다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 1,
-    "explanation": "'nurse'는 간호사예요. 경찰관은 'police officer'예요.",
+    "explanation": "'police officer'는 경찰관, 'firefighter'는 불을 끄는 소방관이라 하는 일이 달라요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I want to be ___ artist.",
+    "question": "빈칸에 'an'이 들어가는 문장은?",
     "choices": [
-      "a",
-      "two",
-      "an",
-      "many"
+      "I want to be ___ doctor.",
+      "I want to be ___ engineer.",
+      "I want to be ___ farmer.",
+      "I want to be ___ singer."
     ],
-    "answer": 2,
-    "explanation": "'artist'는 모음 소리로 시작해서 a 대신 an을 써요.",
+    "answer": 1,
+    "explanation": "'engineer'는 모음 소리로 시작해서 a 대신 an을 써요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "하는 일과 직업이 알맞게 짝지어진 것은?",
     "choices": [
+      "writes books – writer",
+      "draws pictures – pilot",
       "flies planes – dentist",
-      "grows rice – farmer",
-      "writes books – singer",
-      "draws pictures – pilot"
+      "grows rice – singer"
     ],
-    "answer": 1,
-    "explanation": "쌀을 기르는 사람은 농부예요. 비행기는 pilot, 책은 writer, 그림은 artist예요.",
+    "answer": 0,
+    "explanation": "책을 쓰는 사람은 작가(writer)예요. 비행기는 pilot, 쌀은 farmer, 그림은 artist예요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"He wants to be a soccer player.\"의 뜻은?",
+    "question": "Mina – vet, Jun – scientist, Sora – pilot. A: Who wants to be a scientist? B: ___",
     "choices": [
-      "그는 축구 선수예요.",
-      "그는 축구를 보고 싶어 해요.",
-      "그는 축구공을 갖고 싶어 해요.",
-      "그는 축구 선수가 되고 싶어 해요."
+      "Mina does.",
+      "Sora does.",
+      "Jun is.",
+      "Jun does."
     ],
     "answer": 3,
-    "explanation": "'want to be ~'는 '~이 되고 싶다'라는 뜻이에요.",
+    "explanation": "과학자가 되고 싶은 사람은 Jun이에요. 'Who wants ~?'에는 'Jun does.'로 답해요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -3566,17 +3572,17 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I want to be a painter.\" 꿈을 위해 하는 노력으로 가장 알맞은 것은?",
+    "question": "\"I want to be a writer.\" 꿈을 위해 하는 노력으로 가장 알맞은 것은?",
     "choices": [
-      "I draw pictures every day.",
+      "I fly a kite every day.",
+      "I write a diary every day.",
       "I sing every day.",
-      "I play soccer every day.",
-      "I read cookbooks."
+      "I play soccer every day."
     ],
-    "answer": 0,
-    "explanation": "화가(painter)가 되려면 그림을 자주 그리는 연습이 가장 알맞아요.",
+    "answer": 1,
+    "explanation": "작가(writer)가 되려면 날마다 글을 쓰는 연습이 알맞아요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -3628,15 +3634,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"He wants to go to space. He wants to be ___.\" 빈칸에 알맞은 말은?",
+    "question": "\"He wants to catch bad people. He wants to be ___.\" 빈칸에 알맞은 말은?",
     "choices": [
-      "a singer",
       "a baker",
-      "an astronaut",
-      "a farmer"
+      "a police officer",
+      "a farmer",
+      "a singer"
     ],
-    "answer": 2,
-    "explanation": "우주에 가고 싶어 하니 우주 비행사(astronaut)가 알맞아요.",
+    "answer": 1,
+    "explanation": "나쁜 사람을 잡는 사람은 경찰관(police officer)이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -3654,7 +3660,7 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"What's your dream?\"에 알맞은 대답은?",
     "choices": [
@@ -3679,7 +3685,7 @@
       "be"
     ],
     "answer": 3,
-    "explanation": "'want to' 뒤에는 동사원형을 써서 'want to be'라고 해요.",
+    "explanation": "'want to' 뒤에는 'be'를 그대로 써서 'want to be'라고 해요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -3701,15 +3707,15 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'Let's ~.'의 뜻은?",
+    "question": "\"I'd love to.\"의 뜻으로 알맞은 것은?",
     "choices": [
-      "~하자.",
-      "~했어.",
-      "~하지 마.",
-      "~할 수 있어."
+      "정말 그러고 싶어.",
+      "정말 미안해.",
+      "나는 그것을 좋아했어.",
+      "다음에 하자."
     ],
     "answer": 0,
-    "explanation": "'Let's'는 무엇을 함께 하자고 제안할 때 써요.",
+    "explanation": "'I'd love to.'는 제안을 기쁘게 받아들이는 말이에요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -3729,30 +3735,30 @@
     "unit": "제안하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "ox",
-    "question": "\"Sorry, I can't.\"는 제안을 거절하는 말이다.",
+    "question": "\"Let's not play outside.\"는 밖에서 놀자는 뜻이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "'Sorry, I can't.'는 미안하지만 할 수 없다는 거절의 말이에요.",
+    "answer": 1,
+    "explanation": "'Let's not ~'은 '~하지 말자'라는 뜻이에요. 밖에서 놀지 말자는 말이에요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "제안하는 말이 아닌 것은?",
+    "question": "주말 날씨: 토요일 – 비, 일요일 – 맑음. A: Let's go on a picnic this weekend. B: Okay. ___",
     "choices": [
-      "Let's go fishing.",
-      "I went fishing yesterday.",
-      "How about going camping?",
-      "Why don't we play chess?"
+      "I don't like Sunday.",
+      "How about Sunday?",
+      "How about Saturday?",
+      "Let's go in the rain."
     ],
     "answer": 1,
-    "explanation": "'I went fishing yesterday.'는 어제 한 일을 말하는 문장이에요.",
+    "explanation": "소풍은 맑은 날이 좋으니 일요일에 가자고 하는 말이 알맞아요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -3789,30 +3795,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? How about ___ a movie?",
+    "question": "A: Let's meet this weekend. B: Okay. How about ___?",
     "choices": [
-      "watch",
-      "watching",
-      "watched",
-      "to watch"
+      "last Sunday",
+      "two days ago",
+      "Saturday at 10",
+      "yesterday at 10"
     ],
-    "answer": 1,
-    "explanation": "'How about' 뒤에는 동사에 -ing를 붙여요.",
+    "answer": 2,
+    "explanation": "앞으로 만날 때를 정하니 이번 주말인 Saturday at 10이 알맞아요. 나머지는 지난 때예요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? Why don't we ___ a snowman?",
     "choices": [
-      "making",
-      "made",
       "makes",
-      "make"
+      "make",
+      "making",
+      "made"
     ],
-    "answer": 3,
-    "explanation": "'Why don't we' 뒤에는 동사원형을 써요. How about과 헷갈리지 마요.",
+    "answer": 1,
+    "explanation": "'Why don't we' 뒤에는 make처럼 -ing를 붙이지 않은 말을 써요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -3862,7 +3868,7 @@
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Let's eat pizza.\"를 How about으로 바르게 바꾼 것은?",
     "choices": [
@@ -3894,15 +3900,15 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "밖에 비가 많이 와요. 알맞은 제안은?",
+    "question": "Jun은 감기에 걸렸고, 밖은 맑아요. Mina가 Jun과 함께 놀고 싶어요. Mina의 제안으로 가장 알맞은 것은?",
     "choices": [
-      "Let's go to the beach.",
-      "Let's fly a kite outside.",
-      "Let's watch TV at home.",
-      "Let's ride bikes outside."
+      "Let's swim in the river.",
+      "Let's run outside all day.",
+      "Let's eat lots of ice cream.",
+      "Let's read books at home."
     ],
-    "answer": 2,
-    "explanation": "비가 올 때는 밖보다 집 안에서 할 수 있는 일을 제안하는 게 알맞아요.",
+    "answer": 3,
+    "explanation": "감기에 걸린 친구와는 집에서 책을 읽는 것이 알맞아요. 수영, 오래 뛰기, 아이스크림은 감기에 좋지 않아요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -3952,7 +3958,7 @@
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "ox",
     "question": "\"Maybe next time.\"은 제안을 기쁘게 받아들이는 말이다.",
     "choices": [
@@ -4083,17 +4089,17 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'9월 1일'을 바르게 쓴 것은?",
+    "question": "달 이름의 철자가 바른 것은?",
     "choices": [
-      "September 1th",
-      "September 1nd",
-      "September 1st",
-      "September 1rd"
+      "Feburary",
+      "Februay",
+      "February",
+      "Febuary"
     ],
     "answer": 2,
-    "explanation": "1은 서수로 1st라고 써요.",
+    "explanation": "2월은 February라고 써요.",
     "semester": 1,
     "unit": "월·날짜"
   },
@@ -4171,30 +4177,30 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'taller'의 뜻은?",
+    "question": "'younger'의 뜻은?",
     "choices": [
-      "가장 키가 큰",
-      "키가 작은",
-      "더 작은",
-      "더 키가 큰"
+      "더 어린",
+      "가장 어린",
+      "더 나이 든",
+      "어린"
     ],
-    "answer": 3,
-    "explanation": "tall에 er을 붙이면 더 키가 큰이에요.",
+    "answer": 0,
+    "explanation": "young(어린)에 er을 붙이면 '더 어린'이에요.",
     "semester": 2,
     "unit": "비교하기"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? An elephant is ___ than a dog.",
+    "question": "빈칸에 알맞은 말은? Winter is ___ than fall.",
     "choices": [
-      "bigger",
-      "big",
-      "biggest",
-      "more big"
+      "cold",
+      "coldest",
+      "more cold",
+      "colder"
     ],
-    "answer": 0,
-    "explanation": "than 앞에는 bigger처럼 비교하는 말을 써요.",
+    "answer": 3,
+    "explanation": "than 앞에는 '더 추운'이라는 뜻의 colder를 써요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -4216,30 +4222,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"Jina is 150cm. Mina is 145cm.\" 알맞은 문장은?",
+    "question": "오늘 서울은 5℃, 부산은 12℃예요. 알맞은 문장은?",
     "choices": [
-      "Mina is taller than Jina.",
-      "Jina and Mina are the same.",
-      "Jina is taller than Mina.",
-      "Jina is shorter than Mina."
+      "They are the same.",
+      "Busan is warmer than Seoul.",
+      "Seoul is warmer than Busan.",
+      "Busan is colder than Seoul."
     ],
-    "answer": 2,
-    "explanation": "150cm인 지나가 더 키가 커요.",
+    "answer": 1,
+    "explanation": "12℃인 부산이 5℃인 서울보다 더 따뜻해요(warmer).",
     "semester": 2,
     "unit": "비교하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "비교하는 말이 잘못된 것은?",
+    "question": "'더 ~한'으로 바꾼 말이 잘못된 것은?",
     "choices": [
-      "big - bigger",
-      "small - smaller",
-      "hot - hotter",
-      "good - gooder"
+      "fat - fater",
+      "cold - colder",
+      "young - younger",
+      "dark - darker"
     ],
-    "answer": 3,
-    "explanation": "good의 비교하는 말은 better예요.",
+    "answer": 0,
+    "explanation": "fat은 t를 한 번 더 써서 fatter라고 해요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -4274,15 +4280,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"Minho is older than Suji. Suji is older than Dan.\" 가장 어린 사람은?",
+    "question": "\"Minho is older than Suji. Suji is older than Dan.\" 나이가 두 번째로 많은 사람은?",
     "choices": [
-      "Dan",
-      "Minho",
+      "알 수 없다",
       "Suji",
-      "모두 같아요"
+      "Minho",
+      "Dan"
     ],
-    "answer": 0,
-    "explanation": "Dan이 수지보다 어리니 가장 어려요.",
+    "answer": 1,
+    "explanation": "Minho > Suji > Dan 차례라 두 번째는 Suji예요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -4319,45 +4325,45 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'faster'의 뜻은?",
+    "question": "'stronger'의 뜻은?",
     "choices": [
-      "더 빠른",
-      "가장 빠른",
-      "더 느린",
-      "느린"
-    ],
-    "answer": 0,
-    "explanation": "fast(빠른)에 -er이 붙어 '더 빠른'이에요.",
-    "semester": 2,
-    "unit": "비교하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"The pencil is 15cm. The ruler is 30cm.\" 연필과 자를 비교한 말로 알맞은 것은?",
-    "choices": [
-      "The pencil is longer.",
-      "The ruler is longer.",
-      "The ruler is shorter.",
-      "They are the same."
-    ],
-    "answer": 1,
-    "explanation": "30cm인 자가 15cm인 연필보다 길어요.",
-    "semester": 2,
-    "unit": "비교하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'~보다 더'를 나타내는 형태가 바른 것은?",
-    "choices": [
-      "big - biger",
-      "fast - fastter",
-      "heavy - heavier",
-      "long - longger"
+      "더 약한",
+      "힘센",
+      "더 힘센",
+      "가장 힘센"
     ],
     "answer": 2,
-    "explanation": "heavy는 y를 i로 바꿔 heavier, big은 bigger예요.",
+    "explanation": "strong(힘센)에 er을 붙이면 '더 힘센'이에요.",
+    "semester": 2,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도서관은 조용하고, 운동장은 시끄러워요. The library is ___ than the playground.",
+    "choices": [
+      "quietest",
+      "quieter",
+      "noisier",
+      "quiet"
+    ],
+    "answer": 1,
+    "explanation": "도서관이 더 조용하니 '더 조용한'이라는 뜻의 quieter를 써요.",
+    "semester": 2,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "낱말을 바르게 늘어놓은 문장은? (is / my / younger / than / brother / me)",
+    "choices": [
+      "My brother is younger than me.",
+      "My brother younger is than me.",
+      "Me is younger than my brother.",
+      "My brother is than younger me."
+    ],
+    "answer": 0,
+    "explanation": "'A is younger than B.' 차례로 써요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -4418,47 +4424,47 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'turn right'의 뜻은?",
+    "question": "A: How can I get to the airport? B: You can take the subway. It's faster than the bus. B가 권한 방법은?",
     "choices": [
-      "오른쪽으로 도세요.",
-      "왼쪽으로 도세요.",
-      "곧장 가세요.",
-      "길을 건너세요."
+      "버스 타기",
+      "택시 타기",
+      "걸어가기",
+      "지하철 타기"
     ],
-    "answer": 0,
-    "explanation": "right는 오른쪽이라서 turn right는 오른쪽으로 돌라는 말이에요.",
+    "answer": 3,
+    "explanation": "'take the subway'는 지하철을 타라는 말이에요. 버스보다 빠르다고 했어요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'next to'의 뜻은?",
+    "question": "거리에 건물이 왼쪽부터 bank – bakery – school 차례로 한 줄로 있어요. \"The school is next to the ___.\" 빈칸에 알맞은 말은?",
     "choices": [
-      "~의 뒤에",
-      "~의 옆에",
-      "~의 앞에",
-      "~의 맞은편에"
-    ],
-    "answer": 1,
-    "explanation": "next to는 '~의 옆에'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "길 안내"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'behind'의 뜻은?",
-    "choices": [
-      "~의 옆에",
-      "~의 사이에",
-      "~의 뒤에",
-      "~의 앞에"
+      "bank and bakery",
+      "school",
+      "bakery",
+      "bank"
     ],
     "answer": 2,
-    "explanation": "behind는 '~의 뒤에'라는 뜻이에요.",
+    "explanation": "학교 바로 옆에는 빵집(bakery)이 있어요. 은행은 빵집 건너 더 왼쪽에 있어요.",
+    "semester": 1,
+    "unit": "길 안내"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'학교는 공원 뒤에 있어요.'를 영어로 바르게 말한 것은?",
+    "choices": [
+      "The school is in the park.",
+      "The school is behind the park.",
+      "The park is behind the school.",
+      "The school is near the park."
+    ],
+    "answer": 1,
+    "explanation": "'~의 뒤에'는 behind이고, 학교(school)가 주어예요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -4479,29 +4485,31 @@
   },
   {
     "difficulty": 1,
-    "type": "ox",
-    "question": "'between'은 '~의 사이에'라는 뜻이다.",
+    "type": "choice4",
+    "question": "A: Excuse me. Where's the bus stop? B: It's right there, in front of the hospital. 버스 정류장은 어디에 있나요?",
     "choices": [
-      "O",
-      "X"
+      "병원 뒤",
+      "병원 안",
+      "병원 맞은편",
+      "병원 앞"
     ],
-    "answer": 0,
-    "explanation": "between은 두 곳 사이에 있을 때 써요.",
+    "answer": 3,
+    "explanation": "'in front of the hospital'은 병원 앞이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"The school is in front of the park.\"에서 학교의 위치는?",
+    "question": "A: Where's the post office? B: It's behind the bank. 은행 앞에 서 있는 사람이 우체국에 가려면 어디로 가야 할까요?",
     "choices": [
-      "공원 앞",
-      "공원 뒤",
-      "공원 옆",
-      "공원 맞은편"
+      "은행 맞은편",
+      "은행 앞",
+      "은행 뒤쪽",
+      "은행 안"
     ],
-    "answer": 0,
-    "explanation": "in front of는 '~의 앞에'라는 뜻이에요.",
+    "answer": 2,
+    "explanation": "behind는 '~의 뒤에'라는 뜻이라 우체국은 은행 뒤쪽에 있어요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -4523,30 +4531,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"Go straight three blocks.\"의 뜻은?",
+    "question": "우체국은 학교에서 같은 길을 따라 세 블록 떨어져 있어요. 학교 앞에서 알맞은 안내는?",
     "choices": [
-      "세 번째 모퉁이에서 도세요.",
-      "세 블록 뒤로 가세요.",
-      "세 블록 곧장 가세요.",
-      "세 번 길을 건너세요."
+      "Go straight three blocks.",
+      "Turn left three times.",
+      "Go straight two blocks.",
+      "Cross the street three times."
     ],
-    "answer": 2,
-    "explanation": "go straight는 곧장 가라는 말이고 three blocks는 세 블록이에요.",
+    "answer": 0,
+    "explanation": "같은 길로 세 블록 가면 되니 'Go straight three blocks.'예요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: How can I get to the hospital? B: ___ 대답으로 알맞은 것은?",
+    "question": "A: How can I get to the hospital? B: Go to the park and cross the street. It's right there. 병원의 위치로 알맞은 것은?",
     "choices": [
-      "I have a fever.",
-      "It's on May 5th.",
-      "I went there yesterday.",
-      "Go straight and turn right."
+      "공원 옆",
+      "공원 안",
+      "공원 뒤",
+      "공원 맞은편"
     ],
     "answer": 3,
-    "explanation": "가는 방법을 물었으니 길을 알려 주는 말이 알맞아요.",
+    "explanation": "공원에서 길을 건너면 바로 있으니 공원 맞은편이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -4568,15 +4576,15 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "\"Go straight one block and turn right. It's on your left.\" 도는 방향과 목적지 위치는?",
+    "question": "Mina는 집에서 나와 곧장 가다가 모퉁이에서 왼쪽으로 돌아 공원에 갔어요. 같은 길로 집에 돌아올 때 그 모퉁이에서는 어느 쪽으로 돌까요?",
     "choices": [
-      "왼쪽으로 돌고, 오른쪽에 있다.",
-      "오른쪽으로 돌고, 왼쪽에 있다.",
-      "오른쪽으로 돌고, 오른쪽에 있다.",
-      "왼쪽으로 돌고, 왼쪽에 있다."
+      "뒤쪽",
+      "오른쪽",
+      "왼쪽",
+      "돌지 않는다"
     ],
     "answer": 1,
-    "explanation": "turn right는 오른쪽으로 돌기, on your left는 왼쪽에 있다는 뜻이에요.",
+    "explanation": "갈 때와 반대 방향으로 걸으니, 갈 때 왼쪽으로 돈 모퉁이에서 돌아올 때는 오른쪽으로 돌아요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -4596,9 +4604,9 @@
     "unit": "길 안내"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: Where is the toy store? B: It's ___ the bookstore. 뜻이 '서점 맞은편이에요'가 되게 빈칸에 알맞은 말은?",
+    "question": "장난감 가게와 서점은 길을 사이에 두고 서로 마주 보고 있어요. A: Where is the toy store? B: It's ___ the bookstore.",
     "choices": [
       "next to",
       "behind",
@@ -4606,35 +4614,37 @@
       "across from"
     ],
     "answer": 3,
-    "explanation": "across from은 '~의 맞은편에'라는 뜻이에요.",
+    "explanation": "길을 사이에 두고 마주 보는 곳은 across from(~의 맞은편에)으로 말해요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Go straight two blocks and turn left at the corner.\" 내가 가장 먼저 할 일은?",
+    "question": "\"Go straight two blocks, turn left at the corner, and cross the street.\" 두 번째로 할 일은?",
     "choices": [
-      "두 블록 곧장 가기",
-      "왼쪽으로 돌기",
       "길 건너기",
-      "모퉁이에서 오른쪽으로 돌기"
+      "세 블록 곧장 가기",
+      "모퉁이에서 왼쪽으로 돌기",
+      "두 블록 곧장 가기"
     ],
-    "answer": 0,
-    "explanation": "문장의 순서대로 먼저 두 블록 곧장 가고 그다음 왼쪽으로 돌아요.",
+    "answer": 2,
+    "explanation": "두 블록 곧장 가기 → 모퉁이에서 왼쪽으로 돌기 → 길 건너기 차례예요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
-    "difficulty": 3,
-    "type": "ox",
-    "question": "\"It's on your left.\"는 \"오른쪽에 있어요.\"라는 뜻이다.",
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "Tom은 \"Turn left.\"라는 안내를 듣고 오른쪽으로 돌았어요. Tom이 한 실수는?",
     "choices": [
-      "O",
-      "X"
+      "곧장 가야 할 때 가지 않았다",
+      "left와 right를 바꿔 알았다",
+      "길을 건너야 할 때 건너지 않았다",
+      "안내보다 너무 빨리 걸어갔다"
     ],
     "answer": 1,
-    "explanation": "on your left는 왼쪽에 있다는 뜻이에요.",
+    "explanation": "left는 왼쪽인데 오른쪽으로 돌았으니 left와 right를 바꿔 안 거예요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -4654,183 +4664,183 @@
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'often'의 뜻은?",
+    "question": "Yuna는 월요일부터 금요일까지 날마다 줄넘기를 하고, 주말에는 하지 않아요. How often does Yuna jump rope?",
     "choices": [
-      "가끔",
-      "전혀 ~하지 않는",
-      "자주",
-      "한 번"
-    ],
-    "answer": 2,
-    "explanation": "often은 '자주'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "빈도 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'never'의 뜻은?",
-    "choices": [
-      "항상",
-      "자주",
-      "보통",
-      "전혀 ~하지 않는"
+      "Seven times a week.",
+      "Twice a week.",
+      "Once a month.",
+      "Five times a week."
     ],
     "answer": 3,
-    "explanation": "never는 '전혀 ~하지 않는'이라는 뜻이에요.",
+    "explanation": "월요일부터 금요일까지는 5일이라 'five times a week'예요.",
+    "semester": 1,
+    "unit": "빈도 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "표: Mina – 매일 아침 운동, Jun – 운동을 전혀 하지 않음. 알맞은 문장은?",
+    "choices": [
+      "Jun always exercises.",
+      "Mina sometimes exercises.",
+      "Jun never exercises.",
+      "Mina never exercises."
+    ],
+    "answer": 2,
+    "explanation": "운동을 전혀 하지 않는 Jun에게는 'never'를 써요. Mina는 매일 하니 'always'가 어울려요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'once a week'의 뜻은?",
+    "question": "'once a year'의 뜻은?",
     "choices": [
-      "일주일에 한 번",
       "하루에 한 번",
-      "일주일에 두 번",
-      "한 달에 한 번"
+      "1년에 한 번",
+      "한 달에 한 번",
+      "일주일에 한 번"
     ],
-    "answer": 0,
-    "explanation": "once는 한 번, a week는 일주일에라는 뜻이에요.",
+    "answer": 1,
+    "explanation": "'once'는 한 번, 'a year'는 1년에라는 뜻이에요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'usually'는 '보통, 대개'라는 뜻이다.",
+    "question": "'sometimes'는 'always'보다 더 자주 한다는 뜻이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "usually는 '보통, 대개'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "빈도 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: How ___ do you play soccer? B: Twice a week.",
-    "choices": [
-      "much",
-      "often",
-      "old",
-      "many"
-    ],
     "answer": 1,
-    "explanation": "얼마나 자주 하는지 물을 때는 How often을 써요.",
+    "explanation": "'always'는 항상, 'sometimes'는 가끔이라서 'always'가 더 자주예요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"I brush my teeth three times a day.\"의 뜻은?",
+    "question": "B가 \"Three times a week.\"라고 답했어요. A의 질문으로 알맞은 것은?",
     "choices": [
-      "나는 일주일에 세 번 이를 닦아요.",
-      "나는 하루에 두 번 이를 닦아요.",
-      "나는 하루에 세 번 이를 닦아요.",
-      "나는 이를 전혀 닦지 않아요."
+      "Where do you swim?",
+      "When did you swim?",
+      "Who swims with you?",
+      "How often do you swim?"
+    ],
+    "answer": 3,
+    "explanation": "일주일에 세 번이라는 횟수로 답했으니 'How often ~?'으로 물었어요.",
+    "semester": 1,
+    "unit": "빈도 말하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "\"I visit my grandma twice a year.\"의 뜻은?",
+    "choices": [
+      "나는 1년에 한 번 할머니 댁에 가요.",
+      "나는 할머니 댁에 전혀 가지 않아요.",
+      "나는 1년에 두 번 할머니 댁에 가요.",
+      "나는 한 달에 두 번 할머니 댁에 가요."
     ],
     "answer": 2,
-    "explanation": "three times a day는 하루에 세 번이에요.",
+    "explanation": "'twice a year'는 1년에 두 번이에요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"How often do you read books?\"에 알맞은 대답은?",
+    "question": "\"How often do you go skiing?\"에 알맞은 대답은?",
     "choices": [
       "Yes, I do.",
-      "At the library.",
-      "It's a good book.",
-      "Every day."
+      "Twice a year.",
+      "On the mountain.",
+      "With my dad."
     ],
-    "answer": 3,
-    "explanation": "얼마나 자주 하는지 물었으니 Every day(매일)가 알맞아요.",
+    "answer": 1,
+    "explanation": "얼마나 자주 하는지 물었으니 횟수(1년에 두 번)로 답해요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "'twice a month'의 뜻은?",
+    "question": "Ara goes hiking on the first Sunday of every month. How often does Ara go hiking?",
     "choices": [
-      "한 달에 두 번",
-      "일주일에 두 번",
-      "하루에 두 번",
-      "1년에 두 번"
+      "Once a month.",
+      "Once a week.",
+      "Twice a month.",
+      "Every Sunday."
     ],
     "answer": 0,
-    "explanation": "twice는 두 번, a month는 한 달에라는 뜻이에요.",
+    "explanation": "매달 첫째 일요일에만 가니 한 달에 한 번(once a month)이에요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "ox",
-    "question": "\"I never eat breakfast.\"는 아침을 매일 먹는다는 뜻이다.",
+    "question": "\"I usually walk to school.\"과 \"I never walk to school.\"은 뜻이 같다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 1,
-    "explanation": "never는 전혀 하지 않는다는 뜻이라서 아침을 안 먹는다는 말이에요.",
+    "explanation": "'usually'는 보통 걸어간다는 뜻이고 'never'는 전혀 걸어가지 않는다는 뜻이라 서로 달라요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I swim on Mondays and Fridays.\" 이 친구는 일주일에 몇 번 수영할까요?",
-    "choices": [
-      "Once a week.",
-      "Twice a week.",
-      "Three times a week.",
-      "Every day."
-    ],
-    "answer": 1,
-    "explanation": "월요일과 금요일, 일주일에 두 번이에요.",
-    "semester": 1,
-    "unit": "빈도 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "자주 하는 순서대로 바르게 놓은 것은?",
-    "choices": [
-      "never-sometimes-usually-always",
-      "sometimes-always-never-usually",
-      "always-usually-sometimes-never",
-      "usually-never-always-sometimes"
-    ],
-    "answer": 2,
-    "explanation": "always가 가장 자주, never는 전혀 안 하는 거예요.",
-    "semester": 1,
-    "unit": "빈도 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A: How often do you walk your dog? B: ___ 대답으로 알맞지 않은 것은?",
+    "question": "\"I have a piano lesson on Mondays and Thursdays.\" 이 친구는 일주일에 몇 번 피아노를 배울까요?",
     "choices": [
       "Every day.",
-      "Twice a day.",
-      "Three times a week.",
-      "In the park."
+      "Once a week.",
+      "Twice a week.",
+      "Three times a week."
     ],
-    "answer": 3,
-    "explanation": "In the park는 어디에서인지를 말해서 빈도 대답이 아니에요.",
+    "answer": 2,
+    "explanation": "월요일과 목요일, 일주일에 두 번이에요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "자주 하는 정도가 가장 낮은 말은?",
+    "choices": [
+      "often",
+      "sometimes",
+      "usually",
+      "always"
+    ],
+    "answer": 1,
+    "explanation": "always(항상) > usually(보통) > often(자주) > sometimes(가끔) 차례라 sometimes가 가장 드물어요.",
+    "semester": 1,
+    "unit": "빈도 말하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: How often do you eat pizza? B: ___ 대답으로 알맞지 않은 것은?",
+    "choices": [
+      "With my family.",
+      "Once a month.",
+      "Twice a week.",
+      "Every Saturday."
+    ],
+    "answer": 0,
+    "explanation": "'With my family.'는 누구와 먹는지를 말해서 얼마나 자주인지에 대한 대답이 아니에요.",
+    "semester": 1,
+    "unit": "빈도 말하기"
+  },
+  {
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Mina plays the piano every day. Jun plays the piano once a week.\" 피아노를 더 자주 치는 사람은?",
     "choices": [
@@ -4845,7 +4855,7 @@
     "unit": "빈도 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? A: How often do you clean your room? B: I clean it ___ a week. (일주일에 세 번)",
     "choices": [
@@ -4875,17 +4885,17 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "이유를 물을 때 쓰는 말은?",
+    "question": "맑은 날 친구가 우산을 들고 왔어요. 그 까닭을 물을 때 알맞은 말은?",
     "choices": [
-      "Where",
-      "When",
-      "Who",
-      "Why"
+      "Why did you bring an umbrella?",
+      "Where is your new umbrella?",
+      "When did you buy the umbrella?",
+      "Is it your sister's umbrella?"
     ],
-    "answer": 3,
-    "explanation": "Why는 '왜'라는 뜻이라서 이유를 물을 때 써요.",
+    "answer": 0,
+    "explanation": "까닭을 물을 때는 Why로 물어요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
@@ -4935,15 +4945,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: Why do you like winter? B: ___",
+    "question": "A: Why do you like your school? B: ___",
     "choices": [
-      "Because I can swim in the sea.",
-      "Because flowers bloom.",
-      "Because I can make a snowman.",
-      "Because it's very hot."
+      "Because I have good friends.",
+      "Because it's very far.",
+      "Because I don't like lunch.",
+      "Because the room is dirty."
     ],
-    "answer": 2,
-    "explanation": "겨울에는 눈사람을 만들 수 있어요.",
+    "answer": 0,
+    "explanation": "학교를 좋아하는 이유로 좋은 친구들이 있다는 말이 알맞아요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
@@ -5006,17 +5016,17 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I want to be a vet ___ I love animals.\" 빈칸에 알맞은 말은?",
+    "question": "빈칸에 알맞은 말은? I wore a hat ___ it was sunny.",
     "choices": [
+      "or",
       "but",
       "so",
-      "because",
-      "or"
+      "because"
     ],
-    "answer": 2,
-    "explanation": "동물을 좋아하는 것이 이유라서 because가 알맞아요.",
+    "answer": 3,
+    "explanation": "햇볕이 쨍쨍한 것이 모자를 쓴 이유라서 because가 알맞아요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
@@ -5036,7 +5046,7 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Tom is hungry because he didn't eat lunch.\" Tom이 배고픈 이유는?",
     "choices": [
@@ -5066,75 +5076,75 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: Why did you go to the bakery? B: ___ 이유로 알맞은 것은?",
+    "question": "A: Why did you go to the library? B: ___ 이유로 알맞은 것은?",
     "choices": [
-      "To send a letter.",
-      "To see a doctor.",
       "To buy some bread.",
-      "To borrow books."
+      "To see a doctor.",
+      "To send a letter.",
+      "To borrow some books."
     ],
-    "answer": 2,
-    "explanation": "빵집(bakery)에는 빵을 사러 가요.",
+    "answer": 3,
+    "explanation": "도서관(library)에는 책을 빌리러 가요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'tomorrow'의 뜻은?",
+    "question": "'next year'의 뜻은?",
     "choices": [
-      "어제",
-      "오늘",
-      "지난주",
-      "내일"
+      "올해",
+      "다음 달",
+      "내년",
+      "작년"
     ],
-    "answer": 3,
-    "explanation": "tomorrow는 '내일'이에요.",
+    "answer": 2,
+    "explanation": "'next'는 '다음', 'year'는 '해'라서 'next year'는 내년이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'next week'의 뜻은?",
+    "question": "'this afternoon'의 뜻은?",
     "choices": [
-      "다음 주",
-      "지난주",
-      "이번 주",
-      "주말"
-    ],
-    "answer": 0,
-    "explanation": "next week는 '다음 주'예요.",
-    "semester": 1,
-    "unit": "미래 계획"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I'm going to visit my uncle.\"의 뜻은?",
-    "choices": [
-      "나는 삼촌을 방문했어요.",
-      "나는 삼촌을 방문할 거예요.",
-      "나는 삼촌을 좋아해요.",
-      "나는 삼촌과 살아요."
+      "오늘 아침",
+      "오늘 오후",
+      "어제 오후",
+      "내일 오후"
     ],
     "answer": 1,
-    "explanation": "be going to는 앞으로 할 일을 말해요.",
+    "explanation": "'this afternoon'은 오늘 오후예요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: When are you going to visit Jeju? B: In August. B가 제주에 가는 때는?",
+    "choices": [
+      "8월",
+      "4월",
+      "10월",
+      "다음 주"
+    ],
+    "answer": 0,
+    "explanation": "'August'는 8월이에요.",
+    "semester": 1,
+    "unit": "미래 계획"
+  },
+  {
+    "difficulty": 2,
     "type": "ox",
-    "question": "\"I'm going to ~.\"는 앞으로 할 일을 말할 때 쓴다.",
+    "question": "\"I'll be twelve next year.\"는 지금 열두 살이라는 뜻이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "be going to는 '~할 거야'라는 뜻이에요.",
+    "answer": 1,
+    "explanation": "'next year(내년)'에 열두 살이 된다는 말이라 지금은 열한 살이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -5154,32 +5164,32 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I'm going to ___ soccer tomorrow.",
+    "question": "\"Mina will go to the library at 2. She will meet Jun at 4. She will have dinner at 6.\" 미나가 준을 만나는 시각은?",
     "choices": [
-      "played",
-      "playing",
-      "plays",
-      "play"
+      "3시",
+      "4시",
+      "2시",
+      "6시"
     ],
-    "answer": 3,
-    "explanation": "going to 뒤에는 동사의 원래 모양을 써요.",
+    "answer": 1,
+    "explanation": "'She will meet Jun at 4.'라고 했어요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"What are you going to do tomorrow?\"에 알맞은 대답은?",
+    "question": "Look at those dark clouds! 빈칸에 알맞은 말은? It's going to ___.",
     "choices": [
-      "I'm going to go camping.",
-      "I went camping.",
-      "I like camping.",
-      "Yes, I am."
+      "rain",
+      "be sunny",
+      "be clear",
+      "be dry"
     ],
     "answer": 0,
-    "explanation": "앞으로 할 일을 물었으니 I'm going to로 답해요.",
+    "explanation": "먹구름(dark clouds)을 보니 곧 비가 올 거라고 말하는 게 알맞아요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -5200,34 +5210,36 @@
   },
   {
     "difficulty": 2,
-    "type": "ox",
-    "question": "\"I'm going to watched a movie.\"는 바른 문장이다.",
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? A: ___ are you going to leave? B: At 3 o'clock.",
     "choices": [
-      "O",
-      "X"
+      "Who",
+      "Where",
+      "When",
+      "What"
     ],
-    "answer": 1,
-    "explanation": "going to 뒤에는 watch처럼 원래 모양을 써요.",
+    "answer": 2,
+    "explanation": "B가 '3시에'라고 때를 말했으니 When으로 물어요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "앞으로의 계획을 말하는 문장은?",
+    "question": "A: Who are you going to meet tomorrow? B: ___",
     "choices": [
-      "I learned Taekwondo.",
-      "I like Taekwondo.",
-      "I'm going to learn Taekwondo.",
-      "I learn Taekwondo every day."
+      "Yes, I am. I'm going.",
+      "I'm going to meet my cousin.",
+      "I'm going to go to the park.",
+      "At 2 o'clock tomorrow."
     ],
-    "answer": 2,
-    "explanation": "I'm going to가 앞으로 할 일을 말해요.",
+    "answer": 1,
+    "explanation": "Who는 '누구'를 묻는 말이라 만날 사람을 말해야 해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Next Saturday, I'm going to go to the beach. I'm going to swim.\" 다음 주 토요일에 할 일은?",
     "choices": [
@@ -5242,7 +5254,7 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? A: ___ are you going to do this summer? B: I'm going to visit my grandparents.",
     "choices": [
@@ -5257,37 +5269,37 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: Are you going to go to the library tomorrow? B: ___ I'm going to go to the museum.",
+    "question": "A: Are you going to go to the library tomorrow? B: Yes, I am. I'm going to return my books. B가 도서관에서 할 일은?",
     "choices": [
-      "Yes, I am.",
-      "No, I'm not.",
-      "Yes, I did.",
-      "No, I didn't."
-    ],
-    "answer": 1,
-    "explanation": "박물관에 간다고 했으니 도서관에는 안 가요. No, I'm not이 알맞아요.",
-    "semester": 1,
-    "unit": "미래 계획"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "내일 할 일을 바르게 말한 문장은?",
-    "choices": [
-      "I'm going to played tennis.",
-      "I going to play tennis.",
-      "I'm going to play tennis.",
-      "I'm go to play tennis."
+      "책 쓰기",
+      "공부하기",
+      "책 반납하기",
+      "책 사기"
     ],
     "answer": 2,
-    "explanation": "내일 일은 I'm going to 뒤에 원래 모양 play를 써요.",
+    "explanation": "'return my books'는 빌린 책을 돌려준다(반납한다)는 뜻이에요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "낱말을 바르게 늘어놓은 문장은? (going / we / to / are / swim)",
+    "choices": [
+      "We are to going swim.",
+      "We are going to swim.",
+      "Are we going swim to.",
+      "We going are to swim."
+    ],
+    "answer": 1,
+    "explanation": "'We are going to + 할 일' 차례로 써요.",
+    "semester": 1,
+    "unit": "미래 계획"
+  },
+  {
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"We are going to have a party at Mina's house on Friday.\" 파티를 하는 곳은?",
     "choices": [
@@ -5302,60 +5314,60 @@
     "unit": "미래 계획"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'stomachache'의 뜻은?",
+    "question": "Leo didn't wear a coat on a very cold day. 그 뒤 Leo에게 생길 수 있는 일로 가장 알맞은 것은?",
     "choices": [
-      "배탈, 복통",
-      "두통",
-      "치통",
-      "콧물"
+      "He has a toothache.",
+      "He hurt his leg.",
+      "He cut his finger.",
+      "He has a cold."
     ],
-    "answer": 0,
-    "explanation": "stomach는 배, ache는 아픔이에요.",
+    "answer": 3,
+    "explanation": "추운 날 외투를 입지 않으면 감기에 걸리기 쉬워요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'toothache'의 뜻은?",
+    "question": "Grandpa worked in the garden all day. Now he has a ___.",
     "choices": [
-      "두통",
-      "치통",
-      "복통",
-      "기침"
-    ],
-    "answer": 1,
-    "explanation": "tooth는 이, ache는 아픔이에요.",
-    "semester": 1,
-    "unit": "증상과 조언"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I have a fever.\"의 뜻은?",
-    "choices": [
-      "나는 기침이 나요.",
-      "나는 목이 아파요.",
-      "나는 열이 나요.",
-      "나는 배가 아파요."
+      "runny nose",
+      "sore throat",
+      "backache",
+      "toothache"
     ],
     "answer": 2,
-    "explanation": "fever는 열이에요.",
+    "explanation": "하루 종일 정원 일을 하면 허리(등)가 아프기 쉬워요. backache는 허리(등)가 아픈 거예요.",
+    "semester": 1,
+    "unit": "증상과 조언"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "엄마: \"Your head is very hot. You have a ___.\"",
+    "choices": [
+      "runny nose",
+      "fever",
+      "toothache",
+      "stomachache"
+    ],
+    "answer": 1,
+    "explanation": "머리가 뜨거우면 열(fever)이 나는 거예요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'headache'는 머리가 아픈 것이다.",
+    "question": "\"I hurt my leg.\"는 다리가 아프기만 할 뿐 다친 것은 아니라는 뜻이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "head는 머리, ache는 아픔이에요.",
+    "answer": 1,
+    "explanation": "'hurt my leg'는 다리를 다쳤다는 뜻이에요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -5377,15 +5389,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: I have a cold. B: ___ 조언으로 알맞은 것은?",
+    "question": "A: I have a fever and a headache. B: You should see a doctor. A의 대답으로 알맞은 것은?",
     "choices": [
-      "Wear a warm jacket.",
-      "Eat a lot of ice cream.",
-      "Swim in the cold sea.",
-      "Go to bed very late."
+      "Me too. I have a cold.",
+      "Yes, I do. Thanks.",
+      "Okay, I will. Thanks.",
+      "You're welcome. Bye."
     ],
-    "answer": 0,
-    "explanation": "감기에 걸리면 따뜻하게 입어야 해요.",
+    "answer": 2,
+    "explanation": "조언을 들었으니 그렇게 하겠다고 고마움을 전하는 말이 알맞아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -5407,73 +5419,73 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"You shouldn't play computer games too much.\"의 뜻은?",
+    "question": "\"You shouldn't run in the hallway.\"와 뜻이 가장 비슷한 말은?",
     "choices": [
-      "너는 컴퓨터 게임을 더 해야 해.",
-      "너는 컴퓨터 게임을 잘해.",
-      "너는 컴퓨터 게임을 너무 많이 하면 안 돼.",
-      "너는 컴퓨터 게임을 좋아해."
+      "Don't run in the hallway.",
+      "Run in the hallway.",
+      "You should run in the hallway.",
+      "Let's run in the hallway."
     ],
-    "answer": 2,
-    "explanation": "shouldn't는 '~하면 안 된다'는 뜻이에요.",
+    "answer": 0,
+    "explanation": "'You shouldn't ~'와 'Don't ~'는 둘 다 '~하지 마라, ~하지 않는 게 좋다'는 뜻이에요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "ox",
-    "question": "\"I have a toothache.\"라고 말한 친구에게 \"You should see a dentist.\"라고 조언하는 것은 알맞다.",
+    "question": "\"I hurt my arm.\"이라고 말한 친구에게 \"You should play baseball.\"이라고 조언하는 것은 알맞다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "이가 아프면 치과(dentist)에 가야 해요.",
+    "answer": 1,
+    "explanation": "팔을 다쳤으면 야구를 하지 말고 쉬어야 해요.",
+    "semester": 1,
+    "unit": "증상과 조언"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "\"My ears hurt.\"에서 아픈 곳은?",
+    "choices": [
+      "코",
+      "입",
+      "귀",
+      "눈"
+    ],
+    "answer": 2,
+    "explanation": "ear는 귀예요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"I have a sore throat.\"에서 아픈 곳은?",
+    "question": "A: What's wrong? B: I hurt my back. A: ___",
     "choices": [
-      "배",
-      "이",
-      "다리",
-      "목"
-    ],
-    "answer": 3,
-    "explanation": "sore throat는 목이 아픈 거예요.",
-    "semester": 1,
-    "unit": "증상과 조언"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A: What's wrong? B: I have a headache. A: ___",
-    "choices": [
-      "You should take some medicine.",
-      "You should brush your teeth.",
-      "You should eat more candy.",
-      "You should watch TV all night."
-    ],
-    "answer": 0,
-    "explanation": "머리가 아플 때는 약을 먹으라고 조언해요.",
-    "semester": 1,
-    "unit": "증상과 조언"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "상태와 조언(~하세요)이 바르게 짝지어진 것은?",
-    "choices": [
-      "hungry - Don't eat.",
-      "tired - Go to bed early.",
-      "fever - Play outside.",
-      "toothache - Eat candy."
+      "You should go dancing.",
+      "You should lie down and rest.",
+      "You should carry heavy boxes.",
+      "You should play soccer."
     ],
     "answer": 1,
-    "explanation": "피곤하면 일찍 자야 해요.",
+    "explanation": "등(허리)을 다쳤으면 누워서 쉬는 게 좋아요.",
+    "semester": 1,
+    "unit": "증상과 조언"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "상태와 조언이 바르게 짝지어진 것은?",
+    "choices": [
+      "a runny nose – Use a tissue.",
+      "a fever – Run outside.",
+      "a toothache – Eat candy.",
+      "a cough – Drink cold soda."
+    ],
+    "answer": 0,
+    "explanation": "콧물이 나면 휴지를 쓰는 게 알맞아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -5493,16 +5505,16 @@
     "unit": "증상과 조언"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "A: You look tired. What's wrong? B: I ___ my leg. 다리를 다쳤다는 뜻이 되게 빈칸에 알맞은 말은?",
+    "question": "A: You look sick. What's wrong? B: I ___ my leg. 다리를 다쳤다는 뜻이 되게 빈칸에 알맞은 말은?",
     "choices": [
-      "have",
       "eat",
       "see",
-      "hurt"
+      "hurt",
+      "have"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "hurt my leg는 다리를 다쳤다는 뜻이에요.",
     "semester": 1,
     "unit": "증상과 조언"
@@ -5525,146 +5537,146 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'cook'의 뜻은?",
+    "question": "'actor'의 뜻은?",
     "choices": [
-      "의사",
-      "요리사",
-      "경찰관",
-      "가수"
+      "배우",
+      "가수",
+      "작가",
+      "화가"
     ],
-    "answer": 1,
-    "explanation": "cook은 요리사예요.",
+    "answer": 0,
+    "explanation": "'actor'는 연기하는 배우예요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'farmer'의 뜻은?",
+    "question": "'musician'의 뜻은?",
     "choices": [
-      "조종사",
       "화가",
-      "농부",
-      "과학자"
+      "과학자",
+      "요리사",
+      "음악가"
     ],
-    "answer": 2,
-    "explanation": "farmer는 농사를 짓는 농부예요.",
+    "answer": 3,
+    "explanation": "'music(음악)'을 하는 사람이 'musician', 음악가예요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'firefighter'의 뜻은?",
+    "question": "'tour guide'의 뜻은?",
     "choices": [
       "경찰관",
-      "요리사",
-      "선생님",
-      "소방관"
-    ],
-    "answer": 3,
-    "explanation": "firefighter는 불을 끄는 소방관이에요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"What do you want to be?\"의 뜻은?",
-    "choices": [
-      "너는 무엇이 되고 싶니?",
-      "너는 무엇을 갖고 싶니?",
-      "너는 무엇을 먹고 싶니?",
-      "너는 어디에 가고 싶니?"
-    ],
-    "answer": 0,
-    "explanation": "want to be는 '~이 되고 싶다'는 뜻이에요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'vet'은 동물을 치료하는 수의사이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "vet은 아픈 동물을 돌보는 수의사예요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "꿈을 묻는 말에 알맞은 대답은?",
-    "choices": [
-      "I want to eat pizza.",
-      "I want to be a singer.",
-      "I'm a student.",
-      "I like music."
-    ],
-    "answer": 1,
-    "explanation": "되고 싶은 것을 물었으니 I want to be로 답해요.",
-    "semester": 1,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? He wants to be ___ artist.",
-    "choices": [
-      "a",
-      "the",
-      "an",
-      "two"
+      "가게 주인",
+      "여행 안내원",
+      "버스 운전사"
     ],
     "answer": 2,
-    "explanation": "artist는 a로 시작해서 an을 써요.",
+    "explanation": "'tour guide'는 여행하는 사람들을 안내하는 사람이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "\"I like to cook. I want to be a ___.\" 빈칸에 알맞은 말은?",
+    "question": "\"What do you want to be when you grow up?\"에서 'when you grow up'의 뜻은?",
     "choices": [
-      "pilot",
-      "police officer",
-      "farmer",
-      "chef"
+      "내일 아침에",
+      "네가 자라면",
+      "네가 어렸을 때",
+      "지금 바로"
     ],
-    "answer": 3,
-    "explanation": "요리를 좋아하면 요리사(chef)가 어울려요.",
+    "answer": 1,
+    "explanation": "'grow up'은 '자라다, 어른이 되다'라는 뜻이라 'when you grow up'은 '네가 자라면'이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "ox",
-    "question": "\"I want to be a pilot.\"은 '나는 조종사가 되고 싶어.'라는 뜻이다.",
+    "question": "'chef'는 비행기를 조종하는 사람이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "pilot은 조종사예요.",
+    "answer": 1,
+    "explanation": "'chef'는 요리사예요. 비행기를 조종하는 사람은 'pilot'이에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"I want to help sick people.\" 어울리는 꿈은?",
+    "question": "A: ___ B: Because I like to help sick people.",
     "choices": [
-      "doctor",
-      "singer",
-      "soccer player",
-      "writer"
+      "What do you want?",
+      "Where do you work?",
+      "What is your name?",
+      "Why a nurse?"
     ],
-    "answer": 0,
-    "explanation": "아픈 사람을 돕는 사람은 의사예요.",
+    "answer": 3,
+    "explanation": "B가 Because로 까닭을 말했으니 Why로 물은 거예요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "\"He likes to take pictures. He wants to be a ___.\" 빈칸에 알맞은 말은?",
+    "choices": [
+      "chef",
+      "farmer",
+      "photographer",
+      "pilot"
+    ],
+    "answer": 2,
+    "explanation": "사진 찍기를 좋아하면 사진작가(photographer)가 어울려요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빈칸에 알맞은 말은? My dream ___ to help sick animals.",
+    "choices": [
+      "are",
+      "am",
+      "is",
+      "be"
+    ],
+    "answer": 2,
+    "explanation": "'My dream(나의 꿈)'은 하나이니 is를 써서 'My dream is to ~.'라고 해요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "\"I want to be a singer.\"는 가수를 좋아한다는 뜻이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "'want to be'는 '~이 되고 싶다'는 뜻이라 가수가 되고 싶다는 말이에요.",
+    "semester": 1,
+    "unit": "장래 희망"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "\"I'm good at hitting and catching balls.\" 어울리는 꿈은?",
+    "choices": [
+      "singer",
+      "writer",
+      "nurse",
+      "baseball player"
+    ],
+    "answer": 3,
+    "explanation": "공을 치고 잡는 것을 잘하면 야구 선수가 어울려요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -5684,22 +5696,22 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"I like to draw pictures.\"라고 말한 친구에게 어울리는 꿈은?",
+    "question": "\"I like plants. I want to grow vegetables.\" 어울리는 꿈은?",
     "choices": [
+      "firefighter",
+      "farmer",
       "pilot",
-      "dentist",
-      "painter",
-      "firefighter"
+      "dentist"
     ],
-    "answer": 2,
-    "explanation": "그림 그리기를 좋아하면 화가(painter)가 어울려요.",
+    "answer": 1,
+    "explanation": "채소를 기르는 사람은 농부(farmer)예요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "꿈과 좋아하는 일이 어울리지 않는 것은?",
     "choices": [
@@ -5714,22 +5726,22 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? My sister wants to ___ a teacher.",
+    "question": "A: What does Tom want to be? B: He wants to be a firefighter. 대화로 알 수 있는 것은?",
     "choices": [
-      "be",
-      "is",
-      "being",
-      "are"
+      "Tom은 지금 소방관이다.",
+      "Tom의 아빠는 소방관이다.",
+      "Tom은 불을 좋아한다.",
+      "Tom의 장래 희망은 소방관이다."
     ],
-    "answer": 0,
-    "explanation": "want to 뒤에는 be를 써요.",
+    "answer": 3,
+    "explanation": "'wants to be'는 '~이 되고 싶다'라는 뜻이라 지금 소방관이라는 말이 아니에요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
     "question": "\"Minho likes soccer. He wants to be a soccer player.\" 민호의 꿈은?",
     "choices": [
@@ -5744,153 +5756,155 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Let's play soccer.\"의 뜻은?",
+    "question": "A: Let's make a card for Mom. B: ___ I have colored pencils.",
     "choices": [
-      "축구했어.",
-      "축구 좋아해.",
-      "축구하자.",
-      "축구할 수 없어."
-    ],
-    "answer": 2,
-    "explanation": "Let's는 '~하자'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "제안하는 말에 찬성하는 대답은?",
-    "choices": [
-      "No, thanks.",
-      "Sorry, I can't.",
-      "I'm busy.",
-      "Sounds good."
-    ],
-    "answer": 3,
-    "explanation": "Sounds good은 '좋아'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Sorry, I can't.\"의 뜻은?",
-    "choices": [
-      "미안하지만 할 수 없어.",
-      "고마워.",
-      "좋은 생각이야.",
-      "천만에."
-    ],
-    "answer": 0,
-    "explanation": "제안을 거절할 때 쓰는 말이에요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "\"Why don't we go to the park?\"는 공원에 가자고 제안하는 말이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "Why don't we ~?는 '~하는 게 어때?'라는 제안이에요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Let's go swimming.\"에 알맞은 대답은?",
-    "choices": [
-      "I'm twelve.",
-      "Okay. Let's go.",
-      "It's on Monday.",
-      "I have a fever."
+      "You're welcome.",
+      "Great idea!",
+      "Maybe next time.",
+      "It's my card."
     ],
     "answer": 1,
-    "explanation": "제안에 찬성하는 대답이에요.",
+    "explanation": "색연필이 있다고 했으니 카드를 만들자는 제안에 찬성하는 말이 알맞아요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? ___ go to the movies together.",
+    "question": "빈칸에 알맞은 말은? A: Let's go hiking tomorrow. B: I'd love to, but ___",
     "choices": [
-      "Let",
-      "Lets",
-      "Let's",
-      "Let us to"
-    ],
-    "answer": 2,
-    "explanation": "'~하자'는 Let's를 써요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Let's play badminton after school. B: Sorry, I can't. ___",
-    "choices": [
-      "Sounds great.",
-      "I like badminton.",
-      "Me, too.",
-      "I have to go to the dentist."
-    ],
-    "answer": 3,
-    "explanation": "못 하는 이유를 말해야 해요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"How about eating pizza?\"의 뜻은?",
-    "choices": [
-      "피자 먹는 게 어때?",
-      "피자를 먹었니?",
-      "피자는 얼마니?",
-      "피자를 좋아하니?"
+      "I have to visit my grandma.",
+      "I'm free all day tomorrow.",
+      "I really love hiking, too.",
+      "let's go there together."
     ],
     "answer": 0,
-    "explanation": "How about ~?은 '~은 어때?'라는 제안이에요.",
+    "explanation": "'I'd love to, but' 뒤에는 갈 수 없는 사정이 와요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구에게 놀자고 제안하기 전에 그 친구의 시간을 묻는 말로 알맞은 것은?",
+    "choices": [
+      "Did you like Saturday?",
+      "What day was it yesterday?",
+      "Where were you on Saturday?",
+      "Are you free this Saturday?"
+    ],
+    "answer": 3,
+    "explanation": "'Are you free ~?'는 그때 시간이 있는지 묻는 말이에요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
     "difficulty": 2,
     "type": "ox",
-    "question": "\"Let's play baseball.\"에 \"Yes, I did.\"라고 답하는 것이 알맞다.",
+    "question": "\"Why not?\"은 제안에 대답할 때 '왜 안 돼?'라며 거절하는 말이다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 1,
-    "explanation": "제안에는 Sounds good이나 Sorry, I can't로 답해요.",
+    "explanation": "제안에 'Why not?'이라고 하면 '좋아, 그러자.'라는 뜻으로 받아들이는 말이에요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "다음 중 함께 하자고 제안하는 말이 아닌 것은?",
+    "question": "A: Let's meet at the park. B: The park is too far. How about the library? A: Okay. 두 사람이 만날 곳은?",
     "choices": [
-      "Let's play tennis.",
-      "I played tennis yesterday.",
-      "How about playing tennis?",
-      "Why don't we play tennis?"
+      "B의 집",
+      "도서관",
+      "공원",
+      "학교"
     ],
     "answer": 1,
-    "explanation": "I played tennis yesterday는 지난 일을 말하는 문장이에요.",
+    "explanation": "공원이 멀다며 도서관을 제안했고 A가 'Okay.'라고 했어요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구가 달리기를 마치고 몹시 지쳐 보여요. 알맞은 제안은?",
+    "choices": [
+      "Let's take a rest.",
+      "Let's run again.",
+      "Let's play tag now.",
+      "Let's go jogging."
+    ],
+    "answer": 0,
+    "explanation": "지친 친구에게는 쉬자고 하는 말이 알맞아요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Let's play badminton after school. B: Sorry, I have to go to the dentist. A: ___",
+    "choices": [
+      "Great! See you after school.",
+      "Me too. I love badminton.",
+      "Yes, you are right.",
+      "That's okay. Maybe next time."
+    ],
+    "answer": 3,
+    "explanation": "친구가 거절했으니 다음에 하자고 답하는 말이 자연스러워요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: How about going to the museum? B: ___ I went there last week.",
+    "choices": [
+      "I love the museum, too.",
+      "Okay. See you there.",
+      "How about another place?",
+      "Sounds great. Let's go."
+    ],
+    "answer": 2,
+    "explanation": "지난주에 가 봤다고 했으니 다른 곳을 제안하는 말이 알맞아요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Let's eat out tonight. B: Sounds good. ___",
+    "choices": [
+      "I'm sorry to hear that.",
+      "What do you want to eat?",
+      "I ate out yesterday.",
+      "No, I don't want to."
+    ],
+    "answer": 1,
+    "explanation": "제안에 찬성한 뒤 무엇을 먹고 싶은지 묻는 말이 이어져요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: Shall we take a picture here? B: ___ The view is great.",
+    "choices": [
+      "Sure!",
+      "No, I didn't.",
+      "I'm sorry.",
+      "It's my camera."
+    ],
+    "answer": 0,
+    "explanation": "경치가 좋다고 했으니 사진을 찍자는 제안을 받아들이는 말이 알맞아요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 2,
     "type": "choice4",
     "question": "A: It's hot today. ___ B: Good idea!",
     "choices": [
@@ -5920,17 +5934,17 @@
     "unit": "제안하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? How about ___ a bike?",
+    "question": "A: What shall we do this afternoon? B: ___",
     "choices": [
-      "riding",
-      "ride",
-      "rode",
-      "to riding"
+      "Yes, we shall.",
+      "Let's go to the park.",
+      "I went to the park.",
+      "It's in the afternoon."
     ],
-    "answer": 0,
-    "explanation": "How about 뒤에는 riding처럼 -ing를 붙여요.",
+    "answer": 1,
+    "explanation": "무엇을 할지 물었으니 할 일을 제안하는 말로 답해요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -5952,45 +5966,45 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "\"Let's go to the beach.\"에 거절하는 대답으로 알맞은 것은?",
+    "question": "Jina: \"Let's go to the beach on Saturday.\" Tom: \"I'd love to, but I'm busy.\" Ben: \"Sounds fun!\" 바닷가에 갈 사람은?",
     "choices": [
-      "Sure. I love the beach.",
-      "Okay. Let's go.",
-      "Sorry, I can't. I have a cold.",
-      "Great! See you there."
+      "Jina and Tom",
+      "Tom and Ben",
+      "Jina, Tom, and Ben",
+      "Jina and Ben"
     ],
-    "answer": 2,
-    "explanation": "Sorry, I can't만 거절이에요.",
+    "answer": 3,
+    "explanation": "Jina가 제안했고 Ben은 찬성했어요. Tom은 바빠서 거절했어요.",
     "semester": 2,
     "unit": "제안하기"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'yesterday'의 뜻은?",
+    "question": "'the day before yesterday'의 뜻은?",
     "choices": [
+      "어제",
       "내일",
-      "오늘",
-      "다음 주",
-      "어제"
+      "그저께",
+      "모레"
     ],
-    "answer": 3,
-    "explanation": "yesterday는 '어제'예요.",
+    "answer": 2,
+    "explanation": "'yesterday(어제)'의 전날(before)이라 그저께예요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'played'는 어떤 낱말을 지난 일로 말할 때 쓰는 꼴일까요?",
+    "question": "'stayed'는 어떤 낱말을 지난 일로 말할 때 쓰는 꼴일까요?",
     "choices": [
-      "play",
-      "plan",
-      "plate",
-      "place"
+      "step",
+      "stay",
+      "stand",
+      "start"
     ],
-    "answer": 0,
-    "explanation": "play에 ed를 붙여 played가 돼요.",
+    "answer": 1,
+    "explanation": "stay(머무르다)에 ed를 붙여 stayed가 돼요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -6026,14 +6040,16 @@
   },
   {
     "difficulty": 1,
-    "type": "ox",
-    "question": "'last night'는 '어젯밤'이라는 뜻이다.",
+    "type": "choice4",
+    "question": "'last month'의 뜻은?",
     "choices": [
-      "O",
-      "X"
+      "이번 달",
+      "지난주",
+      "지난달",
+      "다음 달"
     ],
-    "answer": 0,
-    "explanation": "last night는 어젯밤이에요.",
+    "answer": 2,
+    "explanation": "'last'는 '지난', 'month'는 '달'이라 지난달이에요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -6068,17 +6084,17 @@
     "unit": "과거 경험"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "'buy(사다)'를 지난 일로 말할 때 쓰는 꼴은?",
+    "question": "'lose(잃어버리다)'를 지난 일로 말할 때 쓰는 꼴은?",
     "choices": [
-      "buyed",
-      "bought",
-      "boughted",
-      "buys"
+      "loses",
+      "losted",
+      "losed",
+      "lost"
     ],
-    "answer": 1,
-    "explanation": "buy는 bought로 바뀌어요.",
+    "answer": 3,
+    "explanation": "lose는 지난 일을 말할 때 lost로 바뀌어요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -6098,35 +6114,35 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: How was the movie? B: ___",
+    "question": "A: How was the movie? B: It was boring. ___",
     "choices": [
-      "I'm going to see it.",
-      "At 5 o'clock.",
-      "It was great.",
-      "With my friend."
+      "It was really exciting.",
+      "I slept in the theater.",
+      "I want to see it again.",
+      "I laughed all the time."
     ],
-    "answer": 2,
-    "explanation": "어땠는지 물었으니 It was great가 알맞아요.",
+    "answer": 1,
+    "explanation": "영화가 지루했다(boring)고 했으니 극장에서 잠이 들었다는 말이 어울려요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Last weekend, I went to the farm. I picked apples.\" 지난 주말에 한 일은?",
+    "question": "\"Last weekend, I went to the farm. First, I picked apples. Then I fed the cows. Finally, I had lunch.\" 사과를 딴 다음에 한 일은?",
     "choices": [
-      "공원에서 자전거 타기",
-      "바닷가에서 수영하기",
-      "집에서 케이크 만들기",
-      "농장에서 사과 따기"
+      "소에게 먹이 주기",
+      "점심 먹기",
+      "농장에 가기",
+      "집에 오기"
     ],
-    "answer": 3,
-    "explanation": "farm은 농장, picked apples는 사과를 땄다는 뜻이에요.",
+    "answer": 0,
+    "explanation": "First 사과 따기, Then 소에게 먹이 주기(fed the cows), Finally 점심 먹기 차례예요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? A: What ___ you do last Saturday? B: I played soccer.",
     "choices": [
@@ -6171,17 +6187,17 @@
     "unit": "과거 경험"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "지난 일을 말하는 문장으로 바른 것은?",
     "choices": [
-      "She clean it last night.",
-      "She cleans it last night.",
-      "She cleaning it last night.",
-      "She cleaned it last night."
+      "She jumped rope last night.",
+      "She jump rope last night.",
+      "She jumps rope last night.",
+      "She jumping rope last night."
     ],
-    "answer": 3,
-    "explanation": "last night는 지난 일이라 cleaned를 써요.",
+    "answer": 0,
+    "explanation": "last night는 지난 일이라 jumped를 써요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -6259,7 +6275,7 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
     "question": "'second'의 뜻은?",
     "choices": [
@@ -6289,17 +6305,17 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: When is your birthday? B: It's ___ April 3rd.",
+    "question": "빈칸에 알맞은 말은? A: ___ is your birthday? B: It's on April 3rd.",
     "choices": [
-      "in",
-      "at",
-      "on",
-      "to"
+      "When",
+      "What",
+      "Where",
+      "Who"
     ],
-    "answer": 2,
-    "explanation": "날짜 앞에는 on을 써요.",
+    "answer": 0,
+    "explanation": "날짜로 답했으니 언제인지 묻는 When이 알맞아요.",
     "semester": 1,
     "unit": "월·날짜"
   },
@@ -6317,22 +6333,22 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "'22nd'를 바르게 읽은 것은?",
+    "question": "'열한 번째'를 영어로 바르게 쓴 것은?",
     "choices": [
-      "twenty-two",
-      "twentieth",
-      "twenty-twoth",
-      "twenty-second"
+      "oneth",
+      "eleven",
+      "eleventh",
+      "elevenst"
     ],
-    "answer": 3,
-    "explanation": "22nd는 twenty-second라고 읽어요.",
+    "answer": 2,
+    "explanation": "열한 번째는 eleven에 th를 붙여 eleventh라고 써요.",
     "semester": 1,
     "unit": "월·날짜"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"My birthday is August 10th. My brother's birthday is three days before.\" 남자 형제(brother)의 생일은?",
     "choices": [
@@ -6347,22 +6363,22 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "\"Today is May 31st. Tomorrow is ___.\" 빈칸에 알맞은 것은?",
+    "question": "빈칸에 알맞은 말은? The month after October is ___.",
     "choices": [
-      "May 32nd",
-      "June 1st",
-      "June 31st",
-      "April 30th"
+      "November",
+      "September",
+      "December",
+      "August"
     ],
-    "answer": 1,
-    "explanation": "5월은 31일까지라 다음 날은 6월 1일이에요.",
+    "answer": 0,
+    "explanation": "October(10월) 다음 달은 November(11월)예요.",
     "semester": 1,
     "unit": "월·날짜"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "짝이 바르지 않은 것은?",
     "choices": [
@@ -6377,7 +6393,7 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
     "question": "A: When is Hangeul Day? B: It's on ___. (10월 9일)",
     "choices": [
@@ -6392,7 +6408,7 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"I have a soccer game on June 15th. Today is June 12th.\" 경기까지 며칠 남았나요?",
     "choices": [
@@ -6409,73 +6425,73 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'smaller'의 뜻은?",
+    "question": "'darker'의 뜻은?",
     "choices": [
-      "가장 작은",
-      "더 작은",
-      "더 큰",
-      "작은"
-    ],
-    "answer": 1,
-    "explanation": "small이 smaller가 되면 '더 작은'이에요.",
-    "semester": 2,
-    "unit": "비교하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'shorter'의 뜻은?",
-    "choices": [
-      "가장 짧은",
-      "더 긴",
-      "더 짧은",
-      "짧은"
-    ],
-    "answer": 2,
-    "explanation": "short가 shorter가 되면 '더 짧은'이에요.",
-    "semester": 2,
-    "unit": "비교하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'heavier'의 뜻은?",
-    "choices": [
-      "가장 무거운",
-      "더 가벼운",
-      "무거운",
-      "더 무거운"
-    ],
-    "answer": 3,
-    "explanation": "heavy가 heavier가 되면 '더 무거운'이에요.",
-    "semester": 2,
-    "unit": "비교하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'long(긴)'을 '더 긴'으로 바꾼 말은?",
-    "choices": [
-      "longer",
-      "longest",
-      "more long",
-      "longger"
+      "더 어두운",
+      "가장 어두운",
+      "더 밝은",
+      "어두운"
     ],
     "answer": 0,
-    "explanation": "long 뒤에 er을 붙여요.",
+    "explanation": "dark(어두운)에 er을 붙이면 '더 어두운'이에요.",
+    "semester": 2,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'higher'의 뜻은?",
+    "choices": [
+      "가장 높은",
+      "더 낮은",
+      "높은",
+      "더 높은"
+    ],
+    "answer": 3,
+    "explanation": "high(높은)에 er을 붙이면 '더 높은'이에요.",
+    "semester": 2,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'cooler'의 뜻은?",
+    "choices": [
+      "더 따뜻한",
+      "시원한",
+      "더 시원한",
+      "가장 시원한"
+    ],
+    "answer": 2,
+    "explanation": "cool(시원한)에 er을 붙이면 '더 시원한'이에요.",
+    "semester": 2,
+    "unit": "비교하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'large(큰)'를 '더 큰'으로 바꾼 말은?",
+    "choices": [
+      "largest",
+      "larger",
+      "largeer",
+      "more large"
+    ],
+    "answer": 1,
+    "explanation": "e로 끝나는 large는 r만 붙여 larger가 돼요.",
     "semester": 2,
     "unit": "비교하기"
   },
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'old(나이 든)'를 '더 나이 든'으로 바꾸면 'older'이다.",
+    "question": "'clean(깨끗한)'을 '더 깨끗한'으로 바꾸면 'cleaner'이다.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 0,
-    "explanation": "old에 er을 붙여 older가 돼요.",
+    "explanation": "clean 뒤에 er을 붙여 cleaner라고 해요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -6497,30 +6513,30 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "'hot(더운)'을 '~보다 더 더운'으로 쓸 때 알맞은 말은?",
+    "question": "'sad(슬픈)'를 '더 슬픈'으로 바꾼 말은?",
     "choices": [
-      "hoter",
-      "more hot",
-      "hotter",
-      "hottest"
+      "sader",
+      "sadest",
+      "sadder",
+      "saddest"
     ],
     "answer": 2,
-    "explanation": "hot은 t를 한 번 더 쓰고 er을 붙여요.",
+    "explanation": "sad는 d를 한 번 더 쓰고 er을 붙여 sadder가 돼요.",
     "semester": 2,
     "unit": "비교하기"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "\"My bag is heavier than your bag.\"의 뜻은?",
+    "question": "\"Mt. Halla is higher than Mt. Namsan.\"의 뜻은?",
     "choices": [
-      "네 가방이 내 가방보다 더 무거워.",
-      "내 가방이 네 가방보다 더 가벼워.",
-      "두 가방은 무게가 같아.",
-      "내 가방이 네 가방보다 더 무거워."
+      "한라산이 남산보다 더 낮아요.",
+      "한라산이 남산보다 더 높아요.",
+      "남산이 한라산보다 더 높아요.",
+      "한라산과 남산은 높이가 같아요."
     ],
-    "answer": 3,
-    "explanation": "heavier than은 '~보다 더 무거운'이에요.",
+    "answer": 1,
+    "explanation": "'A is higher than B.'는 A가 B보다 더 높다는 뜻이에요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -6553,32 +6569,32 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "\"Tom is 150 cm. Mina is 145 cm.\" 알맞은 문장은?",
+    "question": "\"Tom is 150 cm. Mina is 5 cm shorter than Tom.\" Mina의 키는?",
     "choices": [
-      "Mina is taller than Tom.",
-      "Tom is taller than Mina.",
-      "Tom is shorter than Mina.",
-      "Mina is bigger than Tom."
+      "150 cm",
+      "140 cm",
+      "145 cm",
+      "155 cm"
     ],
-    "answer": 1,
-    "explanation": "150cm인 Tom이 145cm인 Mina보다 커요.",
+    "answer": 2,
+    "explanation": "Mina는 Tom보다 5 cm 더 작으니 150 − 5 = 145 cm예요.",
     "semester": 2,
     "unit": "비교하기"
   },
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "\"The red pencil is longer than the blue pencil. The blue pencil is longer than the green pencil.\" 가장 짧은 연필은?",
+    "question": "\"Box A is heavier than Box B. Box C is heavier than Box A.\" 무거운 것부터 차례로 쓴 것은?",
     "choices": [
-      "red pencil",
-      "blue pencil",
-      "green pencil",
-      "알 수 없다."
+      "B, A, C",
+      "C, A, B",
+      "A, B, C",
+      "C, B, A"
     ],
-    "answer": 2,
-    "explanation": "빨강 > 파랑 > 초록 순으로 길어서 초록이 가장 짧아요.",
+    "answer": 1,
+    "explanation": "A가 B보다 무겁고, C가 A보다 무거우니 C > A > B예요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -6598,7 +6614,7 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Jun is 12 years old. His sister is 9 years old.\" 알맞은 문장은?",
     "choices": [
@@ -6613,7 +6629,7 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"The sun is ___ than the moon.\" 사실에 맞게 빈칸에 들어갈 말은?",
     "choices": [
@@ -6628,15 +6644,17 @@
     "unit": "비교하기"
   },
   {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'Tom is taller than Ben.'은 Ben이 Tom보다 더 크다는 뜻이다.",
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Ann은 더 가벼운 가방을 사고 싶어요. 가방 A는 2 kg, 가방 B는 1 kg이에요. Ann이 고를 가방과 그 까닭은?",
     "choices": [
-      "O",
-      "X"
+      "A – A is heavier than B.",
+      "B – B is lighter than A.",
+      "A – A is lighter than B.",
+      "B – B is heavier than A."
     ],
     "answer": 1,
-    "explanation": "'taller than'은 '~보다 더 큰'이라는 뜻이라 Tom이 더 커요.",
+    "explanation": "1 kg인 B가 2 kg인 A보다 가벼워요(lighter).",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -6658,15 +6676,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "'good(좋은)'을 '더 좋은'으로 바꾼 말은?",
+    "question": "'early(이른)'를 '더 이른'으로 바꾼 말은?",
     "choices": [
-      "better",
-      "gooder",
-      "more good",
-      "weller"
+      "earlyer",
+      "more early",
+      "earliest",
+      "earlier"
     ],
-    "answer": 0,
-    "explanation": "'good'은 모양이 달라져서 'better'가 돼요.",
+    "answer": 3,
+    "explanation": "early는 y를 i로 바꾸고 er을 붙여 earlier가 돼요.",
     "semester": 2,
     "unit": "비교하기"
   },
@@ -6703,28 +6721,28 @@
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'Go straight.'는 '뒤로 돌아가세요.'라는 뜻이다.",
+    "question": "길을 건너라고 안내할 때 \"Cross the street at the traffic light.\"처럼 신호등에서 건너라고 말하는 것이 안전하다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 1,
-    "explanation": "'Go straight.'는 '곧장 가세요.'라는 뜻이에요.",
+    "answer": 0,
+    "explanation": "길은 신호등이 있는 곳에서 건너는 것이 안전해요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'next to'와 뜻이 비슷한 말은?",
+    "question": "\"Go straight two blocks.\"에서 'block'의 뜻으로 알맞은 것은?",
     "choices": [
-      "behind",
-      "beside",
-      "between",
-      "above"
+      "길의 모퉁이",
+      "길을 건너는 곳",
+      "버스를 타는 곳",
+      "길 사이 한 구역"
     ],
-    "answer": 1,
-    "explanation": "'next to'와 'beside'는 둘 다 '~의 옆에'라는 뜻이에요.",
+    "answer": 3,
+    "explanation": "block은 길과 길 사이에 있는 한 구역이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -6744,32 +6762,32 @@
     "unit": "길 안내"
   },
   {
-    "difficulty": 2,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "\"I want to see a doctor.\" 어디로 가야 할까요?",
+    "question": "모르는 사람에게 길을 물을 때 가장 먼저 하는 말로 알맞은 것은?",
     "choices": [
-      "hospital",
-      "library",
-      "bakery",
-      "post office"
+      "Goodbye.",
+      "Excuse me.",
+      "Thank you.",
+      "You're welcome."
     ],
-    "answer": 0,
-    "explanation": "의사를 만나려면 'hospital(병원)'에 가요.",
+    "answer": 1,
+    "explanation": "모르는 사람에게 말을 걸 때는 'Excuse me.'로 시작해요.",
     "semester": 1,
     "unit": "길 안내"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "'The library is near the school.'에서 library는 school에서 어떤 거리에 있을까요?",
+    "question": "\"It's five minutes on foot.\"의 뜻은?",
     "choices": [
-      "가까운 곳",
-      "아주 먼 곳",
-      "학교 건물 안",
-      "바다 건너"
+      "걸어서 5분 걸려요.",
+      "차로 5분 걸려요.",
+      "5층에 있어요.",
+      "5번 버스를 타요."
     ],
     "answer": 0,
-    "explanation": "'near'는 '가까운'이라는 뜻이에요.",
+    "explanation": "'on foot'은 '걸어서'라는 뜻이에요.",
     "semester": 1,
     "unit": "길 안내"
   },
@@ -6834,15 +6852,15 @@
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "Eric swims twice a week. Dan swims once a week. 4주 동안 Eric은 Dan보다 몇 번 더 수영할까요?",
+    "question": "Eric swims three times a week. Dan swims once a week. 4주 동안 Eric은 Dan보다 몇 번 더 수영할까요?",
     "choices": [
       "4번",
-      "2번",
-      "8번",
-      "12번"
+      "12번",
+      "16번",
+      "8번"
     ],
-    "answer": 0,
-    "explanation": "Eric은 4주에 8번, Dan은 4번 수영하므로 4번 더 해요.",
+    "answer": 3,
+    "explanation": "4주 동안 Eric은 3 × 4 = 12번, Dan은 1 × 4 = 4번 수영하므로 12 − 4 = 8번 더 해요.",
     "semester": 1,
     "unit": "빈도 말하기"
   },
@@ -6860,17 +6878,17 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "이유를 묻는 질문은?",
+    "question": "Mina: I'm happy because I got a new bike. Jun: I'm sad because I lost my cap. 기쁜 사람과 그 이유로 알맞은 것은?",
     "choices": [
-      "Why are you sad?",
-      "Where is the bank?",
-      "When is your party?",
-      "How old are you?"
+      "Jun – 새 자전거를 받아서",
+      "Mina – 새 자전거를 받아서",
+      "Jun – 모자를 잃어버려서",
+      "Mina – 모자를 잃어버려서"
     ],
-    "answer": 0,
-    "explanation": "'Why'는 이유를 물을 때 써요.",
+    "answer": 1,
+    "explanation": "'happy(기쁜)'라고 말한 사람은 Mina이고, 'because' 뒤에 새 자전거를 받았다는 이유가 있어요.",
     "semester": 1,
     "unit": "이유 말하기"
   },
@@ -6920,15 +6938,17 @@
     "unit": "이유 말하기"
   },
   {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'I'm going to eat lunch.'는 어제 한 일을 말하는 문장이다.",
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Jisu said, \"I'm going to go to bed early tonight. I have a test tomorrow.\" 지수가 일찍 자려는 까닭은?",
     "choices": [
-      "O",
-      "X"
+      "오늘 시험을 봐서",
+      "내일 시험이 있어서",
+      "오늘 많이 피곤해서",
+      "내일 소풍을 가서"
     ],
     "answer": 1,
-    "explanation": "'be going to'는 앞으로 할 일을 말할 때 써요.",
+    "explanation": "'I have a test tomorrow.'라고 했으니 내일 시험이 있어서예요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -6965,22 +6985,22 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "\"Are you going to visit Busan?\"에 가지 않을 거라고 답하는 말은?",
+    "question": "빈칸에 알맞은 말은? A: Will you go fishing with me tomorrow? B: ___ I have to study.",
     "choices": [
-      "No, I don't.",
-      "No, I didn't.",
-      "No, I wasn't.",
-      "No, I'm not."
+      "No, I'm not.",
+      "Yes, I do.",
+      "No, I won't.",
+      "Yes, I will."
     ],
-    "answer": 3,
-    "explanation": "'be going to' 질문에는 'am/is/are'로 답해요.",
+    "answer": 2,
+    "explanation": "공부해야 한다고 했으니 가지 않겠다는 'No, I won't.'가 알맞아요. 'Will you ~?'에는 will로 답해요.",
     "semester": 1,
     "unit": "미래 계획"
   },
   {
     "difficulty": 3,
     "type": "choice4",
-    "question": "Today is Monday. Anna is going to leave for Busan in two days and stay there for one day. 언제 집에 돌아올까요?",
+    "question": "Today is Monday. Anna is going to leave for Busan in two days and come back the next day. 돌아오는 요일은?",
     "choices": [
       "Tuesday",
       "Thursday",
@@ -6988,7 +7008,7 @@
       "Friday"
     ],
     "answer": 1,
-    "explanation": "월요일의 이틀 뒤인 수요일에 떠나 하루 머무르니 목요일에 와요.",
+    "explanation": "월요일의 이틀 뒤인 수요일에 떠나고, 그다음 날인 목요일(Thursday)에 돌아와요.",
     "semester": 1,
     "unit": "미래 계획"
   },
@@ -7023,15 +7043,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "A: I have a fever. B: ___",
+    "question": "A: I feel very hot. I was in the sun too long. B: ___",
     "choices": [
-      "Run in the park.",
-      "Eat a lot of ice cream.",
-      "Swim in the cold river.",
-      "Stay in bed and rest."
+      "Wear a thick coat.",
+      "Play outside more.",
+      "Rest in the shade.",
+      "Run in the sun."
     ],
-    "answer": 3,
-    "explanation": "열이 날 때는 침대에서 쉬는 것이 좋아요.",
+    "answer": 2,
+    "explanation": "햇볕을 오래 쬐어 더우면 그늘에서 쉬는 게 좋아요.",
     "semester": 1,
     "unit": "증상과 조언"
   },
@@ -7068,28 +7088,28 @@
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'I want to be a nurse.'는 간호사가 되고 싶다는 뜻이다.",
+    "question": "\"She wants to be a nurse.\"에서 She를 I로 바꾸면 \"I wants to be a nurse.\"이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "'nurse'는 아픈 사람을 돌보는 '간호사'예요.",
+    "answer": 1,
+    "explanation": "I 뒤에는 want를 써서 \"I want to be a nurse.\"라고 해요.",
     "semester": 1,
     "unit": "장래 희망"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "\"She teaches students at school.\" 이 사람의 직업은 무엇일까요?",
+    "question": "\"She helps people find books at the library.\" 이 사람의 직업은?",
     "choices": [
-      "scientist",
-      "astronaut",
-      "painter",
-      "teacher"
+      "pilot",
+      "chef",
+      "librarian",
+      "baker"
     ],
-    "answer": 3,
-    "explanation": "학교에서 학생을 가르치는 사람은 'teacher'예요.",
+    "answer": 2,
+    "explanation": "도서관(library)에서 책 찾는 일을 돕는 사람은 사서(librarian)예요.",
     "semester": 1,
     "unit": "장래 희망"
   },
@@ -7139,45 +7159,47 @@
     "unit": "장래 희망"
   },
   {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'How about going hiking?'은 하이킹을 가자고 제안하는 말이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "'How about ~ing?'는 '~하는 게 어때?'라고 제안할 때 써요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "다음 중 상대에게 제안하는 말이 아닌 것은?",
-    "choices": [
-      "What time is it?",
-      "Let's play chess.",
-      "Why don't we dance?",
-      "How about going swimming?"
-    ],
-    "answer": 0,
-    "explanation": "'What time is it?'은 시각을 묻는 말이에요.",
-    "semester": 2,
-    "unit": "제안하기"
-  },
-  {
     "difficulty": 2,
     "type": "choice4",
-    "question": "It's cold outside. 알맞은 제안은?",
+    "question": "A: ___ B: Let's meet at 5 at the bus stop.",
     "choices": [
-      "Let's swim in the river.",
-      "Let's wear shorts outside.",
-      "Let's play games at home.",
-      "Let's sit on the cold ground."
+      "Where did you go last week?",
+      "What time did you get up?",
+      "When and where shall we meet?",
+      "Why are you late again today?"
     ],
     "answer": 2,
-    "explanation": "추운 날에는 집에서 게임을 하자는 제안이 알맞아요.",
+    "explanation": "B가 만날 시각과 곳을 말했으니 언제, 어디서 만날지 물은 거예요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구가 \"I'm thirsty.\"라고 했어요. 알맞은 제안은?",
+    "choices": [
+      "Let's go to bed.",
+      "Let's drink some water.",
+      "Let's eat salty chips.",
+      "Let's run around more."
+    ],
+    "answer": 1,
+    "explanation": "목이 마른(thirsty) 친구에게는 물을 마시자고 해요.",
+    "semester": 2,
+    "unit": "제안하기"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "교실이 지저분해요. 친구에게 할 제안으로 알맞은 것은?",
+    "choices": [
+      "Let's clean it together.",
+      "Let's play in the mess.",
+      "Let's throw paper around.",
+      "Let's eat on the floor."
+    ],
+    "answer": 0,
+    "explanation": "지저분한 교실은 함께 청소하자고 제안해요.",
     "semester": 2,
     "unit": "제안하기"
   },
@@ -7214,28 +7236,28 @@
   {
     "difficulty": 1,
     "type": "ox",
-    "question": "'yesterday'는 지난 일을 말할 때 자주 쓰는 말이다.",
+    "question": "'two weeks ago'는 '2주 뒤'라는 뜻이다.",
     "choices": [
       "O",
       "X"
     ],
-    "answer": 0,
-    "explanation": "'yesterday(어제)'는 이미 지난 때를 나타내요.",
+    "answer": 1,
+    "explanation": "'ago'는 '~ 전에'라는 뜻이라 'two weeks ago'는 2주 전이에요.",
     "semester": 1,
     "unit": "과거 경험"
   },
   {
-    "difficulty": 1,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'eat(먹다)'를 지난 일로 말할 때 쓰는 꼴은?",
+    "question": "'fly(날다)'를 지난 일로 말할 때 쓰는 꼴은?",
     "choices": [
-      "eated",
-      "eats",
-      "ate",
-      "eating"
+      "flew",
+      "flys",
+      "flying",
+      "flied"
     ],
-    "answer": 2,
-    "explanation": "'eat'는 지난 일을 말할 때 'ate'로 바뀌어요.",
+    "answer": 0,
+    "explanation": "fly는 지난 일을 말할 때 flew로 바뀌어요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -7272,15 +7294,15 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "Anna는 월요일에 영화를 봤고, 화요일에 책을 읽었고, 수요일에 테니스를 쳤어요. 오늘이 수요일일 때 이틀 전에 한 일은?",
+    "question": "Anna는 월요일에 영화를 봤고, 화요일에 책을 읽었고, 수요일에 테니스를 쳤어요. Anna가 테니스를 치기 바로 전날 한 일은?",
     "choices": [
-      "She read a book at home.",
+      "She went swimming.",
+      "She read a book.",
       "She watched a movie.",
-      "She played tennis at school.",
-      "She went swimming at noon."
+      "She played tennis."
     ],
     "answer": 1,
-    "explanation": "수요일의 이틀 전은 월요일이고, 월요일에는 영화를 봤어요.",
+    "explanation": "테니스는 수요일에 쳤고, 그 전날인 화요일에는 책을 읽었어요.",
     "semester": 1,
     "unit": "과거 경험"
   },
@@ -7343,17 +7365,17 @@
     "unit": "월·날짜"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "'the second of the twelfth month'를 날짜로 나타낸 것은?",
+    "question": "A: When is your birthday? B: It's on the second of December. B의 생일은?",
     "choices": [
+      "December 2nd",
       "February 12th",
       "December 12th",
-      "December 2nd",
       "February 2nd"
     ],
-    "answer": 2,
-    "explanation": "열두 번째 달은 12월이고, 2일은 'second'예요.",
+    "answer": 0,
+    "explanation": "'the second of December'는 12월 2일(December 2nd)이에요.",
     "semester": 1,
     "unit": "월·날짜"
   }
