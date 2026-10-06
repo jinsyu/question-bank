@@ -321,7 +321,7 @@
     "answer": 1,
     "explanation": "pencil 뒤에 s를 붙여 pencils가 돼요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -336,7 +336,7 @@
     "answer": 2,
     "explanation": "How many는 개수를 묻는 말이라 숫자로 답해요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -411,7 +411,7 @@
     "answer": 1,
     "explanation": "둘 이상이면 복수형 eggs를 써요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -516,7 +516,7 @@
     "answer": 2,
     "explanation": "개수를 물었으니 숫자로 답해요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -574,7 +574,7 @@
     "answer": 2,
     "explanation": "개수를 답했으니 How many로 물어요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -589,7 +589,7 @@
     "answer": 0,
     "explanation": "셋이니 apples, 주어 I에는 have를 써요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -679,7 +679,7 @@
     "answer": 1,
     "explanation": "How many 뒤에는 복수형 books를 써요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -739,7 +739,7 @@
     "answer": 0,
     "explanation": "How many는 개수를 물을 때 써요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -767,7 +767,7 @@
     "answer": 1,
     "explanation": "개수를 물었으니 숫자로 답해야 해요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -1681,7 +1681,7 @@
     "answer": 1,
     "explanation": "twelve는 12예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -1696,7 +1696,7 @@
     "answer": 2,
     "explanation": "-teen은 10대, -ty는 몇십이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -1711,7 +1711,7 @@
     "answer": 3,
     "explanation": "2+3=5, five예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -1724,7 +1724,7 @@
     "answer": 0,
     "explanation": "eleven은 11이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -1739,7 +1739,7 @@
     "answer": 0,
     "explanation": "There are two cats.는 고양이가 두 마리 있다는 뜻이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -1754,7 +1754,7 @@
     "answer": 1,
     "explanation": "7+8=15, fifteen이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -2290,7 +2290,7 @@
     "answer": 1,
     "explanation": "둘 이상이면 dogs처럼 복수형을 써요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -3290,7 +3290,7 @@
     "answer": 2,
     "explanation": "13과 7을 더하면 20이고, 20은 twenty예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -3305,7 +3305,7 @@
     "answer": 3,
     "explanation": "18, 19 다음은 20이고 영어로 twenty예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -3320,7 +3320,7 @@
     "answer": 0,
     "explanation": "펜 3개와 책 2권을 더하면 모두 5개예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -4977,7 +4977,7 @@
     "answer": 0,
     "explanation": "three는 3이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -4992,7 +4992,7 @@
     "answer": 1,
     "explanation": "5는 five예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -5005,7 +5005,7 @@
     "answer": 0,
     "explanation": "ten은 10이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -5020,7 +5020,7 @@
     "answer": 2,
     "explanation": "seven은 7이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -5035,7 +5035,7 @@
     "answer": 3,
     "explanation": "개수는 How many로 물어요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -5050,7 +5050,7 @@
     "answer": 0,
     "explanation": "box는 es를 붙여 boxes예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -5065,7 +5065,7 @@
     "answer": 1,
     "explanation": "4마리면 Four cats.라고 해요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -5080,7 +5080,7 @@
     "answer": 2,
     "explanation": "two 뒤에는 dogs처럼 s를 붙여요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -5093,7 +5093,7 @@
     "answer": 1,
     "explanation": "child의 여러 명은 children이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -5108,7 +5108,7 @@
     "answer": 3,
     "explanation": "12는 twelve예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -5123,7 +5123,7 @@
     "answer": 0,
     "explanation": "3개에 2개를 더하면 5개, five예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -5138,7 +5138,7 @@
     "answer": 1,
     "explanation": "two 뒤에는 pencils처럼 s를 붙여요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -5153,7 +5153,7 @@
     "answer": 2,
     "explanation": "2씩 커지니까 다음은 7, seven이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -5166,7 +5166,7 @@
     "answer": 1,
     "explanation": "How many는 개수를 물어요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -5181,7 +5181,7 @@
     "answer": 3,
     "explanation": "fish는 여러 마리여도 fish라고 써요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
@@ -9196,7 +9196,7 @@
     "answer": 0,
     "explanation": "'nine'은 9예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -9211,7 +9211,7 @@
     "answer": 1,
     "explanation": "고양이 2마리와 개 1마리이므로 3마리예요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 2,
@@ -9224,7 +9224,7 @@
     "answer": 0,
     "explanation": "twenty는 20, thirty는 30이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -9239,7 +9239,7 @@
     "answer": 2,
     "explanation": "8+5=13이고 13은 thirteen이에요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 3,
@@ -9254,7 +9254,7 @@
     "answer": 3,
     "explanation": "펜이 4자루로 책보다 1개 더 많아요.",
     "semester": 1,
-    "unit": "개수·복수형"
+    "unit": "개수 말하기"
   },
   {
     "difficulty": 1,
