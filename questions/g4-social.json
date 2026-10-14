@@ -2,81 +2,6 @@
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "다음 중 공공기관이 아닌 곳은 어디일까요?",
-    "choices": [
-      "대형 마트",
-      "소방서",
-      "경찰서",
-      "행정복지센터"
-    ],
-    "answer": 0,
-    "explanation": "대형 마트는 개인이나 기업이 이익을 위해 운영해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "산에서 다친 등산객을 구조하려고 주로 출동하는 공공기관은?",
-    "choices": [
-      "경찰서",
-      "소방서",
-      "교육청",
-      "우체국"
-    ],
-    "answer": 1,
-    "explanation": "소방서는 화재 진압뿐 아니라 구조와 구급도 맡아요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "주민의 안전을 지키고 범죄를 예방하는 공공기관은?",
-    "choices": [
-      "소방서",
-      "보건소",
-      "경찰서",
-      "교육청"
-    ],
-    "answer": 2,
-    "explanation": "경찰서는 주민의 안전을 지켜요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "주민 등록 같은 주민 생활 업무를 돕는 공공기관은?",
-    "choices": [
-      "소방서",
-      "보건소",
-      "경찰서",
-      "행정복지센터"
-    ],
-    "answer": 3,
-    "explanation": "행정복지센터는 주민 생활에 필요한 일을 도와요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "예방 접종 등으로 주민의 건강을 돌보는 공공기관은?",
-    "choices": [
-      "보건소",
-      "소방서",
-      "경찰서",
-      "교육청"
-    ],
-    "answer": 0,
-    "explanation": "보건소는 주민의 건강을 돌봐요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
     "question": "농촌, 어촌, 산지촌처럼 자연환경을 이용해 생활하는 곳은?",
     "choices": [
       "도시",
@@ -87,7 +12,8 @@
     "answer": 1,
     "explanation": "자연을 이용해 생활하는 곳을 촌락이라 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -102,7 +28,8 @@
     "answer": 2,
     "explanation": "어촌 사람들은 바다에서 일을 많이 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -117,7 +44,8 @@
     "answer": 3,
     "explanation": "산지촌은 산을 이용해 생활해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -130,7 +58,8 @@
     "answer": 0,
     "explanation": "농촌 사람들은 주로 농사를 지어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -145,7 +74,8 @@
     "answer": 0,
     "explanation": "도시에는 사람과 건물이 많아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 1,
@@ -160,7 +90,8 @@
     "answer": 1,
     "explanation": "물건이나 서비스를 만드는 것이 생산이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -175,7 +106,8 @@
     "answer": 2,
     "explanation": "물건을 사서 쓰는 것이 소비예요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -190,7 +122,8 @@
     "answer": 3,
     "explanation": "모두 사고파는 사람이 만나는 시장이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -203,7 +136,8 @@
     "answer": 0,
     "explanation": "의견을 내는 것도 소중한 주민 참여예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 1,
@@ -218,7 +152,8 @@
     "answer": 0,
     "explanation": "다수결은 많은 사람의 의견을 따르는 방법이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
@@ -231,7 +166,8 @@
     "answer": 1,
     "explanation": "학교 자치에서는 학생들도 학급 규칙을 정할 때 의견을 내고 함께 정해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -246,7 +182,8 @@
     "answer": 1,
     "explanation": "등고선으로 땅의 높낮이를 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -261,7 +198,8 @@
     "answer": 2,
     "explanation": "자원이 부족한 것을 희소성이라고 해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -276,7 +214,8 @@
     "answer": 3,
     "explanation": "대화하고 타협하는 것이 민주적인 방법이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
@@ -289,7 +228,8 @@
     "answer": 1,
     "explanation": "도시에는 촌락보다 사람이 많이 살아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -304,7 +244,8 @@
     "answer": 0,
     "explanation": "지방 의회는 지역에 필요한 조례를 만들어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -319,7 +260,8 @@
     "answer": 1,
     "explanation": "지방 자치는 주민이 지역 일을 스스로 해결하는 거예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 1,
@@ -334,7 +276,8 @@
     "answer": 2,
     "explanation": "도시는 사람과 차가 많아 교통이 혼잡해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 1,
@@ -349,7 +292,8 @@
     "answer": 3,
     "explanation": "촌락은 젊은 사람이 줄어 일손이 부족해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -363,8 +307,9 @@
     ],
     "answer": 0,
     "explanation": "농촌 체험은 촌락과 도시가 교류하는 모습이에요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -379,7 +324,8 @@
     "answer": 1,
     "explanation": "가격과 품질을 따져야 현명하게 고를 수 있어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -394,35 +340,24 @@
     "answer": 2,
     "explanation": "자원이 한정되어 있어 선택이 필요해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지역끼리 물자와 기술을 주고받는 까닭은?",
     "choices": [
-      "모든 지역이 똑같아서",
-      "교통이 없어서",
-      "물건이 필요 없어서",
+      "모든 지역이 같은 물건을 만들어서",
+      "교통이 없어서 오갈 수 없어서",
+      "물건이 하나도 필요 없어서",
       "지역마다 자원과 기술이 달라서"
     ],
     "answer": 3,
     "explanation": "지역마다 가진 것이 달라 서로 교류해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "공공기관은 개인의 이익을 얻으려고 세운 곳이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "공공기관은 주민 모두의 이익을 위해 세웠어요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -435,7 +370,8 @@
     "answer": 0,
     "explanation": "시장은 사고파는 사람이 만나는 곳이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -450,7 +386,8 @@
     "answer": 3,
     "explanation": "등고선 간격이 좁으면 경사가 급해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -465,7 +402,8 @@
     "answer": 0,
     "explanation": "바다는 파란색으로 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -480,7 +418,8 @@
     "answer": 1,
     "explanation": "낙서는 공공시설을 망가뜨리는 행동이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -495,7 +434,8 @@
     "answer": 2,
     "explanation": "먼저 어떤 문제가 있는지 확인해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -510,7 +450,8 @@
     "answer": 3,
     "explanation": "어촌에서는 바다에서 양식을 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -525,7 +466,8 @@
     "answer": 0,
     "explanation": "서비스는 사람을 돕거나 편리하게 해 주는 활동이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -538,22 +480,8 @@
     "answer": 1,
     "explanation": "지역마다 자원이 달라 서로 교류해야 해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "공공기관을 운영하는 데 드는 돈은 주로 무엇으로 마련할까요?",
-    "choices": [
-      "이자",
-      "세금",
-      "용돈",
-      "기부금"
-    ],
-    "answer": 1,
-    "explanation": "공공기관은 주로 세금으로 운영돼요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -568,7 +496,8 @@
     "answer": 2,
     "explanation": "재판은 법원이 하는 일이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -583,7 +512,8 @@
     "answer": 2,
     "explanation": "1 cm가 500 m이니 2 cm는 500 m의 2배인 1000 m, 곧 1 km예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -598,7 +528,8 @@
     "answer": 0,
     "explanation": "촌락에 빈집이 늘어날 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -613,7 +544,8 @@
     "answer": 2,
     "explanation": "학교 자치는 학생들이 학교생활의 문제를 스스로 의논해 해결하는 거예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -628,7 +560,8 @@
     "answer": 1,
     "explanation": "세 가지를 모두 사려면 12000원이 필요한데 예산은 10000원뿐이라 골라야 해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -643,7 +576,8 @@
     "answer": 3,
     "explanation": "공청회에서 여러 사람의 의견을 들어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -658,7 +592,8 @@
     "answer": 0,
     "explanation": "주민 투표로 주민이 직접 결정해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 1,
@@ -673,7 +608,8 @@
     "answer": 1,
     "explanation": "도시에는 은행 같은 서비스 업종이 많아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -688,22 +624,8 @@
     "answer": 2,
     "explanation": "자매결연을 맺고 서로 교류해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "교육청에서 하는 일로 알맞은 것은?",
-    "choices": [
-      "불 끄기",
-      "범죄 수사하기",
-      "학교 교육 지원하기",
-      "날씨 예보하기"
-    ],
-    "answer": 2,
-    "explanation": "교육청은 지역의 학교 교육을 도와요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -716,7 +638,8 @@
     "answer": 0,
     "explanation": "시장, 군수, 도지사 등은 주민이 직접 뽑아요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -729,7 +652,8 @@
     "answer": 1,
     "explanation": "조례는 그 지역에만 적용되는 규칙이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -742,7 +666,8 @@
     "answer": 1,
     "explanation": "등고선이 촘촘한 것은 경사가 급하다는 뜻이고, 땅의 높이는 등고선에 적힌 숫자로 알아요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -757,7 +682,8 @@
     "answer": 3,
     "explanation": "공영 주차장을 늘리면 주차난이 줄어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -772,22 +698,24 @@
     "answer": 0,
     "explanation": "농기계를 쓰면 적은 사람으로도 일할 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지역 간 경제 교류로 얻을 수 있는 좋은 점은?",
     "choices": [
-      "물건 종류가 줄어든다",
+      "물건 종류가 점점 줄어든다",
       "다양한 물건을 얻을 수 있다",
-      "물건값이 모두 오른다",
-      "교통이 불편해진다"
+      "물건값이 모두 크게 오른다",
+      "교통이 더 불편해진다"
     ],
     "answer": 1,
     "explanation": "교류로 필요한 물건을 다양하게 얻어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -802,7 +730,8 @@
     "answer": 0,
     "explanation": "방위표가 없으면 위쪽이 북쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -817,7 +746,8 @@
     "answer": 1,
     "explanation": "기준이 바뀌면 방향이 반대가 돼요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -832,7 +762,8 @@
     "answer": 2,
     "explanation": "기호로 학교, 병원 등을 간단히 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -847,7 +778,8 @@
     "answer": 3,
     "explanation": "범례를 보면 기호의 뜻을 알 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -862,7 +794,8 @@
     "answer": 0,
     "explanation": "1 cm가 100 m이니 3 cm는 100 m의 3배인 300 m예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -877,7 +810,8 @@
     "answer": 0,
     "explanation": "1 cm가 나타내는 실제 거리가 짧을수록 덜 줄인 지도라서 더 자세해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -892,7 +826,8 @@
     "answer": 2,
     "explanation": "낮은 곳은 초록색, 높은 곳은 갈색으로 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -907,7 +842,8 @@
     "answer": 3,
     "explanation": "필요한 만큼 확대하고 장소를 찾을 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -920,7 +856,8 @@
     "answer": 0,
     "explanation": "250 m의 6배는 1500 m, 곧 1 km 500 m예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -935,7 +872,8 @@
     "answer": 0,
     "explanation": "조사는 사실을 확인할 수 있는 방법으로 해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 2,
@@ -944,13 +882,14 @@
     "choices": [
       "논밭이 넓게 펼쳐져 있어요",
       "사람이 많이 모이고 교통이 편리해요",
-      "산으로 둘러싸여 조용해요",
-      "집이 띄엄띄엄 있어요"
+      "산으로 둘러싸여 조용하고 한적해요",
+      "집이 띄엄띄엄 떨어져 있어요"
     ],
     "answer": 1,
     "explanation": "중심지에는 여러 시설이 모이고 교통이 편리해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 1,
@@ -965,7 +904,8 @@
     "answer": 2,
     "explanation": "조상이 남긴 소중한 것을 문화유산이라 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -980,7 +920,8 @@
     "answer": 3,
     "explanation": "판소리처럼 소리나 기술로 전해지는 것은 형태가 없어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -995,7 +936,8 @@
     "answer": 0,
     "explanation": "지명에는 옛날 지역의 특징이 담겨 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -1010,22 +952,24 @@
     "answer": 1,
     "explanation": "그 지역에 많던 식물에서 이름이 왔어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "'역촌'처럼 '역'이 들어간 옛 지명은 무엇과 관련 있을 가능성이 클까요?",
     "choices": [
-      "옛날 학교",
-      "큰 시장",
+      "옛날에 공부하던 학교",
+      "옛날에 물건 팔던 큰 시장",
       "옛날 말을 갈아타던 교통 시설",
-      "절"
+      "옛날에 불공드리던 절"
     ],
     "answer": 2,
     "explanation": "옛날 '역'은 말을 갈아타고 쉬던 곳이었어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -1040,7 +984,8 @@
     "answer": 3,
     "explanation": "만지거나 훼손하지 않고 소중히 관람해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -1055,7 +1000,8 @@
     "answer": 0,
     "explanation": "믿을 만한 자료로 조사해야 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -1070,7 +1016,8 @@
     "answer": 1,
     "explanation": "공공기관이 펴낸 자료는 믿을 만해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -1085,7 +1032,8 @@
     "answer": 1,
     "explanation": "봉수대는 연기와 불빛으로 소식을 전하던 곳이라 옛날 이 산에서 소식을 전했음을 알 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -1100,7 +1048,8 @@
     "answer": 3,
     "explanation": "미리 계획을 세우고 답사해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -1113,7 +1062,8 @@
     "answer": 0,
     "explanation": "그래서 문화유산을 소중히 지켜야 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -1128,22 +1078,24 @@
     "answer": 0,
     "explanation": "석탑은 눈에 보이는 형태가 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지역 축제를 열어 옛 이야기를 되살리는 까닭으로 알맞은 것은?",
     "choices": [
-      "세금을 없애려고",
+      "세금을 모두 없애려고",
       "지역의 전통을 이어 가려고",
-      "인구를 줄이려고",
-      "공공기관을 없애려고"
+      "마을 사람을 줄이려고",
+      "공공기관을 모두 없애려고"
     ],
     "answer": 1,
     "explanation": "축제로 지역의 역사와 전통을 이어 가요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -1158,82 +1110,24 @@
     "answer": 2,
     "explanation": "안내도에는 문화유산과 관련된 정보를 넣어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "공공기관의 공통점으로 알맞은 것은?",
-    "choices": [
-      "개인의 이익을 위해 일해요",
-      "물건을 팔아 돈을 벌어요",
-      "아무나 운영해요",
-      "주민 모두의 이익을 위해 일해요"
-    ],
-    "answer": 3,
-    "explanation": "공공기관은 주민 전체를 위해 일해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "동네 놀이터 그네가 부서졌을 때 고쳐 달라고 알리기 알맞은 곳은?",
-    "choices": [
-      "시청이나 구청",
-      "경찰서",
-      "교육청",
-      "보건소"
-    ],
-    "answer": 0,
-    "explanation": "공공시설 관리는 시청이나 구청에서 해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "우편물을 배달하는 공공기관은 어디일까요?",
-    "choices": [
-      "보건소",
-      "우체국",
-      "소방서",
-      "교육청"
-    ],
-    "answer": 1,
-    "explanation": "우체국은 우편물과 소포를 전해 줘요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "교통사고로 사람이 다쳤을 때 함께 도움을 주는 공공기관 짝은?",
-    "choices": [
-      "교육청과 도서관",
-      "우체국과 도서관",
-      "경찰서와 소방서",
-      "교육청과 우체국"
-    ],
-    "answer": 2,
-    "explanation": "경찰은 사고 처리, 소방서는 구급을 맡아요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "주민 참여가 필요한 까닭으로 알맞은 것은?",
     "choices": [
-      "공공기관을 없애려고",
-      "세금을 안 내려고",
-      "혼자 결정하려고",
-      "지역 문제를 주민 스스로 해결하려고"
+      "공공기관을 모두 없애려고",
+      "세금을 한 푼도 안 내려고",
+      "한 사람이 마음대로 하려고",
+      "지역 문제를 함께 해결하려고"
     ],
     "answer": 3,
     "explanation": "주민이 함께 참여해야 지역 문제를 잘 풀 수 있어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -1248,7 +1142,8 @@
     "answer": 1,
     "explanation": "문제와 원인을 알고, 여러 방안을 찾아본 뒤 가장 좋은 방안을 정해 실천해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -1263,7 +1158,8 @@
     "answer": 1,
     "explanation": "모두에게 도움이 되는 방안을 골라야 해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -1278,7 +1174,8 @@
     "answer": 2,
     "explanation": "누리집에 의견을 내는 것도 주민 참여예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -1293,7 +1190,8 @@
     "answer": 3,
     "explanation": "신호 시간은 경찰서 같은 관련 기관에 알려 고치도록 건의해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -1308,7 +1206,8 @@
     "answer": 0,
     "explanation": "지역 문제는 여러 주민이 함께 겪는 문제예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -1321,7 +1220,8 @@
     "answer": 0,
     "explanation": "지방 의회 의원은 주민의 대표로 선거로 뽑혀요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -1336,7 +1236,8 @@
     "answer": 1,
     "explanation": "서로 조금씩 양보해 함께 받아들일 방법을 찾았어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -1349,37 +1250,8 @@
     "answer": 1,
     "explanation": "공청회는 여러 주민과 전문가의 의견을 듣는 자리예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "도서관, 공원처럼 모두가 함께 쓰는 시설을 무엇이라 할까요?",
-    "choices": [
-      "개인 시설",
-      "가게",
-      "공공시설",
-      "회사"
-    ],
-    "answer": 2,
-    "explanation": "주민 모두가 이용하는 시설을 공공시설이라 해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "공공시설을 이용하는 태도로 알맞지 않은 것은?",
-    "choices": [
-      "차례 지키기",
-      "조용히 이용하기",
-      "쓰레기 되가져가기",
-      "도서관 책에 밑줄 긋기"
-    ],
-    "answer": 3,
-    "explanation": "여럿이 쓰는 책은 깨끗이 봐야 해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -1394,7 +1266,8 @@
     "answer": 0,
     "explanation": "주민 투표는 직접 정하고, 공청회는 의견을 듣는 자리예요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -1409,22 +1282,24 @@
     "answer": 1,
     "explanation": "벼는 봄에 심고 가을에 거둬요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "산지촌에서 볼 수 있는 모습으로 알맞은 것은?",
     "choices": [
-      "양식장과 항구",
-      "넓은 평야의 논",
+      "바닷가의 양식장과 항구",
+      "넓은 평야의 논과 들",
       "고랭지 밭과 버섯 재배",
-      "높은 빌딩 숲"
+      "높은 빌딩이 모인 도심"
     ],
     "answer": 2,
     "explanation": "산지촌은 서늘한 기후를 이용해 농사를 지어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -1439,7 +1314,8 @@
     "answer": 3,
     "explanation": "고랭지 밭은 높은 산지에서 볼 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -1447,14 +1323,15 @@
     "question": "도시가 발달하기 쉬운 곳의 특징은?",
     "choices": [
       "교통이 편리하고 일자리가 많아요",
-      "산이 높고 숲이 넓어요",
-      "바다와 갯벌이 넓어요",
-      "논밭이 넓게 펼쳐져요"
+      "산이 높고 숲이 넓게 펼쳐져요",
+      "바다와 갯벌이 넓게 펼쳐져요",
+      "논밭이 넓고 조용하게 펼쳐져요"
     ],
     "answer": 0,
     "explanation": "교통이 편리하면 사람과 물자가 모여요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -1468,8 +1345,9 @@
     ],
     "answer": 1,
     "explanation": "촌락에서는 신선한 농수산물을 얻어요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1483,8 +1361,9 @@
     ],
     "answer": 2,
     "explanation": "도시에는 큰 병원이 많아 촌락 사람들이 진료를 받으러 가요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -1496,8 +1375,9 @@
     ],
     "answer": 0,
     "explanation": "서로 필요한 것을 주고받는 교류예요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1512,7 +1392,8 @@
     "answer": 3,
     "explanation": "일할 사람이 늘어 일손 부족이 줄어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -1520,14 +1401,15 @@
     "question": "도시 문제 중 환경 문제에 해당하는 것은?",
     "choices": [
       "매연으로 인한 대기 오염",
-      "일손 부족",
-      "빈집 증가",
-      "학교 문 닫음"
+      "농촌의 일손 부족 문제",
+      "마을의 빈집이 늘어나는 일",
+      "학생 수가 줄어드는 일"
     ],
     "answer": 0,
     "explanation": "자동차와 공장이 많아 공기가 오염돼요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 1,
@@ -1542,22 +1424,24 @@
     "answer": 1,
     "explanation": "대중교통을 이용하면 차량 수가 줄어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "촌락 학교의 학생 수가 줄어드는 까닭은?",
     "choices": [
-      "도시가 멀어서",
-      "학교가 너무 커서",
+      "학교 건물이 너무 커져서",
+      "도시에 사는 사람이 줄어서",
       "젊은 사람들이 도시로 떠나서",
-      "촌락에 사람이 많아서"
+      "촌락에 사는 사람이 늘어서"
     ],
     "answer": 2,
     "explanation": "젊은 층이 떠나 어린이도 줄어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -1572,7 +1456,8 @@
     "answer": 3,
     "explanation": "도시는 촌락이 아니에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -1587,7 +1472,8 @@
     "answer": 0,
     "explanation": "바다와 가까운 어촌의 모습이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -1600,7 +1486,8 @@
     "answer": 0,
     "explanation": "사람이 많이 모인 도시에 시설이 많아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -1615,7 +1502,8 @@
     "answer": 1,
     "explanation": "버스를 없애면 촌락 생활이 더 불편해져요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -1630,7 +1518,8 @@
     "answer": 2,
     "explanation": "논밭과 농기계는 농촌의 모습이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -1645,7 +1534,8 @@
     "answer": 3,
     "explanation": "물건을 사는 것은 소비예요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1660,7 +1550,8 @@
     "answer": 0,
     "explanation": "비용과 만족을 따져 고르는 거예요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 3,
@@ -1675,7 +1566,8 @@
     "answer": 1,
     "explanation": "가진 돈으로 살 수 있으면서 만족이 가장 커요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -1690,7 +1582,8 @@
     "answer": 2,
     "explanation": "광고만 믿지 말고 꼼꼼히 따져요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -1705,7 +1598,8 @@
     "answer": 3,
     "explanation": "언제 어디서나 주문할 수 있어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -1720,22 +1614,24 @@
     "answer": 0,
     "explanation": "따뜻한 기후가 감귤 재배에 알맞아요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "지역 간 경제 교류의 예로 알맞은 것은?",
     "choices": [
-      "내 방 청소하기",
-      "강원도 감자를 서울 시장에서 팔기",
-      "친구와 숙제하기",
-      "집에서 밥 먹기"
+      "내 방을 깨끗이 청소하기",
+      "강원도 감자를 서울에서 팔기",
+      "친구와 함께 숙제하기",
+      "집에서 가족과 밥 먹기"
     ],
     "answer": 1,
     "explanation": "다른 지역과 물건을 주고받는 것이 교류예요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1750,7 +1646,8 @@
     "answer": 2,
     "explanation": "도로가 막히면 물자를 주고받기 어려워요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -1763,7 +1660,8 @@
     "answer": 0,
     "explanation": "먼 지역 물건도 쉽게 사고팔 수 있어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1771,14 +1669,15 @@
     "question": "가뭄으로 강원도의 배추 생산이 크게 줄었어요. 강원도 배추를 사 오던 다른 지역에서 생길 수 있는 일은?",
     "choices": [
       "배추가 너무 많이 남아요",
-      "배추를 구하기 어려워질 수 있어요",
-      "아무 영향이 없어요",
+      "배추를 구하기 어려워져요",
+      "아무 영향도 받지 않아요",
       "배추를 모두 버려야 해요"
     ],
     "answer": 1,
     "explanation": "지역끼리 서로 기대어 살기 때문에 한 지역의 생산이 줄면 그 물건을 받던 지역도 영향을 받아요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1793,7 +1692,8 @@
     "answer": 0,
     "explanation": "어부는 바다에서 물고기를 직접 얻어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1808,22 +1708,24 @@
     "answer": 1,
     "explanation": "둘 다 재료를 가공해 물건을 만드는 생산 활동이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "용돈 기입장을 쓰면 좋은 점은?",
     "choices": [
-      "용돈이 저절로 늘어요",
-      "물건값이 싸져요",
+      "용돈이 저절로 늘어나요",
+      "물건값이 저절로 싸져요",
       "돈을 계획적으로 쓸 수 있어요",
-      "저축을 안 해도 돼요"
+      "저축을 하지 않아도 돼요"
     ],
     "answer": 2,
     "explanation": "쓴 돈을 기록하면 계획을 세우기 쉬워요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -1837,8 +1739,9 @@
     ],
     "answer": 3,
     "explanation": "축제로 특산물을 알리고 판매를 늘려요.",
-    "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "semester": 2,
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -1846,14 +1749,15 @@
     "question": "우리 지역에 쌀은 남고 수산물은 부족할 때 알맞은 해결 방법은?",
     "choices": [
       "수산물이 많은 지역과 교류해요",
-      "쌀을 버려요",
-      "수산물을 먹지 않아요",
-      "쌀 생산을 멈춰요"
+      "남는 쌀을 모두 버려요",
+      "수산물을 먹지 않고 참아요",
+      "쌀 생산을 완전히 멈춰요"
     ],
     "answer": 0,
     "explanation": "남는 것과 부족한 것을 서로 주고받아요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1868,7 +1772,8 @@
     "answer": 1,
     "explanation": "마트는 생산물을 소비자에게 팔아요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -1883,7 +1788,8 @@
     "answer": 1,
     "explanation": "방위표가 없으면 위쪽이 북쪽이라 왼쪽은 서쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -1898,7 +1804,8 @@
     "answer": 3,
     "explanation": "1 cm가 200 m이니 5 cm는 1000 m, 곧 1 km예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -1913,7 +1820,8 @@
     "answer": 2,
     "explanation": "100 m, 200 m, 300 m는 100 m씩 커지므로 등고선 하나마다 100 m씩 달라져요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -1928,7 +1836,8 @@
     "answer": 1,
     "explanation": "나루는 배를 타고 내리는 곳이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -1943,7 +1852,8 @@
     "answer": 1,
     "explanation": "나무는 물에 젖으면 썩거나 상하기 쉬워서 문화유산을 지키려고 조심해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -1958,22 +1868,8 @@
     "answer": 2,
     "explanation": "면담 질문은 알아보려는 주제와 관련 있어야 하고, 개인적인 것을 묻지 않아요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "공공기관이 하는 일을 알아보는 방법으로 알맞지 않은 것은?",
-    "choices": [
-      "기관 누리집 살펴보기",
-      "기관에 직접 견학 가기",
-      "기관 직원과 면담하기",
-      "친구의 짐작만 듣고 쓰기"
-    ],
-    "answer": 3,
-    "explanation": "짐작은 사실과 다를 수 있으니 누리집, 견학, 면담처럼 확인할 수 있는 방법으로 알아봐요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -1988,20 +1884,8 @@
     "answer": 2,
     "explanation": "공청회는 공개 회의에서 의견을 말하고 듣는 방법이에요. 서명 운동은 이름을 받는 것, 주민 투표는 투표로 직접 정하는 것이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "공공기관은 그 지역에 사는 주민만 이용할 수 있어요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "다른 지역에서 온 사람이 다치거나 길을 잃어도 공공기관의 도움을 받을 수 있어요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -2016,7 +1900,8 @@
     "answer": 3,
     "explanation": "방안을 찾은 뒤 가장 좋은 것을 결정해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -2031,7 +1916,8 @@
     "answer": 0,
     "explanation": "도시는 좁은 땅에 건물과 도로가 많이 들어서서 녹지가 부족하기 쉬워요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -2046,22 +1932,24 @@
     "answer": 1,
     "explanation": "촌락은 병원이 적고 멀어서 찾아가는 진료로 의료 시설 부족 문제를 덜어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "산지촌에 휴양림과 캠핑장이 생기면 마을에 생길 수 있는 변화는?",
     "choices": [
-      "바다에서 고기잡이가 늘어요",
-      "찾아오는 사람이 늘고 일자리가 생겨요",
+      "바다에서 고기잡이가 크게 늘어요",
+      "찾는 사람이 늘고 일자리가 생겨요",
       "마을의 논이 크게 넓어져요",
-      "마을을 찾는 사람이 줄어요"
+      "마을을 찾는 사람이 줄어들어요"
     ],
     "answer": 1,
     "explanation": "산의 자연환경을 이용한 시설이 생기면 찾아오는 사람이 늘어 일자리와 소득이 생길 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -2076,7 +1964,8 @@
     "answer": 0,
     "explanation": "지역 사이 교류가 끊기면 다른 지역에서 오던 물건을 구하기 어려워져요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -2091,7 +1980,8 @@
     "answer": 2,
     "explanation": "둘 다 사람을 돕는 서비스를 제공하는 생산 활동이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -2106,7 +1996,8 @@
     "answer": 0,
     "explanation": "방위표는 지도에서 동서남북을 알려 줘요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -2121,7 +2012,8 @@
     "answer": 1,
     "explanation": "축척을 보면 실제 거리를 얼마나 줄였는지 알 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -2134,7 +2026,8 @@
     "answer": 0,
     "explanation": "초록색은 낮은 땅, 갈색으로 갈수록 높은 땅을 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -2149,22 +2042,24 @@
     "answer": 2,
     "explanation": "해는 동쪽에서 떠서 서쪽으로 져요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "우리 지역 중심지에서 볼 수 있는 모습으로 알맞은 것은?",
     "choices": [
-      "넓은 논과 밭만 있어요",
-      "집이 몇 채만 있어요",
-      "길이 모두 끊겨 있어요",
-      "여러 버스가 오가는 터미널이 있어요"
+      "넓은 논과 밭만 펼쳐져 있어요",
+      "집이 몇 채만 띄엄띄엄 있어요",
+      "길이 없어 차가 다닐 수 없어요",
+      "버스가 오가는 터미널이 있어요"
     ],
     "answer": 3,
     "explanation": "중심지는 교통이 편리하고 사람이 많이 모이는 곳이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 2,
@@ -2179,22 +2074,24 @@
     "answer": 0,
     "explanation": "북쪽을 보고 서면 오른쪽이 동쪽, 왼쪽이 서쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지도에 범례가 없으면 어떤 점이 가장 불편할까요?",
     "choices": [
-      "지도의 크기가 커져요",
-      "기호가 무엇을 뜻하는지 알기 어려워요",
-      "바다가 사라져요",
-      "땅의 높이가 바뀌어요"
+      "지도의 크기가 저절로 커져요",
+      "기호의 뜻을 알기 어려워요",
+      "지도에서 바다가 사라져요",
+      "땅의 높이가 실제로 바뀌어요"
     ],
     "answer": 1,
     "explanation": "범례는 기호와 그 뜻을 모아 둔 것이라 없으면 기호를 읽기 어려워요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2209,7 +2106,8 @@
     "answer": 2,
     "explanation": "관광객이 모이는 곳은 관광의 중심지 역할을 해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 2,
@@ -2224,22 +2122,24 @@
     "answer": 3,
     "explanation": "디지털 영상 지도는 보고 찾고 잴 수 있지만 실제 건물을 옮길 수는 없어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "등고선으로 나타낸 산에서 산꼭대기는 어디일까요?",
     "choices": [
-      "가장 안쪽의 작은 고리 모양 선",
-      "가장 바깥쪽의 큰 선",
-      "등고선이 없는 넓은 곳",
-      "파란색으로 칠한 곳"
+      "가장 안쪽에 있는 작은 선",
+      "가장 바깥쪽에 있는 큰 선",
+      "등고선이 하나도 없는 곳",
+      "파란색으로 칠해진 곳"
     ],
     "answer": 0,
     "explanation": "등고선은 안쪽으로 갈수록 높아서 가장 안쪽이 산꼭대기예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2254,22 +2154,24 @@
     "answer": 1,
     "explanation": "낮은 땅은 초록색, 높아질수록 노란색, 갈색으로 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "등고선 옆에 적힌 100, 200, 300 같은 숫자는 무엇을 뜻할까요?",
     "choices": [
-      "도로의 번호",
-      "땅의 넓이",
-      "바닷물 면으로부터의 높이",
-      "사는 사람의 수"
+      "그 땅에 난 도로의 번호",
+      "그 땅의 가로세로 넓이",
+      "바닷물 면에서 잰 높이",
+      "그곳에 사는 사람의 수"
     ],
     "answer": 2,
     "explanation": "등고선의 숫자는 바닷물 면을 기준으로 잰 높이(m)예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2284,7 +2186,8 @@
     "answer": 3,
     "explanation": "1 cm가 나타내는 실제 거리가 길수록 많이 줄여서 넓은 지역을 담을 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -2299,7 +2202,8 @@
     "answer": 0,
     "explanation": "1 km는 500 m가 2번이니 2 cm, 3 km는 2 cm의 3배인 6 cm예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -2314,7 +2218,8 @@
     "answer": 1,
     "explanation": "2 cm가 1 km이니 6 cm는 그 3배인 3 km예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2329,7 +2234,8 @@
     "answer": 2,
     "explanation": "1 cm가 250 m이므로 4 cm는 1000 m, 곧 1 km예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2344,7 +2250,8 @@
     "answer": 3,
     "explanation": "학교→민수네 집→도서관이 모두 동쪽으로 이어져 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2359,7 +2266,8 @@
     "answer": 0,
     "explanation": "시장이 공원의 서쪽이면, 시장에서 본 공원은 반대인 동쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -2374,7 +2282,8 @@
     "answer": 1,
     "explanation": "등고선 간격이 넓을수록 경사가 완만해서 오르기 편해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -2387,7 +2296,8 @@
     "answer": 0,
     "explanation": "축척에 따라 1 cm가 나타내는 실제 거리가 달라요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -2402,7 +2312,8 @@
     "answer": 2,
     "explanation": "교통이 편리해지면 사람과 가게가 모여 중심지가 되기 쉬워요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 2,
@@ -2417,7 +2328,8 @@
     "answer": 1,
     "explanation": "그물과 고깃배는 물고기를 잡을 때 쓰던 물건이라서 옛날 이 지역 사람들이 고기잡이를 하며 살았다고 짐작할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -2430,7 +2342,8 @@
     "answer": 0,
     "explanation": "옛 책과 사진에는 지역의 옛 모습이 담겨 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -2445,7 +2358,8 @@
     "answer": 0,
     "explanation": "박물관에서는 유물을 보며 옛 생활 모습을 알 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -2460,7 +2374,8 @@
     "answer": 1,
     "explanation": "기념관을 찾아가 인물이 한 일을 알아보는 것은 인물을 기리는 활동이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -2475,7 +2390,8 @@
     "answer": 2,
     "explanation": "옛날 인물은 요즘 게임을 알 수 없어요. 한 일과 시대, 지역과의 관계를 조사해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2490,7 +2406,8 @@
     "answer": 3,
     "explanation": "배를 타고 건너던 곳에 다리가 생긴 것은 교통이 달라진 모습이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2498,29 +2415,31 @@
     "question": "'온천동'이라는 지명으로 짐작할 수 있는 옛 모습은?",
     "choices": [
       "따뜻한 물이 솟는 곳이 있었어요",
-      "학교가 많았어요",
-      "큰 시장이 있었어요",
-      "눈이 많이 내렸어요"
+      "학교가 많이 모여 있었어요",
+      "큰 시장이 열리던 곳이었어요",
+      "눈이 많이 내리는 곳이었어요"
     ],
     "answer": 0,
     "explanation": "'온천'이 들어간 지명은 따뜻한 물이 나오는 곳과 관련 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "마을에서 대대로 이어 온 줄다리기 놀이를 지키는 방법으로 알맞은 것은?",
     "choices": [
-      "위험하니 없애요",
+      "위험하니 모두 없애요",
       "배워서 함께 해 보고 알려요",
-      "어른들만 알고 있어요",
-      "잊어버려도 괜찮아요"
+      "어른들만 알고 있도록 해요",
+      "잊어버려도 괜찮다고 해요"
     ],
     "answer": 1,
     "explanation": "직접 배우고 참여해야 형태가 없는 문화유산이 이어져요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -2533,7 +2452,8 @@
     "answer": 1,
     "explanation": "판소리, 탈춤처럼 형태가 없는 것도 문화유산이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -2546,7 +2466,8 @@
     "answer": 1,
     "explanation": "학자, 예술가, 독립운동가 등 지역에 도움을 준 여러 인물이 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2561,7 +2482,8 @@
     "answer": 2,
     "explanation": "1910년은 1975년보다 앞서니 기차역이 먼저 있었어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2576,7 +2498,8 @@
     "answer": 3,
     "explanation": "직접 찾아가 보는 답사로 실제 모습을 확인할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2591,7 +2514,8 @@
     "answer": 0,
     "explanation": "'새터'는 새로 생긴 마을이라는 뜻에서 붙은 이름이 많아요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2606,7 +2530,8 @@
     "answer": 1,
     "explanation": "숯을 만들던 곳이라 '숯골'이라는 이름이 붙었다고 짐작할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 3,
@@ -2621,37 +2546,40 @@
     "answer": 2,
     "explanation": "무엇을 어떻게 조사할지 먼저 정한 뒤 조사하고 정리해 발표해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "두 자료에 적힌 문화유산 건립 연도가 서로 달라요. 가장 알맞은 행동은?",
     "choices": [
       "마음에 드는 쪽을 골라요",
-      "둘 다 버리고 지어내요",
-      "먼저 본 자료만 믿어요",
-      "믿을 만한 자료를 더 찾아 비교해요"
+      "둘 다 버리고 새로 지어내요",
+      "먼저 본 자료만 그대로 믿어요",
+      "믿을 만한 자료를 더 찾아봐요"
     ],
     "answer": 3,
     "explanation": "자료가 다를 때는 믿을 만한 다른 자료와 비교해 확인해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "옛날 기차역 건물이 지금은 지역 역사 전시관으로 쓰이고 있어요. 이것으로 알 수 있는 것은?",
     "choices": [
-      "옛 건물을 지키면서 새롭게 쓰고 있어요",
-      "옛 건물은 모두 허물어야 해요",
-      "전시관에서는 기차표를 팔아요",
-      "지역에 기차가 처음 생겼어요"
+      "옛 건물을 지키며 새롭게 쓰고 있어요",
+      "옛 건물은 모두 허물어 버려야 해요",
+      "전시관에서는 기차표를 팔고 있어요",
+      "지역에 기차가 처음 생기게 되었어요"
     ],
     "answer": 0,
     "explanation": "옛 건물을 허물지 않고 전시관으로 고쳐 쓰면 지역의 역사를 지키면서 새롭게 활용할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -2666,7 +2594,8 @@
     "answer": 1,
     "explanation": "문화유산은 한번 훼손되면 되돌리기 어려워 보존할 방법을 함께 찾아요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 3,
@@ -2681,7 +2610,8 @@
     "answer": 2,
     "explanation": "염전은 바닷물로 소금을 만드는 곳이라 바다와 가까웠음을 알 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2696,80 +2626,8 @@
     "answer": 3,
     "explanation": "옛 이름을 남기면 지역의 역사를 오래 기억할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "책을 빌려주고 공부할 공간을 주는 공공기관은 어디일까요?",
-    "choices": [
-      "공공 도서관",
-      "소방서",
-      "경찰서",
-      "보건소"
-    ],
-    "answer": 0,
-    "explanation": "공공 도서관은 주민 누구나 책을 읽고 빌릴 수 있는 곳이에요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "행정복지센터에서는 불을 끄고 사람을 구조하는 일을 주로 해요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "불을 끄고 구조하는 일은 소방서가 해요. 행정복지센터는 주민 생활 업무를 도와요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "교통 신호를 지키지 않는 차를 단속하는 공공기관은?",
-    "choices": [
-      "교육청",
-      "경찰서",
-      "우체국",
-      "도서관"
-    ],
-    "answer": 1,
-    "explanation": "경찰서는 교통질서를 지키도록 단속하는 일도 해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "공공기관을 견학할 때의 태도로 알맞지 않은 것은?",
-    "choices": [
-      "안내하는 분 말씀 잘 듣기",
-      "조용히 둘러보기",
-      "허락 없이 물건 만지기",
-      "궁금한 점 예의 있게 묻기"
-    ],
-    "answer": 2,
-    "explanation": "견학할 때는 허락 없이 물건을 만지지 않아요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "도의 살림을 맡아 주민을 위한 일을 하는 지방 자치 단체의 기관은?",
-    "choices": [
-      "소방서",
-      "우체국",
-      "초등학교",
-      "도청"
-    ],
-    "answer": 3,
-    "explanation": "도청은 도의 살림을 맡아 도 전체 주민을 위한 일을 처리해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -2784,7 +2642,8 @@
     "answer": 0,
     "explanation": "서명 운동은 여러 사람의 이름을 모아 뜻을 전하는 방법이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 1,
@@ -2799,7 +2658,8 @@
     "answer": 3,
     "explanation": "한 사람이 마음대로 규칙을 정하면 다른 사람의 의견이 존중받지 못해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -2814,7 +2674,8 @@
     "answer": 2,
     "explanation": "쓰레기 문제는 쓰레기를 함부로 버리는 습관 때문에 생기기 쉬워요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -2827,89 +2688,47 @@
     "answer": 1,
     "explanation": "어린이도 의견을 내고 실천하며 지역 문제 해결에 참여할 수 있어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "우리 지역에 소방서가 없다면 생길 수 있는 일은?",
-    "choices": [
-      "편지를 보낼 수 없어요",
-      "책을 빌릴 수 없어요",
-      "예방 접종을 못 해요",
-      "불이 나도 빨리 끄기 어려워요"
-    ],
-    "answer": 3,
-    "explanation": "소방서는 불을 끄고 사람을 구해 주민의 안전을 지켜요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "시청 누리집에 '횡단보도를 만들어 주세요'라는 글이 올라왔어요. 시청이 할 일로 알맞은 것은?",
     "choices": [
-      "현장을 살펴보고 설치를 검토해요",
+      "현장을 보고 설치를 검토해요",
       "글을 지우고 모른 척해요",
       "글쓴이에게 벌금을 물려요",
-      "학교를 옮겨요"
+      "아무도 모르게 학교를 옮겨요"
     ],
     "answer": 0,
     "explanation": "공공기관은 주민 의견을 살펴 필요한 일을 검토하고 처리해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "주민이 낸 세금으로 지역의 일을 실제로 계획하고 처리하는 지방 자치 단체의 기관은?",
-    "choices": [
-      "지방 의회",
-      "시청",
-      "법원",
-      "경찰서"
-    ],
-    "answer": 1,
-    "explanation": "시청 같은 지방 자치 단체가 계획하고 일을 처리해요. 지방 의회는 이를 심의하고 감시해요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "공공기관과 하는 일을 짝지은 것 중 알맞지 않은 것은?",
-    "choices": [
-      "화재 진압-소방서",
-      "예방 접종-보건소",
-      "우편 배달-경찰서",
-      "학교 교육 지원-교육청"
-    ],
-    "answer": 2,
-    "explanation": "우편 배달은 우체국이 하는 일이에요.",
-    "semester": 2,
-    "unit": "민주주의와 자치"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
     "question": "놀이터 소음 때문에 이웃이 불편해해요. 모두를 배려한 해결 방안으로 가장 알맞은 것은?",
     "choices": [
-      "놀이터를 없애요",
-      "이웃이 무조건 참아요",
-      "밤늦게만 놀아요",
-      "놀이터 이용 시간을 함께 정해요"
+      "놀이터를 모두 없애요",
+      "이웃이 무조건 참아야 해요",
+      "밤늦게만 놀게 해요",
+      "이용 시간을 함께 정해요"
     ],
     "answer": 3,
     "explanation": "이용 시간을 정하면 어린이와 이웃 모두의 입장을 배려할 수 있어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "지방 자치 제도의 좋은 점으로 가장 알맞은 것은?",
     "choices": [
-      "지역 사정을 잘 아는 주민이 지역 일을 결정해요",
+      "지역 사정을 아는 주민이 일을 정해요",
       "나라의 모든 일을 한 사람이 정해요",
       "주민은 지역 일에 관심 없어도 돼요",
       "모든 지역이 똑같은 규칙만 따라요"
@@ -2917,7 +2736,8 @@
     "answer": 0,
     "explanation": "지방 자치로 주민이 뽑은 대표와 주민이 지역에 맞게 일을 결정해요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -2932,7 +2752,8 @@
     "answer": 1,
     "explanation": "평가를 하면 부족한 점을 고쳐 더 잘 해결할 수 있어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -2945,7 +2766,8 @@
     "answer": 1,
     "explanation": "조례는 주민이 뽑은 지방 의회에서 의논해 만들어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 1,
@@ -2960,7 +2782,8 @@
     "answer": 2,
     "explanation": "촌락은 논밭, 숲, 바다 같은 자연환경을 이용해 생활해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -2973,7 +2796,8 @@
     "answer": 1,
     "explanation": "도시 사람들은 주로 회사, 가게, 공장 등에서 일해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -2988,7 +2812,8 @@
     "answer": 3,
     "explanation": "주택을 더 지으면 집이 부족한 문제를 줄일 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -3003,22 +2828,24 @@
     "answer": 0,
     "explanation": "분리배출하고 재활용하면 버리는 쓰레기가 줄어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "어촌 사람들이 갯벌 체험 행사를 여는 까닭으로 알맞은 것은?",
     "choices": [
-      "고기잡이를 그만두려고",
+      "고기잡이를 아예 그만두려고",
       "관광객을 모아 소득을 늘리려고",
-      "갯벌을 없애려고",
-      "마을 사람을 줄이려고"
+      "갯벌을 모두 없애 버리려고",
+      "마을에 사는 사람을 줄이려고"
     ],
     "answer": 1,
     "explanation": "체험 행사로 관광객이 오면 마을 소득이 늘어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -3032,23 +2859,25 @@
     ],
     "answer": 2,
     "explanation": "촌락은 농수산물을, 도시는 시설과 물건을 주고받으며 서로 도와요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "농촌과 어촌의 공통점으로 알맞은 것은?",
     "choices": [
-      "모두 바다에서 일해요",
-      "높은 빌딩이 많아요",
-      "지하철이 다녀요",
-      "자연환경을 이용해 생산 활동을 해요"
+      "모든 사람이 바다에서 일해요",
+      "높은 빌딩이 거리에 가득해요",
+      "지하철이 곳곳을 다니고 있어요",
+      "자연을 이용해 생산 활동을 해요"
     ],
     "answer": 3,
     "explanation": "농촌은 땅을, 어촌은 바다를 이용해 생활해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -3063,7 +2892,8 @@
     "answer": 0,
     "explanation": "산지촌에서는 나무를 기르고 베는 임업을 많이 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -3078,7 +2908,8 @@
     "answer": 1,
     "explanation": "높은 곳은 여름에도 서늘해 더위에 약한 배추를 기르기 좋아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 3,
@@ -3091,37 +2922,40 @@
     "answer": 1,
     "explanation": "도시에도 공원과 하천이 있고, 촌락에도 가게와 보건소 등이 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "도시의 한 회사가 농촌 마을과 자매결연을 맺었어요. 농촌이 얻을 수 있는 도움은?",
     "choices": [
-      "지하철역이 새로 생겨요",
+      "지하철역이 새로 생기게 돼요",
       "농산물 팔 곳과 일손을 얻어요",
-      "바다 양식장을 얻어요",
-      "큰 공항이 생겨요"
+      "바다 양식장을 새로 얻게 돼요",
+      "큰 공항이 마을에 생겨요"
     ],
     "answer": 1,
     "explanation": "자매결연으로 회사는 농산물을 사고 일손을 도와 줄 수 있어요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "도시 인구가 계속 늘 때 생기는 문제로 알맞지 않은 것은?",
+    "question": "도시에서 주로 나타나는 문제로 알맞지 않은 것은?",
     "choices": [
-      "교통이 혼잡해져요",
-      "집이 부족해져요",
-      "쓰레기가 늘어나요",
+      "교통이 더 혼잡해져요",
+      "살 집이 부족해져요",
+      "쓰레기가 많이 늘어나요",
       "농사지을 사람이 부족해요"
     ],
     "answer": 3,
     "explanation": "일손 부족은 사람이 줄어드는 촌락에서 주로 나타나는 문제예요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -3136,7 +2970,8 @@
     "answer": 0,
     "explanation": "기계가 일을 도와 일손 부족 문제를 덜 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -3151,7 +2986,8 @@
     "answer": 1,
     "explanation": "사람이 적은 촌락에는 큰 병원 같은 시설이 적어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -3164,7 +3000,8 @@
     "answer": 0,
     "explanation": "돈을 내고 물건을 사서 쓰는 것은 소비예요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -3179,7 +3016,8 @@
     "answer": 2,
     "explanation": "돈을 모아 두는 것을 저축이라고 해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -3194,7 +3032,8 @@
     "answer": 3,
     "explanation": "김은 바다에서 기르는 바닷가 지역 특산물이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -3209,7 +3048,8 @@
     "answer": 0,
     "explanation": "원하는 것에 비해 시간이 부족한 것도 희소성 때문이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -3224,7 +3064,8 @@
     "answer": 1,
     "explanation": "하나를 고르면 다른 하나를 포기해야 해요. 책을 골라 영화를 포기했어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -3239,7 +3080,8 @@
     "answer": 3,
     "explanation": "돈을 내고 수박을 사 먹은 것은 소비 활동이고, 기르고 파는 것은 생산 활동이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -3252,7 +3094,8 @@
     "answer": 1,
     "explanation": "산 뒤에 선택을 평가해 보면 다음에 더 나은 선택을 할 수 있어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -3267,7 +3110,8 @@
     "answer": 3,
     "explanation": "인터넷으로 살 때는 직접 볼 수 없어 설명과 후기를 잘 살펴야 해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -3282,22 +3126,24 @@
     "answer": 0,
     "explanation": "자기가 정한 기준에 맞게 고르는 것이 합리적 선택이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "다음 중 성격이 다른 생산 활동 하나는?",
     "choices": [
-      "버스 운전하기",
+      "버스를 운전하기",
       "과수원에서 사과 기르기",
-      "환자 진료하기",
-      "머리 자르기"
+      "병원에서 환자 진료하기",
+      "미용실에서 머리 자르기"
     ],
     "answer": 1,
     "explanation": "사과 기르기는 자연에서 얻는 생산이고, 나머지는 서비스를 제공하는 생산이에요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -3312,7 +3158,8 @@
     "answer": 3,
     "explanation": "지역마다 잘 만드는 것을 팔고 부족한 것을 사 오며 교류해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -3327,7 +3174,8 @@
     "answer": 3,
     "explanation": "무엇이 필요한지 알고, 정보를 모아 비교해 고른 뒤 평가해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -3342,7 +3190,8 @@
     "answer": 0,
     "explanation": "소비자는 값과 품질을 비교해 고르기 때문에 생산자도 노력해요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -3357,7 +3206,8 @@
     "answer": 1,
     "explanation": "N이 아래쪽이면 위쪽은 남쪽이고, 방위가 모두 거꾸로 되어 오른쪽은 서쪽, 왼쪽은 동쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3372,7 +3222,8 @@
     "answer": 1,
     "explanation": "동, 서, 남, 북 네 방향을 방위라고 해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3387,7 +3238,8 @@
     "answer": 1,
     "explanation": "기호는 나타내는 것의 모습이나 뜻이 떠오르게 간단히 그려야 알아보기 쉬워요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3402,7 +3254,8 @@
     "answer": 3,
     "explanation": "해가 뜨는 동쪽을 보고 서면 왼쪽이 북쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3415,7 +3268,8 @@
     "answer": 0,
     "explanation": "비행기에서 찍은 사진을 항공 사진이라고 해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3428,7 +3282,8 @@
     "answer": 0,
     "explanation": "방위표가 있으면 방위표를 기준으로 방위를 찾아요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3443,7 +3298,8 @@
     "answer": 1,
     "explanation": "산은 자연이 만든 환경이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -3458,7 +3314,8 @@
     "answer": 2,
     "explanation": "다리는 사람이 만든 시설이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -3471,7 +3328,8 @@
     "answer": 0,
     "explanation": "서쪽과 동쪽은 서로 반대 방위예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3486,7 +3344,8 @@
     "answer": 2,
     "explanation": "등고선은 땅의 높낮이를, 방위표는 방위를, 축척은 실제 거리를, 범례는 기호의 뜻을 알려 줘요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3501,7 +3360,8 @@
     "answer": 2,
     "explanation": "범례에서 ▲는 산을 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3516,7 +3376,8 @@
     "answer": 2,
     "explanation": "동쪽을 보고 서면 오른쪽이 남쪽, 왼쪽이 북쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3531,7 +3392,8 @@
     "answer": 3,
     "explanation": "북쪽의 반대 방향은 남쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3544,22 +3406,24 @@
     "answer": 1,
     "explanation": "디지털 영상 지도는 확대와 축소를 할 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "문화유산을 석탑 같은 것과 판소리 같은 것으로 나눌 때 기준이 되는 것은?",
     "choices": [
-      "만들어진 시기",
+      "만들어진 시기가 언제인지",
       "형태가 있는지 없는지",
-      "있는 지역",
-      "크기"
+      "자리 잡은 지역이 어디인지",
+      "크기가 큰지 작은지"
     ],
     "answer": 1,
     "explanation": "석탑처럼 형태가 있는 것과 판소리처럼 형태가 없는 것으로 나눌 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -3574,7 +3438,8 @@
     "answer": 0,
     "explanation": "어르신께 여쭈면 고장의 옛이야기를 알 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -3589,7 +3454,8 @@
     "answer": 0,
     "explanation": "남쪽을 보고 서면 왼쪽이 동쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3604,7 +3470,8 @@
     "answer": 1,
     "explanation": "방위표가 없으면 위쪽이 북쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3619,7 +3486,8 @@
     "answer": 1,
     "explanation": "지도의 1 cm가 실제 200 m이므로 3 cm는 실제로 200 × 3 = 600(m)예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3634,7 +3502,8 @@
     "answer": 1,
     "explanation": "'골'은 마을이나 골짜기를 뜻하는 말이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -3647,7 +3516,8 @@
     "answer": 0,
     "explanation": "자연환경에 따라 사람들이 하는 일이 달라요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -3662,7 +3532,8 @@
     "answer": 3,
     "explanation": "산이 많은 곳에서는 약초를 캐기도 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -3677,7 +3548,8 @@
     "answer": 0,
     "explanation": "바닷가에서는 갯벌에서 조개를 잡아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -3692,7 +3564,8 @@
     "answer": 1,
     "explanation": "땅의 모습을 위에서 본 것처럼 줄여 나타낸 것이 지도예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3707,7 +3580,8 @@
     "answer": 2,
     "explanation": "방위표의 N은 북쪽을 뜻해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3722,7 +3596,8 @@
     "answer": 3,
     "explanation": "북쪽으로 간 뒤 동쪽으로 가니 학교의 북동쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3737,7 +3612,8 @@
     "answer": 0,
     "explanation": "1 cm가 50 m이니 4 cm는 50 m의 4배인 200 m예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3752,7 +3628,8 @@
     "answer": 0,
     "explanation": "길 찾기 기능은 출발지와 도착지를 넣으면 가는 길을 알려 줘요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3767,7 +3644,8 @@
     "answer": 2,
     "explanation": "기호를 쓰면 많은 정보를 좁은 지도에 알아보기 쉽게 담아요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3780,7 +3658,8 @@
     "answer": 0,
     "explanation": "축척이 같으면 지도 속 거리와 실제 거리가 같은 비율이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3795,7 +3674,8 @@
     "answer": 3,
     "explanation": "해가 지는 서쪽을 보고 서면 오른쪽이 북쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3810,7 +3690,8 @@
     "answer": 1,
     "explanation": "'○○강 북쪽'처럼 기준이 되는 곳과 방위로 위치를 나타낼 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 1,
@@ -3825,7 +3706,8 @@
     "answer": 1,
     "explanation": "고장에 전해 내려오는 이야기를 옛이야기라고 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -3840,7 +3722,8 @@
     "answer": 2,
     "explanation": "먼 길을 가는 사람들이 말에게 죽을 먹이던 곳이라 붙은 이름이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -3855,7 +3738,8 @@
     "answer": 1,
     "explanation": "'장터'는 장이 서던 곳이라서 옛날에 물건을 사고파는 장이 열렸다고 짐작할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -3870,7 +3754,8 @@
     "answer": 0,
     "explanation": "이름을 새기면 문화유산이 훼손돼요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -3883,22 +3768,24 @@
     "answer": 1,
     "explanation": "오래되었을 뿐 아니라 역사적·예술적 가치가 있어 지켜 나갈 만한 것을 문화유산이라고 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "고장의 옛이야기를 통해 알 수 있는 것으로 가장 알맞은 것은?",
     "choices": [
-      "내일의 날씨",
-      "옛날 고장 사람들의 생활과 생각",
-      "다른 나라의 인구",
-      "물건의 가격"
+      "내일 아침의 날씨 소식",
+      "옛날 사람들의 생활과 생각",
+      "다른 나라의 인구 수",
+      "가게 물건의 가격"
     ],
     "answer": 1,
     "explanation": "옛이야기에는 옛날 사람들의 생활과 생각이 담겨 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -3913,22 +3800,24 @@
     "answer": 1,
     "explanation": "옛 다리에는 옛사람들의 기술과 생활이 담겨 있어 역사적 가치가 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "지도에서 파란색으로 나타낸 곳은 주로 무엇일까요?",
     "choices": [
-      "산",
-      "논밭",
-      "도시",
+      "산이나 언덕",
+      "논이나 밭",
+      "도시나 마을",
       "강이나 바다"
     ],
     "answer": 3,
     "explanation": "지도에서 물이 있는 곳은 주로 파란색으로 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -3943,7 +3832,8 @@
     "answer": 0,
     "explanation": "거꾸로 가야 하니 먼저 북쪽, 그다음 동쪽으로 가요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3958,7 +3848,8 @@
     "answer": 1,
     "explanation": "범례는 지도에 쓰인 기호의 뜻을 알려 줘요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -3973,7 +3864,8 @@
     "answer": 1,
     "explanation": "두 곳의 실제 거리는 100 m의 3배인 300 m이고, 1 cm가 300 m인 지도에서는 1 cm예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -3988,7 +3880,8 @@
     "answer": 3,
     "explanation": "넓은 들에서는 논과 밭에서 농사를 지어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4003,7 +3896,8 @@
     "answer": 0,
     "explanation": "눈 덮인 산에서는 스키를 즐길 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4018,7 +3912,8 @@
     "answer": 1,
     "explanation": "바닷가 고장의 염전에서 소금을 만들어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4033,22 +3928,24 @@
     "answer": 2,
     "explanation": "작은 창과 두꺼운 벽은 뜨거운 햇볕과 열을 막아 줘요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "눈이 많이 오는 지역 집의 지붕이 뾰족하고 경사가 급한 까닭은?",
     "choices": [
-      "햇빛을 많이 받으려고",
-      "바람을 막으려고",
-      "비를 모으려고",
-      "눈이 쉽게 미끄러져 내리게 하려고"
+      "햇빛을 많이 받아들이려고",
+      "바람을 모두 막아 내려고",
+      "빗물을 많이 모아 두려고",
+      "눈이 잘 미끄러지게 하려고"
     ],
     "answer": 3,
     "explanation": "쌓인 눈의 무게로 지붕이 무너지지 않게 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4063,7 +3960,8 @@
     "answer": 0,
     "explanation": "여름에는 얇고 바람이 잘 통하는 옷을 입어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4078,7 +3976,8 @@
     "answer": 1,
     "explanation": "겨울에 먹을 김치를 늦가을에 김장해 두어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4093,7 +3992,8 @@
     "answer": 2,
     "explanation": "산이 많은 곳에서는 등산과 산림욕을 즐겨요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4106,7 +4006,8 @@
     "answer": 0,
     "explanation": "환경에 따라 하는 일, 옷, 집 등이 달라져요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4121,7 +4022,8 @@
     "answer": 3,
     "explanation": "날씨에 따라 할 수 있는 활동이 달라요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4136,7 +4038,8 @@
     "answer": 0,
     "explanation": "공원과 도로는 사람이 만든 인문환경이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4149,7 +4052,8 @@
     "answer": 0,
     "explanation": "바닷가 갯벌에서 조개, 낙지 등을 잡아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4164,7 +4068,8 @@
     "answer": 1,
     "explanation": "농작물은 기후와 땅의 영향을 많이 받아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4179,7 +4084,8 @@
     "answer": 2,
     "explanation": "바다에서 수산물을 길러 얻는 일을 양식업이라고 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4194,7 +4100,8 @@
     "answer": 0,
     "explanation": "북쪽에서 오른쪽으로 직각만큼 한 번 돌면 동쪽, 두 번 돌면 남쪽이에요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4209,7 +4116,8 @@
     "answer": 1,
     "explanation": "200 m가 4번이면 800 m이므로 지도에서는 4 cm예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4224,7 +4132,8 @@
     "answer": 2,
     "explanation": "학교는 소방서의 북쪽이면서 서쪽에 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4239,7 +4148,8 @@
     "answer": 3,
     "explanation": "확대하면 좁은 곳이 크게 자세히 보여요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4252,7 +4162,8 @@
     "answer": 1,
     "explanation": "지도마다 기호가 다를 수 있어서 범례를 보고 기호의 뜻을 확인해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4267,7 +4178,8 @@
     "answer": 1,
     "explanation": "5 cm는 100 m의 5배인 500 m이고, 1분에 100 m씩 걸으면 5분 걸려요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4282,7 +4194,8 @@
     "answer": 2,
     "explanation": "지명을 보고 옛날 모습을 생각한 것은 짐작이고, 나머지는 직접 보고 확인한 사실이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -4297,37 +4210,40 @@
     "answer": 0,
     "explanation": "마을 경로당에서는 옛이야기를 알고 계신 어르신께 여쭈어 볼 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "고장의 문화유산을 소중히 해야 하는 까닭으로 가장 알맞은 것은?",
     "choices": [
-      "새로 만들기 쉬워서",
-      "값이 비싸서",
-      "조상의 생활과 지혜를 알 수 있어서",
-      "모양이 예뻐서"
+      "새로 만들기가 쉬워서",
+      "팔면 돈을 많이 벌어서",
+      "조상의 지혜를 알 수 있어서",
+      "모양이 누구보다 예뻐서"
     ],
     "answer": 2,
     "explanation": "문화유산으로 조상의 생활 모습을 알 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "큰 배가 드나드는 항구가 있는 바닷가 지역에서 볼 수 있는 모습으로 알맞은 것은?",
     "choices": [
-      "고랭지 배추밭",
+      "산에서 가꾼 고랭지 배추밭",
       "수산물을 사고파는 수산 시장",
-      "산비탈의 스키장",
-      "넓은 평야의 논"
+      "산비탈에 만든 스키장",
+      "넓은 평야에 펼쳐진 논"
     ],
     "answer": 1,
     "explanation": "항구가 있는 곳에서는 잡은 수산물을 배에서 내려 수산 시장에서 사고팔아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4342,7 +4258,8 @@
     "answer": 2,
     "explanation": "산비탈을 계단처럼 깎아 평평한 땅을 만들면 농사를 지을 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4357,7 +4274,8 @@
     "answer": 0,
     "explanation": "검색창에 장소 이름을 쓰면 그곳의 위치를 바로 찾아 줘요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -4370,7 +4288,8 @@
     "answer": 0,
     "explanation": "위성 사진 보기는 하늘에서 찍은 실제 모습을 보여 줘요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4385,7 +4304,8 @@
     "answer": 2,
     "explanation": "지도를 축소하면 더 넓은 곳을 한눈에 볼 수 있어요. 확대는 좁은 곳을 자세히 보는 거예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -4400,7 +4320,8 @@
     "answer": 1,
     "explanation": "방위표를 보면 지도에서 동서남북 방향을 알 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4415,7 +4336,8 @@
     "answer": 3,
     "explanation": "해가 뜨는 쪽은 동쪽이고, 뒤로 돌면 반대인 서쪽을 보게 돼요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4430,7 +4352,8 @@
     "answer": 0,
     "explanation": "서쪽부터 시장-역-공원 순서로 놓여 있으니 동쪽으로 가야 해요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4445,7 +4368,8 @@
     "answer": 2,
     "explanation": "북쪽이 오른쪽이면 동쪽은 아래, 남쪽은 왼쪽, 서쪽은 위쪽이 돼요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -4460,7 +4384,8 @@
     "answer": 1,
     "explanation": "지도에는 장소의 위치가 나타나 있어 한눈에 찾을 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -4475,7 +4400,8 @@
     "answer": 0,
     "explanation": "1 km 200 m는 1200 m이므로 800 m인 공원이 더 가까워요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -4488,7 +4414,8 @@
     "answer": 1,
     "explanation": "지도는 하늘에서 내려다본 모습을 줄여서 나타내요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -4503,7 +4430,8 @@
     "answer": 1,
     "explanation": "동쪽으로 3칸 갔다가 서쪽으로 5칸 가면 집보다 서쪽으로 2칸 가 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -4518,7 +4446,8 @@
     "answer": 1,
     "explanation": "땅이름이 어떻게 생겨났는지 알려 주는 것을 지명 유래라고 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -4533,7 +4462,8 @@
     "answer": 2,
     "explanation": "'샘'과 마을을 뜻하는 '골'이 합쳐져 샘이 있던 마을로 짐작할 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -4548,7 +4478,8 @@
     "answer": 2,
     "explanation": "'재'는 고개를 뜻해서 산을 넘어가는 길과 관련이 깊어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -4563,7 +4494,8 @@
     "answer": 1,
     "explanation": "'벌'은 넓은 들(벌판)을 뜻해서, '벌말'은 들판에 있던 마을이라는 뜻으로 볼 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -4576,7 +4508,8 @@
     "answer": 0,
     "explanation": "샘골, 숯골처럼 자연이나 하던 일이 땅이름에 담겨 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -4584,29 +4517,31 @@
     "question": "고장의 옛이야기가 담긴 자료를 찾으러 가기에 알맞은 곳은 어디일까요?",
     "choices": [
       "문화원이나 도서관",
-      "소방서",
-      "주유소",
-      "놀이공원"
+      "소방서나 경찰서",
+      "주유소나 정비소",
+      "놀이공원이나 극장"
     ],
     "answer": 0,
     "explanation": "문화원과 도서관에는 고장의 옛이야기를 담은 자료가 많아요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "고장의 옛이야기를 소개하는 방법으로 알맞지 않은 것은 무엇일까요?",
     "choices": [
-      "그림책으로 만들기",
-      "역할극으로 발표하기",
-      "이야기 지도 만들기",
-      "내용을 바꾸어 사실처럼 알리기"
+      "그림책으로 만들어 소개하기",
+      "역할극으로 꾸며 발표하기",
+      "이야기 지도를 만들어 알리기",
+      "마음대로 바꿔 사실처럼 알리기"
     ],
     "answer": 3,
     "explanation": "옛이야기는 내용을 함부로 바꾸거나 꾸며서 사실처럼 알리면 안 돼요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -4621,7 +4556,8 @@
     "answer": 2,
     "explanation": "줄타기는 사람의 기술과 몸짓으로 전해지는 형태가 없는 문화유산이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -4636,7 +4572,8 @@
     "answer": 1,
     "explanation": "답사에서는 문화유산이 언제, 왜 만들어졌는지처럼 문화유산과 관련된 내용을 조사해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -4651,7 +4588,8 @@
     "answer": 1,
     "explanation": "주변 개발로 문화유산이 망가지거나 가려지지 않도록 지키는 거예요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -4666,7 +4604,7 @@
     "answer": 0,
     "explanation": "지역 축제는 고장의 이야기와 문화유산을 여러 사람에게 알리는 행사예요.",
     "semester": 2,
-    "unit": "지역 문제 해결",
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
     "standard": "[4사09-02]"
   },
   {
@@ -4680,7 +4618,8 @@
     "answer": 1,
     "explanation": "옛이야기에는 사실뿐 아니라 사람들의 상상과 바람도 함께 담겨 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -4695,7 +4634,8 @@
     "answer": 3,
     "explanation": "'아름답다'는 사람마다 다르게 느낄 수 있는 생각이라서 의견이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -4710,7 +4650,8 @@
     "answer": 0,
     "explanation": "옛이야기는 사람들의 입에서 입으로 전해져 내려왔어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -4725,7 +4666,8 @@
     "answer": 1,
     "explanation": "장승은 나쁜 기운을 막고 마을을 지켜 준다고 믿었어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -4740,7 +4682,8 @@
     "answer": 3,
     "explanation": "아파트는 사람이 만든 환경이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4755,7 +4698,8 @@
     "answer": 3,
     "explanation": "여러 해 동안 나타나는 날씨의 평균적인 모습을 기후라고 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4770,7 +4714,8 @@
     "answer": 2,
     "explanation": "땅이 생긴 모양을 지형이라고 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4785,22 +4730,24 @@
     "answer": 0,
     "explanation": "높은 곳은 여름에도 서늘해서 배추를 기르기 알맞아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "넓은 들과 강이 있는 고장에서 벼농사를 많이 짓는 까닭은 무엇일까요?",
     "choices": [
-      "눈이 많이 와서",
-      "땅이 평평하고 물을 얻기 쉬워서",
-      "바다가 가까워서",
-      "산이 높아서"
+      "눈이 아주 많이 와서",
+      "땅이 평평하고 물이 많아서",
+      "바다가 아주 가까워서",
+      "산이 매우 높고 험해서"
     ],
     "answer": 1,
     "explanation": "논농사에는 평평한 땅과 넉넉한 물이 필요해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4815,7 +4762,8 @@
     "answer": 0,
     "explanation": "추운 곳에서는 몸을 따뜻하게 해 주는 두꺼운 옷을 입어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4830,7 +4778,8 @@
     "answer": 1,
     "explanation": "바다에서 얻은 생선과 해산물로 음식을 만들어 먹어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4845,7 +4794,8 @@
     "answer": 2,
     "explanation": "돌이 많은 섬에서는 흔한 돌로 담을 쌓아 센 바람을 막았어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4860,7 +4810,8 @@
     "answer": 3,
     "explanation": "래프팅은 강물의 흐름을 따라 고무보트를 타는 활동이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4873,7 +4824,8 @@
     "answer": 1,
     "explanation": "같은 고장에서도 농사, 가게, 회사 일 등 여러 가지 일을 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4888,7 +4840,8 @@
     "answer": 1,
     "explanation": "저수지는 물을 모아 두었다가 필요할 때 쓰게 해 줘요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4903,7 +4856,8 @@
     "answer": 0,
     "explanation": "숲과 강을 마구 개발하면 동식물이 살 곳을 잃어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4916,7 +4870,8 @@
     "answer": 1,
     "explanation": "논농사는 평평한 땅이 넓은 들이 있는 고장에서 더 많이 지어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -4931,7 +4886,8 @@
     "answer": 1,
     "explanation": "들에서는 벼농사를, 바닷가에서는 고기잡이를 주로 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -4945,9 +4901,9 @@
     ],
     "answer": 0,
     "explanation": "많은 주민이 함께 불편을 겪는 일을 지역 문제라고 해요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -4961,9 +4917,9 @@
     ],
     "answer": 2,
     "explanation": "인도가 없으면 사고 위험이 커서 안전 문제예요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -4977,9 +4933,9 @@
     ],
     "answer": 1,
     "explanation": "하천이 더러워진 것은 환경 문제예요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -4993,9 +4949,9 @@
     ],
     "answer": 3,
     "explanation": "필요한 공공시설이 없는 것은 시설 부족 문제예요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5009,9 +4965,9 @@
     ],
     "answer": 3,
     "explanation": "남의 일기를 몰래 읽는 것은 옳지 않은 방법이에요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -5025,9 +4981,9 @@
     ],
     "answer": 1,
     "explanation": "같은 질문지로 여러 사람 생각을 모으는 것이 설문 조사예요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5039,9 +4995,9 @@
     ],
     "answer": 0,
     "explanation": "직접 가 보면 문제 상황을 자세히 알 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5055,41 +5011,41 @@
     ],
     "answer": 2,
     "explanation": "사람을 만나 직접 묻고 답을 듣는 것은 면담이에요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "공원 쓰레기 문제를 조사하니 쓰레기통이 입구에만 있었어요. 알맞은 해결 방안은?",
     "choices": [
-      "공원 곳곳에 쓰레기통을 더 놓아요",
-      "입구의 쓰레기통도 없애요",
-      "공원 이름을 바꿔요",
-      "산책 시간을 줄여요"
+      "공원 곳곳에 쓰레기통을 놓아요",
+      "입구의 쓰레기통도 모두 없애요",
+      "공원 이름만 새로 바꿔요",
+      "공원 산책 시간을 줄여요"
     ],
     "answer": 0,
     "explanation": "조사로 찾은 원인에 맞춰 해결 방안을 세워요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "학교 앞에서 과속하는 차가 많을 때 알맞은 해결 방안은?",
     "choices": [
-      "과속 방지 턱과 단속 카메라 설치",
-      "학교 운동장 넓히기",
-      "급식 메뉴 바꾸기",
+      "과속 방지 턱과 카메라 설치",
+      "학교 운동장을 더 넓히기",
+      "급식 메뉴를 새로 바꾸기",
       "도서관 운영 시간 늘리기"
     ],
     "answer": 0,
     "explanation": "과속 방지 턱과 단속 카메라는 차의 속도를 줄여요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5103,9 +5059,9 @@
     ],
     "answer": 2,
     "explanation": "돈이 알맞게 들고 실제로 할 수 있는 방안이어야 해요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 3,
@@ -5119,9 +5075,9 @@
     ],
     "answer": 1,
     "explanation": "한 문제를 풀려다 다른 문제가 생기지 않는지 살펴야 해요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -5135,9 +5091,9 @@
     ],
     "answer": 3,
     "explanation": "주민이 힘을 모아 청소하면 문제 해결에 도움이 돼요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5149,9 +5105,9 @@
     ],
     "answer": 1,
     "explanation": "원인이 여러 가지일 수 있어 먼저 조사해야 해요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -5163,9 +5119,9 @@
     ],
     "answer": 0,
     "explanation": "여러 사람과 기관이 힘을 모으면 더 잘 해결할 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5179,9 +5135,9 @@
     ],
     "answer": 3,
     "explanation": "서로 의견을 듣고 함께 대안을 찾아야 갈등을 줄여요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5195,9 +5151,9 @@
     ],
     "answer": 1,
     "explanation": "어린이 의회 등에서 어린이도 의견을 낼 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5211,9 +5167,9 @@
     ],
     "answer": 2,
     "explanation": "캠페인 뒤에 불법 주차 차량 수가 크게 줄었어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5221,15 +5177,15 @@
     "question": "지역 문제 해결 제안서에 들어갈 내용으로 알맞지 않은 것은?",
     "choices": [
       "다른 사람을 흉보는 말",
-      "문제 상황",
-      "문제의 원인",
-      "해결 방안"
+      "문제가 일어난 상황",
+      "문제가 생긴 까닭",
+      "알맞은 해결 방안"
     ],
     "answer": 0,
     "explanation": "제안서에는 문제 상황, 원인, 해결 방안을 써요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -5243,25 +5199,25 @@
     ],
     "answer": 0,
     "explanation": "여러 의견을 고르게 들어야 문제를 바르게 알 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "밤마다 공원 산책로가 어두워 주민이 불안해해요. 원인으로 가장 알맞은 것은?",
     "choices": [
-      "낮이 길어졌어요",
-      "도서관이 멀어요",
+      "낮이 예전보다 길어졌어요",
+      "도서관이 공원에서 멀어요",
       "가로등이 부족하거나 고장 났어요",
-      "버스가 자주 와요"
+      "버스가 자주 다니고 있어요"
     ],
     "answer": 2,
     "explanation": "가로등이 부족하면 밤길이 어두워져요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -5275,9 +5231,9 @@
     ],
     "answer": 1,
     "explanation": "지역 캐릭터는 지역을 친근하게 알리는 데 쓰여요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 1,
@@ -5291,9 +5247,9 @@
     ],
     "answer": 3,
     "explanation": "문화유산은 아끼고 보호해야 해요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5307,9 +5263,9 @@
     ],
     "answer": 3,
     "explanation": "충청남도 보령은 머드 축제로 지역을 알려요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5323,9 +5279,9 @@
     ],
     "answer": 1,
     "explanation": "강원도 화천은 산천어 축제로 유명해요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 3,
@@ -5339,9 +5295,9 @@
     ],
     "answer": 2,
     "explanation": "산천어 축제는 강원도 화천에서 열려요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5355,9 +5311,9 @@
     ],
     "answer": 0,
     "explanation": "아름다운 자연을 걸으며 즐기도록 알리는 노력이에요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 1,
@@ -5371,9 +5327,9 @@
     ],
     "answer": 0,
     "explanation": "옛 성곽은 지역의 역사를 보여 줘요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5387,9 +5343,9 @@
     ],
     "answer": 1,
     "explanation": "지역을 알려도 지역 문제는 따로 해결해야 해요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 1,
@@ -5401,9 +5357,9 @@
     ],
     "answer": 0,
     "explanation": "누리 소통망과 영상은 먼 곳까지 빠르게 알려요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5415,9 +5371,9 @@
     ],
     "answer": 1,
     "explanation": "사실대로 알려야 믿음을 얻을 수 있어요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5431,9 +5387,9 @@
     ],
     "answer": 3,
     "explanation": "누리집과 영상은 먼 곳 사람에게도 전해져요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5447,9 +5403,9 @@
     ],
     "answer": 3,
     "explanation": "슬로건은 지역을 한마디로 알리는 문구예요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -5463,9 +5419,9 @@
     ],
     "answer": 1,
     "explanation": "축제의 좋은 점은 살리고 불편은 줄이는 방안을 찾아요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 1,
@@ -5479,9 +5435,9 @@
     ],
     "answer": 1,
     "explanation": "방위, 축척, 기호와 범례, 등고선은 지도를 읽는 데 꼭 필요한 지도의 요소예요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -5495,9 +5451,9 @@
     ],
     "answer": 0,
     "explanation": "방위표에서 N은 북쪽, S는 남쪽이에요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -5509,9 +5465,9 @@
     ],
     "answer": 1,
     "explanation": "범례는 기호의 뜻을 알려 주고, 실제 거리는 축척으로 알아요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -5525,9 +5481,9 @@
     ],
     "answer": 1,
     "explanation": "노란색은 100 m에서 300 m 사이라서 200 m가 알맞아요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -5541,9 +5497,9 @@
     ],
     "answer": 2,
     "explanation": "축척은 실제 거리를 지도에 얼마나 줄였는지 알려 주어요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -5557,9 +5513,9 @@
     ],
     "answer": 1,
     "explanation": "1 cm가 300 m이니까 3 cm는 300 m의 3배인 900 m예요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -5573,9 +5529,9 @@
     ],
     "answer": 1,
     "explanation": "등고선이 드문 낮은 곳은 평평해서 마을과 논밭이 들어서기 좋아요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -5589,9 +5545,9 @@
     ],
     "answer": 0,
     "explanation": "N이 왼쪽이면 오른쪽은 남쪽, 위쪽은 동쪽, 아래쪽은 서쪽이에요. 그래서 공원 위에 있는 학교는 공원의 동쪽이에요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -5605,9 +5561,9 @@
     ],
     "answer": 2,
     "explanation": "위치는 주변 지역과 비교해 어느 쪽에 있는지로 나타내요.",
-    "standard": "[4사05-02]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-02]"
   },
   {
     "difficulty": 2,
@@ -5621,9 +5577,9 @@
     ],
     "answer": 1,
     "explanation": "1 cm에 더 짧은 거리를 나타낸 지도가 좁은 곳을 크게, 자세히 보여 줘요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -5637,9 +5593,9 @@
     ],
     "answer": 0,
     "explanation": "2 cm와 3 cm를 더하면 5 cm예요. 400 m의 5배는 2000 m, 곧 2 km예요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -5653,9 +5609,9 @@
     ],
     "answer": 1,
     "explanation": "병원은 우체국에서 북쪽으로 3+5=8(cm) 떨어져 있고, 50 m의 8배는 400 m예요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -5669,9 +5625,9 @@
     ],
     "answer": 2,
     "explanation": "방위표가 없으면 위가 북쪽이라서 오른쪽은 동쪽이에요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -5685,9 +5641,9 @@
     ],
     "answer": 1,
     "explanation": "두 등고선 사이는 100 m보다 높고 200 m보다 낮으니 150 m가 알맞아요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -5701,9 +5657,9 @@
     ],
     "answer": 0,
     "explanation": "같은 거리를 더 길게 그린 (나) 지도가 더 크게, 자세히 나타낸 지도예요.",
-    "standard": "[4사05-01]",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -5717,9 +5673,9 @@
     ],
     "answer": 3,
     "explanation": "기념관은 훌륭한 인물이나 중요한 사건을 기억하고 알리려고 만든 곳이에요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -5731,9 +5687,9 @@
     ],
     "answer": 1,
     "explanation": "관람 길을 정하고 관람 규칙을 지키면 많은 사람이 보면서도 문화유산을 지킬 수 있어요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -5747,25 +5703,25 @@
     ],
     "answer": 2,
     "explanation": "옛사람들이 남긴 흔적이 있는 곳을 유적지라고 해요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "다음 중 문화유산이 아닌 것은?",
     "choices": [
-      "오래된 탑",
+      "오래전에 쌓은 탑",
       "새로 지은 아파트",
-      "전통 춤",
-      "옛 그림"
+      "조상들의 전통 춤",
+      "옛날에 그린 그림"
     ],
     "answer": 1,
     "explanation": "새로 지은 아파트는 옛날부터 전해 내려온 것이 아니라서 문화유산이 아니에요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -5779,9 +5735,9 @@
     ],
     "answer": 2,
     "explanation": "향교는 옛날에 학생들이 공부하던 곳이에요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -5795,9 +5751,9 @@
     ],
     "answer": 1,
     "explanation": "첨성대는 하늘을 관찰하던 곳으로 알려져 있어 옛사람들이 하늘과 별에 관심이 많았음을 알 수 있어요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -5811,25 +5767,25 @@
     ],
     "answer": 2,
     "explanation": "전시물 설명을 읽으면 전시물에 담긴 역사를 잘 알 수 있어요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지역의 문화유산을 알리는 방법으로 알맞지 않은 것은?",
     "choices": [
-      "문화유산 소개 책자를 만든다",
-      "다른 지역 사진을 우리 지역 것으로 올린다",
-      "누리집에 사진과 설명을 올린다",
-      "문화유산 해설 활동에 참여한다"
+      "문화유산 소개 책자를 직접 만든다",
+      "다른 지역 사진을 우리 것으로 올린다",
+      "누리집에 사진과 설명을 정리해 올린다",
+      "문화유산 해설 활동에 직접 참여한다"
     ],
     "answer": 1,
     "explanation": "다른 지역 문화유산 사진을 우리 지역 것이라고 하면 사실과 달라 잘못 알리게 돼요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -5843,9 +5799,9 @@
     ],
     "answer": 0,
     "explanation": "문화유산은 오래전부터 전해 온 것이고, 가치는 값이 싼 데 있지 않아요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -5857,25 +5813,25 @@
     ],
     "answer": 1,
     "explanation": "문화유산은 모두가 함께 아끼고 지켜야 하는 소중한 것이에요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "한 지역에 오래된 향교와 서원이 많다면 짐작할 수 있는 옛 모습은?",
     "choices": [
       "옛날에 고기잡이를 많이 했다",
-      "옛날에 공장이 많았다",
+      "옛날에 공장이 많이 있었다",
       "옛날에 소금을 많이 만들었다",
-      "옛날에 공부하고 가르치는 곳이 많았다"
+      "옛날에 공부하던 곳이 많았다"
     ],
     "answer": 3,
     "explanation": "향교와 서원은 옛날에 학생들이 공부하던 곳이에요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -5889,9 +5845,9 @@
     ],
     "answer": 2,
     "explanation": "자료의 출처를 밝히면 듣는 사람이 내용을 믿고 직접 확인해 볼 수 있어요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 3,
@@ -5905,9 +5861,9 @@
     ],
     "answer": 1,
     "explanation": "관람 길을 정하면 문화유산을 보호하면서도 가까이에서 볼 수 있어요.",
-    "standard": "[4사06-01]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -5921,9 +5877,9 @@
     ],
     "answer": 0,
     "explanation": "옛날과 오늘날을 비교하면 생활 모습의 변화를 알 수 있어요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -5937,9 +5893,9 @@
     ],
     "answer": 3,
     "explanation": "해설사는 문화유산에 담긴 이야기와 가치를 알려 줘요.",
-    "standard": "[4사06-02]",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 1,
@@ -5953,9 +5909,9 @@
     ],
     "answer": 2,
     "explanation": "물건을 파는 서비스를 제공하는 일도 생산 활동이에요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -5969,9 +5925,9 @@
     ],
     "answer": 1,
     "explanation": "돈을 내고 서비스를 이용하는 것은 소비 활동이에요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -5983,9 +5939,9 @@
     ],
     "answer": 0,
     "explanation": "지역마다 만드는 물건이 달라서 서로 주고받으며 써요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -5999,9 +5955,9 @@
     ],
     "answer": 0,
     "explanation": "빵을 만들어 판 빵집 주인이 생산자이고, 빵을 산 지우는 소비자예요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -6015,9 +5971,9 @@
     ],
     "answer": 2,
     "explanation": "버스를 운전할 때는 생산자이고, 저녁을 사 먹을 때는 소비자예요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -6031,9 +5987,9 @@
     ],
     "answer": 0,
     "explanation": "튼튼함이 높은 것은 (가)와 (나)이고, 그중 값이 싼 것은 8000원인 (가)예요.",
-    "standard": "[4사07-01]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 2,
@@ -6047,9 +6003,9 @@
     ],
     "answer": 1,
     "explanation": "쌀은 물건이라서 물적 교류예요. 나머지는 사람이 오가는 교류예요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -6063,9 +6019,9 @@
     ],
     "answer": 0,
     "explanation": "사람이 오가며 만나는 것은 인적 교류예요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -6079,9 +6035,9 @@
     ],
     "answer": 1,
     "explanation": "사람이 오가며 기술이나 도움을 나누는 것은 인적 교류, 물건이 오가는 것은 물적 교류예요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -6095,9 +6051,9 @@
     ],
     "answer": 2,
     "explanation": "물건을 팔아 번 돈으로 지역 사람들의 소득이 늘어나요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -6111,9 +6067,9 @@
     ],
     "answer": 1,
     "explanation": "(나) 가게에서 3권을 사면 2700원이라 3000원보다 싸요.",
-    "standard": "[4사07-01]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -6127,9 +6083,9 @@
     ],
     "answer": 1,
     "explanation": "넓고 평평한 들에서는 논농사를 지어 쌀을 많이 생산해요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -6143,9 +6099,9 @@
     ],
     "answer": 3,
     "explanation": "공장이 문을 닫으면 일자리는 늘지 않고 줄어들어요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -6159,9 +6115,9 @@
     ],
     "answer": 2,
     "explanation": "생선을 잡고, 나르고, 파는 사람이 필요해요. 소방관은 불을 끄는 일을 해요.",
-    "standard": "[4사07-02]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -6175,9 +6131,9 @@
     ],
     "answer": 1,
     "explanation": "만들 수 있는 양(자원)이 한정되어 있는 희소성 때문에 선택해야 해요.",
-    "standard": "[4사07-01]",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -6191,9 +6147,9 @@
     ],
     "answer": 1,
     "explanation": "회의 결과를 모든 학생이 알 수 있게 알려야 함께 지키고 의견도 낼 수 있어요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
@@ -6207,9 +6163,9 @@
     ],
     "answer": 3,
     "explanation": "학생들이 스스로 학교 일을 결정하고 해결하는 것을 학교 자치라고 해요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
@@ -6221,9 +6177,9 @@
     ],
     "answer": 0,
     "explanation": "민주주의는 모든 사람을 존중하고 평등하게 대하는 것에서 출발해요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
@@ -6237,25 +6193,25 @@
     ],
     "answer": 2,
     "explanation": "학생 대표는 학생들이 투표로 뽑는 것이 민주적이에요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "지방 자치 단체를 대표하고 지역의 살림을 맡아 처리하는 사람은?",
     "choices": [
-      "소방관",
+      "소방서의 소방관",
       "지방 자치 단체장",
-      "집배원",
-      "택배 기사"
+      "우체국의 집배원",
+      "택배 회사 기사"
     ],
     "answer": 1,
     "explanation": "시장, 군수, 구청장, 도지사 같은 지방 자치 단체장이 지역의 일을 맡아요.",
-    "standard": "[4사08-02]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -6269,25 +6225,25 @@
     ],
     "answer": 0,
     "explanation": "토론할 때는 상대를 비난하지 않고 존중해야 해요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "다수결로 정하기 전에 충분히 대화하고 토론하는 까닭은?",
     "choices": [
-      "일부러 시간을 끌려고",
-      "소수 의견을 없애려고",
-      "투표를 하지 않으려고",
-      "여러 의견을 살펴 더 좋은 결정을 하려고"
+      "일부러 시간을 오래 끌려고",
+      "소수 의견을 일부러 없애려고",
+      "투표를 아예 하지 않으려고",
+      "여러 의견을 살펴 결정하려고"
     ],
     "answer": 3,
     "explanation": "충분히 이야기하면 여러 생각을 살펴 더 나은 결정을 할 수 있어요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -6301,9 +6257,9 @@
     ],
     "answer": 2,
     "explanation": "학생들이 함께 의논해 규칙을 정하는 것이 학교 자치예요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -6317,9 +6273,9 @@
     ],
     "answer": 1,
     "explanation": "지방 의회 의원은 조례를 만들고 지역 살림을 살펴요.",
-    "standard": "[4사08-02]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -6333,9 +6289,9 @@
     ],
     "answer": 0,
     "explanation": "주민 자치는 주민이 지역의 주인으로서 스스로 일을 해결하는 거예요.",
-    "standard": "[4사08-02]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 3,
@@ -6349,41 +6305,41 @@
     ],
     "answer": 3,
     "explanation": "다수결로 정한 뒤에도 소수 의견을 존중하고 반영하려고 노력해요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "주민 자치회 같은 주민 모임이 하는 일로 알맞은 것은?",
     "choices": [
-      "재판을 해서 벌을 준다",
-      "나라의 법을 만든다",
-      "마을 문제를 의논하고 해결 방법을 제안한다",
-      "군대를 지휘한다"
+      "법원처럼 재판을 해서 벌을 준다",
+      "국회처럼 나라의 법을 만든다",
+      "마을 문제를 의논해 해결을 제안한다",
+      "군대를 지휘해 나라를 지킨다"
     ],
     "answer": 2,
     "explanation": "주민 모임은 마을 일을 함께 의논하고 해결 방법을 찾아요.",
-    "standard": "[4사08-02]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "다음 중 지방 자치가 제대로 이루어지지 않은 모습은?",
     "choices": [
       "주민이 단체장을 선거로 뽑는다",
-      "지역 일을 정할 때 주민 의견을 전혀 듣지 않는다",
+      "주민 의견을 전혀 듣지 않고 정한다",
       "주민이 시청에 의견을 낸다",
       "주민이 공청회에 참여한다"
     ],
     "answer": 1,
     "explanation": "지방 자치는 주민의 뜻에 따라 지역 일을 처리하는 것이라 주민 의견을 들어야 해요.",
-    "standard": "[4사08-02]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 3,
@@ -6397,9 +6353,9 @@
     ],
     "answer": 1,
     "explanation": "문제를 알고, 의견을 나눈 뒤 투표로 정하고 실천하는 것이 민주적인 순서예요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 3,
@@ -6413,9 +6369,9 @@
     ],
     "answer": 3,
     "explanation": "다수결이라도 소수의 권리를 해치면 안 되니 다시 의논해야 해요.",
-    "standard": "[4사08-01]",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 1,
@@ -6429,9 +6385,9 @@
     ],
     "answer": 2,
     "explanation": "사람이 만든 환경을 인문환경이라고 해요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -6445,9 +6401,9 @@
     ],
     "answer": 1,
     "explanation": "기후, 지형처럼 자연 그대로의 환경을 자연환경이라고 해요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -6459,9 +6415,9 @@
     ],
     "answer": 1,
     "explanation": "도시는 좁은 땅에 많은 사람이 살아 높은 건물이 빽빽하게 모여 있어요.",
-    "standard": "[4사10-02]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -6475,9 +6431,9 @@
     ],
     "answer": 1,
     "explanation": "출근하고 등교하는 사람이 같은 시간에 한꺼번에 움직여서 붐벼요.",
-    "standard": "[4사10-02]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 1,
@@ -6489,9 +6445,9 @@
     ],
     "answer": 0,
     "explanation": "갯벌을 메워 땅을 만드는 것은 사람이 자연환경을 바꾸어 개발한 거예요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -6505,9 +6461,9 @@
     ],
     "answer": 3,
     "explanation": "산을 돌아가지 않아도 되어 빨리 오갈 수 있어요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -6521,9 +6477,9 @@
     ],
     "answer": 2,
     "explanation": "생태 통로를 만들면 도로도 쓰고 동물도 보호할 수 있어요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 2,
@@ -6537,9 +6493,9 @@
     ],
     "answer": 1,
     "explanation": "도시는 사람이 많아 빠르게 많은 사람을 옮기는 교통이 필요해요.",
-    "standard": "[4사10-02]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -6553,9 +6509,9 @@
     ],
     "answer": 0,
     "explanation": "신도시에는 사람이 살 수 있게 집, 도로, 학교 등이 새로 생겨요.",
-    "standard": "[4사10-02]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -6569,9 +6525,9 @@
     ],
     "answer": 3,
     "explanation": "둑은 강물이 넘쳐 마을이 잠기는 것을 막아 줘요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 3,
@@ -6585,9 +6541,9 @@
     ],
     "answer": 2,
     "explanation": "바다를 메우면 갯벌은 넓어지지 않고 오히려 줄어들어요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 3,
@@ -6601,9 +6557,9 @@
     ],
     "answer": 1,
     "explanation": "대중교통을 늘리면 자동차가 줄어 교통 혼잡이 줄어요.",
-    "standard": "[4사10-02]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 3,
@@ -6617,9 +6573,9 @@
     ],
     "answer": 0,
     "explanation": "지하철은 사람이 만든 인문환경이라 자연환경의 영향이 아니에요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
@@ -6633,9 +6589,9 @@
     ],
     "answer": 3,
     "explanation": "도시는 회사, 상점, 공장이 많아 여러 가지 일자리가 있어요.",
-    "standard": "[4사10-02]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 3,
@@ -6649,25 +6605,25 @@
     ],
     "answer": 2,
     "explanation": "논밭이 줄고 상가가 생기면 농사 대신 가게나 회사에서 일하는 사람이 늘어요.",
-    "standard": "[4사10-01]",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "다음 중 지역 문제에 해당하는 것은?",
     "choices": [
-      "내 연필이 부러졌다",
+      "내 연필이 부러져 버렸다",
       "마을 하천에 쓰레기가 많다",
-      "동생과 다투었다",
-      "내 방이 어지럽다"
+      "동생과 다투어서 속상하다",
+      "내 방이 어지럽게 되었다"
     ],
     "answer": 1,
     "explanation": "하천 쓰레기는 여러 주민이 함께 겪는 불편이라 지역 문제예요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -6679,9 +6635,9 @@
     ],
     "answer": 0,
     "explanation": "원인을 알아야 알맞은 해결 방법을 찾을 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -6695,9 +6651,9 @@
     ],
     "answer": 0,
     "explanation": "주민과 면담하면 문제를 직접 겪는 사람의 이야기를 들을 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 1,
@@ -6711,9 +6667,9 @@
     ],
     "answer": 3,
     "explanation": "축제는 지역을 알리고 많은 사람이 찾아오게 해요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 1,
@@ -6727,9 +6683,9 @@
     ],
     "answer": 2,
     "explanation": "홍보 포스터는 많은 사람에게 지역을 알리는 데 좋아요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -6737,47 +6693,47 @@
     "question": "지역 문제 해결 방안을 고를 때 살펴볼 기준으로 알맞은 것은?",
     "choices": [
       "가장 비싼 방법인지",
-      "다른 주민에게 새 피해가 생기지 않는지",
+      "다른 주민에게 피해가 없는지",
       "방안의 이름이 멋있는지",
       "가장 오래 걸리는 방법인지"
     ],
     "answer": 1,
     "explanation": "한 문제를 해결하면서 다른 주민에게 새로운 피해를 주면 좋은 방안이 아니에요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "횡단보도에서 신호를 지키지 않는 사람이 많을 때 알맞은 해결 방안은?",
     "choices": [
-      "교통 안전 캠페인을 연다",
-      "신호등을 없앤다",
-      "횡단보도를 지운다",
-      "모른 척한다"
+      "안전 캠페인을 연다",
+      "신호등을 모두 없앤다",
+      "횡단보도를 모두 지운다",
+      "모른 척하고 지나간다"
     ],
     "answer": 0,
     "explanation": "캠페인으로 신호를 지키자고 알리면 안전해져요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지역 문제를 조사할 때 여러 사람의 의견을 듣는 까닭은?",
     "choices": [
-      "조사를 빨리 끝내려고",
+      "조사를 빨리 끝내 버리려고",
       "한 사람의 생각만 따르려고",
-      "문제를 숨기려고",
-      "문제를 여러 입장에서 정확히 알려고"
+      "문제를 일부러 숨기려고",
+      "문제를 골고루 알려고"
     ],
     "answer": 3,
     "explanation": "여러 사람의 이야기를 들어야 문제를 골고루 알 수 있어요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -6791,25 +6747,25 @@
     ],
     "answer": 2,
     "explanation": "옛 관아 터와 원님 행차는 지역의 역사를 보여 주는 것이라 역사를 활용한 노력이에요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지역 특산물로 만든 상품에 지역 이름을 붙여 팔면 좋은 점은?",
     "choices": [
-      "지역 이름이 잊힌다",
-      "지역을 알리고 지역 사람들의 소득이 늘어난다",
-      "특산물이 덜 팔린다",
+      "지역 이름이 점점 잊힌다",
+      "지역이 알려지고 소득이 늘어난다",
+      "특산물이 오히려 덜 팔린다",
       "지역 사람들의 일거리가 줄어든다"
     ],
     "answer": 1,
     "explanation": "지역 이름이 붙은 상품이 팔리면 지역도 알려지고 소득도 늘어요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 2,
@@ -6823,9 +6779,9 @@
     ],
     "answer": 0,
     "explanation": "고치기가 돈도 적게 들고 시간도 짧게 걸려요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 3,
@@ -6839,9 +6795,9 @@
     ],
     "answer": 3,
     "explanation": "문제를 확인하면 그다음에 왜 생겼는지 원인을 알아봐요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 3,
@@ -6855,9 +6811,9 @@
     ],
     "answer": 2,
     "explanation": "보관대가 없는 것이 원인이니 보관대를 만들면 해결돼요.",
-    "standard": "[4사09-01]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -6871,9 +6827,9 @@
     ],
     "answer": 1,
     "explanation": "주민 의견을 듣지 않으면 소음, 교통 문제로 불편과 반대가 커질 수 있어요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-01]"
   },
   {
     "difficulty": 2,
@@ -6887,9 +6843,9 @@
     ],
     "answer": 2,
     "explanation": "사람이 나오는 사진이나 영상은 그 사람의 허락을 받고 찍어야 해요.",
-    "standard": "[4사09-02]",
     "semester": 2,
-    "unit": "지역 문제 해결"
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
+    "standard": "[4사09-02]"
   },
   {
     "difficulty": 1,
@@ -6904,7 +6860,8 @@
     "answer": 3,
     "explanation": "비밀로 투표해야 다른 사람의 눈치를 보지 않고 자유롭게 뽑을 수 있어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -6919,7 +6876,8 @@
     "answer": 0,
     "explanation": "11+9+5=25(명)이고, 가장 많은 표를 얻은 서연이 뽑혀요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-01]"
   },
   {
     "difficulty": 2,
@@ -6934,7 +6892,8 @@
     "answer": 0,
     "explanation": "주민이 함께 지역의 일에 참여하면 지역이 좋아지고 이웃 사이도 가까워져요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 2,
@@ -6949,7 +6908,8 @@
     "answer": 1,
     "explanation": "주민은 서명으로 의견을 제안했고, 구청은 예산을 마련해 놀이터를 고쳤어요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 3,
@@ -6964,7 +6924,8 @@
     "answer": 2,
     "explanation": "찬성과 반대의 합이 120명이고 차가 30명이므로 찬성 75명, 반대 45명이에요.",
     "semester": 2,
-    "unit": "민주주의와 자치"
+    "unit": "민주주의와 자치",
+    "standard": "[4사08-02]"
   },
   {
     "difficulty": 1,
@@ -6979,7 +6940,8 @@
     "answer": 3,
     "explanation": "도시는 좁은 땅에 많은 사람이 살고 일해서 높은 건물이 많아요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -6994,7 +6956,8 @@
     "answer": 0,
     "explanation": "학생 수가 계속 줄고 있으므로 학교가 문을 닫을 수 있어요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 2,
@@ -7007,7 +6970,8 @@
     "answer": 1,
     "explanation": "양식업은 어촌에서 하고, 산지촌에서는 임업이나 고랭지 농업 등을 해요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-01]"
   },
   {
     "difficulty": 3,
@@ -7022,7 +6986,8 @@
     "answer": 1,
     "explanation": "10년마다 150명씩 줄어드므로 300−150=150(명)이에요.",
     "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "unit": "다양한 환경과 삶의 모습",
+    "standard": "[4사10-02]"
   },
   {
     "difficulty": 3,
@@ -7036,8 +7001,9 @@
     ],
     "answer": 2,
     "explanation": "촌락은 체험비로 소득이 늘고, 도시 학생들은 자연을 체험할 수 있어요.",
-    "semester": 2,
-    "unit": "다양한 환경과 삶의 모습"
+    "semester": 1,
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 1,
@@ -7052,7 +7018,8 @@
     "answer": 3,
     "explanation": "택배는 물건을 지역 사이로 옮겨 주어 지역 간 교류를 도와요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -7067,7 +7034,8 @@
     "answer": 0,
     "explanation": "교통이 발달하면 사람과 물건이 더 쉽게 오가요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 2,
@@ -7080,7 +7048,8 @@
     "answer": 0,
     "explanation": "사람이 오가는 인적 교류의 예예요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -7095,7 +7064,8 @@
     "answer": 1,
     "explanation": "남는 것을 부족한 곳으로 보내면 서로 필요한 것을 채울 수 있어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-02]"
   },
   {
     "difficulty": 3,
@@ -7110,7 +7080,8 @@
     "answer": 2,
     "explanation": "3000+2000=5000원이라 책과 간식을 함께 살 수 있었는데, 장난감을 사서 포기했어요.",
     "semester": 1,
-    "unit": "경제활동과 지역 간 교류"
+    "unit": "경제활동과 지역간 교류",
+    "standard": "[4사07-01]"
   },
   {
     "difficulty": 1,
@@ -7125,7 +7096,8 @@
     "answer": 3,
     "explanation": "관광 안내 지도에는 가 볼 만한 곳과 길이 나타나 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -7140,7 +7112,8 @@
     "answer": 0,
     "explanation": "기호로 위치를 나타내고 범례에 뜻을 적으면 누구나 알아볼 수 있어요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -7153,7 +7126,8 @@
     "answer": 0,
     "explanation": "동쪽과 서쪽은 반대 방향이라 같은 칸만큼 가면 제자리예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 2,
@@ -7168,7 +7142,8 @@
     "answer": 1,
     "explanation": "400 m에서 100 m를 빼면 300 m예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 3,
@@ -7183,7 +7158,8 @@
     "answer": 2,
     "explanation": "지도에서 3+2=5(cm)이고 5×200=1000 m이므로 1 km예요.",
     "semester": 1,
-    "unit": "지도로 만나는 우리 지역"
+    "unit": "지도로 만나는 우리 지역",
+    "standard": "[4사05-01]"
   },
   {
     "difficulty": 1,
@@ -7198,7 +7174,8 @@
     "answer": 3,
     "explanation": "답사에서는 보고 들은 것을 기록할 수첩과 필기도구가 필요해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-02]"
   },
   {
     "difficulty": 2,
@@ -7213,7 +7190,8 @@
     "answer": 0,
     "explanation": "유물은 빛과 습기에 약해서 보관 환경을 조절해 지켜요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -7226,7 +7204,8 @@
     "answer": 0,
     "explanation": "촬영이 제한된 곳에서는 안내에 따라야 문화유산을 지킬 수 있어요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -7241,7 +7220,8 @@
     "answer": 2,
     "explanation": "(가)보다 120년 늦게 만들어졌으니 300−120=180(년) 전이에요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 2,
@@ -7256,7 +7236,8 @@
     "answer": 2,
     "explanation": "방문객이 늘수록 훼손될 수 있어서 관람 인원과 구역을 관리해야 해요.",
     "semester": 1,
-    "unit": "우리 지역의 문화유산(국가유산)"
+    "unit": "우리 지역의 국가유산",
+    "standard": "[4사06-01]"
   },
   {
     "difficulty": 1,
@@ -7271,7 +7252,7 @@
     "answer": 3,
     "explanation": "어른께 알리거나 누리집에 제안하면 공공기관이 해결할 수 있어요.",
     "semester": 2,
-    "unit": "지역 문제 해결",
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
     "standard": "[4사09-01]"
   },
   {
@@ -7287,7 +7268,7 @@
     "answer": 0,
     "explanation": "12명으로 가장 많은 쓰레기 문제를 먼저 해결해요.",
     "semester": 2,
-    "unit": "지역 문제 해결",
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
     "standard": "[4사09-01]"
   },
   {
@@ -7301,7 +7282,7 @@
     "answer": 1,
     "explanation": "원인을 해결하지 않으면 같은 문제가 다시 생길 수 있어요.",
     "semester": 2,
-    "unit": "지역 문제 해결",
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
     "standard": "[4사09-01]"
   },
   {
@@ -7317,7 +7298,7 @@
     "answer": 1,
     "explanation": "(다)는 예산을 넘고, (나)는 효과가 보통이므로 효과가 큰 (가)가 알맞아요.",
     "semester": 2,
-    "unit": "지역 문제 해결",
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
     "standard": "[4사09-01]"
   },
   {
@@ -7333,7 +7314,7 @@
     "answer": 2,
     "explanation": "방문객이 식당과 숙박 시설을 많이 이용하면 그곳에서 일할 사람이 더 필요해져요.",
     "semester": 2,
-    "unit": "지역 문제 해결",
+    "unit": "지역문제를 해결하고 지역을 알리는 노력",
     "standard": "[4사09-02]"
   }
 ]

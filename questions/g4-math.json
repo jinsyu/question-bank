@@ -12,7 +12,8 @@
     "answer": 2,
     "explanation": "직각의 3분의 1은 30°라서 30°+90°=120°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 1,
@@ -27,7 +28,8 @@
     "answer": 3,
     "explanation": "직각보다 작은 각을 예각이라고 해요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 1,
@@ -42,7 +44,8 @@
     "answer": 1,
     "explanation": "90°보다 크고 180°보다 작은 각은 둔각이에요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 1,
@@ -57,7 +60,8 @@
     "answer": 2,
     "explanation": "세 변이 모두 같은 삼각형은 정삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 1,
@@ -72,7 +76,8 @@
     "answer": 1,
     "explanation": "직각으로 만나는 두 직선은 서로 수직이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 1,
@@ -87,7 +92,8 @@
     "answer": 2,
     "explanation": "서로 만나지 않는 두 직선을 평행선이라고 해요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 1,
@@ -102,7 +108,8 @@
     "answer": 0,
     "explanation": "평행한 변이 한 쌍이라도 있으면 사다리꼴이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -117,7 +124,8 @@
     "answer": 0,
     "explanation": "네 변의 길이가 모두 같은 사각형은 마름모예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -132,7 +140,8 @@
     "answer": 3,
     "explanation": "선분으로만 둘러싸인 도형을 다각형이라고 해요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -147,7 +156,8 @@
     "answer": 3,
     "explanation": "다각형은 변과 꼭짓점 수가 같아서 7+7=14, 칠각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -162,7 +172,8 @@
     "answer": 0,
     "explanation": "삼각형의 세 각의 크기의 합은 180°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 1,
@@ -177,7 +188,8 @@
     "answer": 1,
     "explanation": "사각형의 네 각의 크기의 합은 360°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
@@ -192,7 +204,8 @@
     "answer": 2,
     "explanation": "30000+15000=45000이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -207,7 +220,8 @@
     "answer": 0,
     "explanation": "1000만이 10개면 1억이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -222,7 +236,8 @@
     "answer": 0,
     "explanation": "분모가 같으면 분자끼리 더해요. 2+3=5라 5/7이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -235,7 +250,8 @@
     "answer": 0,
     "explanation": "정사각형은 네 변의 길이가 모두 같아 마름모예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -248,7 +264,8 @@
     "answer": 1,
     "explanation": "세 각의 합이 180°라 둔각은 1개만 있어요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -261,7 +278,8 @@
     "answer": 0,
     "explanation": "이웃하지 않는 두 꼭짓점을 이은 선분이 대각선이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -276,7 +294,8 @@
     "answer": 1,
     "explanation": "밀기를 해도 모양은 그대로이고 위치만 바뀌어요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -291,7 +310,8 @@
     "answer": 1,
     "explanation": "180°−50°−70°=60°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
@@ -306,7 +326,8 @@
     "answer": 0,
     "explanation": "360°−90°−90°−100°=80°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
@@ -321,7 +342,8 @@
     "answer": 3,
     "explanation": "두 밑각이 40°씩이라 180°−80°=100°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 1,
@@ -336,7 +358,8 @@
     "answer": 0,
     "explanation": "세 각이 같으니 180°÷3=60°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -351,7 +374,8 @@
     "answer": 0,
     "explanation": "숫자 한 칸은 30°라 3칸은 30°×3=90°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -366,7 +390,8 @@
     "answer": 0,
     "explanation": "숫자 한 칸은 30°라 4칸은 30°×4=120°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -381,7 +406,8 @@
     "answer": 1,
     "explanation": "90°×4=360°라 한 바퀴 돌아 처음과 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -396,7 +422,8 @@
     "answer": 1,
     "explanation": "앞의 수에 2를 곱하고 1을 더해요. 15×2+1=31이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 1,
@@ -411,7 +438,8 @@
     "answer": 0,
     "explanation": "분모는 그대로 두고 분자끼리 빼요. 5−2=3이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -426,7 +454,8 @@
     "answer": 1,
     "explanation": "1과 3/5은 8/5이에요. 8/5+4/5=12/5예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -441,7 +470,8 @@
     "answer": 1,
     "explanation": "7/4+4/4=11/4이고, 11/4은 2와 3/4이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -456,7 +486,8 @@
     "answer": 2,
     "explanation": "3은 소수 첫째 자리 숫자라 0.3을 나타내요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 1,
@@ -471,7 +502,8 @@
     "answer": 3,
     "explanation": "가장 많은 날 15권, 적은 날 8권이라 15−8=7(권)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -486,7 +518,8 @@
     "answer": 1,
     "explanation": "시간에 따라 변하는 모습은 꺾은선그래프가 좋아요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -501,7 +534,8 @@
     "answer": 2,
     "explanation": "이웃한 두 각의 합은 180°라 180°−70°=110°예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -516,7 +550,8 @@
     "answer": 1,
     "explanation": "마름모는 네 변이 같아 7×4=28(cm)예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -531,7 +566,8 @@
     "answer": 3,
     "explanation": "정오각형은 변이 5개라 6×5=30(cm)예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -544,7 +580,8 @@
     "answer": 0,
     "explanation": "평행사변형은 마주 보는 변의 길이가 서로 같아요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -557,7 +594,8 @@
     "answer": 1,
     "explanation": "평행한 변이 한 쌍만 있으면 평행사변형이 아니에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -570,22 +608,8 @@
     "answer": 0,
     "explanation": "두 변 이상의 길이가 같으니 이등변삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "오각형을 한 꼭짓점에서 대각선을 그어 삼각형 3개로 나누었어요. 오각형의 다섯 각의 크기의 합은 몇 도일까요?",
-    "choices": [
-      "720°",
-      "360°",
-      "450°",
-      "540°"
-    ],
-    "answer": 3,
-    "explanation": "삼각형 한 개의 세 각의 합은 180°라서 180°×3=540°예요.",
-    "semester": 2,
-    "unit": "다각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -600,7 +624,8 @@
     "answer": 3,
     "explanation": "한 꼭짓점에서 3개씩, 6×3÷2=9(개)예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 3,
@@ -615,22 +640,8 @@
     "answer": 3,
     "explanation": "사각형은 2개, 오각형은 5개라 2+5=7(개)예요.",
     "semester": 2,
-    "unit": "다각형"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "정오각형을 한 꼭짓점에서 대각선을 그어 삼각형 3개로 나누었어요. 정오각형 한 각의 크기는 몇 도일까요?",
-    "choices": [
-      "120°",
-      "108°",
-      "90°",
-      "100°"
-    ],
-    "answer": 1,
-    "explanation": "다섯 각의 합은 180°×3=540°이고, 정오각형은 다섯 각이 모두 같아서 540°÷5=108°예요.",
-    "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 3,
@@ -645,7 +656,8 @@
     "answer": 1,
     "explanation": "1억 25개는 25억, 1만 300개는 300만이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -660,7 +672,8 @@
     "answer": 2,
     "explanation": "10배 하면 각 자리 숫자가 한 자리씩 올라가요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -675,7 +688,8 @@
     "answer": 3,
     "explanation": "17/5−9/5=8/5=1과 3/5(m)예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -690,7 +704,8 @@
     "answer": 3,
     "explanation": "자리를 맞춰 1.50+0.75=2.25(L)예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -705,22 +720,24 @@
     "answer": 2,
     "explanation": "자리를 맞춰 4.20−2.75=1.45(km)예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "시계가 5시일 때 긴바늘과 짧은바늘이 이루는 작은 쪽 각은 몇 도일까요?",
+    "question": "시계의 긴바늘이 12에서 2까지 움직였어요. 긴바늘이 움직인 각은 몇 도일까요?",
     "choices": [
-      "150°",
-      "120°",
       "60°",
-      "180°"
+      "30°",
+      "90°",
+      "120°"
     ],
     "answer": 0,
-    "explanation": "숫자 한 칸은 30°라 5칸은 30°×5=150°예요.",
+    "explanation": "숫자 한 칸은 30°라 2칸은 30°×2=60°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -735,7 +752,8 @@
     "answer": 3,
     "explanation": "180°−90°−35°=55°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 3,
@@ -750,7 +768,8 @@
     "answer": 2,
     "explanation": "(180°−40°)÷2=70°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -765,7 +784,8 @@
     "answer": 2,
     "explanation": "3씩 곱하는 규칙이라 54×3=162예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 3,
@@ -780,7 +800,8 @@
     "answer": 2,
     "explanation": "넷째는 1+3+5+7=16이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -795,7 +816,8 @@
     "answer": 1,
     "explanation": "한 줄마다 3개씩 늘어요. 4+3×5=19(개)예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -810,7 +832,8 @@
     "answer": 0,
     "explanation": "9~10시는 3℃, 10~11시는 4℃ 올랐어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -823,7 +846,8 @@
     "answer": 0,
     "explanation": "마름모의 두 대각선은 수직으로 만나요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -836,7 +860,8 @@
     "answer": 0,
     "explanation": "직사각형의 두 대각선은 길이가 같아요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -849,7 +874,8 @@
     "answer": 1,
     "explanation": "세 각이 30°, 30°, 120°인 삼각형처럼 둔각삼각형이면서 이등변삼각형인 것도 있어요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 2,
@@ -864,7 +890,8 @@
     "answer": 3,
     "explanation": "360°−275°=85°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 1,
@@ -879,7 +906,8 @@
     "answer": 0,
     "explanation": "맨 앞 5가 천만의 자리 숫자예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 3,
@@ -894,7 +922,8 @@
     "answer": 1,
     "explanation": "307000020이라서 0이 6개예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -909,7 +938,8 @@
     "answer": 2,
     "explanation": "450000원+12000원=462000원이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -924,7 +954,8 @@
     "answer": 3,
     "explanation": "10만씩 4번이면 40만이 커져서 65만이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -939,7 +970,8 @@
     "answer": 0,
     "explanation": "4억 2천만은 420000000으로 가장 커요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 3,
@@ -954,7 +986,8 @@
     "answer": 1,
     "explanation": "거꾸로 3000만을 빼면 4억 9000만이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 1,
@@ -967,7 +1000,8 @@
     "answer": 0,
     "explanation": "1억의 10000배가 1조예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 3,
@@ -982,7 +1016,8 @@
     "answer": 2,
     "explanation": "0은 맨 앞에 올 수 없으니 1 다음에 0을 써요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -997,7 +1032,8 @@
     "answer": 3,
     "explanation": "5170만이라서 오천백칠십만이라고 읽어요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -1012,7 +1048,8 @@
     "answer": 0,
     "explanation": "3×4=12 뒤에 0을 3개 붙여 12000이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -1027,7 +1064,8 @@
     "answer": 1,
     "explanation": "254×30=7620, 254×6=1524, 더하면 9144예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 3,
@@ -1042,7 +1080,8 @@
     "answer": 2,
     "explanation": "125×48=6000, 6000−870=5130개예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -1057,7 +1096,8 @@
     "answer": 3,
     "explanation": "26×32=832이고 845−832=13이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 3,
@@ -1072,7 +1112,8 @@
     "answer": 0,
     "explanation": "45×5=225로 5명이 남아서 1대가 더 필요해요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -1087,7 +1128,8 @@
     "answer": 0,
     "explanation": "나누어지는 수가 같으면 나누는 수가 작을수록 몫이 커요. 450÷15=30이 가장 커요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -1102,7 +1144,8 @@
     "answer": 1,
     "explanation": "24×15=360에 나머지 7을 더하면 367이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-05]"
   },
   {
     "difficulty": 1,
@@ -1117,7 +1160,8 @@
     "answer": 2,
     "explanation": "36÷4=9와 같아서 9예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -1132,7 +1176,8 @@
     "answer": 3,
     "explanation": "850×32=27200원, 30000−27200=2800원이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 1,
@@ -1147,7 +1192,8 @@
     "answer": 0,
     "explanation": "400×30=12000으로 가장 커요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 3,
@@ -1162,7 +1208,8 @@
     "answer": 1,
     "explanation": "어떤 수는 384−24=360이에요. 360÷24=15예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 1,
@@ -1177,7 +1224,8 @@
     "answer": 2,
     "explanation": "125+48=173이라서 173°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 1,
@@ -1192,7 +1240,8 @@
     "answer": 3,
     "explanation": "90°보다 크고 180°보다 작은 95°가 둔각이에요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 2,
@@ -1207,7 +1256,8 @@
     "answer": 0,
     "explanation": "직선이 이루는 각은 180°라서 180°−65°=115°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 1,
@@ -1222,7 +1272,8 @@
     "answer": 1,
     "explanation": "45°+60°=105°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -1237,7 +1288,8 @@
     "answer": 2,
     "explanation": "180°−90°=90°를 둘로 나누면 45°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 3,
@@ -1252,7 +1304,8 @@
     "answer": 3,
     "explanation": "360°−120°=240°, 240÷3=80°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 3,
@@ -1267,7 +1320,8 @@
     "answer": 0,
     "explanation": "반대쪽 눈금이라 180°−130°=50°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -1280,7 +1334,8 @@
     "answer": 1,
     "explanation": "30°+40°=70°처럼 예각이 될 수도 있어요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 2,
@@ -1295,7 +1350,8 @@
     "answer": 1,
     "explanation": "6을 반 바퀴 돌리면 9 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -1310,7 +1366,8 @@
     "answer": 2,
     "explanation": "오른쪽으로 뒤집으면 좌우가 바뀌어요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -1325,7 +1382,8 @@
     "answer": 3,
     "explanation": "두 번 뒤집으면 제자리로 돌아와요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -1340,7 +1398,8 @@
     "answer": 0,
     "explanation": "시계 반대 방향으로 270° 돌리면 시계 방향으로 90° 돌린 것과 같은 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -1355,7 +1414,8 @@
     "answer": 1,
     "explanation": "A는 왼쪽과 오른쪽이 같은 모양이에요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -1368,7 +1428,8 @@
     "answer": 0,
     "explanation": "180°는 반 바퀴라서 방향과 상관없이 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -1383,7 +1444,8 @@
     "answer": 2,
     "explanation": "왼쪽 5칸−오른쪽 3칸=왼쪽 2칸이고 위쪽은 2칸이에요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-05]"
   },
   {
     "difficulty": 1,
@@ -1398,7 +1460,8 @@
     "answer": 3,
     "explanation": "막대가 길수록 수량이 많아요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -1413,7 +1476,8 @@
     "answer": 0,
     "explanation": "5×7=35명이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -1428,7 +1492,8 @@
     "answer": 1,
     "explanation": "배는 40−12−10=18(명)이에요. 18÷2=9(칸)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-03]"
   },
   {
     "difficulty": 1,
@@ -1443,7 +1508,8 @@
     "answer": 2,
     "explanation": "막대 길이로 많고 적음을 쉽게 비교해요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -1458,7 +1524,8 @@
     "answer": 1,
     "explanation": "9−5=4(칸) 차이이고 한 칸이 2명이라 4×2=8(명)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -1471,7 +1538,8 @@
     "answer": 0,
     "explanation": "막대그래프는 가로나 세로로 모두 나타낼 수 있어요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -1486,7 +1554,8 @@
     "answer": 0,
     "explanation": "가운데까지 1씩 커졌다가 작아지는 규칙이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -1501,7 +1570,8 @@
     "answer": 1,
     "explanation": "다섯째 식은 500+600=1100이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -1516,7 +1586,8 @@
     "answer": 2,
     "explanation": "백의 자리 숫자가 1씩 커지니 100씩 커져요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -1531,7 +1602,8 @@
     "answer": 3,
     "explanation": "순서 수를 두 번 곱해서 6×6=36개예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -1546,7 +1618,8 @@
     "answer": 0,
     "explanation": "25+17=42이므로 42−30=12예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-03]"
   },
   {
     "difficulty": 3,
@@ -1561,7 +1634,8 @@
     "answer": 1,
     "explanation": "36÷4=9, 18÷2=9로 양쪽이 같아요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-03]"
   },
   {
     "difficulty": 2,
@@ -1576,7 +1650,8 @@
     "answer": 2,
     "explanation": "1은 5/5라서 5/5−3/5=2/5예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -1591,7 +1666,8 @@
     "answer": 3,
     "explanation": "자연수끼리 3, 분수끼리 7/6이에요. 3과 7/6은 4와 1/6이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -1606,7 +1682,8 @@
     "answer": 0,
     "explanation": "4를 3과 7/7로 바꿔 빼면 2와 2/7이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -1621,7 +1698,8 @@
     "answer": 1,
     "explanation": "13/4−7/4−3/4=3/4라서 3/4 L이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -1636,7 +1714,8 @@
     "answer": 2,
     "explanation": "분모는 그대로 두고 분자끼리만 더해 3/5이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -1651,7 +1730,8 @@
     "answer": 3,
     "explanation": "1은 9/9라서 9−4=5예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -1664,7 +1744,8 @@
     "answer": 0,
     "explanation": "분모가 같으면 분자끼리 더하면 돼요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -1679,7 +1760,8 @@
     "answer": 0,
     "explanation": "20−6=14, 14÷2=7cm예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -1694,7 +1776,8 @@
     "answer": 1,
     "explanation": "정삼각형은 8cm, 정사각형은 6cm라 2cm 차이예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -1709,7 +1792,8 @@
     "answer": 2,
     "explanation": "한 각이 90°라서 직각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 3,
@@ -1724,7 +1808,8 @@
     "answer": 3,
     "explanation": "나머지 각이 100°로 둔각이고 두 각이 같아 이등변삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 2,
@@ -1737,7 +1822,8 @@
     "answer": 0,
     "explanation": "두 각이 45°, 45°이고 한 각이 90°인 삼각형이 있어요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 2,
@@ -1750,7 +1836,8 @@
     "answer": 0,
     "explanation": "세 각이 모두 60°로 예각이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -1765,7 +1852,8 @@
     "answer": 0,
     "explanation": "세 각이 모두 예각이어야 예각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -1780,7 +1868,8 @@
     "answer": 1,
     "explanation": "0.01이 37개면 0.37이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 1,
@@ -1795,7 +1884,8 @@
     "answer": 2,
     "explanation": "소수 끝자리 0은 생략해도 크기가 같아요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-14]"
   },
   {
     "difficulty": 2,
@@ -1810,7 +1900,8 @@
     "answer": 3,
     "explanation": "5.00−1.28=3.72예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -1825,7 +1916,8 @@
     "answer": 0,
     "explanation": "2.35+1.8=4.15, 6.4−4.15=2.25m예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -1840,7 +1932,8 @@
     "answer": 1,
     "explanation": "1/10이 되면 소수점이 왼쪽으로 한 칸 옮겨져요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 2,
@@ -1855,7 +1948,8 @@
     "answer": 0,
     "explanation": "0.01이 8칸이면 0.08이에요. 2.37+0.08=2.45예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 1,
@@ -1868,7 +1962,8 @@
     "answer": 1,
     "explanation": "5는 소수 둘째 자리 숫자라 0.05를 나타내요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 2,
@@ -1883,7 +1978,8 @@
     "answer": 3,
     "explanation": "0.901은 0.900보다 커서 가장 커요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-14]"
   },
   {
     "difficulty": 2,
@@ -1898,7 +1994,8 @@
     "answer": 0,
     "explanation": "마주 보는 변이 같아서 (8+5)×2=26cm예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -1913,7 +2010,8 @@
     "answer": 2,
     "explanation": "직사각형과 마름모는 모두 마주 보는 두 쌍의 변이 평행해요. 네 각이 직각인 것은 직사각형, 네 변이 같은 것은 마름모의 성질이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -1928,7 +2026,8 @@
     "answer": 2,
     "explanation": "평행선에 수직인 선분의 길이가 거리예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 2,
@@ -1943,7 +2042,8 @@
     "answer": 3,
     "explanation": "마름모의 각은 직각이 아닐 수도 있어요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -1956,7 +2056,8 @@
     "answer": 0,
     "explanation": "잘린 사각형에는 직사각형의 마주 보는 두 변의 일부가 그대로 남아 서로 평행해요. 평행한 변이 한 쌍 있으니 사다리꼴이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -1971,7 +2072,8 @@
     "answer": 0,
     "explanation": "세로는 12−4=8(cm)라서 (12+8)×2=40(cm)예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -1986,7 +2088,8 @@
     "answer": 1,
     "explanation": "물결선으로 필요 없는 눈금을 생략해요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -2001,7 +2104,8 @@
     "answer": 2,
     "explanation": "한 달에 1kg씩 늘었으니 5kg으로 예상해요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -2016,7 +2120,8 @@
     "answer": 3,
     "explanation": "기울기가 클수록 변화한 양이 커요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -2029,7 +2134,8 @@
     "answer": 0,
     "explanation": "선이 내려가면 값이 줄어든 거예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -2044,7 +2150,8 @@
     "answer": 0,
     "explanation": "한 칸이 0.2kg이니 0.2, 0.4, 0.6, … 처럼 0.2씩 7번 뛰어 세면 1.4kg이에요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -2059,22 +2166,24 @@
     "answer": 1,
     "explanation": "변과 각이 모두 같아야 정다각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "팔각형에 그을 수 있는 대각선은 모두 몇 개일까요?",
+    "question": "대각선을 한 개도 그을 수 없는 다각형은 어느 것일까요?",
     "choices": [
-      "16개",
-      "40개",
-      "20개",
-      "24개"
+      "사각형",
+      "오각형",
+      "삼각형",
+      "육각형"
     ],
     "answer": 2,
-    "explanation": "한 꼭짓점에서 5개씩, 8×5÷2=20개예요.",
+    "explanation": "삼각형은 어느 두 꼭짓점도 이웃해서 대각선을 그을 수 없어요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -2089,7 +2198,8 @@
     "answer": 3,
     "explanation": "72÷8=9라서 9 cm예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -2104,7 +2214,8 @@
     "answer": 0,
     "explanation": "사각형은 대각선이 2개, 오각형은 5개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -2117,7 +2228,8 @@
     "answer": 0,
     "explanation": "세 꼭짓점이 모두 서로 이웃해서 대각선이 없어요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 3,
@@ -2132,7 +2244,8 @@
     "answer": 1,
     "explanation": "정육각형의 모든 변의 길이의 합은 4×6=24(cm)예요. 24÷3=8이라서 8 cm예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -2145,7 +2258,8 @@
     "answer": 1,
     "explanation": "네 각이 직각이 아니면 마름모예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -2160,7 +2274,8 @@
     "answer": 2,
     "explanation": "큰 정사각형의 한 변은 5+5=10(cm)라서 네 변의 길이의 합은 10×4=40(cm)예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -2175,7 +2290,8 @@
     "answer": 3,
     "explanation": "변 5개와 꼭짓점 5개로 10개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -2190,7 +2306,8 @@
     "answer": 0,
     "explanation": "9990+10=10000이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 1,
@@ -2205,7 +2322,8 @@
     "answer": 1,
     "explanation": "억의 자리 숫자가 1씩 커지니 1억씩 뛰어 센 것이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 1,
@@ -2218,7 +2336,8 @@
     "answer": 0,
     "explanation": "10만이 10개 모이면 100만이 돼요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -2233,7 +2352,8 @@
     "answer": 2,
     "explanation": "4는 십만의 자리 숫자라서 400000을 나타내요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -2248,7 +2368,8 @@
     "answer": 1,
     "explanation": "50억씩 커지므로 450억 다음은 500억이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -2263,7 +2384,8 @@
     "answer": 3,
     "explanation": "730만을 100배 하면 7억 3000만이 되므로 어떤 수는 730만이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 3,
@@ -2278,7 +2400,8 @@
     "answer": 0,
     "explanation": "□가 5보다 커야 해서 6, 7, 8, 9로 4개예요. 5이면 두 수가 같아요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -2293,7 +2416,8 @@
     "answer": 2,
     "explanation": "1000만은 10만이 100개인 수라서 100달이 걸려요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -2306,7 +2430,8 @@
     "answer": 0,
     "explanation": "9999억에 1억을 더하면 10000억이고, 10000억이 1조예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 3,
@@ -2321,7 +2446,8 @@
     "answer": 1,
     "explanation": "3억 5020만 400이므로 350200400이라고 써요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -2336,7 +2462,8 @@
     "answer": 0,
     "explanation": "8009억은 1조보다 작으니 조가 있는 수들보다 작아요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 1,
@@ -2351,7 +2478,8 @@
     "answer": 0,
     "explanation": "직각은 90°이므로 직각을 똑같이 90으로 나눈 하나가 1°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -2366,7 +2494,8 @@
     "answer": 3,
     "explanation": "90°는 직각이에요. 예각은 0°보다 크고 직각보다 작은 각이에요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 2,
@@ -2381,7 +2510,8 @@
     "answer": 1,
     "explanation": "긴바늘은 5분에 30°씩 돌아요. 20분이면 30°×4=120°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 3,
@@ -2396,7 +2526,8 @@
     "answer": 3,
     "explanation": "180°−100°=80°를 똑같이 둘로 나누면 40°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 3,
@@ -2411,7 +2542,8 @@
     "answer": 2,
     "explanation": "360°−180°=180°를 나누면 80°와 100°라서 큰 각은 100°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
@@ -2424,7 +2556,8 @@
     "answer": 0,
     "explanation": "둔각은 90°보다 크니 두 개를 더하면 180°보다 커요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 2,
@@ -2439,7 +2572,8 @@
     "answer": 3,
     "explanation": "삼각형 세 각의 합이 180°이니 삼각형 2개는 180°×2=360°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 1,
@@ -2454,7 +2588,8 @@
     "answer": 1,
     "explanation": "7×6=42에 0을 3개 붙이면 42000이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 1,
@@ -2469,7 +2604,8 @@
     "answer": 2,
     "explanation": "60×8=480이므로 몫은 8이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -2484,7 +2620,8 @@
     "answer": 3,
     "explanation": "312×20=6240과 312×5=1560을 더하면 7800이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -2499,22 +2636,8 @@
     "answer": 0,
     "explanation": "18×42=756이고 764−756=8이라서 몫 42, 나머지 8이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "398×21을 어림한 값에 가장 가까운 것은 무엇일까요?",
-    "choices": [
-      "800",
-      "8000",
-      "80000",
-      "4000"
-    ],
-    "answer": 1,
-    "explanation": "398은 약 400, 21은 약 20이니 400×20=8000쯤이에요.",
-    "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -2529,7 +2652,8 @@
     "answer": 2,
     "explanation": "35×17=595이므로 17모둠에 주고 600−595=5장이 남아요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -2544,7 +2668,8 @@
     "answer": 1,
     "explanation": "800÷30=26…20이에요. 남은 20cm로는 못 만들어서 26개예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 3,
@@ -2559,7 +2684,8 @@
     "answer": 0,
     "explanation": "4주는 28일이에요. 225×28=6300이므로 6300mL예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -2572,7 +2698,8 @@
     "answer": 0,
     "explanation": "80÷20=4, 800÷200=4처럼 몫이 같아요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -2585,7 +2712,8 @@
     "answer": 1,
     "explanation": "25×4=100이라서 250×40=10000이에요. 0이 4개예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 1,
@@ -2600,7 +2728,8 @@
     "answer": 0,
     "explanation": "위쪽이나 아래쪽으로 뒤집으면 위쪽과 아래쪽이 서로 바뀌어요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -2613,7 +2742,8 @@
     "answer": 0,
     "explanation": "밀기는 자리만 옮기는 것이라 모양과 크기가 변하지 않아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -2628,22 +2758,24 @@
     "answer": 2,
     "explanation": "90°를 3번 돌리면 90°×3=270°예요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "위쪽으로 뒤집어도 모양이 그대로인 알파벳은 무엇일까요?",
+    "question": "도형을 오른쪽으로 뒤집은 모양과 왼쪽으로 뒤집은 모양은 어떠할까요?",
     "choices": [
-      "A",
-      "F",
-      "E",
-      "P"
+      "서로 달라요",
+      "위아래가 바뀌어요",
+      "서로 같아요",
+      "모양이 커져요"
     ],
     "answer": 2,
-    "explanation": "E는 위쪽과 아래쪽이 같은 모양이라 위쪽으로 뒤집어도 그대로예요.",
+    "explanation": "오른쪽으로 뒤집어도 왼쪽으로 뒤집어도 같은 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -2658,7 +2790,8 @@
     "answer": 3,
     "explanation": "180° 돌리면 두 숫자의 자리가 바뀌고 6은 9처럼 보여서 98이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -2673,7 +2806,8 @@
     "answer": 3,
     "explanation": "좌우와 위아래가 모두 바뀌므로 180° 돌린 모양과 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -2688,7 +2822,8 @@
     "answer": 0,
     "explanation": "반대 방향인 왼쪽으로 같은 칸 수만큼 4칸 밀면 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-05]"
   },
   {
     "difficulty": 2,
@@ -2701,7 +2836,8 @@
     "answer": 1,
     "explanation": "돌리기와 뒤집기는 다른 움직임이라서 모양이 다를 수 있어요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -2716,7 +2852,8 @@
     "answer": 3,
     "explanation": "오른쪽에서 시계 방향으로 90° 돌리면 아래쪽을 가리켜요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -2731,7 +2868,8 @@
     "answer": 1,
     "explanation": "돌리면 왼쪽을 가리키고, 오른쪽으로 뒤집으면 좌우가 바뀌어 오른쪽이에요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -2746,7 +2884,8 @@
     "answer": 2,
     "explanation": "가로에 반 이름을 나타냈으니 세로 눈금은 조사한 수량인 안경 쓴 학생 수를 나타내요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -2761,7 +2900,8 @@
     "answer": 1,
     "explanation": "18÷2=9이므로 9칸이 필요해요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -2776,7 +2916,8 @@
     "answer": 3,
     "explanation": "많은 순서는 피구, 축구, 수영, 줄넘기라서 두 번째는 축구예요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -2791,7 +2932,8 @@
     "answer": 1,
     "explanation": "(나) 막대는 8−3=5(칸)이고, 5×5=25(명)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -2806,7 +2948,8 @@
     "answer": 1,
     "explanation": "30−9−5=16(명)을 여름과 겨울이 똑같이 나누니 8명이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -2819,7 +2962,8 @@
     "answer": 1,
     "explanation": "수량은 막대의 길이로 나타내요. 막대의 굵기는 모두 같게 그려요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -2834,7 +2978,8 @@
     "answer": 1,
     "explanation": "동화는 24÷3=8(칸), 역사는 9÷3=3(칸)이라서 5칸 차이예요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-03]"
   },
   {
     "difficulty": 3,
@@ -2849,7 +2994,8 @@
     "answer": 2,
     "explanation": "떡볶이는 4×3=12명이니 모두 12+4=16명이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -2864,7 +3010,8 @@
     "answer": 0,
     "explanation": "무엇을 나타낼지와 눈금을 먼저 정해야 막대를 그릴 수 있어요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-03]"
   },
   {
     "difficulty": 1,
@@ -2879,7 +3026,8 @@
     "answer": 0,
     "explanation": "막대가 길수록 수량이 많으니 사과를 고른 학생이 가장 많아요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -2894,7 +3042,8 @@
     "answer": 0,
     "explanation": "5씩 커지는 규칙이라 19+5=24예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -2909,7 +3058,8 @@
     "answer": 3,
     "explanation": "앞의 수를 2로 나누면 다음 수가 돼요. 400÷2=200이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -2924,7 +3074,8 @@
     "answer": 1,
     "explanation": "곱해지는 수가 1씩 커지면 곱은 11씩 커져서 104×11=1144예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 3,
@@ -2939,7 +3090,8 @@
     "answer": 2,
     "explanation": "1이 하나씩 늘고 끝자리가 1씩 작아져서 111105예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 3,
@@ -2954,7 +3106,8 @@
     "answer": 1,
     "explanation": "4개씩 늘어나는 규칙이에요. 6개면 20개, 7개면 24개예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -2969,7 +3122,8 @@
     "answer": 0,
     "explanation": "48÷6=8이니 16÷□도 8이어야 해요. 16÷2=8이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-03]"
   },
   {
     "difficulty": 3,
@@ -2984,7 +3138,8 @@
     "answer": 2,
     "explanation": "2305에 200과 3000을 더하면 5505예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -2999,7 +3154,8 @@
     "answer": 1,
     "explanation": "1, 3, 5, 7씩 커지니 다음은 9 커져서 30이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 1,
@@ -3014,7 +3170,8 @@
     "answer": 1,
     "explanation": "분모는 그대로 두고 분자끼리 더해 7/8이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -3029,7 +3186,8 @@
     "answer": 2,
     "explanation": "5/6+4/6=9/6이고, 9/6는 1과 3/6이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -3044,7 +3202,8 @@
     "answer": 0,
     "explanation": "자연수끼리 3−1=2, 분수끼리 4/7−2/7=2/7이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -3059,7 +3218,8 @@
     "answer": 3,
     "explanation": "5를 4와 8/8로 바꾸어 빼면 2와 5/8kg이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -3074,7 +3234,8 @@
     "answer": 0,
     "explanation": "2+□가 9보다 작아야 하니 □는 7보다 작아요. 가장 큰 수는 6이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -3089,7 +3250,8 @@
     "answer": 1,
     "explanation": "4와 1/6−1과 2/6를 계산하면 2와 5/6이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -3102,7 +3264,8 @@
     "answer": 0,
     "explanation": "자연수끼리 2, 분수끼리 4/4=1이니 모두 3이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -3117,7 +3280,8 @@
     "answer": 3,
     "explanation": "차례로 1과 1/5, 1과 2/5, 1, 1과 3/5이라서 마지막이 가장 커요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -3132,7 +3296,8 @@
     "answer": 3,
     "explanation": "두 변의 길이가 같은 삼각형을 이등변삼각형이라고 해요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 1,
@@ -3147,7 +3312,8 @@
     "answer": 1,
     "explanation": "두 변이 5cm로 같으니 이등변삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -3162,7 +3328,8 @@
     "answer": 2,
     "explanation": "110°가 둔각이므로 둔각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 3,
@@ -3177,7 +3344,8 @@
     "answer": 2,
     "explanation": "밑각이 50°면 50°+50°+80°=180°라서 꼭지각은 80°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -3192,7 +3360,8 @@
     "answer": 1,
     "explanation": "60°가 어느 각이든 나머지 두 각도 60°가 되어 정삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -3205,7 +3374,8 @@
     "answer": 1,
     "explanation": "한 각이 직각이거나 둔각인 이등변삼각형도 있어요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 3,
@@ -3220,7 +3390,8 @@
     "answer": 0,
     "explanation": "나머지 한 각은 85°라서 세 각이 모두 예각이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -3235,7 +3406,8 @@
     "answer": 3,
     "explanation": "소수점을 맞추어 더하면 0.46+0.30=0.76이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 1,
@@ -3250,7 +3422,8 @@
     "answer": 0,
     "explanation": "2와 0.4와 0.09를 합하면 2.49예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 2,
@@ -3265,7 +3438,8 @@
     "answer": 1,
     "explanation": "2.60+0.85=3.45이므로 3.45kg이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -3280,7 +3454,8 @@
     "answer": 2,
     "explanation": "7.30−2.58로 자리를 맞추어 빼면 4.72예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -3295,7 +3470,8 @@
     "answer": 0,
     "explanation": "가장 큰 수 7.53에서 가장 작은 수 3.57을 빼면 3.96이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-14]"
   },
   {
     "difficulty": 1,
@@ -3310,7 +3486,8 @@
     "answer": 3,
     "explanation": "100cm가 1m이므로 245cm는 2.45m예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 2,
@@ -3325,7 +3502,8 @@
     "answer": 0,
     "explanation": "□는 2.9+1.46이므로 4.36이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -3338,7 +3516,8 @@
     "answer": 1,
     "explanation": "끝자리가 아니라 소수점의 자리를 맞추어 같은 자리끼리 더해요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -3353,7 +3532,8 @@
     "answer": 2,
     "explanation": "1000m가 1km라서 1250m는 1.25km예요. 두 거리가 같아요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-14]"
   },
   {
     "difficulty": 1,
@@ -3368,7 +3548,8 @@
     "answer": 1,
     "explanation": "서로 수직인 두 직선에서 한 직선을 다른 직선의 수선이라고 해요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 1,
@@ -3383,7 +3564,8 @@
     "answer": 3,
     "explanation": "마주 보는 두 쌍의 변이 평행하면 평행사변형이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -3398,7 +3580,8 @@
     "answer": 1,
     "explanation": "정사각형은 네 변의 길이가 모두 같아서 항상 마름모예요. 나머지는 네 변의 길이가 다를 수 있어요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -3411,7 +3594,8 @@
     "answer": 0,
     "explanation": "마름모는 마주 보는 두 쌍의 변이 평행하므로 평행사변형이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -3426,7 +3610,8 @@
     "answer": 2,
     "explanation": "직선 (나)가 가운데 있으니 5+3=8(cm)예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 3,
@@ -3441,7 +3626,8 @@
     "answer": 3,
     "explanation": "이웃한 두 각의 합은 180°예요. 70°와 110°라서 큰 각은 110°예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -3456,7 +3642,8 @@
     "answer": 2,
     "explanation": "선분이 옆으로 평평하면 두 때의 값이 같아서 변화가 없어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -3469,7 +3656,8 @@
     "answer": 0,
     "explanation": "점과 점 사이 선분을 보고 중간 값을 짐작할 수 있어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -3484,7 +3672,8 @@
     "answer": 1,
     "explanation": "차례로 2cm, 4cm, 1cm 자라서 3일~5일에 가장 많이 자랐어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -3499,7 +3688,8 @@
     "answer": 3,
     "explanation": "17.5−14.2=3.3이므로 3.3℃ 차이예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -3514,7 +3704,8 @@
     "answer": 1,
     "explanation": "17−12=5칸이고, 0.5kg이 5칸이면 2.5kg이에요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -3529,7 +3720,8 @@
     "answer": 2,
     "explanation": "반별 학생 수는 시간에 따른 변화가 아니라 항목끼리 비교하는 자료예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -3544,7 +3736,8 @@
     "answer": 3,
     "explanation": "가장 작은 값 32보다 조금 작은 30부터 시작해야 모든 값을 나타내요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -3559,7 +3752,8 @@
     "answer": 0,
     "explanation": "화요일 2.7m에서 수요일 2.5m로 낮아졌어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -3572,7 +3766,8 @@
     "answer": 1,
     "explanation": "세로 눈금 한 칸의 크기가 다르면 기울기만 보고 비교할 수 없어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -3587,7 +3782,8 @@
     "answer": 0,
     "explanation": "8cm 올라가고 2cm 내려갔으니 120+8−2=126cm예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -3602,37 +3798,24 @@
     "answer": 1,
     "explanation": "변이 7개인 다각형은 칠각형이에요.",
     "semester": 2,
-    "unit": "다각형"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "마름모가 정다각형이 아닐 수 있는 까닭은 무엇일까요?",
-    "choices": [
-      "네 변의 길이가 달라서",
-      "변이 곡선이어서",
-      "네 각의 크기가 다를 수 있어서",
-      "꼭짓점이 없어서"
-    ],
-    "answer": 2,
-    "explanation": "마름모는 네 변은 같지만 네 각의 크기가 모두 같지 않을 수 있어요.",
-    "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "정팔각형의 모든 각의 크기의 합이 1080°예요. 한 각의 크기는 몇 도일까요?",
+    "question": "마름모가 정다각형이 아닐 수 있는 까닭은 무엇일까요?",
     "choices": [
-      "120°",
-      "135°",
-      "145°",
-      "108°"
+      "네 변의 길이가 달라서",
+      "변이 곡선으로 되어 있어서",
+      "네 각이 다를 수 있어서",
+      "꼭짓점이 하나도 없어서"
     ],
-    "answer": 1,
-    "explanation": "정팔각형은 여덟 각이 모두 같으니 1080°÷8=135°예요.",
+    "answer": 2,
+    "explanation": "마름모는 네 변은 같지만 네 각의 크기가 모두 같지 않을 수 있어요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 3,
@@ -3645,7 +3828,8 @@
     "answer": 0,
     "explanation": "한 꼭짓점에서 4개씩, 7×4=28을 둘로 나누면 14개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -3660,7 +3844,8 @@
     "answer": 0,
     "explanation": "자신과 이웃한 두 꼭짓점을 빼면 7−3=4개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -3675,7 +3860,8 @@
     "answer": 3,
     "explanation": "정육각형은 가운데에서 정삼각형 6개로 나눌 수 있어요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-12]"
   },
   {
     "difficulty": 1,
@@ -3690,7 +3876,8 @@
     "answer": 2,
     "explanation": "3씩 커지는 규칙이라 12+3=15예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -3705,7 +3892,8 @@
     "answer": 2,
     "explanation": "앞의 수에 2를 곱하는 규칙이라 16×2=32예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -3720,7 +3908,8 @@
     "answer": 0,
     "explanation": "1×1, 2×2, 3×3, 4×4 다음은 5×5=25예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -3735,7 +3924,8 @@
     "answer": 2,
     "explanation": "8씩 작아지는 규칙이라 76−8=68이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -3750,7 +3940,8 @@
     "answer": 0,
     "explanation": "9000에서 1000 더 가면 10000이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 1,
@@ -3765,7 +3956,8 @@
     "answer": 1,
     "explanation": "1000이 10개면 10000이고 만이라고 읽어요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -3780,7 +3972,8 @@
     "answer": 2,
     "explanation": "삼만 3, 사천 4, 백 0, 육십 6, 일 0이라서 34060이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -3795,7 +3988,8 @@
     "answer": 3,
     "explanation": "5270만이니까 5는 천만의 자리 숫자예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -3810,7 +4004,8 @@
     "answer": 0,
     "explanation": "9999만에 1만을 더하면 1억이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -3825,7 +4020,8 @@
     "answer": 1,
     "explanation": "70000+3000+50=73050이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -3840,7 +4036,8 @@
     "answer": 0,
     "explanation": "9850만, 9950만, 1억 50만이 돼요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -3855,7 +4052,8 @@
     "answer": 3,
     "explanation": "억의 자리를 먼저 비교하면 10억이 가장 커요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -3870,7 +4068,8 @@
     "answer": 1,
     "explanation": "6억은 1000만이 60개, 4천만은 1000만이 4개라서 64개예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -3885,7 +4084,8 @@
     "answer": 1,
     "explanation": "1000억이 10개면 1조예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -3900,7 +4100,8 @@
     "answer": 0,
     "explanation": "3억, 2억 9000만, 2억 8000만, 2억 7000만이 돼요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 2,
@@ -3915,7 +4116,8 @@
     "answer": 1,
     "explanation": "가장 큰 여섯 자리 수는 987654이고, 만의 자리 숫자는 8이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -3930,7 +4132,8 @@
     "answer": 0,
     "explanation": "357만 원은 10만 원짜리 수표 35장(350만 원)과 1만 원짜리 지폐 7장(7만 원)이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -3945,7 +4148,8 @@
     "answer": 1,
     "explanation": "10배 하기 전 수는 4억 5천만의 10분의 1인 4500만이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -3960,7 +4164,8 @@
     "answer": 2,
     "explanation": "7120000에서 7은 7000000을 나타내서 가장 커요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-02]"
   },
   {
     "difficulty": 1,
@@ -3975,7 +4180,8 @@
     "answer": 3,
     "explanation": "90°+90°=180°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 1,
@@ -3990,7 +4196,8 @@
     "answer": 0,
     "explanation": "직각보다 크고 180°보다 작으니 둔각이에요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 1,
@@ -4005,7 +4212,8 @@
     "answer": 1,
     "explanation": "35+50=85라서 85°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 1,
@@ -4020,7 +4228,8 @@
     "answer": 2,
     "explanation": "150-75=75라서 75°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -4033,7 +4242,8 @@
     "answer": 1,
     "explanation": "사각형은 대각선으로 삼각형 2개로 나뉘어서 네 각의 크기의 합은 180°×2=360°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
@@ -4048,22 +4258,24 @@
     "answer": 3,
     "explanation": "180°-45°-70°=65°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "사각형의 세 각이 90°, 80°, 110°일 때 나머지 한 각은 몇 도일까요?",
+    "question": "삼각형의 두 각이 55°, 75°일 때 나머지 한 각은 몇 도일까요?",
     "choices": [
-      "80°",
-      "90°",
-      "100°",
-      "70°"
+      "50°",
+      "130°",
+      "60°",
+      "40°"
     ],
     "answer": 0,
-    "explanation": "360°-90°-80°-110°=80°예요.",
+    "explanation": "삼각형의 세 각의 합은 180°라서 180°−55°−75°=50°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 2,
@@ -4078,7 +4290,8 @@
     "answer": 1,
     "explanation": "숫자 한 칸이 30°라서 2칸이면 60°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -4093,7 +4306,8 @@
     "answer": 2,
     "explanation": "90÷6=15라서 15°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -4108,7 +4322,8 @@
     "answer": 2,
     "explanation": "0°보다 크고 직각보다 작은 70°가 예각이에요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 3,
@@ -4123,7 +4338,8 @@
     "answer": 0,
     "explanation": "1시는 30°, 4시는 30°×4=120°라서 120°−30°=90°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -4138,7 +4354,8 @@
     "answer": 0,
     "explanation": "두 눈금의 차가 각의 크기라서 110°−30°=80°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 3,
@@ -4153,7 +4370,8 @@
     "answer": 2,
     "explanation": "180°-40°=140°, 140÷2=70이라서 70°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 3,
@@ -4168,7 +4386,8 @@
     "answer": 3,
     "explanation": "95°×3=285°, 360°-285°=75°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 3,
@@ -4181,7 +4400,8 @@
     "answer": 1,
     "explanation": "둔각 두 개만 더해도 180°가 넘어서 안 돼요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 1,
@@ -4196,7 +4416,8 @@
     "answer": 0,
     "explanation": "6×3=18에 0을 3개 붙여 18000이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 1,
@@ -4211,7 +4432,8 @@
     "answer": 1,
     "explanation": "25×2=50에 0을 2개 붙여 5000이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 1,
@@ -4226,7 +4448,8 @@
     "answer": 2,
     "explanation": "30×6=180이라서 6이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 1,
@@ -4241,7 +4464,8 @@
     "answer": 3,
     "explanation": "70×8=560이라서 8이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 1,
@@ -4254,7 +4478,8 @@
     "answer": 0,
     "explanation": "30은 3의 10배라서 곱도 10배가 돼요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -4269,7 +4494,8 @@
     "answer": 0,
     "explanation": "214×30=6420, 214×2=428, 더하면 6848이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -4284,7 +4510,8 @@
     "answer": 1,
     "explanation": "405×20=8100, 405×6=2430, 더하면 10530이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -4299,7 +4526,8 @@
     "answer": 2,
     "explanation": "12×8=96이라서 8이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -4314,7 +4542,8 @@
     "answer": 3,
     "explanation": "15×10=150이고 157-150=7이 남아요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -4329,7 +4558,8 @@
     "answer": 0,
     "explanation": "125×24=3000이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -4344,7 +4574,8 @@
     "answer": 0,
     "explanation": "나누는 수와 몫을 곱하고 나머지를 더하면 나누어지는 수가 돼요. 23×14=322, 322+5=327이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-05]"
   },
   {
     "difficulty": 2,
@@ -4359,7 +4590,8 @@
     "answer": 2,
     "explanation": "16×21=336이고 350-336=14자루가 남아요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 3,
@@ -4374,7 +4606,8 @@
     "answer": 0,
     "explanation": "400÷18=22…4라서 22쪽을 꽉 채우고 마지막 쪽에 4줄을 써요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 3,
@@ -4389,7 +4622,8 @@
     "answer": 1,
     "explanation": "214×28=5992, 214×29=6206이라서 가장 큰 수는 28이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 3,
@@ -4404,7 +4638,8 @@
     "answer": 1,
     "explanation": "나머지는 24보다 작아야 하니 가장 큰 나머지는 23이에요. 24×12+23=311이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -4419,7 +4654,8 @@
     "answer": 0,
     "explanation": "이동한 방향과 반대로 움직여야 하니 왼쪽으로 2칸, 아래쪽으로 3칸 이동해요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-05]"
   },
   {
     "difficulty": 2,
@@ -4434,22 +4670,24 @@
     "answer": 0,
     "explanation": "오른쪽으로 뒤집으면 왼쪽과 오른쪽만 바뀌고 위아래는 그대로라서 왼쪽 위를 가리켜요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "아래쪽을 가리키는 화살표(↓)를 시계 반대 방향으로 90° 돌리면 어느 쪽을 가리킬까요?",
+    "question": "위쪽을 가리키는 화살표(↑)를 시계 방향으로 180° 돌리면 어느 쪽을 가리킬까요?",
     "choices": [
-      "왼쪽",
-      "오른쪽",
       "위쪽",
-      "아래쪽"
+      "아래쪽",
+      "왼쪽",
+      "오른쪽"
     ],
     "answer": 1,
-    "explanation": "아래쪽을 가리키는 화살표를 시계 반대 방향으로 90° 돌리면 오른쪽을 가리켜요.",
+    "explanation": "180° 돌리면 반대쪽이 되어 아래쪽을 가리켜요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4464,7 +4702,8 @@
     "answer": 1,
     "explanation": "옆에 세운 거울에는 왼쪽과 오른쪽이 바뀌어 비치므로 오른쪽(왼쪽)으로 뒤집은 모양과 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -4479,7 +4718,8 @@
     "answer": 1,
     "explanation": "아래쪽으로 뒤집으면 위쪽과 아래쪽이 바뀌어 ㅜ 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4494,7 +4734,8 @@
     "answer": 0,
     "explanation": "90°+90°=180°라서 시계 방향으로 180° 돌린 것과 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4509,7 +4750,8 @@
     "answer": 3,
     "explanation": "한 바퀴 360°에서 270°를 빼면 반대 방향으로 90°예요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4524,7 +4766,8 @@
     "answer": 0,
     "explanation": "오른쪽으로 뒤집으면 왼쪽과 오른쪽이 바뀌어 d 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4539,7 +4782,8 @@
     "answer": 1,
     "explanation": "8은 위와 아래 모양이 같아서 뒤집어도 8이에요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4554,7 +4798,8 @@
     "answer": 2,
     "explanation": "5-2=3이라서 오른쪽으로 3 cm예요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4569,7 +4814,8 @@
     "answer": 0,
     "explanation": "위쪽으로 뒤집으면 위와 아래만 바뀌어서 왼쪽을 가리키는 화살표는 그대로 왼쪽을 가리켜요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -4584,7 +4830,8 @@
     "answer": 1,
     "explanation": "거꾸로 오른쪽 화살표를 시계 반대 방향으로 90° 돌리면 위쪽을 가리켜요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -4599,7 +4846,8 @@
     "answer": 1,
     "explanation": "4번 돌리면 제자리라서 1번 돌린 것과 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4614,7 +4862,8 @@
     "answer": 1,
     "explanation": "디지털 숫자 2의 왼쪽과 오른쪽이 바뀌면 5 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -4627,7 +4876,8 @@
     "answer": 0,
     "explanation": "둘 다 왼쪽과 오른쪽이 바뀌니까 같아요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -4642,7 +4892,8 @@
     "answer": 1,
     "explanation": "막대를 가로로 그리면 세로에 항목을, 가로 눈금에 수량을 나타내요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -4655,7 +4906,8 @@
     "answer": 0,
     "explanation": "표에는 수가 적혀 있어 정확한 수를 알기 쉽고, 막대그래프는 많고 적음을 한눈에 비교하기 쉬워요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -4670,7 +4922,8 @@
     "answer": 1,
     "explanation": "10÷5=2라서 한 칸은 2명이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -4685,7 +4938,8 @@
     "answer": 0,
     "explanation": "3명, 8명을 눈금에 딱 맞게 나타내려면 한 칸을 1명으로 해야 해요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-03]"
   },
   {
     "difficulty": 1,
@@ -4700,7 +4954,8 @@
     "answer": 0,
     "explanation": "막대의 길이는 수량을 나타내므로 길이가 같으면 수량도 같아요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -4715,7 +4970,8 @@
     "answer": 3,
     "explanation": "12명인 귤이 가장 많아서 막대가 가장 길어요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -4730,7 +4986,8 @@
     "answer": 0,
     "explanation": "4명인 야구가 가장 적어서 막대가 가장 짧아요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -4745,7 +5002,8 @@
     "answer": 1,
     "explanation": "7−3=4라서 4명 더 많아요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -4760,7 +5018,8 @@
     "answer": 2,
     "explanation": "4칸은 40개, 반 칸은 5개라서 45개예요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -4775,7 +5034,8 @@
     "answer": 3,
     "explanation": "15÷3=5라서 5칸이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-03]"
   },
   {
     "difficulty": 3,
@@ -4790,7 +5050,8 @@
     "answer": 1,
     "explanation": "1~3모둠은 7+5+8=20(칸)이니 20×2=40(장)이에요. 4모둠은 50−40=10(장)이라서 10÷2=5(칸)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -4805,7 +5066,8 @@
     "answer": 1,
     "explanation": "봄 막대는 18÷2=9(칸), 여름 막대는 9−4=5(칸)이에요. 5×2=10(명)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -4820,7 +5082,8 @@
     "answer": 2,
     "explanation": "16은 8의 2배라서 막대도 2배예요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -4835,7 +5098,8 @@
     "answer": 3,
     "explanation": "9칸은 45명까지라 모자라고 10칸이면 50명까지 돼요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-03]"
   },
   {
     "difficulty": 2,
@@ -4848,7 +5112,8 @@
     "answer": 1,
     "explanation": "눈금을 바꿔도 많고 적음 순서는 그대로예요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -4863,7 +5128,8 @@
     "answer": 0,
     "explanation": "4씩 커지니까 15+4=19예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -4878,7 +5144,8 @@
     "answer": 1,
     "explanation": "2배씩 커지니까 40×2=80이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -4893,7 +5160,8 @@
     "answer": 2,
     "explanation": "1000씩 커지니까 4005예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -4908,7 +5176,8 @@
     "answer": 3,
     "explanation": "6씩 작아지니까 78-6=72예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -4921,7 +5190,8 @@
     "answer": 0,
     "explanation": "계산 결과가 9, 98, 987처럼 9부터 1씩 작은 숫자가 하나씩 붙으니 다음은 9876이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -4936,7 +5206,8 @@
     "answer": 1,
     "explanation": "4배씩 커지니까 48×4=192예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -4951,7 +5222,8 @@
     "answer": 1,
     "explanation": "700, 650, 600, 550, 500, 450, 400으로 7번째예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -4966,7 +5238,8 @@
     "answer": 1,
     "explanation": "가운데 수를 두 번 곱한 값이 계산 결과예요. 가운데 수가 4이니 4×4=16이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -4981,7 +5254,8 @@
     "answer": 3,
     "explanation": "다음 식은 400+501=901이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -4996,7 +5270,8 @@
     "answer": 1,
     "explanation": "5, 10, 15, 20씩 작아지니 다음은 25 작아져서 50−25=25예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -5011,7 +5286,8 @@
     "answer": 0,
     "explanation": "계산 결과의 1이 하나씩 늘어나니 1234×9+5는 11111이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 3,
@@ -5026,7 +5302,8 @@
     "answer": 2,
     "explanation": "2배 하고 1을 더하는 규칙이라 23×2+1=47이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -5041,7 +5318,8 @@
     "answer": 3,
     "explanation": "2개씩 늘어서 1, 3, 5, 7, 9, 11개예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -5056,7 +5334,8 @@
     "answer": 1,
     "explanation": "더하는 두 수와 계산 결과에 0이 하나씩 늘어나니 20000+30000=50000이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -5071,7 +5350,8 @@
     "answer": 1,
     "explanation": "2, 4, 6, 8씩 커지니 다음은 10 커져서 32예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -5086,7 +5366,8 @@
     "answer": 0,
     "explanation": "분모는 그대로 두고 분자끼리 더해 2/7+4/7=6/7(m)예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -5101,7 +5382,8 @@
     "answer": 3,
     "explanation": "분자끼리 8−3=5라서 5/9예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -5116,7 +5398,8 @@
     "answer": 0,
     "explanation": "1은 8/8이라서 8/8−3/8=5/8이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -5131,7 +5414,8 @@
     "answer": 0,
     "explanation": "형은 3/8, 동생은 2/8를 먹었어요. 3/8+2/8=5/8이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -5144,7 +5428,8 @@
     "answer": 1,
     "explanation": "1/5에서 3/5을 뺄 수 없으니 2와 1/5을 1과 6/5으로 바꾸어 빼요. 1과 6/5−1과 3/5=3/5이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -5159,7 +5444,8 @@
     "answer": 0,
     "explanation": "7/8+6/8=13/8이고, 13/8은 1과 5/8이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -5174,7 +5460,8 @@
     "answer": 3,
     "explanation": "자연수끼리 3, 분수끼리 3/4라서 3과 3/4예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -5189,7 +5476,8 @@
     "answer": 0,
     "explanation": "3을 2와 5/5로 바꾸어 빼면 1과 3/5예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -5204,7 +5492,8 @@
     "answer": 1,
     "explanation": "5와 3/7을 4와 10/7로 바꾸어 빼면 2와 5/7이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -5219,7 +5508,8 @@
     "answer": 2,
     "explanation": "4/5-2/5=2/5라서 2/5 m예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -5234,7 +5524,8 @@
     "answer": 1,
     "explanation": "어떤 수는 4와 1/8−1과 2/8=2와 7/8이에요. 바르게 계산하면 2와 7/8−1과 2/8=1과 5/8이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -5249,7 +5540,8 @@
     "answer": 0,
     "explanation": "쓴 물은 2와 1/3+1과 2/3=4 L라서 5-4=1 L예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -5264,7 +5556,8 @@
     "answer": 1,
     "explanation": "합 11/9, 차 3/9이 되는 두 분수는 7/9과 4/9예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -5279,7 +5572,8 @@
     "answer": 1,
     "explanation": "5−□가 2보다 커야 하니 □는 1, 2가 될 수 있어요. 모두 2개예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -5294,7 +5588,8 @@
     "answer": 3,
     "explanation": "3과 2/5를 2와 7/5로 바꾸어 1과 4/5를 빼면 1과 3/5예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -5309,7 +5604,8 @@
     "answer": 2,
     "explanation": "두 변의 길이가 같은 (나), (다)는 이등변삼각형이에요. 세 변의 길이가 같은 (가)도 두 변의 길이가 같으니 이등변삼각형이에요. 모두 3개예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -5324,7 +5620,8 @@
     "answer": 2,
     "explanation": "맞붙인 변의 양 끝에서는 정삼각형의 두 각이 모여 60°+60°=120°가 돼요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -5339,7 +5636,8 @@
     "answer": 2,
     "explanation": "세 각이 모두 예각인 것은 55°, 60°, 65°인 삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -5354,7 +5652,8 @@
     "answer": 3,
     "explanation": "한 각이 둔각이면 둔각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -5367,7 +5666,8 @@
     "answer": 0,
     "explanation": "이등변삼각형은 길이가 같은 두 변에 붙은 두 각이 같아요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -5382,7 +5682,8 @@
     "answer": 0,
     "explanation": "7+7+4=18이라서 18 cm예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -5397,7 +5698,8 @@
     "answer": 1,
     "explanation": "9×3=27이라서 27 cm예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -5412,7 +5714,8 @@
     "answer": 0,
     "explanation": "직선은 180°라서 크기가 같은 두 각은 각각 180°−110°=70°예요. 나머지 한 각은 180°−70°−70°=40°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -5427,7 +5730,8 @@
     "answer": 2,
     "explanation": "나머지 한 각은 180°−80°=100°로 둔각이라서 둔각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 2,
@@ -5442,7 +5746,8 @@
     "answer": 3,
     "explanation": "두 각이 같아서 이등변삼각형이고, 90°인 각이 있어서 직각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 3,
@@ -5457,7 +5762,8 @@
     "answer": 1,
     "explanation": "100°인 각이 두 개면 합이 180°를 넘어서 나머지 두 각이 같아요. (180°−100°)÷2=40°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -5472,7 +5778,8 @@
     "answer": 0,
     "explanation": "나머지 한 변은 30−11−11=8(cm)예요. 11−8=3이라서 3 cm 짧아요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
@@ -5487,7 +5794,8 @@
     "answer": 3,
     "explanation": "36÷3=12라서 12 cm예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -5502,7 +5810,8 @@
     "answer": 0,
     "explanation": "나머지 각이 180°-35°-55°=90°라서 직각삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 2,
@@ -5515,7 +5824,8 @@
     "answer": 1,
     "explanation": "직각이 90°라서 나머지 두 각은 모두 예각이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 1,
@@ -5530,7 +5840,8 @@
     "answer": 1,
     "explanation": "0.001이 10개면 0.01이에요. 0.001이 52개면 0.052예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 1,
@@ -5545,7 +5856,8 @@
     "answer": 2,
     "explanation": "자리끼리 더하면 0.77이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 1,
@@ -5560,7 +5872,8 @@
     "answer": 3,
     "explanation": "9-4=5라서 0.5예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -5575,7 +5888,8 @@
     "answer": 1,
     "explanation": "4는 0.01이 400개, 0.07은 0.01이 7개라서 407개예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 1,
@@ -5590,7 +5904,8 @@
     "answer": 1,
     "explanation": "8은 소수 둘째 자리라서 0.08이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 2,
@@ -5605,7 +5920,8 @@
     "answer": 2,
     "explanation": "3.70+2.85=6.55예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -5620,7 +5936,8 @@
     "answer": 3,
     "explanation": "5.20-1.76=3.44예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -5635,7 +5952,8 @@
     "answer": 0,
     "explanation": "1.40+0.75=2.15라서 2.15 km예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -5650,7 +5968,8 @@
     "answer": 1,
     "explanation": "0.6은 0.60이라서 0.58보다 커요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-14]"
   },
   {
     "difficulty": 2,
@@ -5665,7 +5984,8 @@
     "answer": 2,
     "explanation": "10배 하면 소수점이 오른쪽으로 한 칸 옮겨져 40.3이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 3,
@@ -5680,7 +6000,8 @@
     "answer": 3,
     "explanation": "어떤 수는 5.6-1.25=4.35, 바른 답은 4.35-1.25=3.1이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -5695,7 +6016,8 @@
     "answer": 0,
     "explanation": "마신 물은 1.15 L라서 2-1.15=0.85 L예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -5710,7 +6032,8 @@
     "answer": 1,
     "explanation": "2.5+2.7=5.2, 3.5+2.7=6.2라서 3이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -5725,7 +6048,8 @@
     "answer": 2,
     "explanation": "3+1.4+0.05=4.45예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -5740,7 +6064,8 @@
     "answer": 3,
     "explanation": "가장 큰 수 8.63과 가장 작은 수 3.68을 더하면 12.31이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -5755,7 +6080,8 @@
     "answer": 1,
     "explanation": "직선 (나)와 (다)는 모두 직선 (가)와 직각으로 만나서 서로 만나지 않아요. 그래서 서로 평행해요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 2,
@@ -5768,7 +6094,8 @@
     "answer": 1,
     "explanation": "한 점을 지나면서 한 직선에 수직인 직선은 하나만 그을 수 있어요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 2,
@@ -5783,7 +6110,8 @@
     "answer": 2,
     "explanation": "평행선 사이의 거리는 평행선에 수직인 선분의 길이라서 (가)의 4 cm예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 2,
@@ -5798,7 +6126,8 @@
     "answer": 2,
     "explanation": "네 각이 모두 직각이고 네 변의 길이가 모두 같으니 정사각형이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -5811,7 +6140,8 @@
     "answer": 0,
     "explanation": "평행사변형은 평행한 변이 두 쌍이라서, 평행한 변이 한 쌍이라도 있는 사다리꼴이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -5826,7 +6156,8 @@
     "answer": 0,
     "explanation": "사각형의 네 각의 크기의 합은 360°라서 360°−70°=290°예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -5841,7 +6172,8 @@
     "answer": 1,
     "explanation": "마름모는 네 변의 길이가 모두 같아서 32÷4=8(cm)예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -5856,7 +6188,8 @@
     "answer": 0,
     "explanation": "마름모는 6×4=24(cm), 평행사변형은 (7+4)×2=22(cm)라서 마름모가 2 cm 더 길어요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -5869,7 +6202,8 @@
     "answer": 0,
     "explanation": "평행선 사이의 거리는 수직인 선분의 길이이고, 이 선분이 가장 짧아요. 비스듬히 그은 선분은 6 cm보다 길어요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 2,
@@ -5882,7 +6216,8 @@
     "answer": 1,
     "explanation": "평행사변형은 이웃한 두 변의 길이가 다를 수 있어서 모두 마름모라고 할 수는 없어요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -5897,7 +6232,8 @@
     "answer": 0,
     "explanation": "이웃한 두 각의 합은 180°라서 큰 각은 110°예요. 110°−70°=40°예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -5912,7 +6248,8 @@
     "answer": 1,
     "explanation": "네 변이 같고 네 각이 직각이어야 정사각형이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -5927,7 +6264,8 @@
     "answer": 2,
     "explanation": "이웃한 두 변의 합은 20 cm라서 20-12=8 cm예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -5942,7 +6280,8 @@
     "answer": 3,
     "explanation": "마주 보는 각은 같아서 120°가 2개, 60°가 2개예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -5955,7 +6294,8 @@
     "answer": 1,
     "explanation": "직사각형은 네 변의 길이가 다를 수 있어서 마름모가 아니에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -5970,7 +6310,8 @@
     "answer": 0,
     "explanation": "꺾은선그래프는 변화하는 모습을 잘 보여 줘요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -5985,7 +6326,8 @@
     "answer": 1,
     "explanation": "늘어난 키가 2 cm, 1 cm, 4 cm라서 1 cm 자란 2일~3일이 가장 완만해요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -5998,22 +6340,24 @@
     "answer": 1,
     "explanation": "선분이 가로와 나란하면 값이 변하지 않은 것이지 값이 0인 것은 아니에요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "시간에 따라 조사한 자료를 꺾은선그래프로 나타낼 때 물결선을 넣으면 좋은 자료는 어느 것일까요?",
     "choices": [
-      "2 kg, 5 kg, 9 kg",
-      "31.2 °C, 31.5 °C, 31.8 °C",
-      "0명, 4명, 8명",
-      "1 cm, 10 cm, 20 cm"
+      "20 kg, 50 kg, 90 kg",
+      "31 °C, 32 °C, 33 °C",
+      "10명, 40명, 80명",
+      "5 cm, 15 cm, 25 cm"
     ],
     "answer": 1,
-    "explanation": "값이 모두 31 °C보다 크고 변화가 작아서, 물결선으로 0부터 31까지를 줄이면 변화가 잘 보여요.",
+    "explanation": "값이 모두 30 °C보다 크고 변화가 작아서, 물결선으로 0부터 30까지를 줄이면 변화가 잘 보여요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -6028,7 +6372,8 @@
     "answer": 3,
     "explanation": "0.5가 4개면 2라서 2 °C예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6043,7 +6388,8 @@
     "answer": 2,
     "explanation": "줄어든 양이 150 mL, 50 mL, 250 mL라서 3시~4시에 가장 많이 줄었어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6058,7 +6404,8 @@
     "answer": 1,
     "explanation": "12-3=9라서 9 cm 자랐어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6073,7 +6420,8 @@
     "answer": 2,
     "explanation": "15와 21의 가운데라서 약 18 °C예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6088,7 +6436,8 @@
     "answer": 3,
     "explanation": "화요일과 수요일이 35개로 같아요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6103,7 +6452,8 @@
     "answer": 0,
     "explanation": "2×3=6이고 내려갔으니 6명 줄었어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6118,7 +6468,8 @@
     "answer": 1,
     "explanation": "34.0-32.4=1.6이라서 1.6 kg 늘었어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -6133,7 +6484,8 @@
     "answer": 2,
     "explanation": "가장 작은 값 41보다 조금 작은 40부터 나타내면 좋아요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6148,7 +6500,8 @@
     "answer": 0,
     "explanation": "가로·세로와 눈금을 정한 뒤 점을 찍고, 점을 선분으로 이은 다음 제목을 써요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -6163,7 +6516,8 @@
     "answer": 0,
     "explanation": "2시간에 4 °C 내렸으니 1시간에 2 °C씩, 3시는 23 °C예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -6178,7 +6532,8 @@
     "answer": 0,
     "explanation": "4월은 23+8=31(권)이에요. 31−26=5라서 5권 더 많아요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -6193,7 +6548,8 @@
     "answer": 2,
     "explanation": "꼭짓점이 9개면 변도 9개라서 구각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -6208,7 +6564,8 @@
     "answer": 3,
     "explanation": "변이 6개면 육각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -6223,7 +6580,8 @@
     "answer": 0,
     "explanation": "칠각형은 변과 꼭짓점이 7개씩이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -6238,7 +6596,8 @@
     "answer": 1,
     "explanation": "이웃한 두 꼭짓점을 이은 선분은 변이고, 이웃하지 않는 두 꼭짓점을 이은 선분이 대각선이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -6251,7 +6610,8 @@
     "answer": 1,
     "explanation": "원은 곡선으로 둘러싸여 있어서 다각형이 아니에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6266,7 +6626,8 @@
     "answer": 1,
     "explanation": "정구각형은 변이 9개라서 7×9=63(cm)예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6281,22 +6642,24 @@
     "answer": 3,
     "explanation": "마주 보는 꼭짓점끼리 이어서 2개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "오각형에 그을 수 있는 대각선은 모두 몇 개일까요?",
+    "question": "두 대각선이 서로 수직으로 만나는 사각형은 어느 것일까요?",
     "choices": [
-      "5개",
-      "10개",
-      "4개",
-      "3개"
+      "마름모",
+      "직사각형",
+      "평행사변형",
+      "사다리꼴"
     ],
     "answer": 0,
-    "explanation": "한 꼭짓점에서 2개씩, 5×2÷2=5개예요.",
+    "explanation": "마름모는 두 대각선이 서로 수직으로 만나요. 직사각형은 수직이 아니에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6311,7 +6674,8 @@
     "answer": 1,
     "explanation": "48÷6=8이라서 8 cm예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6326,22 +6690,24 @@
     "answer": 2,
     "explanation": "정사각형의 두 대각선은 길이가 같고 수직으로 만나요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "팔각형의 한 꼭짓점에서 그을 수 있는 대각선은 몇 개일까요?",
+    "question": "정사각형의 두 대각선에 대한 설명으로 알맞은 것은?",
     "choices": [
-      "8개",
-      "6개",
-      "20개",
-      "5개"
+      "두 대각선의 길이가 서로 달라요",
+      "두 대각선은 서로 만나지 않아요",
+      "두 대각선은 서로 평행해요",
+      "길이가 같고 수직으로 만나요"
     ],
     "answer": 3,
-    "explanation": "자기와 이웃한 두 꼭짓점을 빼면 8-3=5개예요.",
+    "explanation": "정사각형의 두 대각선은 길이가 같고 서로 수직으로 만나요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6356,7 +6722,8 @@
     "answer": 0,
     "explanation": "720÷6=120이라서 120°예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 3,
@@ -6371,7 +6738,8 @@
     "answer": 1,
     "explanation": "40-30=10이라서 10 cm예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6386,7 +6754,8 @@
     "answer": 1,
     "explanation": "한 꼭짓점에서는 자기 자신과 이웃한 두 꼭짓점을 뺀 꼭짓점에 대각선을 그어요. 5−3=2라서 오각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6401,7 +6770,8 @@
     "answer": 3,
     "explanation": "60÷6=10이라 변이 10개인 정십각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -6416,7 +6786,8 @@
     "answer": 1,
     "explanation": "직각보다 큰 120°와 160°가 둔각이므로 2개예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-02]"
   },
   {
     "difficulty": 2,
@@ -6429,7 +6800,8 @@
     "answer": 1,
     "explanation": "각의 꼭짓점은 각도기의 중심에 맞추고, 각의 한 변을 0° 눈금선에 맞춰요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 2,
@@ -6444,7 +6816,8 @@
     "answer": 2,
     "explanation": "한 직선이 이루는 각은 180°예요. 180°−50°−70°=60°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 3,
@@ -6459,7 +6832,8 @@
     "answer": 3,
     "explanation": "나머지 두 각의 합이 120°이고 차가 20°이므로 70°와 50°예요. 가장 큰 각은 70°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-25]"
   },
   {
     "difficulty": 3,
@@ -6474,7 +6848,8 @@
     "answer": 0,
     "explanation": "85°+70°=155°이고, 155°−40°=115°예요.",
     "semester": 1,
-    "unit": "각도"
+    "unit": "각도",
+    "standard": "[4수03-24]"
   },
   {
     "difficulty": 1,
@@ -6489,20 +6864,22 @@
     "answer": 1,
     "explanation": "삼각형 (나)는 두 변의 길이만 같아서 정삼각형이 아닌 이등변삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 2,
     "type": "ox",
-    "question": "예각삼각형은 이등변삼각형이 될 수 없어요.",
+    "question": "이등변삼각형은 세 변의 길이가 모두 같아요.",
     "choices": [
       "O",
       "X"
     ],
     "answer": 1,
-    "explanation": "세 각이 50°, 50°, 80°인 삼각형은 예각삼각형이면서 이등변삼각형이에요.",
+    "explanation": "이등변삼각형은 두 변의 길이만 같으면 돼요. 세 변이 모두 같은 것은 정삼각형이에요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 2,
@@ -6517,7 +6894,8 @@
     "answer": 2,
     "explanation": "세 각의 합은 180°예요. 180°−110°=70°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 3,
@@ -6532,7 +6910,8 @@
     "answer": 3,
     "explanation": "두 예각의 합은 90°이고 한 각이 다른 각의 2배이므로 30°와 60°예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-09]"
   },
   {
     "difficulty": 3,
@@ -6547,7 +6926,8 @@
     "answer": 0,
     "explanation": "정삼각형의 세 변의 길이의 합은 6×3=18(cm)예요. 18−5−5=8이므로 8 cm예요.",
     "semester": 2,
-    "unit": "삼각형"
+    "unit": "삼각형",
+    "standard": "[4수03-08]"
   },
   {
     "difficulty": 1,
@@ -6562,7 +6942,8 @@
     "answer": 1,
     "explanation": "평행선 사이의 거리는 어디에서 재어도 같아요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-03]"
   },
   {
     "difficulty": 3,
@@ -6577,7 +6958,8 @@
     "answer": 0,
     "explanation": "마주 보는 각은 크기가 같아서 각 ㄱ은 100°÷2=50°예요. 이웃한 두 각의 합은 180°라서 각 ㄴ은 180°−50°=130°예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 2,
@@ -6592,7 +6974,8 @@
     "answer": 2,
     "explanation": "평행한 변이 한 쌍뿐이면 사다리꼴이지만 평행사변형은 아니에요. 평행사변형은 평행한 변이 두 쌍이에요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -6607,7 +6990,8 @@
     "answer": 1,
     "explanation": "사각형의 네 각의 크기의 합은 360°예요. 마주 보는 각의 크기는 같으므로 (360°−80°−80°)÷2=100°예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 3,
@@ -6622,7 +7006,8 @@
     "answer": 0,
     "explanation": "마름모의 둘레는 9×4=36 cm예요. 가로와 세로의 합이 18 cm이므로 세로는 18−15=3 cm예요.",
     "semester": 2,
-    "unit": "사각형"
+    "unit": "사각형",
+    "standard": "[4수03-10]"
   },
   {
     "difficulty": 1,
@@ -6637,7 +7022,8 @@
     "answer": 1,
     "explanation": "정사각형은 변의 길이와 각의 크기가 모두 같은 정다각형이에요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6652,7 +7038,8 @@
     "answer": 2,
     "explanation": "오각형 2개, 육각형 3개처럼 늘어나서 십각형은 1+6=7개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 2,
@@ -6667,7 +7054,8 @@
     "answer": 3,
     "explanation": "정오각형은 한 각이 108°라서 한 점에 모으면 빈틈이 생기거나 겹쳐요. 정삼각형, 정사각형, 정육각형은 빈틈없이 채울 수 있어요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-12]"
   },
   {
     "difficulty": 3,
@@ -6682,7 +7070,8 @@
     "answer": 0,
     "explanation": "육각형은 한 꼭짓점에서 3개씩이므로 6×3÷2=9개예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 3,
@@ -6697,7 +7086,8 @@
     "answer": 1,
     "explanation": "대각선을 4개 그을 수 있으면 정칠각형이에요. 6×7=42(cm)예요.",
     "semester": 2,
-    "unit": "다각형"
+    "unit": "다각형",
+    "standard": "[4수03-11]"
   },
   {
     "difficulty": 1,
@@ -6712,7 +7102,8 @@
     "answer": 2,
     "explanation": "35210000에서 3은 천만의 자리 숫자이므로 3000만을 나타내요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -6727,7 +7118,8 @@
     "answer": 3,
     "explanation": "230만을 10배 하면 2300만이에요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 2,
@@ -6742,7 +7134,8 @@
     "answer": 0,
     "explanation": "1조는 1억이 10000개이므로 3조 2000억은 1억이 32000개예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 3,
@@ -6757,7 +7150,8 @@
     "answer": 1,
     "explanation": "가장 큰 다섯 자리 수는 97520이에요. 5는 백의 자리 숫자라서 500을 나타내요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 3,
@@ -6772,7 +7166,8 @@
     "answer": 3,
     "explanation": "2억 6000만에 4000만을 더하면 3억이고, 3억은 3000만의 10배예요.",
     "semester": 1,
-    "unit": "큰 수"
+    "unit": "큰 수",
+    "standard": "[4수01-01]"
   },
   {
     "difficulty": 1,
@@ -6787,7 +7182,8 @@
     "answer": 3,
     "explanation": "7−3=4이므로 1/9이 4개인 수예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -6800,7 +7196,8 @@
     "answer": 1,
     "explanation": "분모는 그대로 두고 분자끼리만 빼요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 2,
@@ -6815,7 +7212,8 @@
     "answer": 0,
     "explanation": "2/9+4/9=6/9이고 8/9−1/9=7/9이므로 8/9−1/9이 더 커요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -6830,7 +7228,8 @@
     "answer": 1,
     "explanation": "2와 3/8+1과 6/8=4와 1/8이고, 4와 1/8−1과 5/8=2와 4/8이에요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 3,
@@ -6845,7 +7244,8 @@
     "answer": 2,
     "explanation": "거꾸로 계산해요. 4와 1/7−3/7=3과 5/7, 3과 5/7+1과 2/7=5예요.",
     "semester": 2,
-    "unit": "분수의 덧셈과 뺄셈"
+    "unit": "분수의 덧셈과 뺄셈",
+    "standard": "[4수01-15]"
   },
   {
     "difficulty": 1,
@@ -6860,7 +7260,8 @@
     "answer": 3,
     "explanation": "위쪽으로 뒤집으면 위와 아래가 서로 바뀌어 b 모양이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -6875,7 +7276,8 @@
     "answer": 0,
     "explanation": "왼쪽은 시계 방향 90°에서 위쪽이 되고, 시계 반대 방향 180° 돌리면 아래쪽이 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 2,
@@ -6888,7 +7290,8 @@
     "answer": 1,
     "explanation": "위쪽으로 뒤집으면 위아래만 바뀌고, 180° 돌리면 위아래와 좌우가 모두 바뀌어요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -6903,7 +7306,8 @@
     "answer": 1,
     "explanation": "ㅏ를 시계 방향으로 90° 돌리면 ㅜ가 되고, 위쪽으로 뒤집으면 ㅗ가 돼요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 3,
@@ -6918,7 +7322,8 @@
     "answer": 2,
     "explanation": "아래쪽 뒤집기는 위아래만 바꾸고 180° 돌리면 위아래·좌우가 바뀌므로 좌우만 바뀐 모양이에요.",
     "semester": 1,
-    "unit": "평면도형의 이동"
+    "unit": "평면도형의 이동",
+    "standard": "[4수03-04]"
   },
   {
     "difficulty": 1,
@@ -6933,7 +7338,8 @@
     "answer": 2,
     "explanation": "같은 요일은 7일마다 돌아와요. 5일, 12일, 19일이 월요일이므로 20일은 화요일이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -6948,7 +7354,8 @@
     "answer": 1,
     "explanation": "늘어나는 블록 수가 2, 3, 4, 5개예요. 1, 3, 6, 10, 15라서 15개예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 2,
@@ -6961,7 +7368,8 @@
     "answer": 1,
     "explanation": "커지는 수가 3, 5, 7로 계속 달라서 3씩 커지는 규칙이 아니에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 2,
@@ -6976,7 +7384,8 @@
     "answer": 1,
     "explanation": "정오각형이 1개 늘 때마다 성냥개비가 4개씩 늘어요. 5+4×5=25(개)예요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-01]"
   },
   {
     "difficulty": 3,
@@ -6991,7 +7400,8 @@
     "answer": 2,
     "explanation": "여섯째 짝수는 12, 여섯째 홀수는 11이에요. 12+11=23이에요.",
     "semester": 1,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[4수02-02]"
   },
   {
     "difficulty": 1,
@@ -7006,7 +7416,8 @@
     "answer": 1,
     "explanation": "소수 첫째 자리 숫자는 0이고, 소수 둘째 자리 숫자가 6이라서 3.06이에요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-13]"
   },
   {
     "difficulty": 2,
@@ -7021,7 +7432,8 @@
     "answer": 0,
     "explanation": "기록이 짧을수록 빨라요. 11.85초가 가장 짧아요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-14]"
   },
   {
     "difficulty": 2,
@@ -7034,7 +7446,8 @@
     "answer": 0,
     "explanation": "소수의 오른쪽 끝에 0을 붙여도 크기가 같아서 1.2=1.20이에요. 1.20−0.35=0.85로 계산해요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -7049,7 +7462,8 @@
     "answer": 1,
     "explanation": "1.8−0.45=1.35이고, 1.35+0.6=1.95(L)예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 3,
@@ -7064,7 +7478,8 @@
     "answer": 2,
     "explanation": "2.4+1.75=4.15이고, 겹친 0.15를 빼면 4.15−0.15=4(m)예요.",
     "semester": 2,
-    "unit": "소수의 덧셈과 뺄셈"
+    "unit": "소수의 덧셈과 뺄셈",
+    "standard": "[4수01-16]"
   },
   {
     "difficulty": 2,
@@ -7079,7 +7494,8 @@
     "answer": 1,
     "explanation": "사과보다 2칸 길면 6+2=8(명)이라서 귤이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -7094,7 +7510,8 @@
     "answer": 0,
     "explanation": "칸 수의 합이 22칸이고 한 칸이 2명이므로 22×2=44(명)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 2,
@@ -7107,7 +7524,8 @@
     "answer": 1,
     "explanation": "순서는 정해져 있지 않아요. 많은 순서로 놓으면 비교하기 쉬울 뿐이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -7122,7 +7540,8 @@
     "answer": 1,
     "explanation": "(가)는 8+3=11(칸), (다)는 11−2=9(칸)이에요. 9×5=45(명)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 3,
@@ -7137,7 +7556,8 @@
     "answer": 1,
     "explanation": "1반은 6×3=18(명), 2반은 18+12=30(명)이에요. 30÷3=10(칸)이에요.",
     "semester": 1,
-    "unit": "막대그래프"
+    "unit": "막대그래프",
+    "standard": "[4수04-01]"
   },
   {
     "difficulty": 1,
@@ -7152,7 +7572,8 @@
     "answer": 3,
     "explanation": "선분으로 이으면 자료가 변하는 모습을 쉽게 알 수 있어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -7167,7 +7588,8 @@
     "answer": 0,
     "explanation": "18°C에서 17°C로 낮아진 낮 12시에 기온이 내려갔어요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 2,
@@ -7180,7 +7602,8 @@
     "answer": 0,
     "explanation": "필요 없는 눈금을 줄이면 점의 높이 차이가 더 뚜렷하게 보여요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -7195,7 +7618,8 @@
     "answer": 1,
     "explanation": "4월 0.7 cm, 5월 0.5 cm, 6월 1.0 cm 자랐어요. 6월이 가장 많아요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 3,
@@ -7210,7 +7634,8 @@
     "answer": 2,
     "explanation": "아래 눈금에서 모두 6칸 위이므로 36.0+0.2×6=37.2(°C)예요.",
     "semester": 2,
-    "unit": "꺾은선그래프"
+    "unit": "꺾은선그래프",
+    "standard": "[4수04-02]"
   },
   {
     "difficulty": 1,
@@ -7225,7 +7650,8 @@
     "answer": 3,
     "explanation": "15×20=300(개)예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 2,
@@ -7240,7 +7666,8 @@
     "answer": 1,
     "explanation": "315÷35=9, 420÷28=15, 256÷32=8, 180÷45=4라서 420÷28만 몫이 두 자리 수예요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   },
   {
     "difficulty": 2,
@@ -7253,7 +7680,8 @@
     "answer": 1,
     "explanation": "100×10=1000처럼 곱이 네 자리 수가 될 때도 있어요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 3,
@@ -7268,7 +7696,8 @@
     "answer": 1,
     "explanation": "공책 450×12=5400원, 지우개 300×24=7200원이므로 모두 12600원이에요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-04]"
   },
   {
     "difficulty": 3,
@@ -7283,6 +7712,7 @@
     "answer": 2,
     "explanation": "500÷24=20…20이에요. 24−20=4이므로 4개가 더 필요해요.",
     "semester": 1,
-    "unit": "곱셈과 나눗셈"
+    "unit": "곱셈과 나눗셈",
+    "standard": "[4수01-07]"
   }
 ]

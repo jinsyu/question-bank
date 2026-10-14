@@ -12,7 +12,8 @@
     "answer": 3,
     "explanation": "액체인 물과 기체인 수증기는 모양이 일정하지 않아요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 2,
@@ -27,7 +28,8 @@
     "answer": 0,
     "explanation": "둘 다 액체인 물이 기체인 수증기로 변해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -36,13 +38,14 @@
     "choices": [
       "응결",
       "증발",
-      "응고",
-      "용해"
+      "끓음",
+      "녹음"
     ],
     "answer": 1,
     "explanation": "물이 표면에서 수증기로 변하는 것을 증발이라고 해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -55,7 +58,8 @@
     "answer": 0,
     "explanation": "수증기는 투명한 기체라 보이지 않아요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 1,
@@ -70,22 +74,24 @@
     "answer": 2,
     "explanation": "마그마가 분출해 생긴 지형이 화산이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "지진이 났을 때 건물 안이라면 먼저 할 일은?",
     "choices": [
-      "승강기를 타요",
-      "창가에 서요",
-      "뛰어서 계단을 내려가요",
-      "튼튼한 탁자 아래로 몸을 보호해요"
+      "승강기를 타고 밖으로 나가요",
+      "창가로 가서 밖을 내다봐요",
+      "뛰어서 계단으로 내려가요",
+      "탁자 아래로 몸을 숨겨요"
     ],
     "answer": 3,
     "explanation": "흔들릴 때는 탁자 아래에서 머리를 보호해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -98,7 +104,8 @@
     "answer": 1,
     "explanation": "지진이 나면 계단을 이용해 대피해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -113,7 +120,8 @@
     "answer": 0,
     "explanation": "물이 얼면 부피가 늘어나요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -128,7 +136,8 @@
     "answer": 1,
     "explanation": "공기 속 수증기가 차가운 컵에 닿아 물이 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -143,7 +152,8 @@
     "answer": 2,
     "explanation": "끓음은 물 표면과 속에서 모두 기체로 변해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -158,7 +168,8 @@
     "answer": 3,
     "explanation": "상태가 변해도 무게는 변하지 않아요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -173,7 +184,8 @@
     "answer": 2,
     "explanation": "화산 가스는 주로 수증기 등 기체예요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -188,7 +200,8 @@
     "answer": 3,
     "explanation": "현무암은 빨리 식어 알갱이가 작아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -201,7 +214,8 @@
     "answer": 0,
     "explanation": "화강암은 땅속 깊은 곳에서 천천히 식었어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -216,22 +230,24 @@
     "answer": 3,
     "explanation": "물이 얼면 부피가 늘어나 관을 밀어내요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "물을 끓일 때 주전자 입구 바로 앞은 비어 보이는 까닭은?",
     "choices": [
-      "수증기는 보이지 않아서",
-      "물이 없어서",
-      "얼음이 생겨서",
-      "연기가 사라져서"
+      "수증기는 안 보여서",
+      "물이 하나도 없어서",
+      "작은 얼음이 생겨서",
+      "연기가 모두 사라져서"
     ],
     "answer": 0,
     "explanation": "보이지 않는 수증기가 식으며 김이 생겨요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -246,22 +262,24 @@
     "answer": 1,
     "explanation": "둘 다 수증기가 물로 변하는 응결이에요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "페트병에 물을 가득 넣고 얼리면 위험한 까닭은?",
     "choices": [
-      "무게가 줄어서",
-      "물이 사라져서",
-      "부피가 늘어 병이 터질 수 있어서",
-      "색이 변해서"
+      "무게가 줄어 가벼워져서",
+      "물이 모두 사라져 버려서",
+      "부피가 늘어 터질 수 있어서",
+      "색이 변해 보기 안 좋아서"
     ],
     "answer": 2,
     "explanation": "얼면 부피가 늘어나 병이 터질 수 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -276,7 +294,8 @@
     "answer": 3,
     "explanation": "화산 지역의 땅속 열로 온천과 발전을 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -291,7 +310,8 @@
     "answer": 0,
     "explanation": "지진의 세기는 규모로 나타내요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -306,7 +326,8 @@
     "answer": 1,
     "explanation": "떨어지는 물건을 피해 넓은 곳으로 가요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -319,7 +340,8 @@
     "answer": 1,
     "explanation": "지진은 정확한 예측이 어려워 대비가 중요해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -334,7 +356,8 @@
     "answer": 3,
     "explanation": "물은 얼음, 물, 수증기 상태로 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 2,
@@ -349,7 +372,8 @@
     "answer": 0,
     "explanation": "얼음이 녹으면 부피가 줄어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -364,22 +388,24 @@
     "answer": 1,
     "explanation": "상태가 바뀌어도 무게는 같지만 부피는 늘어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "증발이 잘 일어나는 조건은 무엇일까요?",
     "choices": [
-      "춥고 습할 때",
-      "그늘에 모아 둘 때",
+      "춥고 습기가 많을 때",
+      "그늘진 곳에 모아 둘 때",
       "햇빛이 좋고 바람이 불 때",
-      "뚜껑을 덮을 때"
+      "뚜껑을 꼭 덮어 둘 때"
     ],
     "answer": 2,
     "explanation": "따뜻하고 바람이 불면 증발이 잘돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -394,7 +420,8 @@
     "answer": 3,
     "explanation": "수증기는 기체 상태의 물로 공기 속에 섞여 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 2,
@@ -409,7 +436,8 @@
     "answer": 0,
     "explanation": "끓을 때 물속에서 물이 수증기로 변해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -424,7 +452,8 @@
     "answer": 1,
     "explanation": "증발과 끓음 모두 물이 수증기가 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -439,7 +468,8 @@
     "answer": 2,
     "explanation": "공기 중 수증기가 차가운 안경에서 물방울이 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -452,22 +482,24 @@
     "answer": 1,
     "explanation": "고체가 액체로 변하는 것이라 응결이 아니에요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "물을 오래 끓이면 물의 양이 줄어드는 까닭은?",
     "choices": [
-      "물이 얼어서",
-      "물이 냄비에 스며서",
-      "물의 색이 변해서",
+      "물이 얼어서 줄어들어서",
+      "물이 냄비 속으로 스며들어서",
+      "물의 색이 변해 사라져서",
       "물이 수증기가 되어 날아가서"
     ],
     "answer": 3,
     "explanation": "끓으면서 수증기가 공기 중으로 나가요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -482,22 +514,24 @@
     "answer": 0,
     "explanation": "뚜껑이 없으면 수증기가 빠져나가 더 줄어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "물의 상태 변화를 이용한 예가 아닌 것은?",
     "choices": [
-      "가습기",
+      "가습기로 습도 높이기",
       "자석으로 클립 줍기",
-      "스팀다리미",
-      "얼음 주머니"
+      "스팀다리미로 옷 펴기",
+      "얼음 주머니로 냉찜질"
     ],
     "answer": 1,
     "explanation": "자석은 물의 상태 변화와 관계없어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-03]"
   },
   {
     "difficulty": 1,
@@ -510,7 +544,8 @@
     "answer": 0,
     "explanation": "기체가 액체로 변하는 것을 응결이라고 해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -525,7 +560,8 @@
     "answer": 2,
     "explanation": "컵 겉의 물방울은 공기 중 수증기가 응결한 것이고, 시간이 지나면 이 물방울이 다시 증발해 수증기가 되어 공기 중으로 퍼져요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -540,7 +576,8 @@
     "answer": 3,
     "explanation": "열을 받으면 얼음이 녹아 물이 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -555,7 +592,8 @@
     "answer": 2,
     "explanation": "용암은 마그마가 흘러나온 액체예요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -570,7 +608,8 @@
     "answer": 3,
     "explanation": "밝은색이고 알갱이가 큰 것은 화강암, 어두운색이고 알갱이가 작은 것은 현무암이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 2,
@@ -585,22 +624,24 @@
     "answer": 3,
     "explanation": "용암이 식을 때 가스가 빠져 구멍이 남아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "화강암과 현무암의 알갱이 크기가 다른 까닭은?",
     "choices": [
-      "색깔이 달라서",
-      "마그마가 식는 빠르기가 달라서",
-      "무게가 달라서",
-      "발견된 나라가 달라서"
+      "암석의 색깔이 서로 달라서",
+      "마그마가 식는 속도가 달라서",
+      "암석의 무게가 서로 달라서",
+      "발견된 나라가 서로 달라서"
     ],
     "answer": 1,
     "explanation": "땅속에서 천천히 식으면 알갱이가 커요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 1,
@@ -615,7 +656,8 @@
     "answer": 3,
     "explanation": "화산 분출이 예상되면 안내에 따라 침착하게 정해진 대피 장소로 이동해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -628,7 +670,8 @@
     "answer": 0,
     "explanation": "규모는 지진의 세기를 나타내요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -636,14 +679,15 @@
     "question": "지진으로 건물이 흔들릴 때 문을 열어 두는 것이 좋은 까닭은?",
     "choices": [
       "바람이 들어와 흔들림이 줄어서",
-      "문틀이 비틀려 문이 열리지 않을 수 있어서",
+      "문틀이 비틀려 못 열 수 있어서",
       "문을 열면 지진이 빨리 멈춰서",
       "문이 닫혀 있으면 소리가 커져서"
     ],
     "answer": 1,
     "explanation": "흔들림으로 문틀이 비틀리면 문이 열리지 않아 갇힐 수 있으므로 미리 문을 열어 나갈 곳을 확보해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -658,7 +702,8 @@
     "answer": 2,
     "explanation": "해일이 올 수 있으니 높은 곳으로 가요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -673,7 +718,8 @@
     "answer": 3,
     "explanation": "떨어지는 물건에 다치지 않게 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -688,7 +734,8 @@
     "answer": 0,
     "explanation": "한라산, 백두산, 울릉도는 화산으로 만들어졌어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -703,7 +750,8 @@
     "answer": 1,
     "explanation": "화산재 속 양분이 흙을 기름지게 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -716,7 +764,8 @@
     "answer": 1,
     "explanation": "땅속에 있으면 마그마, 밖으로 나오면 용암이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -731,7 +780,8 @@
     "answer": 2,
     "explanation": "제주도에는 구멍 많은 현무암이 많아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 2,
@@ -746,7 +796,8 @@
     "answer": 3,
     "explanation": "표면의 넓이만 다르게 하고 물의 양은 같게 해야 해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -761,7 +812,8 @@
     "answer": 1,
     "explanation": "지진이 나면 승강기가 멈출 수 있으므로 모든 층 버튼을 눌러 가장 먼저 열리는 층에서 내려 계단으로 대피해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -776,7 +828,8 @@
     "answer": 3,
     "explanation": "햇빛을 받는 곳은 따뜻해 물이 빨리 증발하고, 그늘진 곳은 증발이 느려 늦게까지 젖어 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -791,7 +844,8 @@
     "answer": 3,
     "explanation": "물은 차갑게 식으면 얼어서 고체인 얼음이 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 1,
@@ -806,7 +860,8 @@
     "answer": 0,
     "explanation": "수증기는 눈에 보이지 않는 기체 상태의 물이에요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 1,
@@ -819,22 +874,24 @@
     "answer": 0,
     "explanation": "얼음은 고체라서 그릇을 옮겨 담아도 모양이 그대로예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "온도가 증발에 영향을 주는지 알아보려 해요. 두 접시에서 다르게 해야 할 조건은?",
     "choices": [
-      "물의 양",
-      "접시의 크기",
+      "접시에 담는 물의 양",
+      "접시의 크기와 모양",
       "놓아두는 곳의 온도",
-      "물의 종류"
+      "접시에 담는 물의 종류"
     ],
     "answer": 2,
     "explanation": "알아보려는 온도만 다르게 하고 나머지 조건은 모두 같게 해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -842,29 +899,31 @@
     "question": "같은 양의 물을 넓은 접시와 좁은 컵에 담아 같은 곳에 두었더니 접시의 물이 더 줄었어요. 알 수 있는 것은?",
     "choices": [
       "좁은 그릇일수록 증발이 잘돼요",
-      "물의 양이 줄면 증발이 멈춰요",
-      "공기와 닿는 면이 넓으면 증발이 잘돼요",
+      "물이 줄어들면 증발이 멈춰요",
+      "물 표면이 넓으면 증발이 잘돼요",
       "그릇 모양은 증발과 관계없어요"
     ],
     "answer": 2,
     "explanation": "다른 조건은 같고 물 표면 넓이만 달랐으니, 넓을수록 증발이 잘된 거예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "샤워한 뒤 욕실 거울이 뿌옇게 흐려지는 까닭은?",
     "choices": [
-      "수증기가 차가운 거울에서 응결해서",
-      "거울이 증발해서",
-      "거울 위 물이 얼어서",
-      "비누 거품이 날아와서"
+      "수증기가 거울에서 응결해서",
+      "거울 표면이 증발해 버려서",
+      "거울 위 물이 얼어붙어서",
+      "비누 거품이 날아와 붙어서"
     ],
     "answer": 0,
     "explanation": "따뜻한 수증기가 차가운 거울에 닿으면 작은 물방울로 맺혀 뿌옇게 보여요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -879,7 +938,8 @@
     "answer": 3,
     "explanation": "공기 중 수증기가 응결해 캔 겉에 물방울로 붙어서 그만큼 무게가 늘어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -894,7 +954,8 @@
     "answer": 1,
     "explanation": "물이 끓으면 뜨거운 수증기가 생기고, 이 수증기가 만두를 익혀요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-03]"
   },
   {
     "difficulty": 2,
@@ -909,7 +970,8 @@
     "answer": 1,
     "explanation": "오징어 속 물이 수증기가 되어 날아가서 마르는 것은 증발이에요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -924,7 +986,8 @@
     "answer": 3,
     "explanation": "어항 물이 줄어드는 것은 물이 수증기로 변하는 증발이에요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -937,7 +1000,8 @@
     "answer": 0,
     "explanation": "증발은 물이 끓지 않는 낮은 온도에서도 천천히 일어나요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -952,7 +1016,8 @@
     "answer": 0,
     "explanation": "끓을 때 생긴 수증기가 뚜껑에 닿아 식으면 다시 물방울이 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -967,7 +1032,8 @@
     "answer": 2,
     "explanation": "수증기는 기체라서 보이지 않고 담긴 공간을 가득 채워요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 2,
@@ -982,7 +1048,8 @@
     "answer": 2,
     "explanation": "수증기는 보이지 않아요. 입김 속 수증기가 찬 공기에 응결한 물방울이 보이는 거예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -995,7 +1062,8 @@
     "answer": 0,
     "explanation": "물은 얼음(고체), 물(액체), 수증기(기체)의 세 가지 상태로 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 2,
@@ -1010,7 +1078,8 @@
     "answer": 0,
     "explanation": "얼음이 녹거나 물이 증발·끓음으로 수증기가 될 때는 열을 받아야 해요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -1025,7 +1094,8 @@
     "answer": 0,
     "explanation": "화산 꼭대기의 움푹한 곳은 분화구예요. 물이 고여 호수가 되기도 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -1040,7 +1110,8 @@
     "answer": 3,
     "explanation": "땅 위로 흘러나오는 녹은 물질은 용암에 해당해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -1055,7 +1126,8 @@
     "answer": 1,
     "explanation": "화산 가스에는 수증기 말고도 사람이 들이마시면 해로운 기체가 섞여 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -1068,7 +1140,8 @@
     "answer": 0,
     "explanation": "지진 뒤에는 깨진 유리나 떨어진 물건이 많아 신발을 신고 대피해야 안전해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -1083,7 +1156,8 @@
     "answer": 3,
     "explanation": "화산에는 분화구나 용암이 식어 굳은 암석처럼 화산 활동의 흔적이 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 1,
@@ -1096,7 +1170,8 @@
     "answer": 1,
     "explanation": "설악산처럼 높아도 화산 활동으로 생기지 않은 산이 많아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 1,
@@ -1111,7 +1186,8 @@
     "answer": 3,
     "explanation": "화강암은 알갱이가 크고 현무암은 알갱이가 작아서 알갱이의 크기로 나눌 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 3,
@@ -1126,7 +1202,8 @@
     "answer": 2,
     "explanation": "마그마가 땅속에서 천천히 식으면 알갱이가 커져 화강암이 돼요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 2,
@@ -1141,22 +1218,24 @@
     "answer": 2,
     "explanation": "땅이 기름져지는 것은 화산재가 주는 이로운 점이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "규모가 같은 두 지진 중 한 곳만 피해가 컸어요. 까닭으로 알맞은 것은?",
     "choices": [
-      "건물이 약하고 사람이 많은 곳이라서",
-      "규모 숫자가 서로 달라서",
-      "밤하늘에 달이 떠 있어서",
-      "그날 바람이 세게 불어서"
+      "건물이 약하고 사람이 많아서",
+      "지진이 일어난 요일이 달라서",
+      "그날 밤하늘에 달이 떠서",
+      "그날 바람이 아주 세게 불어서"
     ],
     "answer": 0,
     "explanation": "규모가 같아도 건물이 약하거나 사람이 많이 사는 곳은 피해가 더 커요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -1169,7 +1248,8 @@
     "answer": 0,
     "explanation": "흔들림이 멈춘 뒤에는 불이 나지 않게 가스와 전기를 차단하고 대피해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -1184,7 +1264,8 @@
     "answer": 3,
     "explanation": "지진으로 땅이 흔들리면 산에서는 산사태나 돌이 떨어질 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -1197,7 +1278,8 @@
     "answer": 1,
     "explanation": "우리나라에서도 경주, 포항 등에서 지진이 일어난 적이 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 3,
@@ -1212,7 +1294,8 @@
     "answer": 1,
     "explanation": "땅속에서 생긴 마그마가 틈을 따라 올라와 땅 위로 분출해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 1,
@@ -1227,7 +1310,8 @@
     "answer": 1,
     "explanation": "비상용품은 손전등, 물, 구급약처럼 생존과 안전에 필요한 것이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 3,
@@ -1242,7 +1326,8 @@
     "answer": 3,
     "explanation": "제주도를 이룬 현무암에는 구멍과 틈이 많아 빗물이 땅속으로 잘 스며들어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 1,
@@ -1257,7 +1342,8 @@
     "answer": 0,
     "explanation": "철로 된 물체만 자석에 붙어요. 동전과 알루미늄 캔은 붙지 않아요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 1,
@@ -1272,7 +1358,8 @@
     "answer": 1,
     "explanation": "자석의 극은 양쪽 끝에 있어 힘이 가장 세요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 1,
@@ -1287,7 +1374,8 @@
     "answer": 2,
     "explanation": "자석에는 N극과 S극이 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1300,7 +1388,8 @@
     "answer": 0,
     "explanation": "같은 극끼리는 밀고, 다른 극끼리는 끌어당겨요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1315,7 +1404,8 @@
     "answer": 3,
     "explanation": "나침반 바늘의 N극은 북쪽을 가리켜요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1330,7 +1420,8 @@
     "answer": 1,
     "explanation": "다른 극끼리는 서로 끌어당겨요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1345,7 +1436,8 @@
     "answer": 2,
     "explanation": "잘라도 조각마다 N극과 S극이 생겨요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1358,7 +1450,8 @@
     "answer": 0,
     "explanation": "자석의 힘은 얇은 종이를 사이에 두어도 작용해요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -1373,37 +1466,40 @@
     "answer": 3,
     "explanation": "자유롭게 움직이는 자석은 남북을 가리켜요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "다음 중 자석의 성질을 이용한 물건은?",
     "choices": [
-      "냉장고 문 고무 패킹",
-      "고무줄",
-      "유리컵",
-      "연필"
+      "냉장고 문 패킹",
+      "머리를 묶는 고무줄",
+      "물을 담는 유리컵",
+      "글씨를 쓰는 연필"
     ],
     "answer": 0,
     "explanation": "냉장고 문 패킹 속 자석이 문을 꼭 닫아 줘요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "철 클립을 자석에 한동안 붙여 두면 어떤 일이 생길 수 있을까요?",
     "choices": [
-      "클립이 녹아요",
-      "클립이 나무가 돼요",
+      "클립이 녹아서 물렁해져요",
+      "클립이 나무로 바뀌어요",
       "클립이 잠시 자석처럼 돼요",
-      "클립이 무거워져요"
+      "클립이 눈에 띄게 무거워져요"
     ],
     "answer": 2,
     "explanation": "자석에 붙어 있던 철은 잠시 자석의 성질을 띠어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -1418,7 +1514,8 @@
     "answer": 2,
     "explanation": "나침반 바늘도 자석이라 가까이 있는 자석의 영향을 받아 움직여요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 3,
@@ -1433,7 +1530,8 @@
     "answer": 1,
     "explanation": "다른 극끼리 붙은 두 자석은 하나의 긴 자석처럼 되어 양쪽 끝이 극이 되고, 가운데는 클립을 끌어당기는 힘이 약해요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1446,7 +1544,8 @@
     "answer": 0,
     "explanation": "알루미늄은 금속이지만 자석에 붙지 않아요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -1461,7 +1560,8 @@
     "answer": 3,
     "explanation": "자석으로 문지른 바늘은 자석의 성질을 띠게 되어 남북을 가리킬 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1476,7 +1576,8 @@
     "answer": 1,
     "explanation": "고무 지우개는 자석과 관계없어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 2,
@@ -1491,7 +1592,8 @@
     "answer": 2,
     "explanation": "다른 극끼리 끌어당기므로 바늘의 S극이 N극 쪽을 가리켜요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1506,7 +1608,8 @@
     "answer": 3,
     "explanation": "같은 극끼리 밀어내므로 N극이에요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1514,14 +1617,15 @@
     "question": "극이 표시되지 않은 막대자석의 극을 알아내는 방법은?",
     "choices": [
       "나침반을 가까이 해 본다",
-      "손으로 만져 본다",
-      "무게를 잰다",
-      "색깔을 본다"
+      "손으로 만져서 느껴 본다",
+      "저울로 무게를 재어 본다",
+      "겉의 색깔을 살펴본다"
     ],
     "answer": 0,
     "explanation": "나침반 바늘이 끌려오는 방향으로 극을 알 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1534,22 +1638,24 @@
     "answer": 0,
     "explanation": "자석은 떨어져 있어도 철을 끌어당겨요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "자석 다트가 과녁에 붙는 까닭으로 알맞은 것은?",
     "choices": [
-      "다트가 끈적해서",
+      "다트 끝이 끈적끈적해서",
       "과녁에 철이 들어 있어서",
-      "과녁이 나무라서",
-      "바람 때문에"
+      "과녁이 나무로 되어 있어서",
+      "공기가 다트를 눌러 줘서"
     ],
     "answer": 1,
     "explanation": "다트 끝의 자석이 과녁 속 철판에 붙어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 2,
@@ -1564,7 +1670,8 @@
     "answer": 2,
     "explanation": "자석은 북쪽과 남쪽을 가리키는 성질이 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1579,7 +1686,8 @@
     "answer": 1,
     "explanation": "하류에서는 물의 흐름이 느려져 실어 온 고운 흙과 모래가 쌓여 넓고 평평한 들이 생겨요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1594,7 +1702,8 @@
     "answer": 3,
     "explanation": "비로 물이 많아지고 빨라지면 땅을 더 많이 깎아 흙을 실어 오므로 흙탕물이 돼요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1607,7 +1716,8 @@
     "answer": 0,
     "explanation": "물이 빠르게 흐를수록 운반하는 힘이 커서 모래보다 큰 자갈도 옮길 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1622,7 +1732,8 @@
     "answer": 1,
     "explanation": "흐르는 물이 땅을 깎고 옮기고 쌓아 지형이 바뀌는 데는 아주 오랜 시간이 걸려요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1635,7 +1746,8 @@
     "answer": 1,
     "explanation": "흐르는 물은 땅을 깎고(침식), 옮기고(운반), 흐름이 느린 곳에 쌓아요(퇴적).",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1650,7 +1762,8 @@
     "answer": 2,
     "explanation": "깎는 것은 침식, 쌓는 것은 퇴적이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1665,22 +1778,24 @@
     "answer": 3,
     "explanation": "상류는 경사가 급하고 큰 바위가 많아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "강 하류에 고운 모래와 흙이 많이 쌓이는 까닭은?",
     "choices": [
-      "물의 흐름이 느려 퇴적이 잘 되어서",
+      "물이 느려 퇴적이 많아서",
       "물이 빨라 침식이 심해서",
-      "바람이 세게 불어서",
-      "바위가 많아서"
+      "바람이 아주 세게 불어서",
+      "큰 바위가 많이 쌓여서"
     ],
     "answer": 0,
     "explanation": "하류는 물이 느리게 흘러 운반한 것이 쌓여요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1695,7 +1810,8 @@
     "answer": 2,
     "explanation": "위쪽은 깎이고 아래쪽에 흙이 쌓여요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1710,7 +1826,8 @@
     "answer": 2,
     "explanation": "불어난 강물은 빠르고 힘이 세서 위험하므로 강가에 가지 않아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1723,7 +1840,8 @@
     "answer": 1,
     "explanation": "상류는 경사가 급해 물이 빠르게 흐르고 깎는 작용이 활발해요. 흙과 모래는 하류에 많이 쌓여요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1738,7 +1856,8 @@
     "answer": 3,
     "explanation": "자석에 붙어 있던 철 클립은 잠시 자석의 성질을 띠지만, 떼어 두면 그 성질이 점점 약해져요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 3,
@@ -1753,7 +1872,8 @@
     "answer": 1,
     "explanation": "두 자석이 붙어 있으므로 서로 끌어당기는 다른 극끼리 마주 보고 있어요. 맨 위 자석은 같은 극끼리 마주 보아 떠 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1768,7 +1888,8 @@
     "answer": 1,
     "explanation": "경사가 급하면 물이 빨라서 땅을 많이 깎아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1783,37 +1904,40 @@
     "answer": 0,
     "explanation": "같은 극끼리 마주 보면 서로 밀어내서 위쪽 자석이 떠 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "분리배출할 때 자석으로 골라낼 수 있는 것은?",
     "choices": [
-      "알루미늄 캔",
-      "철로 만든 통조림 캔",
-      "플라스틱 병",
-      "유리병"
+      "음료수 알루미늄 캔",
+      "철로 된 통조림 캔",
+      "투명한 플라스틱 병",
+      "초록색 유리 음료병"
     ],
     "answer": 1,
     "explanation": "자석은 철을 끌어당겨서 철 캔만 골라낼 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "철로 된 책상 위에 나침반을 두면 방향이 잘 맞지 않을 수 있어요. 까닭은?",
     "choices": [
-      "책상이 너무 무거워서",
-      "책상의 철이 바늘을 끌어당겨서",
+      "책상이 너무 무겁고 커서",
+      "책상의 철이 바늘을 당겨서",
       "책상이 나무처럼 보여서",
-      "바늘이 녹슬어서"
+      "나침반 바늘이 녹슬어서"
     ],
     "answer": 1,
     "explanation": "나침반 바늘은 자석이라 가까운 철에 끌려서 방향이 틀어질 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1826,7 +1950,8 @@
     "answer": 0,
     "explanation": "자석의 힘은 물을 사이에 두어도 전달돼요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -1841,7 +1966,8 @@
     "answer": 2,
     "explanation": "자석이 멈추어 한쪽 끝이 북쪽을 향한 것은 직접 본 사실이에요. 나머지는 생각하거나 짐작한 것이에요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -1856,7 +1982,8 @@
     "answer": 3,
     "explanation": "다른 극끼리 끌어당기므로 바늘의 N극이 가리키는 쪽은 S극이에요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -1871,7 +1998,8 @@
     "answer": 0,
     "explanation": "자석은 철을 끌어당겨서 모래 속 철 가루만 골라낼 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 1,
@@ -1886,7 +2014,8 @@
     "answer": 1,
     "explanation": "철 클립은 자석에 붙어서 물고기 장난감을 낚을 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 1,
@@ -1901,7 +2030,8 @@
     "answer": 3,
     "explanation": "강가에 둑을 쌓아 강물이 넘치는 것을 막아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1916,7 +2046,8 @@
     "answer": 1,
     "explanation": "색 모래가 흘러간 곳을 보면 흙이 깎여 어디로 옮겨 가 쌓이는지 쉽게 알 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1931,7 +2062,8 @@
     "answer": 1,
     "explanation": "흐르는 물의 양이 많을수록 흙을 더 많이 깎아 운반해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1946,7 +2078,8 @@
     "answer": 0,
     "explanation": "깎인 흙과 돌을 물이 실어 옮기는 것을 운반 작용이라고 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -1961,7 +2094,8 @@
     "answer": 3,
     "explanation": "물에 실려 온 흙이나 모래가 쌓이는 것을 퇴적 작용이라고 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1976,7 +2110,8 @@
     "answer": 0,
     "explanation": "하류는 강폭이 넓고 경사가 완만하며 고운 모래가 많이 쌓여요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -1991,7 +2126,8 @@
     "answer": 2,
     "explanation": "돌이 물에 떠내려오는 동안 서로 부딪히고 깎여 작고 둥글어져요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2006,7 +2142,8 @@
     "answer": 0,
     "explanation": "물이 느려지면 실어 온 모래를 더 옮기지 못하고 쌓아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2021,7 +2158,8 @@
     "answer": 3,
     "explanation": "물길, 쌓인 흙, 흙탕물은 실험에서 본 것이에요. 실제 강에서도 그럴 것이라는 말은 실험 결과로 생각한 추리예요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2036,7 +2174,8 @@
     "answer": 2,
     "explanation": "알아보려는 물의 양만 다르게 하고 경사는 같게 해야 무엇 때문에 결과가 달라졌는지 알 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2051,7 +2190,8 @@
     "answer": 3,
     "explanation": "알아보려는 조건 말고 물을 붓는 높이와 빠르기 같은 다른 조건은 같게 해야 공정하게 비교할 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2066,7 +2206,8 @@
     "answer": 0,
     "explanation": "언덕 위쪽이 깎이고 아래쪽에 쌓이듯 강도 상류는 깎이고 하류는 쌓여요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2081,7 +2222,8 @@
     "answer": 2,
     "explanation": "돌은 떠내려오며 부딪히고 깎여 하류로 갈수록 작고 둥글어지므로 (다)가 바다에 가장 가까워요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -2096,7 +2238,8 @@
     "answer": 3,
     "explanation": "달은 태양이 만든 것이 아니에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2111,7 +2254,8 @@
     "answer": 0,
     "explanation": "목성 다음으로 큰 행성이 토성이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2126,7 +2270,8 @@
     "answer": 1,
     "explanation": "수성, 금성, 지구, 화성 순서로 가까워요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -2141,7 +2286,8 @@
     "answer": 2,
     "explanation": "북두칠성과 카시오페이아자리로 북극성을 찾아요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 2,
@@ -2156,7 +2302,8 @@
     "answer": 1,
     "explanation": "식물은 햇빛으로 스스로 양분을 만드는 생산자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2171,7 +2318,8 @@
     "answer": 1,
     "explanation": "분해자는 죽은 생물을 분해해 양분을 돌려줘요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -2186,7 +2334,8 @@
     "answer": 3,
     "explanation": "먹히는 생물에서 먹는 생물 쪽으로 화살표를 그려요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -2201,7 +2350,8 @@
     "answer": 0,
     "explanation": "토성의 고리는 망원경으로 잘 보여요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2216,7 +2366,8 @@
     "answer": 1,
     "explanation": "태양은 스스로 빛을 내고 행성은 반사해요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -2231,7 +2382,8 @@
     "answer": 1,
     "explanation": "달 표면에는 돌이 부딪쳐 생긴 크고 작은 둥근 구덩이가 많아요. 달에는 물과 공기가 거의 없어 강, 숲, 구름이 없어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-01]"
   },
   {
     "difficulty": 3,
@@ -2246,7 +2398,8 @@
     "answer": 1,
     "explanation": "별자리를 이루는 별들은 여러 날 동안 서로의 위치가 거의 변하지 않아요. 행성은 별자리 사이를 옮겨 다녀요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -2261,7 +2414,8 @@
     "answer": 2,
     "explanation": "벼를 먹는 생물은 메뚜기예요. 개구리는 메뚜기를, 뱀은 개구리를 먹어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -2276,7 +2430,8 @@
     "answer": 0,
     "explanation": "먹이 사슬이 얽힌 것을 먹이 그물이라 해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -2291,7 +2446,8 @@
     "answer": 1,
     "explanation": "햇빛, 물, 공기, 흙 등은 비생물 요소예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2306,7 +2462,8 @@
     "answer": 2,
     "explanation": "사막은 비가 적어 물이 부족해요. 가시 모양 잎은 물이 빠져나가는 것을 줄여 줘요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2321,7 +2478,8 @@
     "answer": 2,
     "explanation": "수성, 금성, 지구 다음이 화성이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -2336,7 +2494,8 @@
     "answer": 1,
     "explanation": "북극성은 늘 북쪽 하늘에 거의 머물러요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 2,
@@ -2351,7 +2510,8 @@
     "answer": 1,
     "explanation": "뱀의 먹이였던 개구리 수가 먼저 늘어나요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -2366,7 +2526,8 @@
     "answer": 2,
     "explanation": "분해자가 없으면 죽은 생물이 분해되지 않아요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -2381,7 +2542,8 @@
     "answer": 3,
     "explanation": "쓰레기를 되가져오고 생물을 함부로 캐거나 잡지 않아야 생태계를 보전할 수 있어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 1,
@@ -2396,7 +2558,8 @@
     "answer": 0,
     "explanation": "일회용품을 줄이면 환경 오염이 줄어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -2411,7 +2574,8 @@
     "answer": 3,
     "explanation": "북극성은 태양계 밖의 별이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2426,7 +2590,8 @@
     "answer": 0,
     "explanation": "금성은 지구와 크기가 비슷해요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2441,7 +2606,8 @@
     "answer": 2,
     "explanation": "화성과 목성 사이(5.2−1.5), 목성과 토성 사이(9.5−5.2)처럼 바깥쪽으로 갈수록 이웃한 행성 사이의 거리가 대체로 멀어져요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2456,7 +2622,8 @@
     "answer": 1,
     "explanation": "관찰하는 시각과 장소를 같게 하고 여러 날 관찰해야 달의 모양 변화를 비교할 수 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-01]"
   },
   {
     "difficulty": 2,
@@ -2471,7 +2638,8 @@
     "answer": 0,
     "explanation": "국자 끝 두 별 거리의 약 5배 위치에 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 2,
@@ -2486,7 +2654,8 @@
     "answer": 1,
     "explanation": "W자 바깥 두 선을 연장한 곳을 이용해 찾아요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -2499,37 +2668,40 @@
     "answer": 1,
     "explanation": "행성은 태양 빛을 반사해서 밝게 보여요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 1,
     "type": "choice4",
-    "question": "밤하늘에서 행성과 별을 구별하는 방법으로 알맞은 것은?",
+    "question": "다음 중 스스로 빛을 내는 천체는?",
     "choices": [
-      "색만 봐요",
-      "하루만 봐요",
-      "여러 날 위치가 변하는지 봐요",
-      "크기만 봐요"
+      "지구",
+      "달",
+      "별",
+      "화성"
     ],
     "answer": 2,
-    "explanation": "행성은 여러 날 동안 별자리 사이를 움직여요.",
+    "explanation": "별은 태양처럼 스스로 빛을 내요. 행성과 달은 빛을 반사해요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "해왕성에서 태양이 지구에서보다 어둡게 보이는 까닭은?",
     "choices": [
-      "태양보다 커서",
-      "스스로 빛나서",
-      "고리가 있어서",
-      "태양에서 훨씬 멀어서"
+      "태양보다 훨씬 커서",
+      "스스로 빛을 내서",
+      "띠 모양 고리가 있어서",
+      "태양에서 아주 멀어서"
     ],
     "answer": 3,
     "explanation": "태양에서 멀수록 도달하는 빛이 적어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 3,
@@ -2544,7 +2716,8 @@
     "answer": 1,
     "explanation": "수성·금성·지구·화성은 암석으로 된 행성이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -2559,7 +2732,8 @@
     "answer": 2,
     "explanation": "태양계 행성 중 목성이 가장 커요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -2572,7 +2746,8 @@
     "answer": 0,
     "explanation": "식물은 햇빛으로 양분을 만들어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2587,7 +2762,8 @@
     "answer": 2,
     "explanation": "달의 바다는 어둡게 보여서 붙은 이름일 뿐, 물이 없는 평평한 곳이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-01]"
   },
   {
     "difficulty": 2,
@@ -2602,7 +2778,8 @@
     "answer": 0,
     "explanation": "버섯은 포자로 번식하는 균류예요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -2617,7 +2794,8 @@
     "answer": 1,
     "explanation": "짚신벌레와 해캄은 원생생물이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -2630,7 +2808,8 @@
     "answer": 0,
     "explanation": "짚신벌레가 든 물을 받침 유리에 떨어뜨리고 덮개 유리를 덮어 관찰 재료를 만들어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -2645,7 +2824,8 @@
     "answer": 2,
     "explanation": "곰팡이는 따뜻하고 습한 곳에서 잘 자라요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -2660,7 +2840,8 @@
     "answer": 3,
     "explanation": "김치·요구르트를 만들 때 세균이 쓰여요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -2668,14 +2849,15 @@
     "question": "생물이 우리 생활에 해를 주는 예로 알맞은 것은?",
     "choices": [
       "적조로 물고기가 죽어요",
-      "된장을 만들어요",
-      "하수를 정화해요",
-      "약을 만들어요"
+      "된장을 담가 먹어요",
+      "하수를 깨끗하게 해요",
+      "약을 만드는 데 써요"
     ],
     "answer": 0,
     "explanation": "원생생물이 많아져 생긴 적조는 해로워요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -2690,7 +2872,8 @@
     "answer": 1,
     "explanation": "처음에는 가장 낮은 배율의 대물렌즈로 맞춰 관찰할 대상을 찾아요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -2705,7 +2888,8 @@
     "answer": 2,
     "explanation": "푸른곰팡이에서 항생제 페니실린을 얻어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 1,
@@ -2720,7 +2904,8 @@
     "answer": 2,
     "explanation": "바닷물과 모래는 살아 있지 않은 비생물 요소예요. 미역, 고등어, 게, 조개는 생물 요소예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 1,
@@ -2735,37 +2920,40 @@
     "answer": 0,
     "explanation": "다른 생물을 먹는 생물은 소비자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "먹이 사슬과 비교한 먹이 그물의 특징은?",
     "choices": [
-      "먹이가 한 가지뿐이에요",
+      "먹이 관계가 한 줄로만 이어져요",
       "한 생물이 없어져도 덜 흔들려요",
-      "생산자가 없어요",
-      "분해자만 있어요"
+      "생산자가 하나도 없어요",
+      "분해자만 있고 나머지는 없어요"
     ],
     "answer": 1,
     "explanation": "먹이가 여러 가지라 생태계가 더 안정돼요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "빛을 준 콩나물과 빛을 주지 않은 콩나물을 며칠 동안 비교했더니 빛을 준 콩나물만 떡잎이 초록색이 됐어요. 알 수 있는 것은?",
     "choices": [
-      "물이 필요 없어요",
-      "온도가 영향을 줘요",
-      "빛이 떡잎 색에 영향을 줘요",
-      "빛은 영향이 없어요"
+      "물이 전혀 필요 없어요",
+      "온도가 색에 영향을 줘요",
+      "빛이 색에 영향을 줘요",
+      "빛은 아무 영향이 없어요"
     ],
     "answer": 2,
     "explanation": "빛이 있어야 떡잎이 초록색으로 변해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2780,7 +2968,8 @@
     "answer": 3,
     "explanation": "물의 영향을 알아보므로 주는 물의 양만 다르게 하고 빛, 온도, 콩나물 종류는 같게 해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2795,37 +2984,40 @@
     "answer": 3,
     "explanation": "생물들이 먹고 먹히는 관계로 이어져 있어 어느 한 생물의 수가 늘거나 줄어도 다시 알맞게 조절돼요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "'늑대를 없앴더니 사슴이 늘어 풀이 크게 줄었다.' 알 수 있는 것은?",
     "choices": [
-      "풀은 사슴과 관계없어요",
+      "풀은 사슴과 아무 관계가 없어요",
       "한 생물이 없으면 균형이 깨져요",
-      "늑대는 생산자예요",
-      "사슴 수는 변하지 않아요"
+      "늑대는 먹이 사슬의 생산자예요",
+      "사슴의 수는 전혀 변하지 않아요"
     ],
     "answer": 1,
     "explanation": "먹고 먹히는 관계라 평형이 깨졌어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "대벌레가 나뭇가지와 비슷한 모습인 까닭은?",
     "choices": [
-      "빨리 날려고",
-      "물을 저장하려고",
+      "더 빠르게 날아가려고",
+      "몸속에 물을 저장하려고",
       "적에게 눈에 덜 띄려고",
-      "햇빛을 받으려고"
+      "햇빛을 더 많이 받으려고"
     ],
     "answer": 2,
     "explanation": "주변과 비슷해 천적을 피할 수 있어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 1,
@@ -2840,7 +3032,8 @@
     "answer": 3,
     "explanation": "오염은 생물의 서식지를 망가뜨려요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 1,
@@ -2853,7 +3046,8 @@
     "answer": 1,
     "explanation": "곰팡이는 살아 있는 생물이므로 생물 요소(분해자)예요. 움직이는지로 생물과 비생물을 나누지 않아요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2868,7 +3062,8 @@
     "answer": 0,
     "explanation": "물이 없으면 콩나물이 잘 자라지 못하고 시들어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -2883,22 +3078,24 @@
     "answer": 1,
     "explanation": "온도 변화에 따라 살기 알맞은 곳으로 이동해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "대기 오염을 줄이는 방법으로 알맞지 않은 것은?",
     "choices": [
-      "대중교통 이용",
-      "나무 심기",
-      "가까운 거리도 자동차 타기",
-      "에너지 아끼기"
+      "대중교통 이용하기",
+      "나무를 심고 가꾸기",
+      "가까운 곳도 차 타기",
+      "전기와 에너지 아끼기"
     ],
     "answer": 2,
     "explanation": "자동차 배기가스는 대기 오염을 늘려요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -2913,7 +3110,8 @@
     "answer": 1,
     "explanation": "먹이인 메뚜기가 줄자 개구리도 먹이가 부족해져 수가 줄었어요. 인간 활동이 먹이 관계를 따라 여러 생물에 영향을 줘요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -2928,7 +3126,8 @@
     "answer": 2,
     "explanation": "음력 15일 무렵에는 둥근 보름달을 볼 수 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-01]"
   },
   {
     "difficulty": 2,
@@ -2943,7 +3142,8 @@
     "answer": 3,
     "explanation": "엉킨 실, 작은 알갱이, 색깔은 눈으로 본 사실이에요. \"양분을 먹고 자랐을 것\"은 본 것을 바탕으로 생각한 추리예요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -2958,7 +3158,8 @@
     "answer": 3,
     "explanation": "먹는 생물이 줄어 풀은 한동안 늘어나요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -2973,7 +3174,8 @@
     "answer": 2,
     "explanation": "태양에서 가까운 순서는 수성, 금성, 지구, 화성이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -2988,7 +3190,8 @@
     "answer": 0,
     "explanation": "가장 큰 행성은 목성, 가장 작은 행성은 수성이에요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -3003,7 +3206,8 @@
     "answer": 3,
     "explanation": "화성은 지구의 약 절반 크기라서 10 cm의 절반인 약 5 cm로 만들어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -3016,7 +3220,8 @@
     "answer": 0,
     "explanation": "별은 스스로 빛을 내고, 행성은 태양 빛을 반사해서 보여요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 3,
@@ -3031,7 +3236,8 @@
     "answer": 0,
     "explanation": "별들은 서로의 위치가 거의 변하지 않지만 행성은 별자리 사이를 옮겨 다녀요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -3046,7 +3252,8 @@
     "answer": 3,
     "explanation": "목성, 토성, 천왕성, 해왕성은 고리가 있고 금성은 고리가 없어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -3061,7 +3268,8 @@
     "answer": 2,
     "explanation": "목성과 토성은 지구보다 훨씬 크고 표면이 기체이며 고리가 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -3076,7 +3284,8 @@
     "answer": 1,
     "explanation": "태양에서 가까운 순서가 수성, 금성, 지구이므로 수성과 금성이 지구보다 가까워요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -3091,7 +3300,8 @@
     "answer": 0,
     "explanation": "곰팡이와 버섯은 균사로 이루어지고 포자로 번식하는 균류예요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -3106,7 +3316,8 @@
     "answer": 2,
     "explanation": "짚신벌레는 논, 연못처럼 물이 고인 곳에서 살아요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3121,22 +3332,24 @@
     "answer": 1,
     "explanation": "해캄은 초록색을 띠고 가늘고 긴 실처럼 생긴 원생생물이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "세균의 특징으로 알맞은 것은?",
     "choices": [
-      "맨눈으로 쉽게 보여요",
-      "모두 같은 모양이에요",
-      "씨를 만들어 번식해요",
-      "공, 막대, 나선 모양 등이 있어요"
+      "맨눈으로도 쉽게 잘 보여요",
+      "모든 세균이 같은 모양이에요",
+      "씨를 만들어서 번식해요",
+      "여러 가지 모양이 있어요"
     ],
     "answer": 3,
     "explanation": "세균은 매우 작고 공 모양, 막대 모양, 나선 모양 등 여러 모양이 있어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3151,22 +3364,24 @@
     "answer": 0,
     "explanation": "세균은 조건이 알맞으면 짧은 시간에 수가 매우 많이 늘어나요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "빵에 핀 곰팡이를 확대해서 관찰할 때 볼 수 있는 모습은?",
     "choices": [
-      "꽃잎과 수술",
-      "뿌리와 줄기",
+      "꽃잎과 수술의 모양",
+      "굵은 뿌리와 줄기",
       "가는 실 같은 균사",
-      "지느러미"
+      "물고기의 지느러미"
     ],
     "answer": 2,
     "explanation": "곰팡이는 가는 실 같은 균사가 얽혀 있고 끝에 포자가 있어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3179,7 +3394,8 @@
     "answer": 1,
     "explanation": "버섯은 균류라서 스스로 양분을 만들지 못하고 죽은 생물 등에서 양분을 얻어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -3194,22 +3410,24 @@
     "answer": 3,
     "explanation": "균류는 죽은 생물이나 낙엽을 분해해 자연을 깨끗하게 해요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "다음 중 균류를 이용한 예는?",
     "choices": [
-      "요구르트 만들기",
-      "김치 익히기",
-      "효모로 빵 반죽 부풀리기",
-      "청국장 만들기"
+      "요구르트를 만들어 먹기",
+      "김치를 맛있게 익히기",
+      "효모로 빵 부풀리기",
+      "청국장을 만들어 먹기"
     ],
     "answer": 2,
     "explanation": "효모는 균류예요. 요구르트, 김치, 청국장은 주로 세균을 이용해요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 3,
@@ -3224,7 +3442,8 @@
     "answer": 1,
     "explanation": "해캄은 초록색을 띠고, 짚신벌레는 초록색이 아니에요. 둘 다 물에 사는 원생생물이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3239,7 +3458,8 @@
     "answer": 3,
     "explanation": "푸른곰팡이는 균류예요. 짚신벌레, 아메바, 유글레나는 원생생물이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3254,7 +3474,8 @@
     "answer": 2,
     "explanation": "온도가 낮으면 세균과 곰팡이가 잘 자라지 못해 음식이 덜 상해요. 모두 죽는 것은 아니에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -3269,7 +3490,8 @@
     "answer": 3,
     "explanation": "온도·빛·빵의 종류는 같게 하고 적셨는지만 다르게 했으니 물기가 곰팡이에 주는 영향을 알아봐요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3284,7 +3506,8 @@
     "answer": 0,
     "explanation": "해충에게만 해로운 세균의 특성을 이용해 환경 피해가 적은 생물 농약을 만들어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-03]"
   },
   {
     "difficulty": 2,
@@ -3299,7 +3522,8 @@
     "answer": 1,
     "explanation": "기름을 분해하는 세균을 이용하면 기름으로 오염된 바다나 땅을 정화할 수 있어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-03]"
   },
   {
     "difficulty": 1,
@@ -3312,7 +3536,8 @@
     "answer": 1,
     "explanation": "곰팡이는 음식을 상하게도 하지만 된장, 약을 만드는 데 쓰이는 등 이로운 점도 있어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -3327,7 +3552,8 @@
     "answer": 3,
     "explanation": "조동 나사로 대강 맞춘 뒤 미동 나사로 뚜렷하게 초점을 맞춰요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -3342,7 +3568,8 @@
     "answer": 3,
     "explanation": "낮은 배율로 찾은 뒤 더 크게 보려면 높은 배율의 대물렌즈로 바꿔요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -3357,7 +3584,8 @@
     "answer": 0,
     "explanation": "생물 요소와 비생물 요소가 서로 영향을 주고받는 것을 생태계라고 해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -3372,7 +3600,8 @@
     "answer": 1,
     "explanation": "도토리를 직접 먹는 다람쥐가 먹이가 부족해 가장 먼저 줄어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -3387,7 +3616,8 @@
     "answer": 2,
     "explanation": "빛은 동물이 번식하는 시기나 활동에 영향을 줘요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -3402,7 +3632,8 @@
     "answer": 1,
     "explanation": "들어온 생물이 원래 살던 생물을 잡아먹거나 먹이와 사는 곳을 빼앗으면 먹이 관계가 흔들려요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -3415,7 +3646,8 @@
     "answer": 0,
     "explanation": "깨진 생태계도 오랜 시간이 걸리지만 다시 회복될 수 있어요. 그래도 처음부터 깨지지 않게 보전하는 것이 중요해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 1,
@@ -3430,7 +3662,8 @@
     "answer": 3,
     "explanation": "나무를 심는 것은 환경을 보호하는 일이고 나머지는 물을 오염시켜요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -3439,28 +3672,30 @@
     "choices": [
       "자동차가 더 빨리 가려고",
       "동물을 한곳에 가두려고",
-      "동물이 안전하게 이동하게 하려고",
-      "나무를 베어 내려고"
+      "동물이 안전하게 건너려고",
+      "나무를 모두 베어 내려고"
     ],
     "answer": 2,
     "explanation": "생태 통로는 도로로 나뉜 서식지를 이어 동물이 안전하게 오가게 해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "여우가 토끼와 들쥐를 모두 먹는 먹이 그물에서 토끼가 줄어도 여우가 바로 사라지지 않는 까닭은?",
     "choices": [
-      "여우는 생산자라서",
-      "다른 먹이인 들쥐를 먹을 수 있어서",
-      "토끼가 저절로 다시 생겨서",
-      "여우는 먹지 않아도 돼서"
+      "여우는 스스로 양분을 만들어서",
+      "들쥐 같은 다른 먹이가 있어서",
+      "토끼가 저절로 바로 다시 생겨서",
+      "여우는 아무것도 안 먹어도 돼서"
     ],
     "answer": 1,
     "explanation": "먹이 그물에서는 먹이가 여러 가지라 한 가지가 줄어도 다른 먹이를 먹을 수 있어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -3475,7 +3710,8 @@
     "answer": 3,
     "explanation": "세균과 곰팡이는 죽은 생물이나 배출물을 분해해 양분을 얻는 분해자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -3490,7 +3726,8 @@
     "answer": 3,
     "explanation": "산소는 생물이 숨을 쉬는 데 꼭 필요해서 호흡 장치나 공기통에 쓰여요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -3498,14 +3735,15 @@
     "question": "탄산음료의 톡 쏘는 맛을 내고, 소화기에도 쓰이는 기체는?",
     "choices": [
       "이산화 탄소",
-      "산소",
-      "질소",
-      "헬륨"
+      "산소 기체",
+      "질소 기체",
+      "헬륨 기체"
     ],
     "answer": 0,
     "explanation": "이산화 탄소는 탄산음료에 넣고, 불을 끄는 성질이 있어 소화기에도 써요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -3520,7 +3758,8 @@
     "answer": 2,
     "explanation": "늘어난 풍선이 줄어들며 속의 공기를 입구로 세게 밀어내고, 그 반대쪽으로 풍선이 날아가요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -3535,7 +3774,8 @@
     "answer": 1,
     "explanation": "산소는 색과 냄새가 없고 생물의 호흡에 필요한 기체예요. 과자 봉지에는 질소, 풍선에는 헬륨을 넣어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -3550,7 +3790,8 @@
     "answer": 2,
     "explanation": "헬륨은 공기보다 가볍고 타지 않아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -3565,7 +3806,8 @@
     "answer": 3,
     "explanation": "눌려서 부피가 줄었던 공기는 누르는 힘이 없어지면 다시 부피가 늘어나 피스톤을 밀어내요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -3580,7 +3822,8 @@
     "answer": 1,
     "explanation": "기체는 온도가 높아지면 부피가 늘어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -3595,7 +3838,8 @@
     "answer": 2,
     "explanation": "뜨거운 물은 데지 않게 장갑을 끼고 조심히 다루고, 실험 기구로 장난치지 않아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -3608,7 +3852,8 @@
     "answer": 1,
     "explanation": "우리 주변에는 산소, 질소, 이산화 탄소, 헬륨처럼 여러 가지 기체가 있고, 공기도 여러 기체가 섞인 것이에요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -3623,7 +3868,8 @@
     "answer": 3,
     "explanation": "질소는 다른 물질과 잘 반응하지 않아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -3636,7 +3882,8 @@
     "answer": 0,
     "explanation": "산소는 색과 냄새가 없는 기체예요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -3651,7 +3898,8 @@
     "answer": 3,
     "explanation": "압력을 받아 부피가 줄어 있던 공기가 다시 늘어나며 물을 아래로 세게 밀어내고, 그 힘으로 물로켓이 날아가요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-04]"
   },
   {
     "difficulty": 3,
@@ -3666,7 +3914,8 @@
     "answer": 2,
     "explanation": "압력이 낮아지면 기체 부피가 커져요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -3681,7 +3930,8 @@
     "answer": 1,
     "explanation": "햇볕을 받아 타이어 속 공기의 온도가 오르면 부피가 늘어나 타이어가 팽팽해져요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 3,
@@ -3696,7 +3946,8 @@
     "answer": 1,
     "explanation": "질소는 과자 봉지에 넣어 내용물이 상하지 않게 해요. 헬륨은 풍선, 이산화 탄소는 탄산음료, 산소는 공기통에 써요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 3,
@@ -3711,22 +3962,24 @@
     "answer": 1,
     "explanation": "올라갈수록 압력이 낮아져 부피가 커져요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "구멍을 뚫은 상자를 세게 두드리면 구멍 앞에 멀리 세워 둔 종이 인형이 쓰러져요. 그 까닭으로 알맞은 것은?",
     "choices": [
-      "상자 속 공기가 차가워져 무거워져서",
-      "상자 속 공기가 눌려 구멍으로 세게 밀려 나가서",
-      "상자를 두드린 소리에 종이가 놀라서",
-      "상자 속 공기가 모두 사라져서"
+      "상자 속 공기가 차가워져 아주 무거워져서",
+      "상자 속 공기가 구멍으로 세게 밀려 나가서",
+      "상자 두드리는 큰 소리에 종이가 놀라서",
+      "상자 속 공기가 한꺼번에 모두 사라져서"
     ],
     "answer": 1,
-    "explanation": "상자를 두드리면 속의 공기가 압력을 받아 구멍으로 세게 밀려 나가 종이 인형을 쓰러뜨려요.",
+    "explanation": "상자를 두드리면 속의 공기가 구멍으로 세게 밀려 나가 종이 인형을 쓰러뜨려요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-04]"
   },
   {
     "difficulty": 2,
@@ -3739,7 +3992,8 @@
     "answer": 1,
     "explanation": "입구를 막았으므로 공기의 양은 그대로예요. 같은 양의 공기가 압력을 받아 차지하는 부피만 줄었어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -3754,22 +4008,24 @@
     "answer": 2,
     "explanation": "한쪽을 누르면 압력을 받은 공기가 관을 따라 이동해 다른 쪽 피스톤을 밀어내요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-04]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "드라이아이스는 어떤 기체를 차갑게 하여 고체로 만든 것일까요?",
     "choices": [
-      "산소",
-      "질소",
+      "산소 기체",
+      "질소 기체",
       "이산화 탄소",
-      "헬륨"
+      "헬륨 기체"
     ],
     "answer": 2,
     "explanation": "드라이아이스는 이산화 탄소를 고체로 만든 것이라 식품을 차갑게 보관할 때 써요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -3782,7 +4038,8 @@
     "answer": 1,
     "explanation": "다른 물질이 타는 것을 돕는 기체는 산소예요. 이산화 탄소는 오히려 타는 것을 막아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 3,
@@ -3797,7 +4054,8 @@
     "answer": 3,
     "explanation": "온도에 따른 부피 변화를 알아보므로 물의 온도만 다르게 하고 나머지는 같게 해요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -3812,7 +4070,8 @@
     "answer": 3,
     "explanation": "납작함 → 조금 부풂 → 빵빵함으로, 높이 올라갈수록 봉지 속 기체의 부피가 늘었어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 3,
@@ -3827,7 +4086,8 @@
     "answer": 2,
     "explanation": "발이 누르면 밑창 속 공기의 부피가 줄었다가 다시 늘어나 충격을 흡수해요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 3,
@@ -3840,7 +4100,8 @@
     "answer": 1,
     "explanation": "공기의 양은 그대로이고, 온도가 높아져 같은 양의 공기가 차지하는 부피가 늘어난 거예요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -3855,7 +4116,8 @@
     "answer": 0,
     "explanation": "공기의 대부분은 질소이고, 그다음으로 많은 것이 산소예요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -3863,14 +4125,15 @@
     "question": "헬륨 풍선 속 기체를 들이마시는 장난을 하면 안 되는 까닭은?",
     "choices": [
       "헬륨이 몸속에서 얼음으로 변해서",
-      "숨 쉬는 데 필요한 산소를 들이마시지 못해서",
+      "산소를 들이마시지 못해서",
       "헬륨이 공기보다 훨씬 무거워서",
-      "헬륨이 몸속에서 불에 타서"
+      "헬륨이 몸속에서 갑자기 불에 타서"
     ],
     "answer": 1,
     "explanation": "헬륨을 들이마시는 동안에는 숨 쉬는 데 필요한 산소를 들이마시지 못해 위험해요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 3,
@@ -3883,7 +4146,8 @@
     "answer": 1,
     "explanation": "산소는 스스로 타지 않고, 다른 물질이 탈 때 타는 것을 도와요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -3906,10 +4170,10 @@
     "type": "choice4",
     "question": "다음 중 '날씨'가 아니라 '기후'를 말한 것은?",
     "choices": [
-      "오늘 오후에 비가 온다.",
-      "내일은 바람이 세게 분다.",
-      "이 지역은 해마다 여름에 비가 많다.",
-      "지금 기온은 25℃이다."
+      "오늘 오후에는 소나기가 올 것이다.",
+      "내일은 서쪽에서 바람이 세게 분다.",
+      "여름에는 해마다 비가 많이 온다.",
+      "지금 서울의 기온은 25℃이다."
     ],
     "answer": 2,
     "explanation": "해마다 되풀이되는 오랜 기간의 특징은 기후예요.",
@@ -3968,10 +4232,10 @@
     "type": "choice4",
     "question": "대표적인 온실 기체로, 석탄이나 석유를 태울 때 많이 나오는 기체는?",
     "choices": [
-      "산소",
-      "헬륨",
+      "산소 기체",
+      "헬륨 기체",
       "이산화 탄소",
-      "수소"
+      "수소 기체"
     ],
     "answer": 2,
     "explanation": "석탄·석유를 태우면 온실 기체인 이산화 탄소가 많이 나와요.",
@@ -4094,10 +4358,10 @@
     "type": "choice4",
     "question": "기후변화로 해수면이 높아지는 까닭으로 알맞은 것은?",
     "choices": [
-      "육지의 빙하가 녹아 바다로 흘러서",
-      "바닷물이 얼어서",
-      "비가 적게 와서",
-      "바다 생물이 늘어서"
+      "육지 빙하가 녹아 흘러들어서",
+      "바닷물이 차갑게 얼어붙어서",
+      "비가 거의 내리지 않아서",
+      "바다 생물이 너무 많아져서"
     ],
     "answer": 0,
     "explanation": "육지의 빙하가 녹은 물이 바다로 흘러가 해수면이 높아져요.",
@@ -4126,10 +4390,10 @@
     "type": "choice4",
     "question": "기후변화로 따뜻한 기간이 길어져 모기가 활동하는 기간도 길어지면 생길 수 있는 일은?",
     "choices": [
-      "겨울이 더 추워진다",
-      "공기가 더 깨끗해진다",
-      "식물이 모두 사라진다",
-      "모기가 옮기는 병이 늘 수 있다"
+      "겨울이 지금보다 더 추워진다",
+      "공기가 훨씬 더 깨끗해진다",
+      "식물이 하나도 안 자란다",
+      "모기가 옮기는 병이 늘어난다"
     ],
     "answer": 3,
     "explanation": "모기가 오래 활동하면 모기가 옮기는 병이 늘 수 있어 대비가 필요해요.",
@@ -4142,10 +4406,10 @@
     "type": "choice4",
     "question": "기후변화로 가뭄이 길어지면 우리 생활에 생길 수 있는 일은?",
     "choices": [
-      "홍수가 잦아진다",
-      "먹을 물과 농업용수가 부족해진다",
-      "강물이 넘친다",
-      "눈이 많이 쌓인다"
+      "홍수가 더 자주 일어난다",
+      "마실 물이 부족해진다",
+      "저수지에 물이 가득 찬다",
+      "겨울마다 눈이 많이 쌓인다"
     ],
     "answer": 1,
     "explanation": "비가 오랫동안 오지 않으면 먹을 물과 농사에 쓸 물이 모자라요.",
@@ -4181,7 +4445,7 @@
     "explanation": "봄 기온이 일찍 오르면서 꽃이 피는 시기가 빨라지고 있어요.",
     "semester": 2,
     "unit": "기후변화와 우리 생활",
-    "standard": "[4과16-02]"
+    "standard": "[4과16-01]"
   },
   {
     "difficulty": 1,
@@ -4266,10 +4530,10 @@
     "type": "choice4",
     "question": "기후변화 대응 방법으로 알맞지 않은 것은?",
     "choices": [
-      "대중교통 이용하기",
-      "분리배출 하기",
-      "에어컨을 아주 낮은 온도로 틀기",
-      "나무 심기"
+      "버스·지하철 이용하기",
+      "분리배출 꼼꼼히 하기",
+      "에어컨 아주 세게 틀기",
+      "나무를 심고 가꾸기"
     ],
     "answer": 2,
     "explanation": "에어컨을 지나치게 세게 틀면 전기를 많이 써 온실 기체가 늘어요.",
@@ -4298,10 +4562,10 @@
     "type": "choice4",
     "question": "석탄 대신 햇빛이나 바람으로 전기를 만들면 좋은 점은?",
     "choices": [
-      "이산화 탄소를 적게 내보낸다",
-      "밤에도 햇빛이 생긴다",
-      "바람이 더 세진다",
-      "전기가 필요 없어진다"
+      "이산화 탄소가 적게 나온다",
+      "밤에도 햇빛이 더 강해진다",
+      "바람이 더 세게 불게 된다",
+      "전기를 아예 안 써도 된다"
     ],
     "answer": 0,
     "explanation": "햇빛·바람으로 전기를 만들면 연료를 태우지 않아 이산화 탄소가 적게 나와요.",
@@ -4420,66 +4684,6 @@
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "'종이 헬리콥터의 날개 길이에 따라 떨어지는 데 걸리는 시간이 다를까?'를 알아보려고 해요. 측정해야 할 것은?",
-    "choices": [
-      "종이 헬리콥터의 날개 길이",
-      "종이 헬리콥터를 떨어뜨리는 높이",
-      "종이 헬리콥터의 색깔",
-      "떨어지는 데 걸린 시간"
-    ],
-    "answer": 3,
-    "explanation": "날개 길이는 다르게 할 조건이고, 그 결과인 떨어지는 데 걸린 시간을 측정해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'빗면이 가파를수록 장난감 자동차가 더 멀리 굴러갈 것이다.'라는 생각을 확인하려고 해요. 알맞은 실험 방법은?",
-    "choices": [
-      "자동차 무게만 다르게, 나머지는 같게",
-      "빗면 기울기와 자동차를 함께 바꾸기",
-      "빗면 기울기만 다르게, 나머지는 같게",
-      "실험을 딱 한 번만 하고 끝내기"
-    ],
-    "answer": 2,
-    "explanation": "확인하려는 조건만 다르게 하고 나머지 조건은 모두 같게 해야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "같은 종이컵 두 개 중 하나에만 클립 3개를 넣고, 같은 높이에서 동시에 떨어뜨려 바닥에 닿는 시간을 비교했어요. 이 실험에서 다르게 한 조건은?",
-    "choices": [
-      "떨어뜨린 높이",
-      "종이컵의 무게",
-      "종이컵의 크기",
-      "떨어뜨린 시각"
-    ],
-    "answer": 1,
-    "explanation": "같은 종이컵을 같은 높이에서 동시에 떨어뜨렸고, 클립을 넣어 종이컵의 무게만 다르게 했어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "강낭콩의 키를 며칠 동안 잴 때 알맞은 방법은?",
-    "choices": [
-      "날마다 다른 자로 잰다",
-      "매일 같은 시각에 같은 자로 잰다",
-      "눈으로 어림해서 적는다",
-      "생각날 때만 잰다"
-    ],
-    "answer": 1,
-    "explanation": "같은 도구로 같은 시각에 재야 결과를 바르게 비교할 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
     "question": "시간에 따라 기온이 어떻게 변하는지 나타내기에 가장 알맞은 그래프는?",
     "choices": [
       "막대그래프",
@@ -4490,63 +4694,8 @@
     "answer": 3,
     "explanation": "꺾은선그래프는 시간에 따른 변화를 한눈에 보기 좋아요.",
     "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "같은 양의 물을 햇빛이 드는 곳과 그늘에 두고 10분마다 온도를 쟀더니 햇빛이 드는 곳의 물이 계속 더 높았어요. 알맞은 결론은?",
-    "choices": [
-      "햇빛을 받은 물이 더 따뜻해진다",
-      "그늘의 물이 더 빨리 데워진다",
-      "물의 온도는 변하지 않는다",
-      "물의 양이 늘어난다"
-    ],
-    "answer": 0,
-    "explanation": "측정한 자료를 근거로 햇빛을 받은 물이 더 따뜻해진다고 결론 내려요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "다른 조건은 같게 하고 하루에 물을 준 횟수만 바꾸었더니 싹의 키가 0번 1cm, 1번 4cm, 2번 6cm였어요. 알 수 있는 것은?",
-    "choices": [
-      "물을 주지 않을수록 더 자랐다",
-      "물과 싹의 키는 관계없다",
-      "이 실험에선 물을 자주 줄수록 더 자랐다",
-      "3번 주면 반드시 8cm가 된다"
-    ],
-    "answer": 2,
-    "explanation": "자료에서 확인한 범위 안에서만 결론을 내려야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "실험할 때는 여러 조건을 한꺼번에 바꾸어야 결과를 빨리 알 수 있어요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "여러 조건을 함께 바꾸면 무엇 때문에 결과가 달라졌는지 알 수 없어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "탐구 결과를 발표할 때는 실험에서 얻은 자료를 근거로 설명해야 해요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "실험 자료를 근거로 설명해야 다른 사람이 믿고 이해할 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "기후변화와 우리 생활",
+    "standard": "[4과16-01]"
   },
   {
     "difficulty": 1,
@@ -4561,7 +4710,8 @@
     "answer": 2,
     "explanation": "얼음은 모양이 일정한 고체예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 1,
@@ -4576,7 +4726,8 @@
     "answer": 1,
     "explanation": "연못 물이 어는 것은 액체인 물이 고체인 얼음으로 변하는 예예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 1,
@@ -4589,7 +4740,8 @@
     "answer": 1,
     "explanation": "증발한 물은 없어지는 것이 아니라 눈에 보이지 않는 수증기가 되어 공기 중으로 퍼져요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -4604,7 +4756,8 @@
     "answer": 1,
     "explanation": "아이스크림이 녹는 것은 고체가 액체로 변하는 예예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 1,
@@ -4617,7 +4770,8 @@
     "answer": 1,
     "explanation": "여름에도 차가운 음료 컵 겉에 물방울이 맺히는 것처럼 응결은 계절과 관계없이 일어나요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -4632,7 +4786,8 @@
     "answer": 2,
     "explanation": "물이 얼면 부피가 늘었다가 녹으면 다시 줄어들어 처음과 같은 200 mL가 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -4647,7 +4802,8 @@
     "answer": 3,
     "explanation": "하루에 1 cm씩 줄었으므로 4일째 7 cm, 5일째 6 cm예요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -4662,7 +4818,8 @@
     "answer": 1,
     "explanation": "햇빛이 잘 들어야 그릇 속 물이 잘 증발해 수증기가 많이 생기고, 이것이 응결해 물이 모여요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-03]"
   },
   {
     "difficulty": 2,
@@ -4671,13 +4828,14 @@
     "choices": [
       "주전자 입구에서 얼음이 튀어서",
       "차가운 물방울이 손을 얼려서",
-      "보이지 않는 뜨거운 수증기에 데일 수 있어서",
+      "뜨거운 수증기에 데일 수 있어서",
       "주전자 입구에서 전기가 흘러서"
     ],
     "answer": 2,
     "explanation": "주전자 입구 바로 앞에는 눈에 보이지 않는 뜨거운 수증기가 나와 데일 수 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -4692,7 +4850,8 @@
     "answer": 3,
     "explanation": "물속에서 큰 기포가 계속 올라오며 표면에서 터지는 것은 물이 끓는 모습이에요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -4707,7 +4866,8 @@
     "answer": 3,
     "explanation": "뭉치고 그늘에 두면 증발이 느려져서 오히려 늦게 말라요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -4722,7 +4882,8 @@
     "answer": 1,
     "explanation": "수건의 물이 증발해 수증기가 되면서 방 안 공기가 촉촉해져요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -4737,7 +4898,8 @@
     "answer": 2,
     "explanation": "바닷물이 증발해 생긴 수증기는 차가운 곳에서 더 잘 응결해요. 비닐을 얼음 주머니로 차갑게 하면 물방울이 더 많이 맺혀요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-03]"
   },
   {
     "difficulty": 3,
@@ -4752,7 +4914,8 @@
     "answer": 3,
     "explanation": "바닷물을 증발시키면 물만 수증기가 되고 소금은 남아요. 그 수증기가 응결한 물에는 소금이 없어 짜지 않아요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-03]"
   },
   {
     "difficulty": 2,
@@ -4767,7 +4930,8 @@
     "answer": 1,
     "explanation": "돌을 올리면 비닐이 오목해져서 비닐 안쪽에 맺힌 물방울이 가운데로 흘러 아래 컵에 모여요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-03]"
   },
   {
     "difficulty": 1,
@@ -4782,7 +4946,8 @@
     "answer": 2,
     "explanation": "금이 간 건물은 무너질 수 있으니 들어가지 말고 어른이나 안전 담당자에게 알려요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -4797,7 +4962,8 @@
     "answer": 0,
     "explanation": "땅이 흔들리거나 갈라지는 것을 지진이라고 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -4810,7 +4976,8 @@
     "answer": 0,
     "explanation": "현무암은 검은색이나 어두운 회색, 화강암은 밝은색이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 1,
@@ -4825,7 +4992,8 @@
     "answer": 3,
     "explanation": "전과 후의 모습을 사진으로 남기면 깎이고 쌓인 변화를 정확하게 비교할 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -4840,7 +5008,8 @@
     "answer": 0,
     "explanation": "상류에는 덜 깎인 크고 모난 돌이 많아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -4855,7 +5024,8 @@
     "answer": 1,
     "explanation": "떨어지는 물건에 다치지 않도록 머리를 가리고 계단으로 침착하게 넓은 운동장으로 이동해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -4870,7 +5040,8 @@
     "answer": 2,
     "explanation": "화강암은 단단하고 알갱이 무늬가 보기 좋아 건물 계단, 바닥, 비석 등에 쓰여요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 1,
@@ -4885,7 +5056,8 @@
     "answer": 3,
     "explanation": "재난 방송이나 안전 안내 문자처럼 믿을 수 있는 곳에서 정보를 확인하고 안내에 따라요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -4898,7 +5070,8 @@
     "answer": 1,
     "explanation": "화산 활동은 피해도 주지만 온천, 지열 발전, 기름진 땅처럼 이로운 점도 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -4913,7 +5086,8 @@
     "answer": 1,
     "explanation": "화산재와 화산 암석 조각은 고체예요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 1,
@@ -4921,29 +5095,31 @@
     "question": "학교에서 지진 대피 훈련을 하는 까닭으로 알맞은 것은?",
     "choices": [
       "지진이 일어나지 않게 막으려고",
-      "실제로 지진이 났을 때 침착하게 대피하려고",
+      "지진 때 침착하게 대피하려고",
       "지진의 규모를 직접 재려고",
-      "수업 시간을 줄이려고"
+      "수업 시간을 일부러 줄이려고"
     ],
     "answer": 1,
     "explanation": "미리 훈련해 두면 실제 지진이 났을 때 당황하지 않고 안전하게 대피할 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "지진 피해를 줄이려고 건물을 지을 때 하는 일로 알맞은 것은?",
     "choices": [
-      "창문을 모두 없애요",
-      "건물을 높이만 올려요",
-      "건물을 흔들림에 잘 견디게 지어요",
-      "계단을 없애요"
+      "건물의 창문을 모두 없애요",
+      "건물을 높이만 계속 올려요",
+      "흔들림에 잘 견디게 지어요",
+      "건물의 계단을 모두 없애요"
     ],
     "answer": 2,
     "explanation": "흔들림에 잘 견디는 내진 설계로 건물이 덜 무너지게 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 1,
@@ -4956,22 +5132,24 @@
     "answer": 1,
     "explanation": "화산은 오랫동안 조용하다가도 다시 분출할 수 있어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 3,
     "type": "choice4",
     "question": "화산 활동 모형 실험과 실제 화산을 비교한 것으로 옳은 것은?",
     "choices": [
-      "모형과 실제 화산의 온도는 같아요",
-      "모형의 굳은 물질은 실제 용암이 굳은 것에 해당해요",
-      "모형에서는 실제처럼 지진이 나요",
-      "모형의 연기는 실제 화산재에 해당해요"
+      "모형과 실제 화산의 온도가 서로 같아요",
+      "모형에서 흘러나오는 물질은 용암에 해당해요",
+      "모형에서도 실제처럼 지진이 일어나요",
+      "모형에서 나오는 연기는 화산재에 해당해요"
     ],
     "answer": 1,
-    "explanation": "모형에서 흘러나와 굳은 물질은 용암이 굳은 것과 비슷해요. 연기는 화산 가스에 해당해요.",
+    "explanation": "모형에서 흘러나오는 물질은 용암과 비슷해요. 연기는 화산 가스에 해당해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 1,
@@ -4986,7 +5164,8 @@
     "answer": 2,
     "explanation": "가열한 기구와 흘러나온 물질은 뜨거우므로 맨손으로 만지지 않고, 얼굴을 가까이 대지 않아요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -5001,7 +5180,8 @@
     "answer": 3,
     "explanation": "알루미늄 캔과 동전은 금속이지만 붙지 않았어요. 자석에는 철로 된 물체가 붙어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 1,
@@ -5016,7 +5196,8 @@
     "answer": 1,
     "explanation": "자석에는 N극과 S극, 두 개의 극이 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -5029,7 +5210,8 @@
     "answer": 1,
     "explanation": "한 자석의 N극과 S극은 철을 끌어당기는 힘의 세기가 비슷해요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -5044,7 +5226,8 @@
     "answer": 0,
     "explanation": "나침반 바늘은 자석이라 북쪽과 남쪽을 가리켜요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 1,
@@ -5057,7 +5240,8 @@
     "answer": 1,
     "explanation": "플라스틱은 철이 아니라서 자석에 붙지 않아요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -5072,52 +5256,56 @@
     "answer": 1,
     "explanation": "클립이 가장 많이 붙은 양쪽 끝이 자석의 극이에요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "극 표시가 지워진 막대자석의 N극과 S극을 알아보려고 양쪽 끝에 철 클립을 가까이 했어요. 이 방법의 문제점은?",
     "choices": [
-      "클립은 자석에 전혀 붙지 않아요",
+      "클립이 자석에 전혀 붙지 않아요",
       "클립이 붙으면 자석의 극이 바뀌어요",
-      "클립은 두 극에 모두 붙어 극을 구별할 수 없어요",
-      "클립은 가운데에만 붙어요"
+      "두 극에 모두 붙어 구별할 수 없어요",
+      "클립은 자석의 가운데에만 붙어요"
     ],
     "answer": 2,
     "explanation": "철 클립은 N극과 S극 어디에나 붙어서 극을 구별할 수 없어요. 나침반을 가까이 대 보아야 해요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "냉장고 문에 메모를 붙이는 자석이 잘 붙는 까닭은?",
     "choices": [
-      "냉장고가 차가워서",
-      "메모가 종이라서",
-      "냉장고 문이 나무라서",
-      "냉장고 문에 철이 들어 있어서"
+      "냉장고 속이 매우 차가워서",
+      "메모가 종이로 되어 있어서",
+      "냉장고 문이 나무로 되어서",
+      "냉장고 문에 철이 있어서"
     ],
     "answer": 3,
     "explanation": "자석은 철을 끌어당기기 때문에 철이 든 문에 붙어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "물에 띄운 스타이로폼 조각 위에 막대자석을 올려 나침반처럼 만들었어요. 자석을 물에 띄우는 까닭은?",
     "choices": [
-      "자석을 차갑게 식히려고",
-      "자석의 무게를 늘리려고",
-      "자석의 극을 바꾸려고",
-      "자석이 자유롭게 돌 수 있게 하려고"
+      "자석의 온도를 차갑게 하려고",
+      "자석의 무게를 더 늘리려고",
+      "자석의 극을 서로 바꾸려고",
+      "자석이 자유롭게 돌게 하려고"
     ],
     "answer": 3,
     "explanation": "물에 띄우면 자석이 자유롭게 돌아 남북을 가리킬 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -5130,7 +5318,8 @@
     "answer": 1,
     "explanation": "자석과 물체 사이가 멀어지면 끌어당기는 힘이 약해져요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -5138,14 +5327,15 @@
     "question": "나침반 두 개를 아주 가까이 두면 바늘이 북쪽을 제대로 가리키지 않을 수 있어요. 그 까닭은?",
     "choices": [
       "나침반 유리가 서로 빛을 가려서",
-      "두 바늘이 모두 자석이라 서로 영향을 주어서",
+      "두 바늘이 서로 영향을 줘서",
       "두 나침반의 무게가 합쳐져서",
       "바늘이 서로 부딪혀 부러져서"
     ],
     "answer": 1,
     "explanation": "나침반 바늘은 자석이라 가까이 있는 다른 바늘과 서로 끌어당기거나 밀어내 방향이 틀어질 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 2,
@@ -5160,7 +5350,8 @@
     "answer": 1,
     "explanation": "자석이 된 클립은 철 가루를 끌어당겨요. 두 클립을 서로 대면 하나만 자석이어도 붙어서 구별할 수 없어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 1,
@@ -5168,14 +5359,15 @@
     "question": "자석 필통 뚜껑이 저절로 닫히는 것과 같은 성질을 이용한 예는?",
     "choices": [
       "자석 단추가 달린 가방",
-      "나무 의자",
-      "고무 장갑",
-      "유리 창문"
+      "나무로 만든 학교 의자",
+      "고무로 만든 설거지 장갑",
+      "유리로 만든 교실 창문"
     ],
     "answer": 0,
     "explanation": "둘 다 자석이 철이나 다른 자석을 끌어당기는 성질을 이용해요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-03]"
   },
   {
     "difficulty": 2,
@@ -5188,7 +5380,8 @@
     "answer": 1,
     "explanation": "자석의 세기는 크기만으로 정해지지 않아요. 붙는 클립 수를 세어 직접 비교해 봐야 해요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -5203,7 +5396,8 @@
     "answer": 2,
     "explanation": "클립이 많이 붙을수록 힘이 센 자석이므로 12개인 (나), 8개인 (다), 5개인 (가) 순서예요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
@@ -5218,7 +5412,8 @@
     "answer": 3,
     "explanation": "0칸 → 2칸 → 6칸 → 12칸으로 날이 지날수록 곰팡이가 덮은 칸이 늘어났어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 3,
@@ -5233,7 +5428,8 @@
     "answer": 1,
     "explanation": "30분 뒤 2마리, 1시간 뒤 4마리, 1시간 30분 뒤 8마리가 돼요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5248,7 +5444,8 @@
     "answer": 2,
     "explanation": "어떤 세균은 물속의 더러운 물질을 분해해 물을 깨끗하게 하는 데 쓰여요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 1,
@@ -5261,22 +5458,24 @@
     "answer": 0,
     "explanation": "메주에는 곰팡이 같은 균류가 자라 된장을 만드는 데 도움을 줘요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "해캄은 주로 어디에서 볼 수 있을까요?",
     "choices": [
-      "바위 꼭대기",
-      "사막 모래",
+      "높은 산의 바위 꼭대기",
+      "건조한 사막의 모래",
       "논이나 연못의 고인 물",
-      "냉동실"
+      "차가운 냉동실 안쪽"
     ],
     "answer": 2,
     "explanation": "해캄은 고인 물에 사는 원생생물이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -5289,7 +5488,8 @@
     "answer": 1,
     "explanation": "빵에 핀 곰팡이 무리는 맨눈으로도 보여요. 자세한 생김새는 돋보기나 현미경으로 봐요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5304,7 +5504,8 @@
     "answer": 0,
     "explanation": "어떤 세균은 음식을 상하게 하고 병을 일으켜요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -5319,7 +5520,8 @@
     "answer": 1,
     "explanation": "짚신벌레는 몸 둘레의 가는 털로 헤엄쳐요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5334,7 +5536,8 @@
     "answer": 2,
     "explanation": "어떤 균류는 농작물에 병을 일으켜 해를 줘요. 된장 만들기, 빵 부풀리기, 분해는 이로운 영향이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -5349,7 +5552,8 @@
     "answer": 3,
     "explanation": "관찰할 표본은 재물대 위에 올려놓아요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5364,7 +5568,8 @@
     "answer": 1,
     "explanation": "기름 성분을 만드는 원생생물로 친환경 연료를 만들려고 연구해요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-03]"
   },
   {
     "difficulty": 1,
@@ -5379,7 +5584,8 @@
     "answer": 1,
     "explanation": "물가는 미끄럽고 깊을 수 있으므로 어른과 함께 조심히 물을 뜨고, 관찰한 뒤에는 손을 깨끗이 씻어요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5394,7 +5600,8 @@
     "answer": 2,
     "explanation": "이 실험은 두는 곳의 온도만 다르게 해요. 빵의 종류, 물의 양, 빵의 크기는 같게 해야 해요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5409,7 +5616,8 @@
     "answer": 3,
     "explanation": "해캄은 원생생물이고 나머지는 균류예요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -5422,149 +5630,8 @@
     "answer": 1,
     "explanation": "세균은 흙, 물, 공기, 물건 등 여러 곳에 살아요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "실험을 시작하기 전에 유리 기구에 금이 가거나 깨진 곳이 없는지 살펴봐요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "금이 간 유리 기구는 실험 중에 깨질 수 있으므로 미리 살펴보고 선생님께 알려요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "물의 온도에 따라 설탕이 녹는 빠르기가 다른지 알아보려고 해요. 바르게 계획한 것은?",
-    "choices": [
-      "두 물을 같은 양 담고 같은 설탕을 같은 양 넣어요",
-      "따뜻한 물은 많이, 찬물은 적게 담아 설탕을 넣어요",
-      "따뜻한 물엔 각설탕, 찬물엔 가루 설탕을 넣어요",
-      "따뜻한 물에만 설탕을 넣고 찬물은 그냥 둬요"
-    ],
-    "answer": 0,
-    "explanation": "알아보려는 물의 온도만 다르게 하고 물의 양, 설탕의 종류와 양은 같게 해야 공정하게 비교할 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "실험 결과는 내가 바라던 대로 고쳐서 적어도 돼요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "실험 결과는 나온 그대로 정직하게 적어야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "실험할 때 안전을 위해 지켜야 할 일로 알맞은 것은?",
-    "choices": [
-      "뛰어다니며 실험해요",
-      "실험 기구를 장난감처럼 써요",
-      "약품 냄새를 직접 맡아요",
-      "선생님 안내에 따라 실험해요"
-    ],
-    "answer": 3,
-    "explanation": "안전하게 실험하려면 안내를 잘 따라야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "저울로 무게를 재기 전에 아무것도 올리지 않았을 때 0을 가리키는지 확인해요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "처음에 0을 가리키지 않으면 잰 값이 실제 무게와 달라져요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "다음 중 실험을 하기 전에 미리 생각해 본 말(예상)은?",
-    "choices": [
-      "얼음이 5분 만에 모두 녹았어요",
-      "물이 끓으며 기포가 생겼어요",
-      "자석에 클립 7개가 붙었어요",
-      "소금물이 맹물보다 늦게 얼 것 같아요"
-    ],
-    "answer": 3,
-    "explanation": "\"늦게 얼 것 같아요\"는 결과를 보기 전에 미리 생각한 예상이에요. 나머지는 실험에서 본 결과예요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "종이컵 전화기에서 실의 길이에 따라 소리 크기가 달라지는지 알아보려고 해요. 다르게 할 조건은?",
-    "choices": [
-      "실의 종류",
-      "말하는 소리 크기",
-      "실의 길이",
-      "종이컵의 크기"
-    ],
-    "answer": 2,
-    "explanation": "알아보려는 조건인 실의 길이만 다르게 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "실험 결과를 표로 정리하면 좋은 점은?",
-    "choices": [
-      "결과를 한눈에 비교하기 쉬워요",
-      "결론이 필요 없어요",
-      "실험을 안 해도 돼요",
-      "결과가 바뀌어요"
-    ],
-    "answer": 0,
-    "explanation": "표로 정리하면 결과를 쉽게 비교할 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "실험 결과가 예상과 다르면 그 실험은 실패한 것이므로 결과를 기록하지 않아요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "예상과 다른 결과도 그대로 기록하고, 까닭을 생각해 다시 탐구할 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "돌멩이 겉면이 얼마나 거칠거칠한지 관찰할 때 주로 쓰는 감각은?",
-    "choices": [
-      "손으로 만지는 감각",
-      "혀로 맛보는 감각",
-      "귀로 듣는 감각",
-      "코로 냄새 맡는 감각"
-    ],
-    "answer": 0,
-    "explanation": "거칠거칠하거나 매끄러운 정도는 손으로 만져 관찰해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -5579,52 +5646,8 @@
     "answer": 0,
     "explanation": "다르게 할 조건은 하나만 바꿔야 원인을 알 수 있어요.",
     "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "고무줄을 당긴 길이에 따라 고무줄 자동차가 간 거리를 재었어요. 5 cm일 때 60 cm, 10 cm일 때 120 cm, 15 cm일 때 180 cm였어요. 알맞은 결론은?",
-    "choices": [
-      "고무줄을 많이 당길수록 자동차가 더 멀리 가요",
-      "고무줄을 적게 당길수록 자동차가 더 멀리 가요",
-      "고무줄을 당긴 길이와 간 거리는 관계없어요",
-      "고무줄을 15 cm 당기면 자동차가 가지 않아요"
-    ],
-    "answer": 0,
-    "explanation": "당긴 길이가 5 cm, 10 cm, 15 cm로 늘수록 간 거리도 60 cm, 120 cm, 180 cm로 늘었어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "반 친구들이 좋아하는 과일별 학생 수를 막대의 길이로 나타내 비교한 그래프는?",
-    "choices": [
-      "막대그래프",
-      "그림그래프",
-      "표",
-      "글"
-    ],
-    "answer": 0,
-    "explanation": "수량을 막대의 길이로 나타낸 그래프는 막대그래프예요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "친구의 탐구 발표를 듣고 할 알맞은 행동은?",
-    "choices": [
-      "결과를 몰래 바꿔요",
-      "발표를 듣지 않아요",
-      "무조건 틀렸다고 해요",
-      "근거를 들어 궁금한 점을 물어요"
-    ],
-    "answer": 3,
-    "explanation": "근거를 바탕으로 질문하고 의견을 나누어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -5639,7 +5662,8 @@
     "answer": 0,
     "explanation": "얼음 크기가 달라지면 녹는 시간이 달라져요. 같은 조건이라고 생각해도 다른 조건이 섞이지 않았는지 살펴봐야 해요.",
     "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -5654,7 +5678,8 @@
     "answer": 0,
     "explanation": "태양은 태양계의 중심에서 스스로 빛을 내요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -5669,7 +5694,8 @@
     "answer": 2,
     "explanation": "수성부터 해왕성까지 8개예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -5682,7 +5708,8 @@
     "answer": 0,
     "explanation": "북두칠성은 북쪽 하늘의 별자리예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -5697,7 +5724,8 @@
     "answer": 0,
     "explanation": "별을 이어 사람이나 동물 모양으로 이름 붙인 것이 별자리예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -5712,7 +5740,8 @@
     "answer": 2,
     "explanation": "목성이 태양계 행성 중 가장 커요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -5727,7 +5756,8 @@
     "answer": 2,
     "explanation": "수성, 금성 다음 세 번째가 지구예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -5742,7 +5772,8 @@
     "answer": 2,
     "explanation": "북극성은 늘 북쪽 하늘에 있어 북쪽을 알려 줘요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -5757,7 +5788,8 @@
     "answer": 0,
     "explanation": "북두칠성은 일곱 개의 별이 국자 모양으로 늘어서 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 2,
@@ -5772,7 +5804,8 @@
     "answer": 1,
     "explanation": "수성이 태양계 행성 중 가장 작아요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -5787,7 +5820,8 @@
     "answer": 1,
     "explanation": "토성 다음에 천왕성, 해왕성이 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -5802,7 +5836,8 @@
     "answer": 0,
     "explanation": "금성은 행성이라 태양 빛을 반사해서 밝게 보여요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -5817,7 +5852,8 @@
     "answer": 3,
     "explanation": "태양계 행성 중 해왕성이 가장 멀어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -5832,7 +5868,8 @@
     "answer": 1,
     "explanation": "태양에서 알맞은 거리에 있어 온도가 적당하고 물이 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -5847,7 +5884,8 @@
     "answer": 2,
     "explanation": "북두칠성과 카시오페이아자리는 북극성을 사이에 두고 서로 반대편에 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 1,
@@ -5862,7 +5900,8 @@
     "answer": 1,
     "explanation": "태양 빛은 매우 강해서 망원경이나 쌍안경으로 직접 보면 눈이 크게 다칠 수 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -5877,7 +5916,8 @@
     "answer": 0,
     "explanation": "곰팡이와 세균처럼 죽은 생물을 분해하는 생물이 분해자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 1,
@@ -5892,7 +5932,8 @@
     "answer": 0,
     "explanation": "식물처럼 스스로 양분을 만드는 생물이 생산자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 1,
@@ -5905,7 +5946,8 @@
     "answer": 0,
     "explanation": "토끼는 풀을 먹어 양분을 얻으니 소비자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -5920,7 +5962,8 @@
     "answer": 0,
     "explanation": "살아 있는 붕어와 수달은 생물 요소, 물과 돌은 비생물 요소예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 1,
@@ -5935,7 +5978,8 @@
     "answer": 2,
     "explanation": "한 줄로 이어진 먹이 관계를 먹이 사슬이라고 해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -5950,7 +5994,8 @@
     "answer": 0,
     "explanation": "환경에 맞추어 살아가기 알맞게 된 것을 적응이라고 해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -5965,7 +6010,8 @@
     "answer": 0,
     "explanation": "농약이나 쓰레기를 지나치게 쓰거나 묻으면 흙이 오염되어 흙 속 생물이 살기 어려워요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -5980,7 +6026,8 @@
     "answer": 0,
     "explanation": "추운 겨울에 먹이가 부족해서 겨울잠을 자며 견뎌요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -5995,7 +6042,8 @@
     "answer": 0,
     "explanation": "곰팡이, 세균 같은 분해자가 낙엽을 분해하면 양분이 흙으로 돌아가 흙이 기름져져요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -6010,7 +6058,8 @@
     "answer": 2,
     "explanation": "메뚜기와 개구리는 다른 생물을 먹으니 소비자예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -6025,7 +6074,8 @@
     "answer": 1,
     "explanation": "흰 털은 눈 덮인 환경에서 잘 보이지 않아 사냥에 유리해요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
@@ -6040,7 +6090,8 @@
     "answer": 0,
     "explanation": "들쥐를 먹는 생물은 매와 뱀으로 2가지예요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 2,
@@ -6055,7 +6106,8 @@
     "answer": 0,
     "explanation": "물 위에 기름이 떠 있으므로 물이 오염되어 물고기가 숨쉬기 어려워졌는지 먼저 알아봐요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -6070,22 +6122,24 @@
     "answer": 0,
     "explanation": "물과 빛은 같게 하고 두는 곳의 온도만 달랐으므로 온도가 영향을 주었어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "식물이 모두 사라지면 생태계에서 생길 일로 알맞은 것은?",
     "choices": [
-      "아무 변화도 없어요",
-      "동물이 더 많아져요",
-      "햇빛이 더 강해져요",
-      "소비자가 먹이를 얻기 어려워져요"
+      "아무 변화도 생기지 않아요",
+      "동물이 더 빠르게 늘어나요",
+      "해가 더 뜨겁게 비춰요",
+      "동물이 살기 어려워져요"
     ],
     "answer": 3,
-    "explanation": "생산자가 없으면 먹이 사슬의 시작이 없어져 소비자도 살기 어려워요.",
+    "explanation": "생산자가 없으면 먹이 사슬의 시작이 없어져 동물도 살기 어려워요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -6100,7 +6154,8 @@
     "answer": 3,
     "explanation": "공기는 질소, 산소 같은 여러 기체가 섞여 있어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -6115,7 +6170,8 @@
     "answer": 0,
     "explanation": "산소는 물질이 타는 것을 도와요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -6130,7 +6186,8 @@
     "answer": 0,
     "explanation": "같은 저울로 재야 공기를 넣기 전과 뒤의 무게를 바르게 비교할 수 있어요. 공기의 양은 다르게 하는 조건이에요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-01]"
   },
   {
     "difficulty": 1,
@@ -6145,7 +6202,8 @@
     "answer": 0,
     "explanation": "처음 보는 기체는 몸에 해로울 수 있으므로 코를 대고 직접 맡지 않아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -6160,7 +6218,8 @@
     "answer": 0,
     "explanation": "온도가 높을수록 풍선 속 기체의 부피가 커지므로 따뜻한 물 위, 교실, 냉동실 순서로 커요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -6175,22 +6234,24 @@
     "answer": 2,
     "explanation": "기체는 압력을 세게 받을수록 부피가 많이 줄어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "찌그러진 탁구공을 뜨거운 물에 넣으면 펴지는 까닭은?",
     "choices": [
-      "물이 탁구공에 들어가서",
-      "탁구공이 녹아서",
-      "공기가 줄어서",
-      "탁구공 안 공기의 부피가 늘어나서"
+      "물이 탁구공 속으로 들어가서",
+      "탁구공이 녹아 말랑해져서",
+      "탁구공 안의 공기가 줄어서",
+      "공 안 공기의 부피가 늘어서"
     ],
     "answer": 3,
     "explanation": "온도가 높아지면 기체의 부피가 늘어나 공이 펴져요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -6205,7 +6266,8 @@
     "answer": 0,
     "explanation": "믿을 만한 자료에서 찾고 어디에서 찾았는지 출처를 함께 적어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 3,
@@ -6220,7 +6282,8 @@
     "answer": 0,
     "explanation": "땅에 내려오면 높은 하늘에서보다 압력이 높아져요. 압력이 높아지면 병 속 공기의 부피가 줄어 페트병이 찌그러져요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -6235,7 +6298,8 @@
     "answer": 3,
     "explanation": "산소는 다른 물질이 타는 것을 도와요. 타는 것을 막는 성질은 이산화 탄소에 있어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 2,
@@ -6250,7 +6314,8 @@
     "answer": 0,
     "explanation": "온도가 낮아지면 플라스크 속 공기의 부피가 줄어들어 풍선이 오므라들어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -6265,7 +6330,8 @@
     "answer": 3,
     "explanation": "기체는 압력을 받으면 부피가 줄지만 액체는 거의 줄지 않아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -6280,22 +6346,24 @@
     "answer": 1,
     "explanation": "산소는 생물이 숨 쉬는 데 꼭 필요해요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "공기를 넣고 입구를 막은 페트병을 냉장고에 넣었다 꺼내면 조금 찌그러져 있어요. 그 까닭은?",
     "choices": [
-      "페트병 속 공기의 부피가 줄어서",
-      "페트병이 녹아서",
-      "공기가 늘어나서",
-      "물이 생겨서"
+      "페트병 속 공기 부피가 줄어서",
+      "페트병이 차가워서 녹아서",
+      "병 속 공기의 부피가 늘어서",
+      "병 속에 물방울이 가득 생겨서"
     ],
     "answer": 0,
     "explanation": "온도가 낮아지면 기체의 부피가 줄어들어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -6310,17 +6378,18 @@
     "answer": 0,
     "explanation": "공기보다 가벼워 풍선을 띄우는 기체는 헬륨, 생물의 호흡에 필요한 기체는 산소예요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "지구의 평균 기온이 점점 높아지는 현상을 무엇이라고 할까요?",
     "choices": [
-      "지진",
+      "지진 현상",
       "지구 온난화",
-      "일식",
-      "화산"
+      "일식 현상",
+      "화산 활동"
     ],
     "answer": 1,
     "explanation": "지구 평균 기온이 오르는 것을 지구 온난화라고 해요.",
@@ -6342,7 +6411,7 @@
     "explanation": "가까운 거리도 자동차를 타면 연료를 태워 온실 기체가 나와요. 나머지는 온실 기체를 줄이는 실천이에요.",
     "semester": 2,
     "unit": "기후변화와 우리 생활",
-    "standard": "[4과16-03]"
+    "standard": "[4과16-01]"
   },
   {
     "difficulty": 1,
@@ -6379,10 +6448,10 @@
     "type": "choice4",
     "question": "우리 지역의 기후가 변했는지 알아보려면 어떤 자료를 살펴보는 것이 알맞을까요?",
     "choices": [
-      "수십 년 동안의 평균 기온 기록",
-      "오늘 하루의 기온",
-      "이번 주 일기 예보",
-      "어제 내린 비의 양"
+      "수십 년간의 평균 기온 기록",
+      "오늘 하루 동안의 기온 변화",
+      "이번 주의 일기 예보 자료",
+      "어제 하루 내린 비의 양"
     ],
     "answer": 0,
     "explanation": "기후는 오랜 기간의 평균적인 날씨이므로 수십 년 동안의 기록을 비교해야 기후변화를 알 수 있어요.",
@@ -6545,21 +6614,6 @@
     "standard": "[4과16-03]"
   },
   {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "관찰할 때 쓰는 감각기관이 아닌 것은?",
-    "choices": [
-      "눈",
-      "귀",
-      "코",
-      "머리카락"
-    ],
-    "answer": 3,
-    "explanation": "눈, 귀, 코, 혀, 피부로 관찰해요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
     "difficulty": 2,
     "type": "choice4",
     "question": "흙 언덕이나 화산 활동 모형처럼 모형으로 실험하는 까닭으로 알맞은 것은?",
@@ -6571,51 +6625,9 @@
     ],
     "answer": 3,
     "explanation": "강 주변 지형의 변화나 화산 활동은 직접 보기 어렵거나 위험해서 모형으로 비슷하게 꾸며 알아봐요. 모형은 실제와 다른 점도 있어요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "실험 결과를 보고 알게 된 것을 정리하는 것을 무엇이라고 할까요?",
-    "choices": [
-      "관찰하기",
-      "결론 내리기",
-      "가설 세우기",
-      "측정하기"
-    ],
-    "answer": 1,
-    "explanation": "결과를 해석해 알게 된 것을 정리하는 것이 결론 내리기예요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "꺾은선그래프에서 선이 많이 기울어진 곳일수록 그 사이에 변화가 커요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "선이 많이 기울어질수록 같은 시간 동안 값이 많이 변했다는 뜻이에요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "물체의 무게를 잴 때 쓰는 도구는?",
-    "choices": [
-      "돋보기",
-      "저울",
-      "온도계",
-      "자"
-    ],
-    "answer": 1,
-    "explanation": "무게는 저울로 재요.",
-    "semester": 2,
-    "unit": "과학 탐구"
+    "semester": 1,
+    "unit": "땅의 변화",
+    "standard": "[4과11-02]"
   },
   {
     "difficulty": 2,
@@ -6630,67 +6642,8 @@
     "answer": 0,
     "explanation": "다르게 할 조건(풍선 크기) 말고 나머지는 같게 해요.",
     "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "실험 계획을 세울 때 꼭 정해야 하는 것은?",
-    "choices": [
-      "실험 방법과 준비물",
-      "친구의 이름 순서",
-      "결론",
-      "발표회 장소"
-    ],
-    "answer": 0,
-    "explanation": "방법과 준비물을 정해야 실험할 수 있어요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "측정한 값을 기록할 때 알맞은 방법은?",
-    "choices": [
-      "기억했다가 나중에 적어요",
-      "어림해서 적어요",
-      "단위는 빼요",
-      "단위를 함께 써요"
-    ],
-    "answer": 3,
-    "explanation": "값과 단위를 함께 바로 기록해야 정확해요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "다음 중 실험으로 확인하기 어려운 탐구 문제는?",
-    "choices": [
-      "물의 양에 따라 싹이 트는 데 걸리는 날수가 달라질까?",
-      "경사에 따라 공이 굴러가는 거리가 다를까?",
-      "어떤 꽃이 가장 아름다울까?",
-      "온도에 따라 얼음이 녹는 빠르기가 다를까?"
-    ],
-    "answer": 2,
-    "explanation": "아름다움은 사람마다 달라 실험으로 확인하기 어려워요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "모둠 탐구에서 알맞은 태도는?",
-    "choices": [
-      "친구 의견을 무시해요",
-      "결과를 서로 숨겨요",
-      "역할을 나누어 협력해요",
-      "혼자서만 모두 해요"
-    ],
-    "answer": 2,
-    "explanation": "역할을 나누고 협력하면 탐구를 잘할 수 있어요.",
-    "semester": 2,
-    "unit": "과학 탐구"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-04]"
   },
   {
     "difficulty": 2,
@@ -6704,66 +6657,9 @@
     ],
     "answer": 2,
     "explanation": "다른 값과 크게 다르면 실수를 살피고 다시 재어 확인해요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "\"햇빛을 받은 식물이 더 잘 자랄 것이다.\"라는 가설을 확인하는 알맞은 실험은?",
-    "choices": [
-      "같은 식물을 햇빛과 그늘에 두고 나머지는 같게 해요",
-      "한 식물만 햇빛에 둬요",
-      "다른 식물을 다른 화분에 아무렇게나 둬요",
-      "물 주는 양과 햇빛을 함께 바꿔요"
-    ],
-    "answer": 0,
-    "explanation": "햇빛 조건만 다르게 하고 나머지를 같게 해야 해요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "탐구 결과를 발표할 때 들어갈 내용으로 알맞지 않은 것은?",
-    "choices": [
-      "실험 방법",
-      "탐구 문제",
-      "실험 결과와 결론",
-      "확인하지 않은 소문"
-    ],
-    "answer": 3,
-    "explanation": "발표는 실험으로 확인한 사실을 바탕으로 해요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'식물은 무엇을 좋아할까?'는 실험으로 알아보기 어려워요. 실험할 수 있는 탐구 문제로 바르게 고친 것은?",
-    "choices": [
-      "강낭콩은 주인을 알아보고 좋아할까?",
-      "강낭콩의 키는 물 주는 횟수에 따라 다를까?",
-      "가장 예쁘게 자라는 식물은 무엇일까?",
-      "식물은 기분이 좋을 때 더 잘 자랄까?"
-    ],
-    "answer": 1,
-    "explanation": "물 주는 횟수만 다르게 하고 강낭콩의 키를 재면 실험으로 확인할 수 있어요. 좋아함, 예쁨, 기분은 재거나 비교하기 어려워요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "탐구를 마친 뒤 새로운 궁금증이 생기면 다시 탐구 문제로 정해 탐구할 수 있어요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "탐구는 새로운 궁금증으로 이어져 계속될 수 있어요.",
-    "semester": 2,
-    "unit": "과학 탐구"
+    "semester": 1,
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -6778,7 +6674,8 @@
     "answer": 2,
     "explanation": "상태가 변해도 물질은 물 그대로예요. 모양이나 눈에 보이는 정도 등이 달라져요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-01]"
   },
   {
     "difficulty": 2,
@@ -6793,7 +6690,8 @@
     "answer": 3,
     "explanation": "같은 크기의 얼음이 주변이 따뜻한 곳에서 더 빨리 녹았어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 2,
@@ -6808,7 +6706,8 @@
     "answer": 0,
     "explanation": "알아보려는 조건 하나만 다르게 해야 해요. 크기와 두는 곳을 함께 바꾸면 무엇 때문에 빠르기가 달라졌는지 알 수 없어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -6823,7 +6722,8 @@
     "answer": 0,
     "explanation": "물이 증발해 수증기가 되고, 수증기가 랩에 닿아 응결해 다시 물이 돼요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 3,
@@ -6838,7 +6738,8 @@
     "answer": 1,
     "explanation": "(나)와 (다)는 바람 조건만 달라서 바람의 영향을 비교할 수 있어요.",
     "semester": 1,
-    "unit": "물의 상태 변화"
+    "unit": "물의 상태 변화",
+    "standard": "[4과10-02]"
   },
   {
     "difficulty": 1,
@@ -6853,7 +6754,8 @@
     "answer": 2,
     "explanation": "화산재는 숨 쉬는 데 해로워서 마스크를 쓰고 실내에 있는 것이 안전해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-04]"
   },
   {
     "difficulty": 2,
@@ -6868,7 +6770,8 @@
     "answer": 3,
     "explanation": "알아보려는 조건인 경사만 다르게 하고 나머지는 같게 해야 해요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 2,
@@ -6881,7 +6784,8 @@
     "answer": 0,
     "explanation": "두 암석 모두 마그마가 식어 굳어진 화성암이에요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 3,
@@ -6896,7 +6800,8 @@
     "answer": 0,
     "explanation": "알갱이가 큰 화강암은 마그마가 땅속 깊은 곳에서 천천히 식어 만들어져요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-03]"
   },
   {
     "difficulty": 2,
@@ -6911,7 +6816,8 @@
     "answer": 0,
     "explanation": "급한 언덕에서 7숟가락, 완만한 언덕에서 3숟가락이 깎였으므로 경사가 급할수록 흙이 더 많이 깎였어요.",
     "semester": 1,
-    "unit": "땅의 변화"
+    "unit": "땅의 변화",
+    "standard": "[4과11-01]"
   },
   {
     "difficulty": 1,
@@ -6926,37 +6832,40 @@
     "answer": 2,
     "explanation": "작은 자석을 삼키면 몸속에서 서로 붙어 위험할 수 있어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "자석 (가)와 (나) 중 어느 자석이 더 센지 알아보려고 해요. 같은 조건에서 무엇을 비교하면 좋을까요?",
     "choices": [
-      "각 자석의 무게",
-      "각 자석의 길이",
-      "각 자석의 색깔",
-      "각 자석에 붙는 클립 수"
+      "각 자석의 무게 차이",
+      "각 자석의 길이 차이",
+      "각 자석의 색깔 차이",
+      "자석에 붙는 클립 수"
     ],
     "answer": 3,
     "explanation": "자석이 셀수록 더 많은 철 클립이 붙어요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "냉장고 자석이 종이 한 장을 끼우면 붙어 있지만, 두꺼운 공책을 끼우면 떨어져요. 그 까닭은?",
     "choices": [
-      "자석과 냉장고 문 사이가 멀어져 힘이 약해져서",
-      "공책이 자석의 극을 바꾸어서",
-      "공책이 철로 만들어져서",
-      "자석이 공책에 붙어서"
+      "자석과 문이 멀어져 힘이 약해져서",
+      "두꺼운 공책이 자석의 극을 바꿔서",
+      "공책이 철로 만들어져 밀어내서",
+      "자석이 공책 쪽에 달라붙어서"
     ],
     "answer": 0,
     "explanation": "자석과 철 사이가 멀어질수록 끌어당기는 힘이 약해져서 두꺼운 공책을 끼우면 떨어져요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-01]"
   },
   {
     "difficulty": 3,
@@ -6971,7 +6880,8 @@
     "answer": 0,
     "explanation": "A의 N극과 밀어낸 B의 끝은 N극이고, N극을 끌어당긴 C의 끝은 S극이에요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 3,
@@ -6986,7 +6896,8 @@
     "answer": 1,
     "explanation": "다른 극끼리 끌어당기므로 바늘의 N극이 자석의 S극 쪽인 동쪽으로 움직여요.",
     "semester": 1,
-    "unit": "자석의 이용"
+    "unit": "자석의 이용",
+    "standard": "[4과09-02]"
   },
   {
     "difficulty": 1,
@@ -7001,7 +6912,8 @@
     "answer": 2,
     "explanation": "별은 낮에도 있지만 밝은 태양 빛 때문에 보이지 않아요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-03]"
   },
   {
     "difficulty": 2,
@@ -7016,7 +6928,8 @@
     "answer": 3,
     "explanation": "1보다 작은 (가), (나), (라)가 지구보다 작은 행성이므로 3개예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 2,
@@ -7029,7 +6942,8 @@
     "answer": 1,
     "explanation": "금성처럼 밝은 행성은 맨눈으로도 볼 수 있어요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 3,
@@ -7044,7 +6958,8 @@
     "answer": 0,
     "explanation": "지구보다 먼 행성은 1.5인 (다)와 5.2인 (라)이고, 그중 가까운 것은 (다)예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 3,
@@ -7059,7 +6974,8 @@
     "answer": 1,
     "explanation": "네 번째와 다섯 번째 행성이 사이에 있으므로 2개예요.",
     "semester": 2,
-    "unit": "밤하늘 관찰"
+    "unit": "밤하늘 관찰",
+    "standard": "[4과13-02]"
   },
   {
     "difficulty": 1,
@@ -7074,7 +6990,8 @@
     "answer": 2,
     "explanation": "화살표는 먹히는 생물에서 먹는 생물 쪽으로 양분이 옮겨 가는 방향이에요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 1,
@@ -7087,7 +7004,8 @@
     "answer": 1,
     "explanation": "쓰레기 줄이기, 물 아껴 쓰기, 생물 함부로 잡지 않기처럼 어린이도 생태계 보전을 실천할 수 있어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 2,
@@ -7100,7 +7018,8 @@
     "answer": 1,
     "explanation": "생물들이 서로 먹고 먹히며 연결되어 있어서 다른 생물도 영향을 받아요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 3,
@@ -7115,7 +7034,8 @@
     "answer": 0,
     "explanation": "큰 물고기가 줄면 작은 물고기가 늘고, 작은 물고기가 먹는 물벼룩은 줄어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-02]"
   },
   {
     "difficulty": 3,
@@ -7130,7 +7050,8 @@
     "answer": 1,
     "explanation": "공장에서 나온 폐수가 물을 오염시켜 물고기가 살기 어려워졌을 수 있어요.",
     "semester": 2,
-    "unit": "생물과 환경"
+    "unit": "생물과 환경",
+    "standard": "[4과14-03]"
   },
   {
     "difficulty": 1,
@@ -7145,7 +7066,8 @@
     "answer": 2,
     "explanation": "곰팡이가 핀 음식은 몸에 해로울 수 있어서 먹거나 만지지 않아요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 1,
@@ -7158,7 +7080,8 @@
     "answer": 1,
     "explanation": "김치나 요구르트를 만드는 세균처럼 도움을 주는 세균도 많아요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-02]"
   },
   {
     "difficulty": 2,
@@ -7173,7 +7096,8 @@
     "answer": 3,
     "explanation": "균사와 포자는 균류, 막대 모양은 세균, 가는 털로 움직이는 것은 원생생물이에요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 2,
@@ -7188,7 +7112,8 @@
     "answer": 0,
     "explanation": "전체 배율은 접안렌즈 배율×대물렌즈 배율이므로 10×40=400(배)예요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 3,
@@ -7203,7 +7128,8 @@
     "answer": 1,
     "explanation": "물을 뿌린 것은 같고 온도만 다른 (가)와 (나)를 비교해야 해요.",
     "semester": 1,
-    "unit": "다양한 생물과 우리 생활"
+    "unit": "다양한 생물과 우리 생활",
+    "standard": "[4과12-01]"
   },
   {
     "difficulty": 1,
@@ -7218,7 +7144,8 @@
     "answer": 2,
     "explanation": "환기를 시키고, 불꽃이 튈 수 있는 불이나 전기 스위치는 쓰지 않아요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-03]"
   },
   {
     "difficulty": 1,
@@ -7231,7 +7158,8 @@
     "answer": 1,
     "explanation": "눈에 보이지 않아도 공기 같은 기체에는 무게가 있어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-01]"
   },
   {
     "difficulty": 2,
@@ -7246,7 +7174,8 @@
     "answer": 0,
     "explanation": "따뜻한 물에 닿아 컵 속 공기의 온도가 오르면 부피가 늘어나 일부가 공기 방울로 빠져나와요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 2,
@@ -7261,7 +7190,8 @@
     "answer": 0,
     "explanation": "공기를 더 넣었더니 무게가 3 g 늘었으므로 기체에도 무게가 있어요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-01]"
   },
   {
     "difficulty": 3,
@@ -7276,7 +7206,8 @@
     "answer": 1,
     "explanation": "20℃ 오를 때마다 4 mL씩 늘어요. 25℃에서 10℃ 더 오르면 2 mL 늘어 56 mL예요.",
     "semester": 2,
-    "unit": "여러 가지 기체"
+    "unit": "여러 가지 기체",
+    "standard": "[4과15-02]"
   },
   {
     "difficulty": 1,
@@ -7308,7 +7239,7 @@
     "explanation": "2020년 18일에서 2000년 8일을 빼면 10일이에요.",
     "semester": 2,
     "unit": "기후변화와 우리 생활",
-    "standard": "[4과16-02]"
+    "standard": "[4과16-01]"
   },
   {
     "difficulty": 2,
@@ -7355,151 +7286,5 @@
     "semester": 2,
     "unit": "기후변화와 우리 생활",
     "standard": "[4과16-03]"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "작은 곤충의 몸을 더 크게 자세히 관찰할 때 쓰는 도구는 무엇일까요?",
-    "choices": [
-      "저울",
-      "온도계",
-      "돋보기",
-      "스톱워치"
-    ],
-    "answer": 2,
-    "explanation": "돋보기로 작은 물체를 크게 확대하여 자세히 볼 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "자로 물체의 길이를 잴 때 눈금을 읽는 알맞은 방법은 무엇일까요?",
-    "choices": [
-      "눈금을 비스듬히 옆에서 보며 읽어요",
-      "눈금이 흐릿하게 보이는 거리에서 읽어요",
-      "가까운 눈금보다 크게 어림해서 읽어요",
-      "눈금을 바로 위에서 내려다보며 읽어요"
-    ],
-    "answer": 3,
-    "explanation": "눈금을 바로 위에서 읽어야 정확한 길이를 알 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "친구와 측정값을 비교해 보면 내 측정이 잘못되었는지 확인할 수 있어요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "측정값이 크게 다르면 방법이나 읽는 법을 다시 살펴볼 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "식물 (가), (나), (다)를 키웠어요. (가)에는 햇빛과 물을 모두 주고, (나)는 햇빛을 가리고 물만 주고, (다)에는 햇빛만 주고 물을 주지 않았어요. 일주일 뒤 (가)만 잘 자랐다면 바른 해석은 무엇일까요?",
-    "choices": [
-      "이 실험에서는 빛과 물이 모두 있어야 잘 자랐어요",
-      "빛만 있으면 물이 없어도 잘 자라요",
-      "물만 있으면 빛이 없어도 잘 자라요",
-      "빛과 물은 식물이 자라는 것과 관계가 없어요"
-    ],
-    "answer": 0,
-    "explanation": "(가)와 (나)를 비교하면 빛의 영향, (가)와 (다)를 비교하면 물의 영향을 알 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"빛이 많을수록 강낭콩의 키가 더 클 것이다.\"라는 생각을 확인하려고 해요. 다르게 할 것과 측정할 것을 바르게 짝지은 것은 무엇일까요?",
-    "choices": [
-      "다르게 할 것 - 키, 측정할 것 - 빛의 양",
-      "다르게 할 것 - 빛의 양, 측정할 것 - 키",
-      "다르게 할 것 - 물의 양, 측정할 것 - 빛의 양",
-      "다르게 할 것 - 화분 크기, 측정할 것 - 물의 양"
-    ],
-    "answer": 1,
-    "explanation": "빛의 양만 다르게 하고 그 결과인 강낭콩의 키를 측정해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "실험하다가 유리 그릇이 깨졌을 때 알맞은 행동은 무엇일까요?",
-    "choices": [
-      "빨리 맨손으로 모아서 쓰레기통에 버려요",
-      "아무 말 없이 모르는 척해요",
-      "맨손으로 줍지 않고 선생님께 알려요",
-      "깨진 조각을 발로 밀어 구석에 모아요"
-    ],
-    "answer": 2,
-    "explanation": "깨진 유리는 다칠 수 있으므로 선생님께 알리고 도움을 받아요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "실험 결과를 그래프로 나타내면 자료의 변화를 한눈에 알아보기 쉬워요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "그래프는 자료가 변하는 모습을 한눈에 보여 주어요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "그늘에 둔 물의 온도를 재었더니 0분 30℃, 10분 28℃, 20분 26℃, 30분 24℃였어요. 같은 빠르기로 내려간다면 40분일 때 물의 온도는 몇 ℃일까요?",
-    "choices": [
-      "22℃",
-      "20℃",
-      "23℃",
-      "26℃"
-    ],
-    "answer": 0,
-    "explanation": "10분마다 2℃씩 내려가므로 40분에는 24℃−2℃=22℃예요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "과학 탐구를 하는 순서로 알맞은 것은 무엇일까요?",
-    "choices": [
-      "문제 정하기 → 가설 → 실험 → 결론",
-      "가설 → 문제 정하기 → 실험 → 결론",
-      "문제 정하기 → 실험 → 가설 → 결론",
-      "문제 정하기 → 가설 → 결론 → 실험"
-    ],
-    "answer": 0,
-    "explanation": "문제를 정하고, 가설을 세운 뒤, 실험하고, 결과로 결론을 내려요.",
-    "semester": 2,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "강낭콩의 키가 1주 3 cm, 2주 6 cm, 3주 12 cm, 4주 13 cm였어요. 바로 앞 주보다 키가 가장 많이 자란 때는 언제일까요?",
-    "choices": [
-      "2주",
-      "3주",
-      "4주",
-      "모두 같아요"
-    ],
-    "answer": 1,
-    "explanation": "2주 3 cm, 3주 6 cm, 4주 1 cm 자랐어요. 3주에 가장 많이 자랐어요.",
-    "semester": 2,
-    "unit": "과학 탐구"
   }
 ]
