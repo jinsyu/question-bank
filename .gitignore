@@ -1,1 +1,5 @@
 node_modules/
+
+# 티쉘파 원본과 그로부터 만든 교과 통합 문서 (저작권 자료, 공개 금지)
+docs/tsherpa/
+docs/curriculum/
