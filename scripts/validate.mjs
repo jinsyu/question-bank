@@ -40,7 +40,7 @@ for (const file of files) {
     if (![1, 2, 3].includes(q.difficulty)) fail("difficulty는 1~3");
     if (!["choice4", "ox"].includes(q.type)) fail("type은 choice4 또는 ox");
     if (![1, 2].includes(q.semester)) fail("semester는 1 또는 2");
-    if (typeof q.unit !== "string" || !q.unit.trim() || q.unit.length > 20) fail("unit은 1~20자");
+    if (typeof q.unit !== "string" || !q.unit.trim() || q.unit.length > 30) fail("unit은 1~30자");
     if (typeof q.question !== "string" || q.question.length < 5 || q.question.length > 120) fail("question 길이 5~120");
     if (!Array.isArray(q.choices)) return fail("choices 배열 필요");
     if (q.type === "choice4" && q.choices.length !== 4) fail("choice4는 보기 4개");
