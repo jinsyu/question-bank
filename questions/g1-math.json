@@ -166,7 +166,7 @@
     "answer": 2,
     "explanation": "3과 2를 모으면 5예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -182,7 +182,7 @@
     "answer": 3,
     "explanation": "4와 3을 모으면 7이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -196,7 +196,7 @@
     "answer": 0,
     "explanation": "더하는 순서를 바꿔도 결과는 7로 같아요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -212,7 +212,7 @@
     "answer": 0,
     "explanation": "5 − 3 = 2이므로 2개예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-05]"
   },
   {
@@ -228,7 +228,7 @@
     "answer": 1,
     "explanation": "4와 5를 모으면 9예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -902,7 +902,7 @@
     "answer": 2,
     "explanation": "4+2=6(개)",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-05]"
   },
   {
@@ -918,7 +918,7 @@
     "answer": 3,
     "explanation": "5−3=2(마리)",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-05]"
   },
   {
@@ -934,7 +934,7 @@
     "answer": 0,
     "explanation": "4와 5를 모으면 9예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -948,7 +948,7 @@
     "answer": 0,
     "explanation": "아무것도 빼지 않으면 그대로 8이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -964,7 +964,7 @@
     "answer": 1,
     "explanation": "4+5=9(개)",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-05]"
   },
   {
@@ -980,7 +980,7 @@
     "answer": 2,
     "explanation": "8은 5와 3으로 가를 수 있고, 5는 3보다 2 커요. 그래서 오른손에는 5개예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -996,7 +996,7 @@
     "answer": 3,
     "explanation": "가장 큰 두 수 5와 3을 더하면 8이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -1918,7 +1918,7 @@
     "answer": 2,
     "explanation": "2와 4를 모으면 6이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -1934,7 +1934,7 @@
     "answer": 3,
     "explanation": "6과 3을 모으면 9예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -1950,7 +1950,7 @@
     "answer": 1,
     "explanation": "6에서 2를 빼면 4예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -1966,7 +1966,7 @@
     "answer": 2,
     "explanation": "2 + 5 = 7이에요. 3 + 3 = 6, 9 − 1 = 8, 8 − 2 = 6이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -1980,7 +1980,7 @@
     "answer": 0,
     "explanation": "같은 수를 빼면 0이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -1996,7 +1996,7 @@
     "answer": 1,
     "explanation": "3과 5를 모으면 8이니 5마리를 넣었어요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-05]"
   },
   {
@@ -2012,7 +2012,7 @@
     "answer": 3,
     "explanation": "5 + 4 = 9예요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -2026,7 +2026,7 @@
     "answer": 0,
     "explanation": "4 + 3 = 7, 9 − 2 = 7이라서 같아요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
@@ -2042,7 +2042,7 @@
     "answer": 0,
     "explanation": "처음 7마리에서 날아간 3마리를 빼면 4마리가 남아요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-05]"
   },
   {
@@ -2058,7 +2058,7 @@
     "answer": 3,
     "explanation": "2장을 주면 하윤이는 4장, 지호는 4장이 돼요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -2074,7 +2074,7 @@
     "answer": 2,
     "explanation": "5는 1과 4, 2와 3처럼 갈라져서 같은 두 수로는 가를 수 없어요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-04]"
   },
   {
@@ -2090,7 +2090,7 @@
     "answer": 1,
     "explanation": "가장 큰 수 9에서 가장 작은 수 1을 빼면 8이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺼셈",
+    "unit": "덧셈과 뺄셈",
     "standard": "[2수01-06]"
   },
   {
