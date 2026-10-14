@@ -12,7 +12,8 @@
     "answer": 3,
     "explanation": "5 다음 수는 6이에요.",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -25,7 +26,8 @@
     "answer": 0,
     "explanation": "7은 칠, 일곱 두 가지로 읽어요.",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -40,7 +42,8 @@
     "answer": 0,
     "explanation": "4와 6 사이의 수는 5예요.",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -55,7 +58,8 @@
     "answer": 1,
     "explanation": "다섯째 앞에는 네 명이 있어요.",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -68,7 +72,8 @@
     "answer": 0,
     "explanation": "9보다 1 작은 수는 8, 7보다 1 큰 수도 8이에요.",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -83,7 +88,8 @@
     "answer": 2,
     "explanation": "구슬은 공 모양이에요.",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -96,7 +102,8 @@
     "answer": 0,
     "explanation": "상자 모양은 평평해서 쌓을 수 있어요.",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -111,7 +118,8 @@
     "answer": 3,
     "explanation": "둥근기둥 모양은 위아래가 평평하고 옆은 둥글어요.",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -126,7 +134,8 @@
     "answer": 0,
     "explanation": "공 모양과 둥근기둥 모양은 둥근 부분이 있어 굴러가요. 상자 모양은 굴러가지 않아요.",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 3,
@@ -141,7 +150,8 @@
     "answer": 1,
     "explanation": "세우면 굴러가지 않고 쌓을 수 있어요.",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 1,
@@ -156,7 +166,8 @@
     "answer": 2,
     "explanation": "3과 2를 모으면 5예요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 2,
@@ -171,7 +182,8 @@
     "answer": 3,
     "explanation": "4와 3을 모으면 7이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 2,
@@ -184,7 +196,8 @@
     "answer": 0,
     "explanation": "더하는 순서를 바꿔도 결과는 7로 같아요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -199,7 +212,7 @@
     "answer": 0,
     "explanation": "5 − 3 = 2이므로 2개예요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈",
+    "unit": "덧셈과 뺼셈",
     "standard": "[2수01-05]"
   },
   {
@@ -215,7 +228,7 @@
     "answer": 1,
     "explanation": "4와 5를 모으면 9예요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈",
+    "unit": "덧셈과 뺼셈",
     "standard": "[2수01-04]"
   },
   {
@@ -231,7 +244,8 @@
     "answer": 2,
     "explanation": "'더 길다'와 반대되는 말은 '더 짧다'예요.",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -244,7 +258,8 @@
     "answer": 0,
     "explanation": "한쪽 끝을 맞추어야 정확하게 비교할 수 있어요.",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -259,7 +274,8 @@
     "answer": 3,
     "explanation": "가득 담은 (나) 컵의 물이 가장 많아요.",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 3,
@@ -274,7 +290,8 @@
     "answer": 0,
     "explanation": "책, 공책, 지우개 순으로 무거워요.",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -289,7 +306,8 @@
     "answer": 1,
     "explanation": "시소는 무거운 쪽이 내려가요.",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 1,
@@ -304,7 +322,8 @@
     "answer": 2,
     "explanation": "10이 3개, 1이 4개이면 34예요.",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -319,7 +338,8 @@
     "answer": 3,
     "explanation": "27은 10개씩 묶음 2개와 낱개 7개예요.",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -332,7 +352,8 @@
     "answer": 0,
     "explanation": "10이 4개이면 40이에요.",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -347,7 +368,8 @@
     "answer": 0,
     "explanation": "일의 자리는 3 + 2 = 5이므로 35예요.",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -360,7 +382,8 @@
     "answer": 1,
     "explanation": "십의 자리부터 비교하면 31이 더 커요.",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -375,7 +398,8 @@
     "answer": 1,
     "explanation": "10이 7개이면 70이에요.",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -390,7 +414,8 @@
     "answer": 2,
     "explanation": "99 다음 수는 100이에요.",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -405,7 +430,8 @@
     "answer": 3,
     "explanation": "25는 둘씩 짝을 지으면 하나가 남아요.",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -420,7 +446,8 @@
     "answer": 0,
     "explanation": "79와 80 중 짝수는 80이에요.",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -433,7 +460,8 @@
     "answer": 1,
     "explanation": "1, 3, 5, …는 홀수예요.",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -448,7 +476,8 @@
     "answer": 1,
     "explanation": "일의 자리끼리 3 + 5 = 8이므로 28이에요.",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -463,7 +492,8 @@
     "answer": 2,
     "explanation": "7 + 3 = 10이에요.",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -478,7 +508,8 @@
     "answer": 3,
     "explanation": "35 − 12 = 23이에요.",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -493,7 +524,8 @@
     "answer": 0,
     "explanation": "4 + 3 + 2 = 9예요.",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 3,
@@ -508,7 +540,8 @@
     "answer": 1,
     "explanation": "37 − 12 = 25, 25 − 5 = 20이에요.",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 1,
@@ -523,7 +556,8 @@
     "answer": 2,
     "explanation": "동전은 동그라미 모양이에요.",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -538,7 +572,8 @@
     "answer": 3,
     "explanation": "긴바늘이 12이면 몇 시 정각이에요.",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -553,7 +588,8 @@
     "answer": 0,
     "explanation": "긴바늘이 6이면 30분이에요.",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 1,
@@ -568,7 +604,8 @@
     "answer": 1,
     "explanation": "곧은 선이 4개인 모양은 네모예요.",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -583,7 +620,8 @@
     "answer": 2,
     "explanation": "몇 시 정각이면 긴바늘은 12예요.",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 1,
@@ -598,7 +636,8 @@
     "answer": 3,
     "explanation": "빨강과 파랑이 번갈아 나와요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -613,7 +652,8 @@
     "answer": 0,
     "explanation": "2씩 커지는 규칙이에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -628,7 +668,8 @@
     "answer": 1,
     "explanation": "세모, 네모, 네모가 되풀이돼요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -643,7 +684,8 @@
     "answer": 2,
     "explanation": "짝수째에는 6이 나와요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -656,7 +698,8 @@
     "answer": 1,
     "explanation": "2에서 4로 2만큼, 4에서 8로 4만큼 커져서 1씩 커지는 규칙이 아니에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -670,9 +713,9 @@
     ],
     "answer": 0,
     "explanation": "여덟은 숫자 8이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -686,9 +729,9 @@
     ],
     "answer": 1,
     "explanation": "6 다음이 7이에요. 7 바로 앞의 수는 6이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -702,9 +745,9 @@
     ],
     "answer": 2,
     "explanation": "8이 가장 커요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -716,9 +759,9 @@
     ],
     "answer": 0,
     "explanation": "아무것도 없을 때 0이라고 써요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -732,9 +775,9 @@
     ],
     "answer": 3,
     "explanation": "서아 앞에 2명, 서아, 서아 뒤에 1명이 있어요. 앞에서부터 하나, 둘, 셋, 넷 세면 모두 4명이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -748,9 +791,9 @@
     ],
     "answer": 0,
     "explanation": "작은 수부터 쓰면 2, 4, 6, 9예요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -764,9 +807,9 @@
     ],
     "answer": 1,
     "explanation": "주사위는 상자 모양이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 1,
@@ -780,9 +823,9 @@
     ],
     "answer": 2,
     "explanation": "통조림은 둥근기둥 모양이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -794,9 +837,9 @@
     ],
     "answer": 0,
     "explanation": "공 모양은 모두 둥글어서 잘 굴러가요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -810,9 +853,9 @@
     ],
     "answer": 3,
     "explanation": "공 모양은 어디나 둥글어서 평평한 면이 없어요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -826,9 +869,9 @@
     ],
     "answer": 0,
     "explanation": "통조림과 음료수 캔은 둥근기둥 모양이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -842,9 +885,9 @@
     ],
     "answer": 1,
     "explanation": "음료수 캔은 둥근기둥, 나머지는 상자 모양이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 1,
@@ -858,9 +901,9 @@
     ],
     "answer": 2,
     "explanation": "4+2=6(개)",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 1,
@@ -874,9 +917,9 @@
     ],
     "answer": 3,
     "explanation": "5−3=2(마리)",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 2,
@@ -890,9 +933,9 @@
     ],
     "answer": 0,
     "explanation": "4와 5를 모으면 9예요.",
-    "standard": "[2수01-04]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 2,
@@ -904,9 +947,9 @@
     ],
     "answer": 0,
     "explanation": "아무것도 빼지 않으면 그대로 8이에요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -920,9 +963,9 @@
     ],
     "answer": 1,
     "explanation": "4+5=9(개)",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 3,
@@ -936,9 +979,9 @@
     ],
     "answer": 2,
     "explanation": "8은 5와 3으로 가를 수 있고, 5는 3보다 2 커요. 그래서 오른손에는 5개예요.",
-    "standard": "[2수01-04]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 3,
@@ -952,9 +995,9 @@
     ],
     "answer": 3,
     "explanation": "가장 큰 두 수 5와 3을 더하면 8이에요.",
-    "standard": "[2수01-06]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -968,9 +1011,9 @@
     ],
     "answer": 0,
     "explanation": "5칸이 3칸보다 길어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 1,
@@ -984,9 +1027,9 @@
     ],
     "answer": 1,
     "explanation": "솜 뭉치가 쇠공보다 가벼워요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -998,9 +1041,9 @@
     ],
     "answer": 0,
     "explanation": "겹쳐서 남는 쪽이 더 넓어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -1014,9 +1057,9 @@
     ],
     "answer": 2,
     "explanation": "같은 양의 물이 (나) 그릇에서는 반만 찼으니 (나) 그릇의 들이가 더 커요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -1030,9 +1073,9 @@
     ],
     "answer": 3,
     "explanation": "(나) 종이가 (가) 종이를 모두 덮어서 더 넓어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 1,
@@ -1046,9 +1089,9 @@
     ],
     "answer": 0,
     "explanation": "'많다'의 반대말은 '적다'예요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 1,
@@ -1062,9 +1105,9 @@
     ],
     "answer": 1,
     "explanation": "스물은 20, 일곱은 7이라서 27이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -1078,9 +1121,9 @@
     ],
     "answer": 2,
     "explanation": "39 다음이 40이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -1094,9 +1137,9 @@
     ],
     "answer": 0,
     "explanation": "낱개 15개는 10개씩 묶음 1개와 낱개 5개예요. 그래서 묶음 3개와 낱개 5개이니 35개예요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1110,9 +1153,9 @@
     ],
     "answer": 0,
     "explanation": "큰 수부터 쓰면 31, 29, 26이에요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1126,9 +1169,9 @@
     ],
     "answer": 1,
     "explanation": "20에서 10씩 뛰어 세면 30, 40이에요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1140,9 +1183,9 @@
     ],
     "answer": 0,
     "explanation": "30과 5를 합하면 35예요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 1,
@@ -1156,9 +1199,9 @@
     ],
     "answer": 2,
     "explanation": "여든은 80이에요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -1172,9 +1215,9 @@
     ],
     "answer": 3,
     "explanation": "69 다음은 70이에요.",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1188,9 +1231,9 @@
     ],
     "answer": 0,
     "explanation": "24는 둘씩 짝을 지으면 남지 않아 짝수예요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1204,9 +1247,9 @@
     ],
     "answer": 1,
     "explanation": "십의 자리가 가장 큰 73이 가장 커요.",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -1220,9 +1263,9 @@
     ],
     "answer": 2,
     "explanation": "일의 자리는 8−3=5라서 85예요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1234,9 +1277,9 @@
     ],
     "answer": 0,
     "explanation": "홀수는 둘씩 짝을 지으면 1개가 남아요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -1250,9 +1293,9 @@
     ],
     "answer": 3,
     "explanation": "10개씩 묶음 3개와 2개를 합하면 5개라서 50이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1266,9 +1309,9 @@
     ],
     "answer": 0,
     "explanation": "일의 자리끼리 7−5=2라서 42예요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -1282,9 +1325,9 @@
     ],
     "answer": 1,
     "explanation": "4+3=7, 7+3=10",
-    "standard": "[2수01-08]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 3,
@@ -1298,9 +1341,9 @@
     ],
     "answer": 2,
     "explanation": "25−3=22, 22+4=26(명)",
-    "standard": "[2수01-08]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 2,
@@ -1314,9 +1357,9 @@
     ],
     "answer": 3,
     "explanation": "일의 자리 6+1=7, 십의 자리 2+3=5라서 57이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 3,
@@ -1330,9 +1373,9 @@
     ],
     "answer": 0,
     "explanation": "서준이는 21+6=27개예요. 21+27=48(개)",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -1346,9 +1389,9 @@
     ],
     "answer": 1,
     "explanation": "삼각자는 세모 모양이에요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -1362,9 +1405,9 @@
     ],
     "answer": 2,
     "explanation": "30분일 때 긴바늘은 6을 가리켜요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 1,
@@ -1376,9 +1419,9 @@
     ],
     "answer": 1,
     "explanation": "동그라미 모양은 둥글어서 뾰족한 곳이 없어요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -1392,9 +1435,9 @@
     ],
     "answer": 3,
     "explanation": "세모 모양은 뾰족한 곳이 3개예요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -1408,9 +1451,9 @@
     ],
     "answer": 0,
     "explanation": "8시에서 30분이 지나 짧은바늘이 8과 9 사이에 있어요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -1424,9 +1467,9 @@
     ],
     "answer": 0,
     "explanation": "10시보다 30분 지난 10시 30분이 가장 늦어요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 1,
@@ -1440,9 +1483,9 @@
     ],
     "answer": 1,
     "explanation": "2씩 커지므로 4 다음은 6이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -1456,9 +1499,9 @@
     ],
     "answer": 3,
     "explanation": "빨강, 노랑, 파랑이 반복돼요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -1472,9 +1515,9 @@
     ],
     "answer": 0,
     "explanation": "2씩 작아지는 규칙이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -1486,9 +1529,9 @@
     ],
     "answer": 0,
     "explanation": "규칙대로 이어지기 때문에 다음 것을 알 수 있어요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -1502,9 +1545,9 @@
     ],
     "answer": 1,
     "explanation": "5, 10, 15, 20은 5씩 커져요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 3,
@@ -1518,9 +1561,9 @@
     ],
     "answer": 2,
     "explanation": "세 개씩 세 번 반복하니 파랑은 3개예요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -1532,9 +1575,9 @@
     ],
     "answer": 0,
     "explanation": "6은 육 또는 여섯이라고 읽어요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -1548,9 +1591,9 @@
     ],
     "answer": 2,
     "explanation": "넷은 숫자로 4예요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1564,9 +1607,9 @@
     ],
     "answer": 0,
     "explanation": "아무것도 없을 때는 0으로 나타내요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1578,9 +1621,9 @@
     ],
     "answer": 0,
     "explanation": "셋째는 몇 번째인지, 셋은 몇 개인지를 나타내요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1594,9 +1637,9 @@
     ],
     "answer": 1,
     "explanation": "수를 세는 순서에서 2가 가장 앞에 있으니 가장 작아요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1610,9 +1653,9 @@
     ],
     "answer": 2,
     "explanation": "6은 8보다 앞에 오는 수라서 8보다 작아요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1626,9 +1669,9 @@
     ],
     "answer": 3,
     "explanation": "왼쪽부터 첫째 사과, 둘째 배, 셋째 감, 넷째 귤이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1640,9 +1683,9 @@
     ],
     "answer": 1,
     "explanation": "5는 3보다 뒤에 오는 수라서 3보다 커요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1656,9 +1699,9 @@
     ],
     "answer": 0,
     "explanation": "셋째에서 두 칸 올라가면 넷째, 다섯째예요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -1672,9 +1715,9 @@
     ],
     "answer": 2,
     "explanation": "4와 7 사이의 수는 5, 6이에요. 4와 7은 들어가지 않아요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -1688,9 +1731,9 @@
     ],
     "answer": 2,
     "explanation": "하린이는 6보다 1 작은 5개, 준호는 5보다 2 큰 7개라서 준호가 가장 많아요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "9까지의 수"
+    "unit": "1부터 9까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -1704,9 +1747,9 @@
     ],
     "answer": 0,
     "explanation": "풀과 통조림은 둥근기둥 모양이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1718,9 +1761,9 @@
     ],
     "answer": 1,
     "explanation": "상자 모양은 평평한 면과 뾰족한 부분이 있어서 잘 굴러가지 않아요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1734,9 +1777,9 @@
     ],
     "answer": 2,
     "explanation": "둥근기둥 모양은 둥근 면으로 굴러가고 평평한 면으로 세워 쌓을 수 있어요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1750,9 +1793,9 @@
     ],
     "answer": 0,
     "explanation": "공 모양은 평평한 면이 없어서 쌓기 어려워요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1766,9 +1809,9 @@
     ],
     "answer": 2,
     "explanation": "뾰족한 부분과 평평한 면만 있는 것은 상자 모양이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1780,9 +1823,9 @@
     ],
     "answer": 0,
     "explanation": "둥근기둥 모양은 위와 아래에 평평한 면이 있어요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1796,9 +1839,9 @@
     ],
     "answer": 2,
     "explanation": "두부 상자는 상자 모양이라서 굴러가지 않아요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 3,
@@ -1812,9 +1855,9 @@
     ],
     "answer": 1,
     "explanation": "상자 모양은 평평한 면끼리 맞대어 잘 쌓을 수 있고 개수도 가장 많아요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 1,
@@ -1823,14 +1866,14 @@
     "choices": [
       "우유갑",
       "벽돌",
-      "두루마리 휴지",
+      "통조림",
       "책"
     ],
     "answer": 2,
-    "explanation": "두루마리 휴지는 둥근기둥 모양이에요.",
-    "standard": "[2수03-01]",
+    "explanation": "통조림은 둥근기둥 모양이에요.",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1844,9 +1887,9 @@
     ],
     "answer": 2,
     "explanation": "공 모양은 전체가 둥근 면이에요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 2,
@@ -1858,9 +1901,9 @@
     ],
     "answer": 1,
     "explanation": "상자 모양과 둥근기둥 모양, 2가지만 썼어요.",
-    "standard": "[2수03-01]",
     "semester": 1,
-    "unit": "여러 가지 모양"
+    "unit": "여러 가지 모양",
+    "standard": "[2수03-01]"
   },
   {
     "difficulty": 1,
@@ -1874,9 +1917,9 @@
     ],
     "answer": 2,
     "explanation": "2와 4를 모으면 6이에요.",
-    "standard": "[2수01-04]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 2,
@@ -1890,9 +1933,9 @@
     ],
     "answer": 3,
     "explanation": "6과 3을 모으면 9예요.",
-    "standard": "[2수01-04]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 1,
@@ -1906,9 +1949,9 @@
     ],
     "answer": 1,
     "explanation": "6에서 2를 빼면 4예요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1922,9 +1965,9 @@
     ],
     "answer": 2,
     "explanation": "2 + 5 = 7이에요. 3 + 3 = 6, 9 − 1 = 8, 8 − 2 = 6이에요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1936,9 +1979,9 @@
     ],
     "answer": 0,
     "explanation": "같은 수를 빼면 0이에요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1952,9 +1995,9 @@
     ],
     "answer": 1,
     "explanation": "3과 5를 모으면 8이니 5마리를 넣었어요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 2,
@@ -1968,9 +2011,9 @@
     ],
     "answer": 3,
     "explanation": "5 + 4 = 9예요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1982,9 +2025,9 @@
     ],
     "answer": 0,
     "explanation": "4 + 3 = 7, 9 − 2 = 7이라서 같아요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1998,9 +2041,9 @@
     ],
     "answer": 0,
     "explanation": "처음 7마리에서 날아간 3마리를 빼면 4마리가 남아요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 3,
@@ -2014,9 +2057,9 @@
     ],
     "answer": 3,
     "explanation": "2장을 주면 하윤이는 4장, 지호는 4장이 돼요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 2,
@@ -2030,9 +2073,9 @@
     ],
     "answer": 2,
     "explanation": "5는 1과 4, 2와 3처럼 갈라져서 같은 두 수로는 가를 수 없어요.",
-    "standard": "[2수01-04]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 3,
@@ -2046,9 +2089,9 @@
     ],
     "answer": 1,
     "explanation": "가장 큰 수 9에서 가장 작은 수 1을 빼면 8이에요.",
-    "standard": "[2수01-05]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺼셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -2062,9 +2105,9 @@
     ],
     "answer": 0,
     "explanation": "무게를 비교하는 말은 무겁다와 가볍다예요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 1,
@@ -2076,9 +2119,9 @@
     ],
     "answer": 0,
     "explanation": "넓이는 넓다, 좁다로 비교해요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2092,9 +2135,9 @@
     ],
     "answer": 0,
     "explanation": "키는 크다, 작다로 비교해요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2108,9 +2151,9 @@
     ],
     "answer": 2,
     "explanation": "민서 것 > 지수 것 > 태오 것이라서 민서의 줄이 가장 길어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2122,9 +2165,9 @@
     ],
     "answer": 1,
     "explanation": "더 아래로 처지는 쪽이 더 무거워요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2138,9 +2181,9 @@
     ],
     "answer": 2,
     "explanation": "같은 컵에서는 높이가 낮을수록 양이 적어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2154,9 +2197,9 @@
     ],
     "answer": 1,
     "explanation": "겹쳤을 때 남는 쪽이 더 넓어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2170,9 +2213,9 @@
     ],
     "answer": 0,
     "explanation": "주전자의 물이 컵에 다 들어가지 않았으니 주전자의 들이가 더 커요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 3,
@@ -2186,9 +2229,9 @@
     ],
     "answer": 3,
     "explanation": "많이 늘어날수록 무거우니 필통, 가위, 지우개 순서예요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2200,9 +2243,9 @@
     ],
     "answer": 1,
     "explanation": "굵기와 길이는 다른 것이라서 끝을 맞추어 대어 봐야 알 수 있어요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 2,
@@ -2216,9 +2259,9 @@
     ],
     "answer": 1,
     "explanation": "칸의 크기가 같으니 칸 수가 가장 적은 (가)가 가장 좁아요.",
-    "standard": "[2수03-06]",
     "semester": 1,
-    "unit": "비교하기"
+    "unit": "비교하기",
+    "standard": "[2수03-06]"
   },
   {
     "difficulty": 1,
@@ -2232,9 +2275,9 @@
     ],
     "answer": 2,
     "explanation": "10개씩 묶음 4개는 40이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -2248,9 +2291,9 @@
     ],
     "answer": 0,
     "explanation": "서른은 30, 하나는 1이라서 31이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2262,9 +2305,9 @@
     ],
     "answer": 0,
     "explanation": "19보다 1 큰 수는 20이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2278,9 +2321,9 @@
     ],
     "answer": 0,
     "explanation": "46은 사십육 또는 마흔여섯이라고 읽어요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2294,9 +2337,9 @@
     ],
     "answer": 2,
     "explanation": "7과 3을 모으면 10이에요.",
-    "standard": "[2수01-04]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-04]"
   },
   {
     "difficulty": 2,
@@ -2310,9 +2353,9 @@
     ],
     "answer": 1,
     "explanation": "33과 36 사이의 수는 34, 35예요. 33과 36은 들어가지 않아요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2326,9 +2369,9 @@
     ],
     "answer": 1,
     "explanation": "10개씩 묶음이 가장 적은 19가 가장 작아요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2340,9 +2383,9 @@
     ],
     "answer": 1,
     "explanation": "10개씩 묶음 3개는 30이에요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -2356,9 +2399,9 @@
     ],
     "answer": 3,
     "explanation": "낱장 12장에서 10장을 묶으면 묶음이 1개 늘어 4개가 되고 2장이 남아요.",
-    "standard": "[2수01-01]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -2372,9 +2415,9 @@
     ],
     "answer": 2,
     "explanation": "가장 큰 4를 10개씩 묶음의 수로, 다음으로 큰 3을 낱개의 수로 놓으면 43이에요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2388,9 +2431,9 @@
     ],
     "answer": 1,
     "explanation": "28 바로 앞의 수는 27이에요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "50까지의 수"
+    "unit": "50까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -2404,9 +2447,9 @@
     ],
     "answer": 2,
     "explanation": "예순은 60이에요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -2420,9 +2463,9 @@
     ],
     "answer": 1,
     "explanation": "10개씩 묶음 9개는 90, 낱개 2개를 더하면 92예요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2436,9 +2479,9 @@
     ],
     "answer": 0,
     "explanation": "75는 칠십오 또는 일흔다섯이라고 읽어요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2450,9 +2493,9 @@
     ],
     "answer": 0,
     "explanation": "10개씩 묶음이 6개인 64가 4개인 46보다 커요.",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2464,9 +2507,9 @@
     ],
     "answer": 0,
     "explanation": "10, 20, 30처럼 낱개가 0인 수는 둘씩 짝을 지으면 남는 것이 없어서 짝수예요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2480,9 +2523,9 @@
     ],
     "answer": 3,
     "explanation": "89는 90 바로 앞의 수라서 90보다 작아요.",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2496,9 +2539,9 @@
     ],
     "answer": 1,
     "explanation": "9는 홀수라서 둘씩 짝을 지으면 1짝이 남아요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2512,9 +2555,9 @@
     ],
     "answer": 0,
     "explanation": "10개씩 묶음 수를 먼저 비교하고, 같으면 낱개 수를 비교해요.",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -2528,9 +2571,9 @@
     ],
     "answer": 0,
     "explanation": "낱개 23개는 10개씩 묶음 2개와 3개라서, 묶음 7개와 낱개 3개인 73개예요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 3,
@@ -2544,9 +2587,9 @@
     ],
     "answer": 1,
     "explanation": "60과 70 사이의 수는 61부터 69까지이고, 그중 낱개가 7인 수는 67이에요.",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 2,
@@ -2560,9 +2603,9 @@
     ],
     "answer": 3,
     "explanation": "83은 낱개가 3이라서 둘씩 짝을 지으면 하나가 남는 홀수예요.",
-    "standard": "[2수01-01]",
     "semester": 2,
-    "unit": "100까지의 수"
+    "unit": "100까지의 수",
+    "standard": "[2수01-01]"
   },
   {
     "difficulty": 1,
@@ -2576,9 +2619,9 @@
     ],
     "answer": 1,
     "explanation": "낱개끼리 2 + 6 = 8이라서 48이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -2592,9 +2635,9 @@
     ],
     "answer": 2,
     "explanation": "낱개끼리 8 − 3 = 5라서 55예요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -2608,9 +2651,9 @@
     ],
     "answer": 2,
     "explanation": "10개씩 묶음 7개에서 4개를 빼면 3개, 30이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -2624,9 +2667,9 @@
     ],
     "answer": 1,
     "explanation": "6 + 4 = 10을 먼저 만들고 5를 더하면 15예요.",
-    "standard": "[2수01-08]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 2,
@@ -2640,9 +2683,9 @@
     ],
     "answer": 2,
     "explanation": "10은 4와 6으로 가를 수 있으니 □는 6이에요.",
-    "standard": "[2수01-08]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -2654,9 +2697,9 @@
     ],
     "answer": 0,
     "explanation": "8 + 2 = 10, 10 + 3 = 13이에요.",
-    "standard": "[2수01-08]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 2,
@@ -2668,9 +2711,9 @@
     ],
     "answer": 1,
     "explanation": "64 − 21 = 43이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -2684,9 +2727,9 @@
     ],
     "answer": 0,
     "explanation": "36 − 14 = 22예요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 3,
@@ -2700,9 +2743,9 @@
     ],
     "answer": 3,
     "explanation": "은우는 43 − 12 = 31번, 두 사람은 43 + 31 = 74번이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -2716,9 +2759,9 @@
     ],
     "answer": 0,
     "explanation": "32 + 15 = 47, 61 − 20 = 41, 24 + 21 = 45, 59 − 13 = 46이에요.",
-    "standard": "[2수01-06]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -2732,9 +2775,9 @@
     ],
     "answer": 2,
     "explanation": "사과 3개와 배 7개를 더하면 10이에요.",
-    "standard": "[2수01-08]",
     "semester": 2,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 1,
@@ -2748,9 +2791,9 @@
     ],
     "answer": 1,
     "explanation": "교실 창문은 네모 모양이에요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2762,9 +2805,9 @@
     ],
     "answer": 0,
     "explanation": "세모 모양은 곧은 선 3개로 둘러싸여 있어요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2778,9 +2821,9 @@
     ],
     "answer": 2,
     "explanation": "동그라미 모양은 굽은 선으로만 되어 있어 뾰족한 곳이 없어요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2794,25 +2837,25 @@
     ],
     "answer": 1,
     "explanation": "상자 모양의 평평한 면을 찍으면 네모 모양이 나와요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "네모 모양 색종이를 한 번 접었다 펴서 접힌 선을 따라 잘랐더니 세모 모양 2개가 생겼어요. 어떻게 접었을까요?",
     "choices": [
-      "뾰족한 곳끼리 마주 보게 비스듬히 접었어요",
+      "뾰족한 곳끼리 맞게 접었어요",
       "가운데를 가로로 접었어요",
       "가운데를 세로로 접었어요",
-      "접지 않았어요"
+      "한 모서리만 작게 접었어요"
     ],
     "answer": 0,
     "explanation": "마주 보는 뾰족한 곳끼리 비스듬히 접은 선으로 자르면 세모 모양 2개가 생겨요.",
-    "standard": "[2수03-03]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 1,
@@ -2826,9 +2869,9 @@
     ],
     "answer": 1,
     "explanation": "긴바늘이 12를 가리키면 몇 시이고, 짧은바늘이 2라서 2시예요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2840,9 +2883,9 @@
     ],
     "answer": 1,
     "explanation": "4시 30분에는 짧은바늘이 4와 5 사이에 있어요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2856,9 +2899,9 @@
     ],
     "answer": 3,
     "explanation": "몇 시에는 짧은바늘이 그 시를 나타내는 숫자를 가리켜요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2872,9 +2915,9 @@
     ],
     "answer": 0,
     "explanation": "긴바늘이 6이면 30분, 짧은바늘이 9와 10 사이라서 9시 30분이에요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2888,9 +2931,9 @@
     ],
     "answer": 2,
     "explanation": "12시 30분, 1시 30분, 2시 순서라서 소율이가 가장 먼저 먹었어요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2904,9 +2947,9 @@
     ],
     "answer": 1,
     "explanation": "긴바늘이 12면 몇 시이고, 짧은바늘이 12라서 12시예요.",
-    "standard": "[2수03-07]",
     "semester": 2,
-    "unit": "모양과 시각"
+    "unit": "모양과 시각",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 1,
@@ -2920,9 +2963,9 @@
     ],
     "answer": 3,
     "explanation": "○, △가 반복되니 ○ 다음은 △예요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2936,9 +2979,9 @@
     ],
     "answer": 2,
     "explanation": "10씩 커지는 규칙이라서 60 다음은 70이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2952,9 +2995,9 @@
     ],
     "answer": 1,
     "explanation": "짝, 쿵, 쿵이 반복되니 짝 다음은 쿵이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2968,9 +3011,9 @@
     ],
     "answer": 0,
     "explanation": "오른쪽으로 한 칸 가면 1 커지니 46이에요.",
-    "standard": "[2수02-02]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2984,9 +3027,9 @@
     ],
     "answer": 2,
     "explanation": "한 줄에 10칸이라 아래로 한 칸 가면 10 커져서 33이에요.",
-    "standard": "[2수02-02]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2998,9 +3041,9 @@
     ],
     "answer": 0,
     "explanation": "25에서 5씩 빼면 20, 15, 10이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -3014,9 +3057,9 @@
     ],
     "answer": 3,
     "explanation": "3씩 커지는 규칙이라서 10 다음은 13이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -3030,9 +3073,9 @@
     ],
     "answer": 2,
     "explanation": "주먹, 보, 보를 차례로 0, 5, 5로 바꿔요.",
-    "standard": "[2수02-02]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-02]"
   },
   {
     "difficulty": 3,
@@ -3046,9 +3089,9 @@
     ],
     "answer": 1,
     "explanation": "세 개씩 반복되니 넷째, 일곱째, 열째가 노랑이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -3060,9 +3103,9 @@
     ],
     "answer": 1,
     "explanation": "2, 4, 6, 8, 10은 모두 짝수이고 2씩 커지는 규칙이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -3076,8 +3119,8 @@
     ],
     "answer": 1,
     "explanation": "2씩 커지는 규칙이라서 57 다음은 59예요.",
-    "standard": "[2수02-02]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   }
 ]

@@ -12,7 +12,8 @@
     "answer": 3,
     "explanation": "백 4개, 십 3개, 일 5개이면 435예요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -25,7 +26,8 @@
     "answer": 1,
     "explanation": "세 자리 수 406이에요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -40,7 +42,8 @@
     "answer": 0,
     "explanation": "십의 자리 숫자 6은 60을 나타내요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -71,7 +74,8 @@
     "answer": 2,
     "explanation": "479보다 1 큰 수는 480, 100 큰 수는 580이에요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -86,7 +90,8 @@
     "answer": 3,
     "explanation": "변이 3개인 도형은 삼각형이에요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 2,
@@ -101,7 +106,8 @@
     "answer": 0,
     "explanation": "오각형은 변과 꼭짓점이 각각 5개예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 1,
@@ -131,7 +137,7 @@
     "explanation": "삼각형은 곧은 선 3개로 둘러싸여 있어서 굽은 선이 없어요.",
     "semester": 1,
     "unit": "여러 가지 도형",
-    "standard": "[2수03-04]"
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 2,
@@ -162,7 +168,8 @@
     "answer": 3,
     "explanation": "8 + 5 = 13이므로 받아올림해서 43이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -177,7 +184,8 @@
     "answer": 0,
     "explanation": "62 − 27 = 35예요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -192,7 +200,8 @@
     "answer": 1,
     "explanation": "45 − 18 = 27이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-09]"
   },
   {
     "difficulty": 2,
@@ -208,7 +217,7 @@
     "explanation": "46 − 29 = 17이에요.",
     "semester": 1,
     "unit": "덧셈과 뺄셈",
-    "standard": "[2수01-06]"
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 3,
@@ -238,7 +247,7 @@
     ],
     "answer": 3,
     "explanation": "뼘·걸음·발 길이는 사람마다 달라요. 모두 같은 1 cm로 재면 누가 재어도 같아요.",
-    "semester": 1,
+    "semester": 2,
     "unit": "길이 재기",
     "standard": "[2수03-10]"
   },
@@ -254,8 +263,9 @@
     ],
     "answer": 1,
     "explanation": "한끝을 눈금 0에 맞추어요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -269,8 +279,9 @@
     ],
     "answer": 2,
     "explanation": "눈금 0에서 4까지이므로 4 cm예요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -284,7 +295,7 @@
     ],
     "answer": 3,
     "explanation": "7 − 2 = 5이므로 5 cm예요.",
-    "semester": 1,
+    "semester": 2,
     "unit": "길이 재기",
     "standard": "[2수03-10]"
   },
@@ -300,8 +311,9 @@
     ],
     "answer": 0,
     "explanation": "1 cm가 9번이면 약 9 cm예요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 1,
@@ -316,7 +328,8 @@
     "answer": 1,
     "explanation": "기준을 정한 뒤에 나누어요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -331,7 +344,8 @@
     "answer": 2,
     "explanation": "빨강, 파랑, 노랑 3가지예요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -344,7 +358,8 @@
     "answer": 0,
     "explanation": "분명한 기준은 결과를 같게 해요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -391,7 +406,8 @@
     "answer": 1,
     "explanation": "3 + 3 = 6이에요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -406,7 +422,8 @@
     "answer": 2,
     "explanation": "5 + 5 + 5 = 15예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -421,7 +438,8 @@
     "answer": 3,
     "explanation": "2를 4번 더했으므로 2 × 4예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -468,7 +486,8 @@
     "answer": 2,
     "explanation": "천 3개, 백 2개, 십 5개, 일 4개예요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -483,7 +502,8 @@
     "answer": 3,
     "explanation": "천의 자리 숫자 5는 5000이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -496,7 +516,8 @@
     "answer": 1,
     "explanation": "2305예요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 3,
@@ -511,7 +532,8 @@
     "answer": 0,
     "explanation": "0은 맨 앞에 못 오므로 2049예요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -542,7 +564,8 @@
     "answer": 2,
     "explanation": "3씩 4번이면 12예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -557,7 +580,8 @@
     "answer": 3,
     "explanation": "7 × 8 = 56이에요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -570,7 +594,8 @@
     "answer": 0,
     "explanation": "두 곱 모두 30이에요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -585,7 +610,7 @@
     "answer": 0,
     "explanation": "6 × 7 = 42예요.",
     "semester": 2,
-    "unit": "곱셈구구",
+    "unit": "곱셈 구구",
     "standard": "[2수01-11]"
   },
   {
@@ -601,7 +626,7 @@
     "answer": 1,
     "explanation": "5 × 4 = 20이에요.",
     "semester": 2,
-    "unit": "곱셈구구",
+    "unit": "곱셈 구구",
     "standard": "[2수01-11]"
   },
   {
@@ -617,7 +642,8 @@
     "answer": 2,
     "explanation": "1 m는 100 cm예요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-11]"
   },
   {
     "difficulty": 2,
@@ -632,7 +658,8 @@
     "answer": 3,
     "explanation": "200 cm와 30 cm를 더해요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-11]"
   },
   {
     "difficulty": 2,
@@ -647,7 +674,8 @@
     "answer": 0,
     "explanation": "m끼리, cm끼리 더하면 3 m 60 cm예요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-13]"
   },
   {
     "difficulty": 2,
@@ -692,7 +720,8 @@
     "answer": 2,
     "explanation": "1시간은 60분이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-08]"
   },
   {
     "difficulty": 1,
@@ -723,7 +752,8 @@
     "answer": 0,
     "explanation": "긴바늘 8은 40분이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -770,7 +800,8 @@
     "answer": 3,
     "explanation": "표시로 나타낸 것은 그래프예요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-03]"
   },
   {
     "difficulty": 2,
@@ -785,7 +816,8 @@
     "answer": 0,
     "explanation": "5명으로 포도가 가장 많아요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 2,
@@ -800,7 +832,8 @@
     "answer": 1,
     "explanation": "3 + 5 + 2 + 4 = 14예요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 2,
@@ -837,10 +870,10 @@
     "type": "choice4",
     "question": "곱셈표에서 5단의 곱 5, 10, 15, 20, 25, …의 일의 자리 숫자는 어떤 규칙이 있을까요?",
     "choices": [
-      "항상 5가 나와요",
-      "1씩 커져요",
+      "언제나 5만 계속 나와요",
+      "1씩 차례로 커져 가요",
       "5와 0이 번갈아 나와요",
-      "항상 0이 나와요"
+      "언제나 0만 계속 나와요"
     ],
     "answer": 2,
     "explanation": "일의 자리 숫자가 5, 0, 5, 0, …으로 번갈아 나와요.",
@@ -861,7 +894,8 @@
     "answer": 0,
     "explanation": "3씩 커지므로 15 다음은 18이에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -876,7 +910,8 @@
     "answer": 1,
     "explanation": "아래로 한 칸 가면 더하는 수가 1 커져요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -907,7 +942,8 @@
     "answer": 3,
     "explanation": "1, 2, 3, 4씩 늘어나므로 다음은 5 늘어난 16이에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -921,9 +957,9 @@
     ],
     "answer": 0,
     "explanation": "삼백은 300, 이십은 20이라서 320이에요.",
-    "standard": "[2수01-02]",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -937,9 +973,9 @@
     ],
     "answer": 1,
     "explanation": "100이 7개면 700, 1이 4개면 4라서 704예요. 십의 자리는 0이에요.",
-    "standard": "[2수01-02]",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -953,9 +989,9 @@
     ],
     "answer": 2,
     "explanation": "백의 자리 숫자가 5인 537과 513 가운데 십의 자리 숫자가 더 큰 537이 가장 커요.",
-    "standard": "[2수01-03]",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -969,9 +1005,9 @@
     ],
     "answer": 0,
     "explanation": "십의 자리 숫자는 9−5−1=3이라서 531이에요.",
-    "standard": "[2수01-02]",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 1,
@@ -985,9 +1021,9 @@
     ],
     "answer": 2,
     "explanation": "사각형은 곧은 선 4개로 둘러싸여 있어서 변이 4개, 꼭짓점이 4개예요.",
-    "standard": "[2수03-05]",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 2,
@@ -999,9 +1035,9 @@
     ],
     "answer": 0,
     "explanation": "삼각형과 사각형의 변은 곧은 선이에요.",
-    "standard": "[2수03-05]",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 3,
@@ -1015,9 +1051,9 @@
     ],
     "answer": 2,
     "explanation": "오각형의 꼭짓점은 5개, 육각형의 변은 6개예요. 5+6=11(개)",
-    "standard": "[2수03-05]",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 2,
@@ -1031,9 +1067,9 @@
     ],
     "answer": 2,
     "explanation": "27 + 46은 일의 자리 7 + 6 = 13이라서 10을 받아올려요. 나머지는 일의 자리 합이 10보다 작아요.",
-    "standard": "[2수01-06]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1047,9 +1083,9 @@
     ],
     "answer": 1,
     "explanation": "전체 72에서 25를 빼면 47이 남아요. 그래서 72 − 25 = 47이에요.",
-    "standard": "[2수01-07]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-07]"
   },
   {
     "difficulty": 2,
@@ -1063,9 +1099,9 @@
     ],
     "answer": 1,
     "explanation": "□는 38+24=62예요.",
-    "standard": "[2수01-09]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-09]"
   },
   {
     "difficulty": 3,
@@ -1079,9 +1115,9 @@
     ],
     "answer": 1,
     "explanation": "28 + 35 = 63, 63 + 17 = 80(번)이에요.",
-    "standard": "[2수01-08]",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 1,
@@ -1095,9 +1131,9 @@
     ],
     "answer": 1,
     "explanation": "콩 한 알은 약 1 cm예요. 연필, 책상, 칠판은 1 cm보다 훨씬 길어요.",
-    "standard": "[2수03-12]",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -1111,9 +1147,9 @@
     ],
     "answer": 0,
     "explanation": "10에 더 가까우니 약 10 cm예요.",
-    "standard": "[2수03-12]",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-12]"
   },
   {
     "difficulty": 3,
@@ -1127,9 +1163,9 @@
     ],
     "answer": 1,
     "explanation": "다른 끝은 약 11이에요. 3에서 11까지 1 cm가 8번이므로 약 8 cm예요.",
-    "standard": "[2수03-12]",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 1,
@@ -1143,9 +1179,9 @@
     ],
     "answer": 2,
     "explanation": "둥근지 네모난지로 나누었으니 모양이 기준이에요.",
-    "standard": "[2수04-01]",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -1159,9 +1195,9 @@
     ],
     "answer": 3,
     "explanation": "닭과 오리는 다리가 2개예요.",
-    "standard": "[2수04-01]",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 3,
@@ -1175,9 +1211,9 @@
     ],
     "answer": 0,
     "explanation": "12−5=7, 7−4=3(개)",
-    "standard": "[2수04-01]",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -1191,9 +1227,9 @@
     ],
     "answer": 2,
     "explanation": "4씩 2묶음은 8개예요. 나머지는 모두 6개예요.",
-    "standard": "[2수01-10]",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -1205,9 +1241,9 @@
     ],
     "answer": 0,
     "explanation": "5 × 4는 5+5+5+5와 같아요.",
-    "standard": "[2수01-10]",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 3,
@@ -1221,9 +1257,9 @@
     ],
     "answer": 3,
     "explanation": "3 × 4 = 12, 12−5=7(개)",
-    "standard": "[2수01-10]",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 1,
@@ -1237,9 +1273,9 @@
     ],
     "answer": 0,
     "explanation": "이천은 2000, 오백은 500이라서 2500이에요.",
-    "standard": "[2수01-02]",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -1253,9 +1289,9 @@
     ],
     "answer": 1,
     "explanation": "6000과 7을 합하면 6007이에요.",
-    "standard": "[2수01-02]",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 3,
@@ -1269,9 +1305,9 @@
     ],
     "answer": 2,
     "explanation": "3524+100=3624, 3624−1000=2624",
-    "standard": "[2수01-03]",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -1285,9 +1321,9 @@
     ],
     "answer": 3,
     "explanation": "2 × 7 = 14",
-    "standard": "[2수01-11]",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -1301,9 +1337,9 @@
     ],
     "answer": 0,
     "explanation": "9 × 4 = 36",
-    "standard": "[2수01-11]",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -1315,9 +1351,9 @@
     ],
     "answer": 1,
     "explanation": "어떤 수에 0을 곱하면 0이에요.",
-    "standard": "[2수01-11]",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 3,
@@ -1331,9 +1367,9 @@
     ],
     "answer": 1,
     "explanation": "8 × 4 = 32, 32−5=27(명)",
-    "standard": "[2수01-11]",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -1347,9 +1383,9 @@
     ],
     "answer": 2,
     "explanation": "100 cm가 1 m이므로 340 cm는 3 m 40 cm예요.",
-    "standard": "[2수03-11]",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-11]"
   },
   {
     "difficulty": 2,
@@ -1363,9 +1399,9 @@
     ],
     "answer": 3,
     "explanation": "1 m는 100 cm라서 가장 길어요.",
-    "standard": "[2수03-11]",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-11]"
   },
   {
     "difficulty": 3,
@@ -1379,9 +1415,9 @@
     ],
     "answer": 1,
     "explanation": "2 m 90 cm − 1 m 10 cm = 1 m 80 cm, 1 m 80 cm − 50 cm = 1 m 30 cm예요.",
-    "standard": "[2수03-13]",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-13]"
   },
   {
     "difficulty": 2,
@@ -1395,9 +1431,9 @@
     ],
     "answer": 1,
     "explanation": "1시간은 60분이므로 60+30=90(분)",
-    "standard": "[2수03-08]",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-08]"
   },
   {
     "difficulty": 1,
@@ -1411,9 +1447,9 @@
     ],
     "answer": 2,
     "explanation": "일주일은 7일이에요.",
-    "standard": "[2수03-09]",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 2,
@@ -1427,9 +1463,9 @@
     ],
     "answer": 3,
     "explanation": "10시에서 12시까지는 2시간이에요.",
-    "standard": "[2수03-08]",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-08]"
   },
   {
     "difficulty": 2,
@@ -1443,9 +1479,9 @@
     ],
     "answer": 0,
     "explanation": "2시에서 1시간 뒤는 3시, 30분 뒤는 3시 30분이에요.",
-    "standard": "[2수03-08]",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-08]"
   },
   {
     "difficulty": 1,
@@ -1457,9 +1493,9 @@
     ],
     "answer": 0,
     "explanation": "표로 나타내면 항목별 수를 한눈에 알아보기 쉬워요.",
-    "standard": "[2수04-02]",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 2,
@@ -1473,9 +1509,9 @@
     ],
     "answer": 1,
     "explanation": "3명으로 가장 적은 운동은 야구예요.",
-    "standard": "[2수04-02]",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 3,
@@ -1489,9 +1525,9 @@
     ],
     "answer": 2,
     "explanation": "6 + 4 + 3 = 13, 18 − 13 = 5(명)이에요.",
-    "standard": "[2수04-02]",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 1,
@@ -1505,9 +1541,9 @@
     ],
     "answer": 3,
     "explanation": "10씩 커지는 규칙이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -1521,9 +1557,9 @@
     ],
     "answer": 0,
     "explanation": "6씩 커지므로 24 다음은 30이에요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 3,
@@ -1537,9 +1573,9 @@
     ],
     "answer": 1,
     "explanation": "○는 첫째, 넷째, 일곱째, 열째에 놓이므로 4개예요.",
-    "standard": "[2수02-01]",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-02]"
   },
   {
     "difficulty": 1,
@@ -1554,7 +1590,8 @@
     "answer": 2,
     "explanation": "10이 10개이면 100이에요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 1,
@@ -1569,7 +1606,8 @@
     "answer": 0,
     "explanation": "700은 100이 7개인 수예요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -1584,7 +1622,8 @@
     "answer": 1,
     "explanation": "10씩 뛰어 센 것이므로 265 다음은 275예요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -1597,7 +1636,8 @@
     "answer": 0,
     "explanation": "812의 1은 십의 자리 숫자라서 10을 나타내요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 3,
@@ -1612,7 +1652,8 @@
     "answer": 2,
     "explanation": "백의 자리가 같으니 십의 자리를 봐요. □가 5이면 654 < 658이고, 6이면 664 > 658이라서 가장 큰 숫자는 5예요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -1627,7 +1668,8 @@
     "answer": 2,
     "explanation": "852에서 100씩 3번 거꾸로 세면 752, 652, 552예요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -1642,7 +1684,8 @@
     "answer": 3,
     "explanation": "구백육은 백이 9개, 일이 6개인 수라서 906이에요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 1,
@@ -1655,7 +1698,8 @@
     "answer": 0,
     "explanation": "90보다 10 큰 수는 100이에요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1670,7 +1714,8 @@
     "answer": 0,
     "explanation": "십의 자리 숫자는 482는 8, 519는 1, 375는 7, 694는 9라서 694가 가장 커요.",
     "semester": 1,
-    "unit": "세 자리 수"
+    "unit": "세 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -1685,7 +1730,8 @@
     "answer": 3,
     "explanation": "칠교판 7조각 중 삼각형은 5개, 사각형은 2개예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-03]"
   },
   {
     "difficulty": 1,
@@ -1700,7 +1746,8 @@
     "answer": 3,
     "explanation": "원은 굽은 선으로만 되어 있어서 꼭짓점과 변이 없어요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-04]"
   },
   {
     "difficulty": 1,
@@ -1715,7 +1762,8 @@
     "answer": 2,
     "explanation": "아래층 3개와 위층 1개를 더하면 4개예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-02]"
   },
   {
     "difficulty": 2,
@@ -1730,7 +1778,8 @@
     "answer": 0,
     "explanation": "사각형 하나의 꼭짓점은 4개이므로 4 + 4 = 8(개)예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 1,
@@ -1743,7 +1792,8 @@
     "answer": 1,
     "explanation": "삼각형은 꼭짓점이 3개예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 2,
@@ -1758,7 +1808,8 @@
     "answer": 0,
     "explanation": "오각형은 변 5개, 꼭짓점 5개라서 더하면 10이에요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 2,
@@ -1773,7 +1824,8 @@
     "answer": 3,
     "explanation": "빨간 쌓기나무가 파란 쌓기나무의 왼쪽에 있어요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-02]"
   },
   {
     "difficulty": 1,
@@ -1786,7 +1838,8 @@
     "answer": 0,
     "explanation": "육각형은 꼭짓점이 6개, 오각형은 5개예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 3,
@@ -1801,7 +1854,8 @@
     "answer": 1,
     "explanation": "삼각형 3개의 변은 3 + 3 + 3 = 9(개), 사각형 1개의 변은 4개이므로 9 + 4 = 13(개)예요.",
     "semester": 1,
-    "unit": "여러 가지 도형"
+    "unit": "여러 가지 도형",
+    "standard": "[2수03-05]"
   },
   {
     "difficulty": 1,
@@ -1816,7 +1870,8 @@
     "answer": 1,
     "explanation": "일의 자리 6 + 7 = 13에서 10을 받아올려 56 + 37 = 93이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -1831,7 +1886,8 @@
     "answer": 2,
     "explanation": "십의 자리에서 받아내림하여 13 − 7 = 6, 7 − 4 = 3이므로 36이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1846,7 +1902,8 @@
     "answer": 1,
     "explanation": "십의 자리의 1은 10을 나타내요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1861,7 +1918,8 @@
     "answer": 1,
     "explanation": "34 + 30 = 64, 64 − 1 = 63이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 1,
@@ -1876,7 +1934,8 @@
     "answer": 1,
     "explanation": "45 − 18 = 27(명)이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-05]"
   },
   {
     "difficulty": 2,
@@ -1891,7 +1950,8 @@
     "answer": 2,
     "explanation": "앞에서부터 차례로 계산해요. 52 − 17 = 35, 35 + 25 = 60이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 1,
@@ -1904,7 +1964,8 @@
     "answer": 0,
     "explanation": "두 수를 바꾸어 더해도 결과는 74로 같아요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-06]"
   },
   {
     "difficulty": 2,
@@ -1919,7 +1980,8 @@
     "answer": 1,
     "explanation": "□는 차례로 45 − □ = 9에서 36, □ + 15 = 40에서 25, □ − 12 = 20에서 32, □ + 28 = 57에서 29라서 36이 가장 커요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-09]"
   },
   {
     "difficulty": 3,
@@ -1934,7 +1996,8 @@
     "answer": 1,
     "explanation": "32 + 15 = 47, 47 − 9 = 38(장)이에요.",
     "semester": 1,
-    "unit": "덧셈과 뺄셈"
+    "unit": "덧셈과 뺄셈",
+    "standard": "[2수01-08]"
   },
   {
     "difficulty": 1,
@@ -1948,8 +2011,9 @@
     ],
     "answer": 1,
     "explanation": "1 cm가 5번이면 5 cm예요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -1963,8 +2027,9 @@
     ],
     "answer": 0,
     "explanation": "뼘의 길이가 사람마다 달라서 잰 횟수가 달라져요. 그래서 1 cm 같은 단위를 써요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -1978,8 +2043,9 @@
     ],
     "answer": 2,
     "explanation": "실제 길이와의 차가 수아 2 cm, 도윤 1 cm, 서준 3 cm, 예린 3 cm라서 도윤이 가장 가까워요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-12]"
   },
   {
     "difficulty": 2,
@@ -1991,8 +2057,9 @@
     ],
     "answer": 0,
     "explanation": "한끝을 다른 눈금에 맞추면 1 cm가 몇 번인지 세어서 길이를 알 수 있어요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -2006,8 +2073,9 @@
     ],
     "answer": 0,
     "explanation": "13 − 8 = 5이므로 5 cm 더 길어요.",
-    "semester": 1,
-    "unit": "길이 재기"
+    "semester": 2,
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 1,
@@ -2022,7 +2090,8 @@
     "answer": 3,
     "explanation": "주사위는 네모난 면으로 되어 있어서 둥글지 않아요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 1,
@@ -2037,7 +2106,8 @@
     "answer": 3,
     "explanation": "당근과 오이는 채소, 사과와 바나나는 과일이에요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 1,
@@ -2052,7 +2122,8 @@
     "answer": 1,
     "explanation": "5 − 2 = 3(벌)이에요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -2065,7 +2136,8 @@
     "answer": 0,
     "explanation": "색깔로 나눌 때와 모양으로 나눌 때 결과가 달라질 수 있어요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -2080,7 +2152,8 @@
     "answer": 2,
     "explanation": "빨간 세모 3개와 파란 세모 4개를 더하면 7개예요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -2095,7 +2168,8 @@
     "answer": 2,
     "explanation": "맑음을 세면 4번이에요. 흐림 2일, 비 3일, 눈 1일이에요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 1,
@@ -2110,7 +2184,8 @@
     "answer": 3,
     "explanation": "고등어와 오징어는 물에서, 토끼와 사자는 땅에서 살아요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 2,
@@ -2125,7 +2200,8 @@
     "answer": 2,
     "explanation": "쓰는 것은 연필 3자루와 색연필 4자루로 3 + 4 = 7(개)예요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 3,
@@ -2140,7 +2216,8 @@
     "answer": 2,
     "explanation": "빨간 색종이는 4 + 3 = 7(장), 빨간 색종이와 파란 색종이는 7 + 4 = 11(장)이므로 노란 색종이는 15 − 11 = 4(장)이에요.",
     "semester": 1,
-    "unit": "분류하기"
+    "unit": "분류하기",
+    "standard": "[2수04-01]"
   },
   {
     "difficulty": 1,
@@ -2155,7 +2232,8 @@
     "answer": 1,
     "explanation": "4씩 3묶음은 4의 3배이므로 4 × 3이에요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 1,
@@ -2170,7 +2248,8 @@
     "answer": 2,
     "explanation": "2씩 4묶음이 8이므로 8은 2의 4배예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -2185,7 +2264,8 @@
     "answer": 0,
     "explanation": "2씩 5번 뛰어 세어 10이 되었으므로 2의 5배예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 1,
@@ -2198,7 +2278,8 @@
     "answer": 1,
     "explanation": "3의 4배는 3 + 3 + 3 + 3 = 12이고, 3 + 4는 7이에요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 1,
@@ -2213,7 +2294,8 @@
     "answer": 1,
     "explanation": "6 × 3은 6을 3번 더한 것이에요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 1,
@@ -2228,7 +2310,8 @@
     "answer": 2,
     "explanation": "2씩 4묶음이므로 2 × 4 = 8(개)예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -2243,7 +2326,8 @@
     "answer": 0,
     "explanation": "3씩 6묶음이므로 3 + 3 + 3 + 3 + 3 + 3 = 18(개)예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 3,
@@ -2258,7 +2342,8 @@
     "answer": 0,
     "explanation": "형은 3 × 3 = 9(개)이므로 두 사람은 3 + 9 = 12(개)예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 2,
@@ -2273,7 +2358,8 @@
     "answer": 0,
     "explanation": "4의 4배는 16이고, 나머지는 모두 12예요.",
     "semester": 1,
-    "unit": "곱셈"
+    "unit": "곱셈",
+    "standard": "[2수01-10]"
   },
   {
     "difficulty": 1,
@@ -2288,7 +2374,8 @@
     "answer": 1,
     "explanation": "100이 10개이면 1000이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 1,
@@ -2303,7 +2390,8 @@
     "answer": 0,
     "explanation": "3000원과 400원을 합하면 3400원이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 2,
@@ -2318,7 +2406,8 @@
     "answer": 3,
     "explanation": "100씩 뛰어 센 것이므로 2550 다음은 2650이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -2333,7 +2422,8 @@
     "answer": 3,
     "explanation": "7208은 천의 자리 7, 백의 자리 2, 십의 자리 0, 일의 자리 8이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-02]"
   },
   {
     "difficulty": 1,
@@ -2346,7 +2436,8 @@
     "answer": 1,
     "explanation": "천, 백의 자리가 같고 십의 자리가 0과 5라서 4650이 더 커요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2361,7 +2452,8 @@
     "answer": 2,
     "explanation": "천의 자리가 6인 수 중 백의 자리가 1인 6190과 6109를 비교하면 십의 자리가 9인 6190이 가장 커요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -2376,7 +2468,8 @@
     "answer": 2,
     "explanation": "900보다 100 큰 수가 1000이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 3,
@@ -2391,7 +2484,8 @@
     "answer": 0,
     "explanation": "5730에서 1000씩 2번 거꾸로 세면 4730, 3730이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 2,
@@ -2406,7 +2500,8 @@
     "answer": 3,
     "explanation": "천의 자리에 5를 두고 남은 7, 3, 1을 큰 수부터 놓으면 5731이에요.",
     "semester": 2,
-    "unit": "네 자리 수"
+    "unit": "네 자리 수",
+    "standard": "[2수01-03]"
   },
   {
     "difficulty": 1,
@@ -2421,7 +2516,8 @@
     "answer": 1,
     "explanation": "6단에서 6 × 8 = 48이에요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 1,
@@ -2436,7 +2532,8 @@
     "answer": 2,
     "explanation": "6단에서 6 × 9 = 54예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 1,
@@ -2451,7 +2548,8 @@
     "answer": 2,
     "explanation": "1과 어떤 수의 곱은 항상 그 수예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 1,
@@ -2464,7 +2562,8 @@
     "answer": 1,
     "explanation": "9 × 5 = 45예요. 54는 9 × 6이에요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -2479,7 +2578,8 @@
     "answer": 1,
     "explanation": "5 × 7 = 35예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -2494,7 +2594,8 @@
     "answer": 1,
     "explanation": "8 × 3 = 24(개)예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -2509,7 +2610,8 @@
     "answer": 1,
     "explanation": "7단에서 7 × 6 = 42예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 2,
@@ -2524,7 +2626,8 @@
     "answer": 0,
     "explanation": "4단은 곱하는 수가 1 커질 때마다 곱이 4씩 커져요. 24 − 20 = 4예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 3,
@@ -2539,7 +2642,8 @@
     "answer": 3,
     "explanation": "9 × 3 = 27(개), 27 + 4 = 31(개)예요.",
     "semester": 2,
-    "unit": "곱셈구구"
+    "unit": "곱셈 구구",
+    "standard": "[2수01-11]"
   },
   {
     "difficulty": 1,
@@ -2554,7 +2658,8 @@
     "answer": 0,
     "explanation": "100 cm가 1 m이므로 500 cm는 5 m예요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-11]"
   },
   {
     "difficulty": 2,
@@ -2569,7 +2674,8 @@
     "answer": 3,
     "explanation": "6 m는 600 cm이므로 600 cm와 5 cm를 더해 605 cm예요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-11]"
   },
   {
     "difficulty": 1,
@@ -2582,7 +2688,8 @@
     "answer": 0,
     "explanation": "긴 길이는 m로 나타내면 수가 작아져 알기 쉬워요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-10]"
   },
   {
     "difficulty": 2,
@@ -2597,7 +2704,8 @@
     "answer": 3,
     "explanation": "m는 m끼리 2 + 3 = 5, cm는 cm끼리 45 + 38 = 83이므로 5 m 83 cm예요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-13]"
   },
   {
     "difficulty": 3,
@@ -2612,7 +2720,8 @@
     "answer": 0,
     "explanation": "1 m 40 cm + 1 m 40 cm = 2 m 80 cm이고, 2 m 80 cm는 280 cm예요.",
     "semester": 2,
-    "unit": "길이 재기"
+    "unit": "길이 재기",
+    "standard": "[2수03-13]"
   },
   {
     "difficulty": 1,
@@ -2627,7 +2736,8 @@
     "answer": 3,
     "explanation": "긴바늘이 숫자 1칸을 가면 5분이므로 3을 가리키면 15분이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2642,7 +2752,8 @@
     "answer": 2,
     "explanation": "8시가 되기 10분 전이므로 7시 50분이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-07]"
   },
   {
     "difficulty": 2,
@@ -2657,7 +2768,8 @@
     "answer": 3,
     "explanation": "60분이 1시간이므로 100분은 1시간 40분이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-08]"
   },
   {
     "difficulty": 2,
@@ -2670,7 +2782,8 @@
     "answer": 0,
     "explanation": "전날 밤 12시부터 낮 12시까지를 오전, 낮 12시부터 밤 12시까지를 오후라고 해요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 1,
@@ -2685,7 +2798,8 @@
     "answer": 1,
     "explanation": "1주일은 7일이므로 7 + 3 = 10(일)이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 1,
@@ -2700,7 +2814,8 @@
     "answer": 2,
     "explanation": "1년은 1월부터 12월까지 12개월이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 2,
@@ -2715,7 +2830,8 @@
     "answer": 3,
     "explanation": "같은 요일은 7일마다 돌아오므로 5 + 7 = 12, 11월 12일이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 2,
@@ -2730,7 +2846,8 @@
     "answer": 1,
     "explanation": "1년은 12개월이므로 12 + 3 = 15(개월)이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 2,
@@ -2745,7 +2862,8 @@
     "answer": 3,
     "explanation": "9시 40분에서 20분 뒤가 10시, 다시 20분 뒤가 10시 20분이에요.",
     "semester": 2,
-    "unit": "시각과 시간"
+    "unit": "시각과 시간",
+    "standard": "[2수03-08]"
   },
   {
     "difficulty": 1,
@@ -2760,7 +2878,8 @@
     "answer": 3,
     "explanation": "합계에는 각 항목의 수를 모두 더한 전체 수를 써요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 1,
@@ -2775,7 +2894,8 @@
     "answer": 2,
     "explanation": "7 − 3 = 4(명)이에요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 2,
@@ -2790,7 +2910,8 @@
     "answer": 3,
     "explanation": "4명보다 많은 계절은 봄(5명)과 여름(7명)으로 2가지예요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 2,
@@ -2803,7 +2924,8 @@
     "answer": 1,
     "explanation": "표에는 항목별 수만 나타나요. 누가 골랐는지는 조사한 자료를 봐야 알 수 있어요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 1,
@@ -2818,7 +2940,8 @@
     "answer": 0,
     "explanation": "조사는 실제 대답을 모아야 해요. 짐작해서 적으면 바른 자료가 아니에요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 1,
@@ -2833,7 +2956,8 @@
     "answer": 2,
     "explanation": "6 + 8 = 14(명)이에요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-03]"
   },
   {
     "difficulty": 2,
@@ -2848,7 +2972,8 @@
     "answer": 1,
     "explanation": "가장 많은 동화책 8권을 나타내려면 적어도 8칸이 있어야 해요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-03]"
   },
   {
     "difficulty": 2,
@@ -2863,7 +2988,8 @@
     "answer": 3,
     "explanation": "우유를 세면 4번이에요. 빵 2, 과자 2예요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-02]"
   },
   {
     "difficulty": 3,
@@ -2878,7 +3004,8 @@
     "answer": 3,
     "explanation": "그린 학생은 9 + 7 + 5 = 21(명)이므로 23 − 21 = 2(명)이 남았어요.",
     "semester": 2,
-    "unit": "표와 그래프"
+    "unit": "표와 그래프",
+    "standard": "[2수04-03]"
   },
   {
     "difficulty": 2,
@@ -2893,7 +3020,8 @@
     "answer": 3,
     "explanation": "3씩 커지는 규칙이므로 11 + 3 = 14예요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2906,7 +3034,8 @@
     "answer": 0,
     "explanation": "빨강, 노랑, 노랑, 빨강, 노랑, 노랑, 빨강이므로 일곱째는 빨강이에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -2921,7 +3050,8 @@
     "answer": 0,
     "explanation": "덧셈표에는 두 수의 합을 쓰므로 3 + 5 = 8이에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -2936,7 +3066,8 @@
     "answer": 1,
     "explanation": "4단의 곱은 4, 8, 12, 16, …으로 4씩 커져요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -2949,7 +3080,8 @@
     "answer": 0,
     "explanation": "2단의 곱 2, 4, 6, 8, …, 18은 모두 짝수예요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -2964,7 +3096,8 @@
     "answer": 0,
     "explanation": "일주일은 7일이므로 같은 요일의 날짜는 7씩 커져요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "시각과 시간",
+    "standard": "[2수03-09]"
   },
   {
     "difficulty": 3,
@@ -2979,7 +3112,8 @@
     "answer": 0,
     "explanation": "1층부터 4개, 3개, 2개, 1개이므로 4 + 3 + 2 + 1 = 10(개)예요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 1,
@@ -2994,7 +3128,8 @@
     "answer": 1,
     "explanation": "10씩 작아지는 규칙이므로 70 다음은 60이에요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   },
   {
     "difficulty": 2,
@@ -3009,6 +3144,7 @@
     "answer": 0,
     "explanation": "오른쪽으로 1, 아래로 1 커지므로 비스듬히 가면 2씩 커져요.",
     "semester": 2,
-    "unit": "규칙 찾기"
+    "unit": "규칙 찾기",
+    "standard": "[2수02-01]"
   }
 ]
