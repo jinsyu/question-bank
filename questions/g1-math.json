@@ -3122,5 +3122,1075 @@
     "semester": 2,
     "unit": "규칙 찾기",
     "standard": "[2수02-01]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "□ + □ = 10에서 두 □에 같은 수가 들어갈 때 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "5 + 5 = 10이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "10 − 3은 얼마일까요?",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "10에서 3을 빼면 7이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "2 + 3 + 4는 얼마일까요?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "2 + 3 = 5, 5 + 4 = 9예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "9 − 2 − 3은 얼마일까요?",
+    "choices": [
+      "5",
+      "6",
+      "14",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "9 − 2 = 7, 7 − 3 = 4예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "5 + 5 + 7은 얼마일까요?",
+    "choices": [
+      "17",
+      "12",
+      "16",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "5 + 5 = 10이고 10 + 7 = 17이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사탕이 8개 있어요. 2개를 더 받고, 또 5개를 더 받았어요. 사탕은 모두 몇 개일까요?",
+    "choices": [
+      "10",
+      "15",
+      "13",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "8 + 2 + 5 = 15예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "풍선 10개 중 6개가 터졌어요. 남은 풍선은 몇 개일까요?",
+    "choices": [
+      "3",
+      "6",
+      "4",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "10 − 6 = 4예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "□ + 8 = 10에서 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "1",
+      "3",
+      "18",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "8과 2를 더하면 10이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "15 − 5 − 3은 얼마일까요?",
+    "choices": [
+      "7",
+      "2",
+      "8",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "15 − 5 = 10, 10 − 3 = 7이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "7 + 8 + 3을 계산할 때 먼저 더하면 10이 되는 두 수는 무엇일까요?",
+    "choices": [
+      "7과 8",
+      "7과 3",
+      "8과 3",
+      "세 수 모두"
+    ],
+    "answer": 1,
+    "explanation": "7 + 3 = 10이므로 7과 3을 먼저 더해요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "4 + □ + 6 = 15에서 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "4 + 6 = 10이고, 10 + 5 = 15이므로 □는 5예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "쿠키가 10개 있었어요. 3개를 먹고 또 4개를 먹었어요. 남은 쿠키는 몇 개일까요?",
+    "choices": [
+      "4",
+      "6",
+      "7",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "10 − 3 − 4 = 3이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "어떤 수에 4를 더하고 다시 3을 더했더니 12가 되었어요. 어떤 수는 무엇일까요?",
+    "choices": [
+      "5",
+      "4",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "4 + 3 = 7이고 □ + 7 = 12이므로 □는 5예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "10칸짜리 상자에 구슬이 7개 들어 있어요. 구슬을 몇 개 더 넣으면 상자가 가득 찰까요?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "7 + 3 = 10이므로 3개를 더 넣어요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "세 수를 계산한 값이 가장 큰 것은 무엇일까요?",
+    "choices": [
+      "9 − 3 − 2",
+      "3 + 3 + 3",
+      "4 + 4 + 2",
+      "8 − 1 − 2"
+    ],
+    "answer": 2,
+    "explanation": "차례로 4, 9, 10, 5이므로 4 + 4 + 2가 가장 커요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "구슬이 5개 있었어요. 3개를 얻고 나서 2개를 잃어버렸어요. 지금 구슬은 몇 개일까요?",
+    "choices": [
+      "4",
+      "8",
+      "10",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "5 + 3 = 8, 8 − 2 = 6이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "10에서 4를 빼면 6이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "10 − 4 = 6이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "3 + 5 + 2는 9예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "3 + 5 + 2 = 10이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "6 + 4 = 10이므로 6 + 4 + 3은 13이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "10에 3을 더하면 13이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "더해서 10이 되는 짝이 아닌 것은 무엇일까요?",
+    "choices": [
+      "4 + 5",
+      "1 + 9",
+      "3 + 7",
+      "6 + 4"
+    ],
+    "answer": 0,
+    "explanation": "4 + 5는 9예요. 나머지는 모두 10이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "4 + 6 + 2는 얼마일까요?",
+    "choices": [
+      "10",
+      "12",
+      "11",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "4 + 6 = 10이고 10 + 2 = 12예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(1)",
+    "standard": "[2수01-08]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "31 + 4는 얼마일까요?",
+    "choices": [
+      "34",
+      "36",
+      "35",
+      "71"
+    ],
+    "answer": 2,
+    "explanation": "일의 자리끼리 더하면 1 + 4 = 5이므로 35예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "52 + 7은 얼마일까요?",
+    "choices": [
+      "49",
+      "57",
+      "60",
+      "59"
+    ],
+    "answer": 3,
+    "explanation": "2 + 7 = 9이므로 59예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "64 − 2는 얼마일까요?",
+    "choices": [
+      "62",
+      "60",
+      "66",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "일의 자리에서 4 − 2 = 2이므로 62예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "78 − 6은 얼마일까요?",
+    "choices": [
+      "71",
+      "72",
+      "84",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "8 − 6 = 2이므로 72예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "20 + 40은 얼마일까요?",
+    "choices": [
+      "50",
+      "24",
+      "60",
+      "80"
+    ],
+    "answer": 2,
+    "explanation": "2묶음과 4묶음을 더하면 6묶음, 즉 60이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "90 − 30은 얼마일까요?",
+    "choices": [
+      "50",
+      "70",
+      "120",
+      "60"
+    ],
+    "answer": 3,
+    "explanation": "9묶음에서 3묶음을 빼면 6묶음, 즉 60이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "45 + 12는 얼마일까요?",
+    "choices": [
+      "57",
+      "33",
+      "47",
+      "67"
+    ],
+    "answer": 0,
+    "explanation": "45 + 10 = 55, 55 + 2 = 57이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "56 − 23은 얼마일까요?",
+    "choices": [
+      "32",
+      "33",
+      "43",
+      "79"
+    ],
+    "answer": 1,
+    "explanation": "십의 자리 5 − 2 = 3, 일의 자리 6 − 3 = 3이므로 33이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "책을 어제 31쪽 읽고, 오늘 8쪽 더 읽었어요. 모두 몇 쪽을 읽었을까요?",
+    "choices": [
+      "23",
+      "38",
+      "39",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "31 + 8 = 39예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사과가 49개 있었어요. 그중 7개를 먹었어요. 남은 사과는 몇 개일까요?",
+    "choices": [
+      "41",
+      "56",
+      "52",
+      "42"
+    ],
+    "answer": 3,
+    "explanation": "49 − 7 = 42예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "24 + 35는 얼마일까요?",
+    "choices": [
+      "59",
+      "49",
+      "51",
+      "69"
+    ],
+    "answer": 0,
+    "explanation": "십의 자리 2 + 3 = 5, 일의 자리 4 + 5 = 9이므로 59예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "69 − 45는 얼마일까요?",
+    "choices": [
+      "14",
+      "24",
+      "34",
+      "114"
+    ],
+    "answer": 1,
+    "explanation": "십의 자리 6 − 4 = 2, 일의 자리 9 − 5 = 4이므로 24예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "27에서 2만큼 이어 세면 무엇일까요?",
+    "choices": [
+      "25",
+      "28",
+      "29",
+      "30"
+    ],
+    "answer": 2,
+    "explanation": "27 다음에 28, 29로 이어 세요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "48에서 3만큼 거꾸로 세면 무엇일까요?",
+    "choices": [
+      "44",
+      "46",
+      "51",
+      "45"
+    ],
+    "answer": 3,
+    "explanation": "48 다음에 47, 46, 45로 거꾸로 세요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "34 + 5를 계산하려고 34를 30과 4로 가르기했어요. 4와 5를 더한 수에 30을 더하면 얼마일까요?",
+    "choices": [
+      "39",
+      "29",
+      "35",
+      "93"
+    ],
+    "answer": 0,
+    "explanation": "4 + 5 = 9, 30 + 9 = 39예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "연필 25자루 중에서 3자루를 잃어버렸어요. 남은 연필 수를 구하는 식은 무엇일까요?",
+    "choices": [
+      "25 + 3",
+      "25 − 3",
+      "25 − 5",
+      "3 − 25"
+    ],
+    "answer": 1,
+    "explanation": "전체에서 잃어버린 수를 빼므로 25 − 3이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "구슬이 32개 있었어요. 14개를 더 받고 나서 3개를 잃어버렸어요. 지금 구슬은 몇 개일까요?",
+    "choices": [
+      "49",
+      "35",
+      "43",
+      "46"
+    ],
+    "answer": 2,
+    "explanation": "32 + 14 = 46, 46 − 3 = 43이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "□ + 12 = 37에서 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "24",
+      "35",
+      "49",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "37에서 12를 빼면 25예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "56보다 21 큰 수는 무엇일까요?",
+    "choices": [
+      "77",
+      "35",
+      "67",
+      "78"
+    ],
+    "answer": 0,
+    "explanation": "56 + 21 = 77이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "두 수를 계산한 값이 가장 큰 것은 무엇일까요?",
+    "choices": [
+      "40 + 30",
+      "99 − 20",
+      "85 − 10",
+      "62 + 6"
+    ],
+    "answer": 1,
+    "explanation": "차례로 70, 79, 75, 68이므로 99 − 20이 가장 커요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "42 + 3과 3 + 42의 계산 결과는 같아요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "더하는 순서를 바꿔도 합은 같아요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "58 − 6은 54예요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "8 − 6 = 2이므로 58 − 6 = 52예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "(몇십) + (몇십)의 계산 결과는 일의 자리 숫자가 항상 0이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "30 + 40 = 70처럼 일의 자리가 0이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(2)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "27 + 5는 얼마일까요?",
+    "choices": [
+      "22",
+      "31",
+      "32",
+      "35"
+    ],
+    "answer": 2,
+    "explanation": "7 + 5 = 12이므로 십의 자리로 1을 올려 32예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "18 + 6은 얼마일까요?",
+    "choices": [
+      "14",
+      "23",
+      "25",
+      "24"
+    ],
+    "answer": 3,
+    "explanation": "8 + 6 = 14이므로 십의 자리로 1을 올려 24예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "35 + 8은 얼마일까요?",
+    "choices": [
+      "43",
+      "33",
+      "42",
+      "313"
+    ],
+    "answer": 0,
+    "explanation": "5 + 8 = 13이므로 십의 자리로 1을 올려 43이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "32 − 5는 얼마일까요?",
+    "choices": [
+      "37",
+      "27",
+      "33",
+      "23"
+    ],
+    "answer": 1,
+    "explanation": "32를 20과 12로 가르기하면 12 − 5 = 7이고 20 + 7 = 27이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "41 − 6은 얼마일까요?",
+    "choices": [
+      "45",
+      "25",
+      "35",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "41에서 1을 빼 40으로 만들고 5를 더 빼면 35예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "23 − 7은 얼마일까요?",
+    "choices": [
+      "14",
+      "26",
+      "30",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "23을 10과 13으로 가르기하면 13 − 7 = 6이고 10 + 6 = 16이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "38 + 24는 얼마일까요?",
+    "choices": [
+      "62",
+      "52",
+      "54",
+      "512"
+    ],
+    "answer": 0,
+    "explanation": "8 + 4 = 12, 30 + 20 = 50이므로 50 + 12 = 62예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "46 + 27은 얼마일까요?",
+    "choices": [
+      "63",
+      "73",
+      "72",
+      "613"
+    ],
+    "answer": 1,
+    "explanation": "6 + 7 = 13이므로 십의 자리로 1을 올리면 73이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "55 + 36은 얼마일까요?",
+    "choices": [
+      "81",
+      "80",
+      "91",
+      "101"
+    ],
+    "answer": 2,
+    "explanation": "5 + 6 = 11이므로 십의 자리로 1을 올리면 91이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "52 − 18은 얼마일까요?",
+    "choices": [
+      "46",
+      "44",
+      "36",
+      "34"
+    ],
+    "answer": 3,
+    "explanation": "52에서 10을 빼면 42이고, 42에서 8을 빼면 34예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "71 − 29는 얼마일까요?",
+    "choices": [
+      "42",
+      "58",
+      "52",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "71에서 20을 빼면 51이고, 51에서 9를 빼면 42예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "83 − 45는 얼마일까요?",
+    "choices": [
+      "42",
+      "38",
+      "48",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "83에서 40을 빼면 43이고, 43에서 5를 빼면 38이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "사탕이 27개 있었어요. 친구가 15개를 더 주었어요. 사탕은 모두 몇 개일까요?",
+    "choices": [
+      "32",
+      "41",
+      "42",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "27 + 15 = 42예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "놀이터에 어린이 34명이 있었어요. 그중 18명이 집으로 돌아갔어요. 놀이터에 남은 어린이는 몇 명일까요?",
+    "choices": [
+      "26",
+      "52",
+      "24",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "34 − 18 = 16이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "도서관에 책이 48권 있었어요. 새 책 35권이 더 들어왔어요. 책은 모두 몇 권일까요?",
+    "choices": [
+      "83",
+      "73",
+      "13",
+      "82"
+    ],
+    "answer": 0,
+    "explanation": "48 + 35 = 83이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "56 + □ = 81에서 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "35",
+      "25",
+      "137",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": "81에서 56을 빼면 25예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "□ − 17 = 28에서 □에 알맞은 수는 무엇일까요?",
+    "choices": [
+      "11",
+      "35",
+      "45",
+      "55"
+    ],
+    "answer": 2,
+    "explanation": "28 + 17 = 45예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "딸기가 45개 있었어요. 18개를 먹고 20개를 더 샀어요. 딸기는 모두 몇 개일까요?",
+    "choices": [
+      "43",
+      "27",
+      "83",
+      "47"
+    ],
+    "answer": 3,
+    "explanation": "45 − 18 = 27, 27 + 20 = 47이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "민지는 도토리를 47개 주웠고, 서윤이는 29개 주웠어요. 민지는 서윤이보다 도토리를 몇 개 더 주웠을까요?",
+    "choices": [
+      "18",
+      "28",
+      "76",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "47 − 29 = 18이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "빨간 구슬이 36개, 파란 구슬이 27개 있어요. 구슬이 모두 몇 개인지 구하는 식은 무엇일까요?",
+    "choices": [
+      "36 − 27",
+      "36 + 27",
+      "36 + 36",
+      "27 − 36"
+    ],
+    "answer": 1,
+    "explanation": "두 수를 합치므로 36 + 27이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-05]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "계산 결과가 가장 작은 것은 무엇일까요?",
+    "choices": [
+      "50 − 13",
+      "24 + 15",
+      "61 − 28",
+      "18 + 19"
+    ],
+    "answer": 2,
+    "explanation": "차례로 37, 39, 33, 37이므로 61 − 28이 가장 작아요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "27 + 6은 33이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "7 + 6 = 13이므로 27 + 6 = 33이에요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "52 − 8은 46이에요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "52 − 8 = 44예요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "일의 자리끼리 더해서 10이 넘으면 십의 자리로 받아올림해요.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "10이 넘으면 십의 자리로 1을 올려요.",
+    "semester": 2,
+    "unit": "덧셈과 뺄셈(3)",
+    "standard": "[2수01-06]"
   }
 ]

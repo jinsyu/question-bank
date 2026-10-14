@@ -8736,5 +8736,1427 @@
     "semester": 2,
     "unit": "Why Are You So Happy?",
     "standard": "[6영01-01]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "What grade are you in?에 알맞은 대답은?",
+    "choices": [
+      "I'm twelve years old.",
+      "I'm fine, thank you.",
+      "I'm in the sixth grade.",
+      "It's on the second floor."
+    ],
+    "answer": 2,
+    "explanation": "학년을 묻는 말에는 'I'm in the ... grade.'로 답해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'What grade are you in?'의 뜻은?",
+    "choices": [
+      "너는 몇 학년이니?",
+      "너는 몇 살이니?",
+      "너는 어디에 있니?",
+      "너는 어느 반이니?"
+    ],
+    "answer": 0,
+    "explanation": "grade는 학년이라는 뜻이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'sixth'의 뜻은?",
+    "choices": [
+      "다섯째의",
+      "넷째의",
+      "셋째의",
+      "여섯째의"
+    ],
+    "answer": 3,
+    "explanation": "sixth는 여섯째, fifth는 다섯째예요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'second'가 순서를 나타낼 때의 뜻은?",
+    "choices": [
+      "첫째의",
+      "둘째의",
+      "셋째의",
+      "넷째의"
+    ],
+    "answer": 1,
+    "explanation": "first는 첫째, second는 둘째, third는 셋째예요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 '다섯째의'를 뜻하는 낱말은?",
+    "choices": [
+      "first",
+      "fifth",
+      "fourth",
+      "third"
+    ],
+    "answer": 1,
+    "explanation": "fifth가 다섯째예요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: Where is your classroom? B: It's on the third floor. B의 교실은 몇 층인가요?",
+    "choices": [
+      "1층",
+      "2층",
+      "4층",
+      "3층"
+    ],
+    "answer": 3,
+    "explanation": "third floor는 3층이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'Where is your classroom?'의 뜻은?",
+    "choices": [
+      "네 교실은 어디에 있니?",
+      "네 교실은 크니?",
+      "네 선생님은 누구시니?",
+      "네 가방은 어디에 있니?"
+    ],
+    "answer": 0,
+    "explanation": "Where is ...?는 장소를 묻는 말이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'I'm in the fourth grade.'는 '나는 4학년이야.'라는 뜻이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "fourth grade는 4학년이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'first floor'의 뜻은?",
+    "choices": [
+      "2층",
+      "3층",
+      "1층",
+      "6층"
+    ],
+    "answer": 2,
+    "explanation": "first는 첫째이므로 first floor는 1층이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: What grade are you in? B: ___ (6학년이라고 대답할 때)",
+    "choices": [
+      "I'm in the six grade.",
+      "I'm on the sixth grade.",
+      "I'm at the sixth grade.",
+      "I'm in the sixth grade."
+    ],
+    "answer": 3,
+    "explanation": "학년은 'I'm in the sixth grade.'처럼 말해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Where is your classroom? B: ___ (2층이라고 대답할 때)",
+    "choices": [
+      "It's on the second grade.",
+      "It's on the second floor.",
+      "It's in the second class.",
+      "It's the floor second."
+    ],
+    "answer": 1,
+    "explanation": "층수는 'It's on the second floor.'로 말해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "친구에게 자기 학년을 소개하는 이메일 문장으로 알맞은 것은?",
+    "choices": [
+      "Are you in the sixth grade?",
+      "What grade are you in?",
+      "I'm in the sixth grade.",
+      "Where is the sixth grade?"
+    ],
+    "answer": 2,
+    "explanation": "자기 학년을 소개할 때는 'I'm in the ... grade.'로 써요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-08]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "Mina는 4학년이다. Jun은 Mina보다 한 학년 위이다. Jun이 학년을 말한 문장은?",
+    "choices": [
+      "I'm in the fifth grade.",
+      "I'm in the third grade.",
+      "I'm in the sixth grade.",
+      "I'm in the fourth grade."
+    ],
+    "answer": 0,
+    "explanation": "4학년보다 한 학년 위는 5학년이므로 fifth를 써요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "Tom의 교실은 3층이다. Jane의 교실은 Tom의 교실보다 한 층 위이다. Jane의 교실은 몇 층인가요?",
+    "choices": [
+      "fourth floor",
+      "second floor",
+      "third floor",
+      "fifth floor"
+    ],
+    "answer": 0,
+    "explanation": "3층보다 한 층 위는 4층이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'우리 교실은 1층에 있어요.'를 영어로 바르게 쓴 것은?",
+    "choices": [
+      "It's on the one floor.",
+      "It's in the first grade.",
+      "It's on the first floor.",
+      "It's on first the floor."
+    ],
+    "answer": 2,
+    "explanation": "'1층에'는 on the first floor로 써요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'I'm in the ___ grade.'가 '나는 3학년이야.'가 되도록 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "three",
+      "third",
+      "thirds",
+      "the three"
+    ],
+    "answer": 1,
+    "explanation": "순서를 나타낼 때는 third를 써요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'Where is your classroom?'에 대한 대답으로 알맞지 않은 것은?",
+    "choices": [
+      "It's on the first floor.",
+      "It's on the third floor.",
+      "It's on the second floor.",
+      "I'm in the third grade."
+    ],
+    "answer": 3,
+    "explanation": "I'm in the third grade.는 학년을 말하는 대답이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'What grade are you in?'에는 'It's on the third floor.'라고 대답한다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "학년을 묻는 말에는 층수가 아니라 학년으로 답해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 순서를 나타내는 낱말이 아닌 것은?",
+    "choices": [
+      "fourth",
+      "second",
+      "seven",
+      "sixth"
+    ],
+    "answer": 2,
+    "explanation": "seven은 수를 나타내는 낱말이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "첫째, 둘째, 셋째를 순서대로 바르게 쓴 것은?",
+    "choices": [
+      "first, second, third",
+      "one, two, three",
+      "first, two, third",
+      "first, second, three"
+    ],
+    "answer": 0,
+    "explanation": "순서는 first, second, third로 말해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Hi, I'm Somi. I'm in the sixth grade. My classroom is on the second floor. 글의 내용으로 알맞은 것은?",
+    "choices": [
+      "소미는 5학년이다.",
+      "소미의 교실은 6층에 있다.",
+      "소미는 2학년이다.",
+      "소미의 교실은 2층에 있다."
+    ],
+    "answer": 3,
+    "explanation": "소미는 6학년이고 교실은 2층에 있어요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "Hi, I'm Jiho. I'm in the fifth grade. My sister is one grade higher. Her classroom is on the third floor. Jiho의 누나는?",
+    "choices": [
+      "5학년, 교실은 3층",
+      "6학년, 교실은 3층",
+      "6학년, 교실은 5층",
+      "4학년, 교실은 3층"
+    ],
+    "answer": 1,
+    "explanation": "5학년보다 한 학년 위는 6학년이고, 교실은 3층이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "소개하는 글을 완성하려고 한다. 'I'm in the fifth ___.'의 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "floor",
+      "room",
+      "door",
+      "grade"
+    ],
+    "answer": 3,
+    "explanation": "학년은 grade로 말해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'My classroom is ___ the second floor.'의 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "answer": 1,
+    "explanation": "층에 있다고 할 때는 on the second floor로 써요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'교실 사다리 타기 놀이'에서 규칙을 지키는 태도로 알맞은 것은?",
+    "choices": [
+      "순서를 지켜 대답한다",
+      "순서를 무시한다",
+      "대답 없이 웃기만 한다",
+      "친구 말을 끊는다"
+    ],
+    "answer": 0,
+    "explanation": "규칙을 지키려면 순서를 지키고 알맞게 대답해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-10]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "학년과 층수를 묻고 답하는 활동에서 자신감 있게 참여하는 모습은?",
+    "choices": [
+      "작은 소리로 얼버무린다",
+      "아무 말도 하지 않는다",
+      "또박또박 크게 말한다",
+      "못 들은 척한다"
+    ],
+    "answer": 2,
+    "explanation": "자신감 있게 참여하려면 또렷하게 말해요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-10]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Mina가 'Where is your classroom?'이라고 묻자 Jun이 'It's on the third floor.'라고 답했다. 이어서 Mina가 학년을 묻는 말은?",
+    "choices": [
+      "Where is your grade?",
+      "What grade are you in?",
+      "What floor are you in?",
+      "How old are you in?"
+    ],
+    "answer": 1,
+    "explanation": "학년은 'What grade are you in?'으로 물어요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'Where is your classroom?'은 학년을 묻는 말이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "Where ...?는 장소를 묻는 말이에요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'교실이 4층에 있어요.'라는 문장 'It's on the ___ floor.'의 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "four",
+      "fourteen",
+      "forty",
+      "fourth"
+    ],
+    "answer": 3,
+    "explanation": "층은 순서를 나타내는 fourth를 써요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: What grade are you in? B: I'm in the sixth. A: Where is your room? B: On the second floor. 알 수 없는 것은?",
+    "choices": [
+      "B의 학년",
+      "교실이 있는 층",
+      "B의 나이",
+      "교실이 2층인 것"
+    ],
+    "answer": 2,
+    "explanation": "나이는 대화에 나오지 않아요.",
+    "semester": 1,
+    "unit": "What Grade Are You In?",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'What does she look like?'의 뜻은?",
+    "choices": [
+      "그녀는 무엇을 좋아하니?",
+      "그녀는 어디에 사니?",
+      "그녀는 어떻게 생겼니?",
+      "그녀는 누구니?"
+    ],
+    "answer": 2,
+    "explanation": "look like는 생김새를 묻는 말이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'curly hair'의 뜻은?",
+    "choices": [
+      "곱슬머리",
+      "긴 머리",
+      "짧은 머리",
+      "빨간 머리"
+    ],
+    "answer": 0,
+    "explanation": "curly는 곱슬곱슬하다는 뜻이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'short hair'의 뜻은?",
+    "choices": [
+      "긴 머리",
+      "곱슬머리",
+      "갈색 머리",
+      "짧은 머리"
+    ],
+    "answer": 3,
+    "explanation": "short hair는 짧은 머리예요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'She is wearing a cap.'의 뜻은?",
+    "choices": [
+      "그녀는 모자를 사고 있어.",
+      "그녀는 모자를 쓰고 있어.",
+      "그녀는 모자를 벗고 있어.",
+      "그녀는 모자를 만들고 있어."
+    ],
+    "answer": 1,
+    "explanation": "wear는 입거나 쓰고 있다는 뜻이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'What is he wearing?'의 뜻은?",
+    "choices": [
+      "그는 무엇을 먹고 있니?",
+      "그는 무엇을 입고 있니?",
+      "그는 어디에 가고 있니?",
+      "그는 누구와 있니?"
+    ],
+    "answer": 1,
+    "explanation": "wearing은 입고 있는 것을 말해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'tall'의 뜻으로 알맞은 것은?",
+    "choices": [
+      "키가 작은",
+      "머리가 짧은",
+      "머리가 긴",
+      "키가 큰"
+    ],
+    "answer": 3,
+    "explanation": "tall은 키가 크다는 뜻이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'glasses'의 뜻은?",
+    "choices": [
+      "안경",
+      "장갑",
+      "모자",
+      "신발"
+    ],
+    "answer": 0,
+    "explanation": "glasses는 안경이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'She is wearing glasses.'는 '그녀는 안경을 쓰고 있어.'라는 뜻이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "wearing은 쓰고 있다는 뜻이고 glasses는 안경이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'What does she look like?'에는 'She is a teacher.'라고 대답한다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "생김새를 묻는 말에는 외모로 답해야 해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "ox",
+    "question": "'She has long straight hair.'는 '그녀는 짧은 곱슬머리예요.'라는 뜻이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "long straight hair는 긴 생머리예요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: What does he look like? B: ___ (키가 크고 머리가 짧다고 대답할 때)",
+    "choices": [
+      "He tall has short hair.",
+      "He is tall. He is short hair.",
+      "He is tall. He has short hair.",
+      "He has tall. He is short hair."
+    ],
+    "answer": 2,
+    "explanation": "모습은 'He is tall.', 'He has short hair.'로 말해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'She ___ short curly hair.'의 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "is",
+      "wearing",
+      "looks",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "머리 모양은 has로 말해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'He ___ wearing a blue jacket.'의 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "has",
+      "is",
+      "does",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "He 다음에 wearing이 오면 is를 써요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'긴 생머리'를 영어로 바르게 쓴 것은?",
+    "choices": [
+      "hair long straight",
+      "straight hair",
+      "long straight hair",
+      "long curly hair"
+    ],
+    "answer": 2,
+    "explanation": "'긴 생머리'는 long straight hair예요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "This is Mina. She has long straight hair. She is wearing a yellow cap and a blue jacket. Mina의 모습으로 알맞은 것은?",
+    "choices": [
+      "긴 생머리에 노란 모자",
+      "짧은 곱슬머리에 노란 모자",
+      "긴 생머리에 파란 모자",
+      "긴 곱슬머리에 노란 재킷"
+    ],
+    "answer": 0,
+    "explanation": "Mina는 긴 생머리이고 노란 모자를 썼어요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Jisu는 짧은 곱슬머리이고 안경을 쓴 아이이다. Jisu로 알맞은 사람은?",
+    "choices": [
+      "짧은 곱슬머리에 안경을 쓴 아이",
+      "짧은 곱슬머리에 안경이 없는 아이",
+      "긴 곱슬머리에 안경을 쓴 아이",
+      "짧은 생머리에 안경을 쓴 아이"
+    ],
+    "answer": 0,
+    "explanation": "두 가지 특징이 모두 맞는 아이를 찾아요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "Ann과 Ben은 머리가 길고 Cho는 짧다. Ben과 Cho는 키가 크고 Ann은 작다. 키가 크고 머리가 긴 아이는?",
+    "choices": [
+      "Ann",
+      "Cho",
+      "Ben",
+      "없다"
+    ],
+    "answer": 2,
+    "explanation": "키가 큰 Ben, Cho 중 머리가 긴 아이는 Ben이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 옷차림을 말하는 문장은?",
+    "choices": [
+      "She has short and curly hair.",
+      "She is wearing a red jacket.",
+      "She is very tall and strong.",
+      "He has very long curly hair."
+    ],
+    "answer": 1,
+    "explanation": "wearing은 옷차림을 말할 때 써요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 옷차림을 묻는 말은?",
+    "choices": [
+      "What does she look like?",
+      "Who is she?",
+      "Where is she?",
+      "What is she wearing?"
+    ],
+    "answer": 3,
+    "explanation": "What is she wearing?은 입고 있는 것을 물어요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'What does he look like?'에 대한 대답으로 알맞은 것은?",
+    "choices": [
+      "He is my teacher.",
+      "He is in the park.",
+      "He has short hair.",
+      "He is my uncle."
+    ],
+    "answer": 2,
+    "explanation": "look like는 외모를 묻는 말이므로 외모로 답해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'What is she wearing?'에 대한 대답으로 알맞은 것은?",
+    "choices": [
+      "She is wearing a red skirt.",
+      "She has long and curly hair.",
+      "She is very tall and strong.",
+      "She is Mina's best friend."
+    ],
+    "answer": 0,
+    "explanation": "옷차림을 묻는 말에는 입고 있는 것으로 답해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'He is wearing ___.' 빈칸에 '바지'라는 뜻이 되도록 알맞은 말은?",
+    "choices": [
+      "a pants",
+      "an pants",
+      "pant",
+      "pants"
+    ],
+    "answer": 3,
+    "explanation": "pants는 항상 복수형으로 써요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "다음 중 머리 모양과 길이를 나타내는 낱말만 짝지은 것은?",
+    "choices": [
+      "tall, cap",
+      "long, curly",
+      "jacket, short",
+      "pants, straight"
+    ],
+    "answer": 1,
+    "explanation": "long은 길이, curly는 모양을 나타내요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "캐릭터를 소개하는 글 'This is Robo. ___ is tall.'에서 Robo가 남자 로봇일 때 빈칸에 알맞은 낱말은?",
+    "choices": [
+      "She",
+      "They",
+      "We",
+      "He"
+    ],
+    "answer": 3,
+    "explanation": "남자 한 명은 He로 말해요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-08]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "캐릭터를 소개하는 글의 순서로 알맞은 것은? (가) This is Luna. (나) She has long curly hair. (다) I like her very much.",
+    "choices": [
+      "(나) - (가) - (다)",
+      "(가) - (나) - (다)",
+      "(다) - (가) - (나)",
+      "(가) - (다) - (나)"
+    ],
+    "answer": 1,
+    "explanation": "소개, 모습, 느낌 순서로 써요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-08]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'우리의 캐릭터를 맞혀 봐!' 활동에서 친구가 말할 때 바른 태도는?",
+    "choices": [
+      "끝까지 잘 듣는다",
+      "다른 일을 한다",
+      "큰 소리로 답을 외친다",
+      "친구를 놀린다"
+    ],
+    "answer": 0,
+    "explanation": "경청은 상대의 말을 끝까지 듣는 것이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-10]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "짝과 외모를 묻고 답하는 활동에서 경청하는 모습은?",
+    "choices": [
+      "딴청을 피운다",
+      "다른 친구와 이야기한다",
+      "눈을 맞추고 끄덕인다",
+      "자기 말만 계속한다"
+    ],
+    "answer": 2,
+    "explanation": "눈을 맞추고 반응하는 것이 경청이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영02-10]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: What does your brother look like? B: He is tall and has short straight hair. He is wearing a cap. 대화로 알 수 없는 것은?",
+    "choices": [
+      "키",
+      "나이",
+      "머리 모양",
+      "쓰고 있는 것"
+    ],
+    "answer": 1,
+    "explanation": "나이는 말하지 않았어요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "Mina가 'She has long curly hair. She is wearing glasses. She is not wearing a cap.'이라고 말했다. 설명하는 사람은?",
+    "choices": [
+      "Bo: 긴 곱슬머리, 안경, 모자",
+      "Sol: 긴 생머리, 안경, 모자 없음",
+      "Ray: 긴 곱슬머리, 안경 없음, 모자 없음",
+      "Jin: 긴 곱슬머리, 안경, 모자 없음"
+    ],
+    "answer": 3,
+    "explanation": "세 조건을 모두 만족하는 사람은 Jin이에요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "다음 중 옷을 나타내는 낱말이 아닌 것은?",
+    "choices": [
+      "pants",
+      "jacket",
+      "curly",
+      "skirt"
+    ],
+    "answer": 2,
+    "explanation": "curly는 머리 모양을 나타내요.",
+    "semester": 1,
+    "unit": "She Has Short Curly Hair",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'boring'의 뜻은?",
+    "choices": [
+      "지루한",
+      "재미있는",
+      "무서운",
+      "멋진"
+    ],
+    "answer": 0,
+    "explanation": "boring은 지루하다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'interesting'의 뜻은?",
+    "choices": [
+      "무거운",
+      "어려운",
+      "재미있는",
+      "지루한"
+    ],
+    "answer": 2,
+    "explanation": "interesting은 재미있다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'scary'의 뜻은?",
+    "choices": [
+      "웃기는",
+      "쉬운",
+      "가벼운",
+      "무서운"
+    ],
+    "answer": 3,
+    "explanation": "scary는 무섭다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'funny'의 뜻은?",
+    "choices": [
+      "슬픈",
+      "웃기는",
+      "조용한",
+      "느린"
+    ],
+    "answer": 1,
+    "explanation": "funny는 웃기다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'difficult'(어려운)의 반대말은?",
+    "choices": [
+      "easy",
+      "small",
+      "slow",
+      "short"
+    ],
+    "answer": 0,
+    "explanation": "difficult(어려운)의 반대말은 easy(쉬운)예요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'light'(가벼운)의 반대말은?",
+    "choices": [
+      "thin",
+      "heavy",
+      "short",
+      "small"
+    ],
+    "answer": 1,
+    "explanation": "light의 반대말은 heavy(무거운)예요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'old'(오래된)의 반대말은?",
+    "choices": [
+      "tall",
+      "long",
+      "new",
+      "fast"
+    ],
+    "answer": 2,
+    "explanation": "old의 반대말은 new(새로운)예요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: What do you think of this movie? B: ___",
+    "choices": [
+      "It's at the theater.",
+      "Yes, I saw it.",
+      "I saw it yesterday.",
+      "I think it's fun."
+    ],
+    "answer": 3,
+    "explanation": "What do you think of ~?는 의견을 묻는 말이라 I think로 답해요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'What do you think of this book?'의 뜻은?",
+    "choices": [
+      "이 책을 누가 썼는지 알고 있니?",
+      "이 책에 대해 어떻게 생각하니?",
+      "이 책이 어디에 있는지 아니?",
+      "이 책을 언제 읽었는지 말해 줄래?"
+    ],
+    "answer": 1,
+    "explanation": "What do you think of ~?는 ~에 대한 생각을 묻는 말이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'I think so, too.'의 뜻으로 알맞은 것은?",
+    "choices": [
+      "나도 그렇게 생각해.",
+      "나는 아무 생각이 없어.",
+      "나는 그렇게 생각하지 않아.",
+      "나는 그것을 몰랐어."
+    ],
+    "answer": 0,
+    "explanation": "I think so, too.는 상대의 생각에 동의하는 말이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'slow'의 반대말은?",
+    "choices": [
+      "short",
+      "small",
+      "fast",
+      "old"
+    ],
+    "answer": 2,
+    "explanation": "slow(느린)의 반대말은 fast(빠른)예요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: I think English is fun. B: ___",
+    "choices": [
+      "Nice to meet you.",
+      "I'm from Korea.",
+      "I think so, too.",
+      "See you tomorrow."
+    ],
+    "answer": 2,
+    "explanation": "의견에 동의할 때 I think so, too.라고 말해요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "A: I think this game is boring. B: I don't think so. B의 생각은?",
+    "choices": [
+      "게임이 지루하다고 생각한다.",
+      "게임을 해 본 적이 없다고 한다.",
+      "게임을 하러 가고 싶어 한다.",
+      "게임이 지루하지 않다고 본다."
+    ],
+    "answer": 3,
+    "explanation": "I don't think so.는 그렇게 생각하지 않는다는 말이라 지루하지 않다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'I don't agree with you.'의 뜻으로 알맞은 것은?",
+    "choices": [
+      "너의 말에 동의하지 않아.",
+      "너에게 질문하고 싶어.",
+      "네가 어디 있는지 몰라.",
+      "네 말이 잘 안 들려."
+    ],
+    "answer": 0,
+    "explanation": "don't agree는 동의하지 않는다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "'이 영화는 재미있다고 생각해.'를 영어로 바르게 나타낸 것은?",
+    "choices": [
+      "This movie I think is fun.",
+      "I think fun is this movie.",
+      "I think this movie is fun.",
+      "Is I think this movie fun."
+    ],
+    "answer": 2,
+    "explanation": "의견은 I think 뒤에 '주어 + 말'을 이어 써요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "'exciting'의 뜻은?",
+    "choices": [
+      "조용한",
+      "느린",
+      "무서운",
+      "신나는"
+    ],
+    "answer": 3,
+    "explanation": "exciting은 신난다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Tom says, \"I watched a movie. I think it's scary.\" Tom의 생각은?",
+    "choices": [
+      "슬프다",
+      "무섭다",
+      "지루하다",
+      "웃기다"
+    ],
+    "answer": 1,
+    "explanation": "scary는 무섭다는 뜻이라 Tom은 영화가 무섭다고 생각해요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Jiho says, \"The book is exciting. I want to read it again.\" 지호가 하고 싶은 일은?",
+    "choices": [
+      "영화를 보러 가기",
+      "책을 사러 가기",
+      "책을 친구에게 주기",
+      "책을 다시 읽기"
+    ],
+    "answer": 3,
+    "explanation": "I want to read it again.은 책을 다시 읽고 싶다는 말이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 3,
+    "type": "choice4",
+    "question": "Mina: \"This movie is boring.\" Jiho: \"I don't think so.\" Sora: \"I don't agree with Mina.\" 소라와 같은 의견인 사람은?",
+    "choices": [
+      "미나",
+      "미나와 지호 둘 다",
+      "지호",
+      "아무도 아니다"
+    ],
+    "answer": 2,
+    "explanation": "소라는 미나에게 동의하지 않으니 미나와 반대 의견인 지호와 같아요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "책이 지루하다는 의견을 쓰려고 해요. 빈칸에 알맞은 말은? I think the book is ___.",
+    "choices": [
+      "boring",
+      "exciting",
+      "funny",
+      "interesting"
+    ],
+    "answer": 0,
+    "explanation": "지루하다는 boring이에요. 나머지는 재미있다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구의 의견에 동의하지 않을 때 쓸 수 있는 말은?",
+    "choices": [
+      "I think so, too.",
+      "I agree with you.",
+      "I don't think so.",
+      "Me, too."
+    ],
+    "answer": 2,
+    "explanation": "I don't think so.는 그렇게 생각하지 않는다는 말이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "A: ___ do you think of the movie? B: I think it's great.",
+    "choices": [
+      "Where",
+      "What",
+      "Who",
+      "When"
+    ],
+    "answer": 1,
+    "explanation": "의견을 물을 때는 What do you think of ~?라고 해요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "A: Do you agree with me? B: Yes, ___.",
+    "choices": [
+      "I am",
+      "I can",
+      "I have",
+      "I do"
+    ],
+    "answer": 3,
+    "explanation": "Do you ~?로 물으면 Yes, I do.로 답해요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-07]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "The movie was so ___. I laughed a lot.",
+    "choices": [
+      "funny",
+      "scary",
+      "boring",
+      "sad"
+    ],
+    "answer": 0,
+    "explanation": "많이 웃었다고 했으니 funny가 알맞아요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "choice4",
+    "question": "친구들과 의견을 묻고 답하는 활동을 할 때 바른 태도는?",
+    "choices": [
+      "내 생각만 큰 소리로 말한다.",
+      "친구의 의견을 존중하며 듣는다.",
+      "친구가 말하는 동안 계속 끼어든다.",
+      "다른 의견이면 친구를 놀린다."
+    ],
+    "answer": 1,
+    "explanation": "상대방의 의견을 존중하며 듣는 것이 바른 태도예요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-10]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "이유를 덧붙인 문장이 되도록 빈칸에 알맞은 말은? I like the book ___ it is funny.",
+    "choices": [
+      "before",
+      "behind",
+      "between",
+      "because"
+    ],
+    "answer": 3,
+    "explanation": "because는 이유를 말할 때 쓰는 낱말이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영02-02]"
+  },
+  {
+    "difficulty": 2,
+    "type": "choice4",
+    "question": "Mina wrote, \"I think the movie is great. The music is good.\" 미나가 든 이유는?",
+    "choices": [
+      "배우가 키가 크다",
+      "이야기가 슬프다",
+      "음악이 좋다",
+      "표가 싸다"
+    ],
+    "answer": 2,
+    "explanation": "The music is good.이 영화가 훌륭하다고 생각한 이유예요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-04]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'scary'와 'funny'는 뜻이 같은 낱말이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "scary는 무섭다, funny는 웃기다는 뜻이라 서로 달라요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'I agree with you.'는 상대의 의견에 동의할 때 쓰는 말이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "explanation": "agree는 동의한다는 뜻이에요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
+  },
+  {
+    "difficulty": 1,
+    "type": "ox",
+    "question": "'I think it's great.'는 나쁘다는 의견을 말하는 표현이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "great는 훌륭하다는 뜻이라 좋은 의견을 말해요.",
+    "semester": 2,
+    "unit": "I Think It’s Fun",
+    "standard": "[6영01-03]"
   }
 ]
