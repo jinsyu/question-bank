@@ -12,7 +12,8 @@
     "answer": 0,
     "explanation": "오늘이 월요일이면 내일은 화요일(Tuesday)이고, B는 화요일마다 피아노 수업이 있어요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -27,7 +28,8 @@
     "answer": 2,
     "explanation": "on Wednesdays는 수요일마다라는 뜻이에요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -42,7 +44,8 @@
     "answer": 0,
     "explanation": "의사는 아픈(sick) 사람을 도와요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -56,8 +59,9 @@
     ],
     "answer": 3,
     "explanation": "get off는 차에서 내리다라는 뜻이에요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -71,8 +75,9 @@
     ],
     "answer": 0,
     "explanation": "'은행과 학교 사이에'라고 할 때는 between ~ and …를 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-05]"
   },
   {
     "difficulty": 1,
@@ -87,22 +92,8 @@
     "answer": 3,
     "explanation": "학교에서 가르치는 사람은 teacher예요.",
     "semester": 2,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"How long does it take by airplane?\"은 무엇을 묻는 말일까요?",
-    "choices": [
-      "비행기 값",
-      "걸리는 시간",
-      "비행기 크기",
-      "출발 장소"
-    ],
-    "answer": 1,
-    "explanation": "How long does it take?는 걸리는 시간을 물어요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -116,8 +107,9 @@
     ],
     "answer": 1,
     "explanation": "near는 '~ 가까이에'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-05]"
   },
   {
     "difficulty": 1,
@@ -132,7 +124,8 @@
     "answer": 1,
     "explanation": "police officer는 경찰관이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -146,8 +139,9 @@
     ],
     "answer": 3,
     "explanation": "this Saturday는 이번 토요일이에요.",
-    "semester": 1,
-    "unit": "요일"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -162,7 +156,8 @@
     "answer": 2,
     "explanation": "불을 끄는 사람은 firefighter예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -176,8 +171,9 @@
     ],
     "answer": 2,
     "explanation": "(가)에서 빵집(bakery)은 은행(bank) 옆에 있다고 했어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -190,7 +186,8 @@
     "answer": 0,
     "explanation": "weekend는 주말(토요일과 일요일), free는 '시간이 있는'이라는 뜻이에요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -202,8 +199,9 @@
     ],
     "answer": 1,
     "explanation": "get on은 '타다'라는 뜻이에요. '내리다'는 get off예요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -218,7 +216,8 @@
     "answer": 2,
     "explanation": "지난 일을 말할 때는 play 뒤에 ed를 붙여 'played'라고 해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -233,7 +232,8 @@
     "answer": 1,
     "explanation": "'go'는 지난 일을 말할 때 모양이 바뀌어 'went'가 돼요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -248,7 +248,8 @@
     "answer": 0,
     "explanation": "우리 반 모두의 것이니 '우리의 것'인 'ours'를 써요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -257,13 +258,14 @@
     "choices": [
       "behind",
       "in front of",
-      "under",
-      "on"
+      "next to",
+      "across from"
     ],
     "answer": 1,
     "explanation": "'~ 앞에'는 in front of를 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-05]"
   },
   {
     "difficulty": 1,
@@ -277,23 +279,9 @@
     ],
     "answer": 0,
     "explanation": "~ 위에는 on을 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"How do you go to school?\"에 알맞은 대답은?",
-    "choices": [
-      "I go at eight.",
-      "I like school.",
-      "It's big.",
-      "I go by bus."
-    ],
-    "answer": 3,
-    "explanation": "How do you go ~?는 교통수단을 묻는 말이에요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -308,7 +296,8 @@
     "answer": 1,
     "explanation": "되고 싶은 직업을 말해요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -323,7 +312,8 @@
     "answer": 1,
     "explanation": "Yesterday는 과거라서 played를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -338,7 +328,8 @@
     "answer": 0,
     "explanation": "'drink'는 지난 일을 말할 때 모양이 바뀌어 'drank'가 돼요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -352,8 +343,9 @@
     ],
     "answer": 2,
     "explanation": "~ 아래에는 under를 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -368,22 +360,8 @@
     "answer": 1,
     "explanation": "cook은 요리사예요.",
     "semester": 2,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "오늘이 몇 월 며칠인지 물을 때 하는 말은?",
-    "choices": [
-      "What day is it today?",
-      "What's the date today?",
-      "What time is it now?",
-      "How's the weather today?"
-    ],
-    "answer": 1,
-    "explanation": "What's the date today?는 날짜를, What day is it today?는 요일을 물어요.",
-    "semester": 1,
-    "unit": "요일"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -398,7 +376,8 @@
     "answer": 0,
     "explanation": "누구의 것인지 물을 때 Whose를 써요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -413,7 +392,8 @@
     "answer": 0,
     "explanation": "'see'는 지난 일을 말할 때 모양이 바뀌어 'saw'가 돼요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -426,20 +406,8 @@
     "answer": 0,
     "explanation": "'watch' 뒤에 ed를 붙여 'watched'라고 해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "\"I go to school on foot.\"은 버스를 타고 간다는 뜻이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "on foot은 걸어서라는 뜻이에요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -454,7 +422,8 @@
     "answer": 1,
     "explanation": "Wednesday 칸에 swimming이 있으니 수요일마다 수영을 해요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -469,7 +438,8 @@
     "answer": 3,
     "explanation": "yesterday는 지난 일이라 'visited'를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -483,8 +453,9 @@
     ],
     "answer": 2,
     "explanation": "~ 옆에는 next to를 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-05]"
   },
   {
     "difficulty": 2,
@@ -499,7 +470,8 @@
     "answer": 0,
     "explanation": "Last Sunday는 과거라서 went를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -514,7 +486,8 @@
     "answer": 3,
     "explanation": "'run'은 지난 일로 말할 때 'ran'이라고 해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -529,7 +502,8 @@
     "answer": 1,
     "explanation": "어제 한 일은 과거형으로 답해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -544,22 +518,8 @@
     "answer": 0,
     "explanation": "'Mine'은 B의 양말을 가리켜요. B의 양말은 파란색이고, 빨간 양말은 B의 것이 아니에요.",
     "semester": 1,
-    "unit": "물건 주인"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: Do you go to school by subway? B: No, ___ I go by bus.",
-    "choices": [
-      "I don't.",
-      "I am not.",
-      "I can't.",
-      "it isn't."
-    ],
-    "answer": 0,
-    "explanation": "Do you ~?에는 No, I don't.로 답해요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -574,7 +534,8 @@
     "answer": 2,
     "explanation": "dentist는 치과 의사예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -588,8 +549,9 @@
     ],
     "answer": 0,
     "explanation": "위치 말 under 뒤에 장소가 와요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -604,7 +566,8 @@
     "answer": 2,
     "explanation": "있던 장소를 답했으니 Where로 물어요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -619,7 +582,8 @@
     "answer": 0,
     "explanation": "이름 뒤 's는 ~의 것이라는 뜻이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -634,7 +598,8 @@
     "answer": 2,
     "explanation": "We가 지난 일을 말할 때는 'were'를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -649,7 +614,8 @@
     "answer": 1,
     "explanation": "vet은 동물을 돌보는 수의사예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -662,7 +628,8 @@
     "answer": 1,
     "explanation": "'sing'은 지난 일로 말할 때 'sang'이라고 해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -674,8 +641,9 @@
     ],
     "answer": 1,
     "explanation": "far from은 '~에서 멀리'라는 뜻이라 도서관이 우리 집에서 멀다는 말이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -690,7 +658,8 @@
     "answer": 2,
     "explanation": "Go straight는 곧장 가라는 뜻이고, Don't turn은 돌지 말라는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -705,7 +674,8 @@
     "answer": 1,
     "explanation": "turn left는 왼쪽으로 돌라는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -720,22 +690,24 @@
     "answer": 1,
     "explanation": "across from은 '~ 건너편에'라는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "빈칸에 알맞은 말은? A: ___ B: It's between the bank and the bakery.",
     "choices": [
-      "What time is it?",
-      "How much is it?",
-      "What's your name?",
-      "Where is the post office?"
+      "What time is it now?",
+      "How much is this cap?",
+      "What's your name, please?",
+      "Where's the post office?"
     ],
     "answer": 3,
     "explanation": "장소의 위치를 답했으니 Where로 물어요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -750,7 +722,8 @@
     "answer": 0,
     "explanation": "across from은 ~ 건너편에라는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -765,7 +738,8 @@
     "answer": 0,
     "explanation": "학교가 왼쪽 끝이고 은행이 학교와 가게 사이에 있으니 학교-은행-가게예요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -780,7 +754,8 @@
     "answer": 2,
     "explanation": "두 블록 곧장 간 뒤 오른쪽으로 돌아요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -793,7 +768,8 @@
     "answer": 1,
     "explanation": "'It's on your right.'는 찾는 곳이 오른쪽에 있다는 위치를 알려 주는 말이고, 'Turn right.'는 오른쪽으로 돌라는 말이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -808,7 +784,8 @@
     "answer": 1,
     "explanation": "turn on the light는 '불을 켜다'예요. May I ~?는 '~해도 될까요?'라고 허락을 구하는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -823,7 +800,8 @@
     "answer": 2,
     "explanation": "지금 미술 시간에 가위가 필요하다고 했으니 빌려줄 수 없어요. 그래서 거절하는 'Sorry, you can't.'가 알맞아요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -838,7 +816,8 @@
     "answer": 1,
     "explanation": "May I ~?로 허락을 구해요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -853,7 +832,8 @@
     "answer": 2,
     "explanation": "뒤에 찍을 수 없다고 했으니 거절해요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -868,7 +848,8 @@
     "answer": 3,
     "explanation": "허락할 때는 'Yes, you can.'처럼 상대(you)를 주어로 답해요. 'Yes, I can sit.'은 알맞지 않아요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -881,80 +862,8 @@
     "answer": 0,
     "explanation": "borrow는 빌리다라는 뜻이라 맞아요.",
     "semester": 1,
-    "unit": "허락 구하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I can swim.\"의 뜻은?",
-    "choices": [
-      "나는 수영할 수 있어요.",
-      "나는 수영을 좋아해요.",
-      "나는 수영하고 있어요.",
-      "나는 수영했어요."
-    ],
-    "answer": 0,
-    "explanation": "can은 ~할 수 있다라는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can you play the piano? B: No, ___",
-    "choices": [
-      "I don't.",
-      "I can't.",
-      "I'm not.",
-      "you can't."
-    ],
-    "answer": 1,
-    "explanation": "Can you ~?에는 I can't로 답해요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? She can ___ very fast.",
-    "choices": [
-      "runs",
-      "ran",
-      "run",
-      "running"
-    ],
-    "answer": 2,
-    "explanation": "can 뒤에는 동사원형이 와요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Mina can ski, but she can't skate.\" 미나가 할 수 있는 것은?",
-    "choices": [
-      "스케이트 타기",
-      "스키와 스케이트 모두",
-      "둘 다 못해요",
-      "스키 타기"
-    ],
-    "answer": 3,
-    "explanation": "can ski, can't skate라서 스키만 탈 수 있어요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "\"He can't ride a bike.\"는 그가 자전거를 탈 수 있다는 뜻이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "can't는 할 수 없다는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -969,7 +878,8 @@
     "answer": 0,
     "explanation": "Let's ~는 ~하자라는 제안이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -984,7 +894,8 @@
     "answer": 1,
     "explanation": "뒤에 Let's go!가 있으니 찬성해요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -999,7 +910,8 @@
     "answer": 1,
     "explanation": "Sorry, I can't. 뒤에는 거절하는 까닭이 이어지니 엄마를 도와야 한다는 말이 알맞아요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1014,7 +926,8 @@
     "answer": 3,
     "explanation": "I went ~는 지난 일을 말하는 문장이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -1029,22 +942,8 @@
     "answer": 0,
     "explanation": "무엇을 원하는지 묻는 말이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "A: How much is this cap? B: ___",
-    "choices": [
-      "It's blue.",
-      "It's 10 dollars.",
-      "It's my cap.",
-      "It's on the desk."
-    ],
-    "answer": 1,
-    "explanation": "How much는 가격을 묻는 말이에요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1059,35 +958,8 @@
     "answer": 2,
     "explanation": "먹고 싶은 음식을 I'd like로 말해요.",
     "semester": 1,
-    "unit": "음식 주문하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"The T-shirt is 15 dollars and the cap is 8 dollars.\" 모두 얼마일까요?",
-    "choices": [
-      "15 dollars",
-      "7 dollars",
-      "8 dollars",
-      "23 dollars"
-    ],
-    "answer": 3,
-    "explanation": "15와 8을 더하면 23달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "'fourteen dollars'는 'forty dollars'보다 값이 싸요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "fourteen은 14, forty는 40이라 14달러가 40달러보다 싸요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1102,7 +974,8 @@
     "answer": 1,
     "explanation": "That's all.은 '그게 다예요.'라는 뜻이라 더 필요 없다는 No, thanks.가 알맞아요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -1117,7 +990,8 @@
     "answer": 1,
     "explanation": "어느 나라에서 왔는지 묻는 말이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -1132,7 +1006,8 @@
     "answer": 2,
     "explanation": "I'm from 뒤에 나라 이름을 말해요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1147,7 +1022,8 @@
     "answer": 3,
     "explanation": "나이는 말하지 않았어요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -1162,7 +1038,8 @@
     "answer": 0,
     "explanation": "get up은 일어나다라는 뜻이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -1177,7 +1054,8 @@
     "answer": 1,
     "explanation": "What time에는 시각으로 답해요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1192,7 +1070,8 @@
     "answer": 2,
     "explanation": "7시에서 30분 뒤라서 7시 30분이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1205,7 +1084,8 @@
     "answer": 0,
     "explanation": "after school은 방과 후라는 뜻이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1220,7 +1100,8 @@
     "answer": 3,
     "explanation": "누구의 것은 이름 뒤에 's를 붙여요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1235,7 +1116,8 @@
     "answer": 0,
     "explanation": "나의 것은 mine이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -1250,7 +1132,8 @@
     "answer": 1,
     "explanation": "도움을 받았으니 고맙다는 말 Thank you.로 마무리해요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -1265,7 +1148,8 @@
     "answer": 1,
     "explanation": "second floor는 '2층'이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1280,65 +1164,8 @@
     "answer": 3,
     "explanation": "역을 찾으니 위치를 알려 줘요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "친구가 복도에서 뛰고 있어요. 할 말로 알맞은 것은?",
-    "choices": [
-      "Please walk in the hallway.",
-      "Please run in the hallway.",
-      "You can jump in the hallway.",
-      "Let's shout in the hallway."
-    ],
-    "answer": 0,
-    "explanation": "복도에서는 걸어야 하니 'Please walk in the hallway.'라고 말해요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "도서관 규칙으로 알맞지 않은 것은?",
-    "choices": [
-      "Be quiet.",
-      "Talk loudly.",
-      "Don't eat food.",
-      "Return the books."
-    ],
-    "answer": 1,
-    "explanation": "도서관에서는 크게 떠들면 안 돼요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "\"You must not swim here.\"는 여기서 수영해도 된다는 뜻이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "must not은 ~하면 안 된다는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"What's wrong?\"은 무엇을 묻는 말일까요?",
-    "choices": [
-      "몇 시인지",
-      "어디 사는지",
-      "무슨 일이 있는지",
-      "무엇을 원하는지"
-    ],
-    "answer": 2,
-    "explanation": "어디가 안 좋은지 묻는 말이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1353,7 +1180,8 @@
     "answer": 1,
     "explanation": "two days ago는 '이틀 전'이라는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1368,7 +1196,8 @@
     "answer": 0,
     "explanation": "last night은 과거라서 watched를 써요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1383,7 +1212,8 @@
     "answer": 1,
     "explanation": "캠프가 재미있었다고 했으니 캠프에서 한 일인 '밖에서 저녁을 요리했다'가 이어져요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1398,7 +1228,8 @@
     "answer": 2,
     "explanation": "지난 일을 말할 때 sing은 sang으로 써요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1413,7 +1244,8 @@
     "answer": 3,
     "explanation": "swam at the beach는 바다에서 수영했다는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1426,7 +1258,8 @@
     "answer": 0,
     "explanation": "지난 일을 말할 때 write는 wrote로 써요. (I wrote a letter.)",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1441,7 +1274,8 @@
     "answer": 1,
     "explanation": "every Sunday는 일요일마다 하는 일이고, Last Sunday 뒤에 지난 일요일에 한 일(할아버지 댁 방문)이 나와요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1456,7 +1290,8 @@
     "answer": 1,
     "explanation": "How was ~?에는 It was로 답해요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1471,7 +1306,8 @@
     "answer": 2,
     "explanation": "did로 물었으니 과거형 went로 답해요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1484,7 +1320,8 @@
     "answer": 1,
     "explanation": "didn't go는 가지 않았다는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -1498,8 +1335,9 @@
     ],
     "answer": 1,
     "explanation": "be going to는 앞으로 할 일을 말해요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1513,8 +1351,9 @@
     ],
     "answer": 2,
     "explanation": "계획을 물으면 be going to로 답해요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1528,8 +1367,9 @@
     ],
     "answer": 3,
     "explanation": "will 뒤에는 clean처럼 모양을 바꾸지 않은 낱말을 써요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1543,8 +1383,9 @@
     ],
     "answer": 0,
     "explanation": "Tomorrow는 미래라서 will을 써요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -1558,8 +1399,9 @@
     ],
     "answer": 1,
     "explanation": "learn taekwondo는 태권도를 배운다는 뜻이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -1571,8 +1413,9 @@
     ],
     "answer": 1,
     "explanation": "will과 tomorrow는 앞으로 할 일이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1586,171 +1429,9 @@
     ],
     "answer": 2,
     "explanation": "played yesterday는 지난 일이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"You should drink water.\"에서 should의 뜻은?",
-    "choices": [
-      "~할 수 없다",
-      "~했다",
-      "~하고 있다",
-      "~하는 게 좋겠다"
-    ],
-    "answer": 3,
-    "explanation": "should는 조언할 때 써요.",
     "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I have a cold. B: ___",
-    "choices": [
-      "You should get some rest.",
-      "You should go swimming.",
-      "That's great!",
-      "Let's play outside."
-    ],
-    "answer": 0,
-    "explanation": "감기에 걸리면 쉬라고 조언해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I always forget my homework. B: ___",
-    "choices": [
-      "You should play more games.",
-      "You should write a note.",
-      "You should go to bed late.",
-      "You should watch more TV."
-    ],
-    "answer": 1,
-    "explanation": "숙제를 자꾸 잊으면 메모를 써 두는 게 좋아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"You shouldn't eat too much ice cream.\"의 뜻은?",
-    "choices": [
-      "아이스크림을 많이 먹어도 돼.",
-      "아이스크림을 조금 먹어 봐.",
-      "아이스크림을 너무 많이 먹지 마.",
-      "아이스크림을 사 줄게."
-    ],
-    "answer": 2,
-    "explanation": "shouldn't는 ~하지 않는 게 좋다는 뜻이에요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "\"You should wear a helmet.\"은 헬멧을 쓰지 말라는 조언이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "헬멧을 쓰는 게 좋다는 조언이에요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "A: What's wrong? B: ___",
-    "choices": [
-      "I'm eleven.",
-      "It's sunny.",
-      "I'm from Korea.",
-      "I have a headache."
-    ],
-    "answer": 3,
-    "explanation": "아픈 곳을 I have a ~로 말해요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'stomachache'의 뜻은?",
-    "choices": [
-      "배가 아픔",
-      "머리가 아픔",
-      "이가 아픔",
-      "목이 아픔"
-    ],
-    "answer": 0,
-    "explanation": "stomach는 배, ache는 아픔이라 stomachache는 '배가 아픔(복통)'이에요. 머리가 아픔은 headache, 이가 아픔은 toothache예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I have a toothache.\"라고 말한 친구에게 알맞은 조언은?",
-    "choices": [
-      "You should eat more candy.",
-      "You should see a dentist.",
-      "You should go to the vet.",
-      "You should take a bus."
-    ],
-    "answer": 1,
-    "explanation": "이가 아프면 치과에 가야 해요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"It's rainy today.\"일 때 필요한 것은?",
-    "choices": [
-      "sunglasses",
-      "fan",
-      "umbrella",
-      "swimsuit"
-    ],
-    "answer": 2,
-    "explanation": "비가 오면 우산이 필요해요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "A: How's the weather? B: ___",
-    "choices": [
-      "It's Friday.",
-      "It's my coat.",
-      "It's 3 o'clock.",
-      "It's cold and windy."
-    ],
-    "answer": 3,
-    "explanation": "How's the weather?는 날씨를 물어요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It will snow tomorrow.\"의 뜻은?",
-    "choices": [
-      "내일 눈이 올 거예요.",
-      "어제 눈이 왔어요.",
-      "오늘 눈이 와요.",
-      "내일 비가 올 거예요."
-    ],
-    "answer": 0,
-    "explanation": "will snow는 눈이 올 거라는 뜻이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1765,7 +1446,8 @@
     "answer": 1,
     "explanation": "수의사는 동물을 돌보는 사람이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -1780,7 +1462,8 @@
     "answer": 2,
     "explanation": "요리와 식당이 좋으니 요리사예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -1793,67 +1476,8 @@
     "answer": 0,
     "explanation": "pilot은 조종사가 맞아요.",
     "semester": 2,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you help me carry this box?\"는 무엇을 하는 말일까요?",
-    "choices": [
-      "허락 받기",
-      "사과하기",
-      "칭찬하기",
-      "도움 요청하기"
-    ],
-    "answer": 3,
-    "explanation": "Can you help me ~?로 도움을 부탁해요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "A: Could you close the door, please? B: ___",
-    "choices": [
-      "Sure, no problem.",
-      "Yes, I did.",
-      "No, it isn't.",
-      "It's a door."
-    ],
-    "answer": 0,
-    "explanation": "부탁을 들어줄 때 Sure라고 해요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: You look worried. What's wrong? B: I can't find my homework. B가 걱정하는 까닭은?",
-    "choices": [
-      "숙제를 찾을 수 없어서",
-      "숙제를 다 끝내서",
-      "숙제가 너무 쉬워서",
-      "오늘 숙제가 없어서"
-    ],
-    "answer": 0,
-    "explanation": "'I can't find my homework.'는 숙제를 찾을 수 없다는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: I'm worried about my sick grandma. B: ___",
-    "choices": [
-      "I hope you have fun there.",
-      "I hope she gets well soon.",
-      "I'm glad she won the game.",
-      "Thank you for the present."
-    ],
-    "answer": 1,
-    "explanation": "할머니가 아파 걱정하는 친구에게는 빨리 나으시길 바란다고 말해요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1868,7 +1492,8 @@
     "answer": 1,
     "explanation": "재미있었다고 했으니 그날 한 즐거운 일인 '동물원에 갔다'가 이어져요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -1881,7 +1506,8 @@
     "answer": 0,
     "explanation": "restroom은 화장실이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -1896,7 +1522,8 @@
     "answer": 3,
     "explanation": "8시 20분에 25분을 더하면 8시 45분이에요.",
     "semester": 1,
-    "unit": "교통수단"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -1910,8 +1537,9 @@
     ],
     "answer": 0,
     "explanation": "빵집은 은행과 공원 사이에 있고 은행이 왼쪽에 있으니, 공원은 빵집의 오른쪽에 있어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -1926,7 +1554,8 @@
     "answer": 0,
     "explanation": "축구는 월·수·금 3번, 피아노는 화·목 2번이라 3 - 2 = 1번 더 해요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1941,37 +1570,8 @@
     "answer": 1,
     "explanation": "펜은 지금 쓰고 있어서 안 되지만, 'you can use my pencil'이라고 했으니 연필을 빌릴 수 있어요.",
     "semester": 1,
-    "unit": "허락 구하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "\"A pencil is 2 dollars.\" 연필 3자루를 사고 10달러를 내면 거스름돈은?",
-    "choices": [
-      "6 dollars",
-      "8 dollars",
-      "2 dollars",
-      "4 dollars"
-    ],
-    "answer": 3,
-    "explanation": "2×3=6달러이고 10-6=4달러를 돌려받아요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "햄버거 1개는 3,000원, 주스 1잔은 1,000원이에요. 손님: \"I'd like two hamburgers and one juice.\" 모두 얼마일까요?",
-    "choices": [
-      "4,000원",
-      "6,000원",
-      "7,000원",
-      "9,000원"
-    ],
-    "answer": 2,
-    "explanation": "햄버거 2개는 6,000원이고 주스 1잔 1,000원을 더하면 7,000원이에요.",
-    "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -1986,22 +1586,8 @@
     "answer": 2,
     "explanation": "어제 일이고 아파서 가지 않았으니 'didn't go'를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I have a toothache. B: ___",
-    "choices": [
-      "You should see a dentist.",
-      "You should wear a coat.",
-      "You should drink cold water.",
-      "You should go shopping."
-    ],
-    "answer": 0,
-    "explanation": "이가 아프면 치과(dentist)에 가라고 조언해요.",
-    "semester": 2,
-    "unit": "조언하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 3,
@@ -2015,21 +1601,9 @@
     ],
     "answer": 1,
     "explanation": "내일이 금요일이면 오늘은 목요일이라 토요일은 2일 후예요.",
-    "semester": 1,
-    "unit": "계획 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "\"You shouldn't swim alone in the river.\"는 강에서 혼자 수영해도 된다는 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "'shouldn't'는 '~하면 안 된다'는 뜻이에요. 강에서 혼자 수영하면 안 된다는 말이에요.",
     "semester": 2,
-    "unit": "규칙 말하기"
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -2044,7 +1618,8 @@
     "answer": 0,
     "explanation": "China는 '중국'이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2059,7 +1634,8 @@
     "answer": 1,
     "explanation": "Emma는 한 사람(she)이라서 is를 써요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 3,
@@ -2074,7 +1650,8 @@
     "answer": 2,
     "explanation": "Hana는 여자(she)이고 일본 출신이 아니니 No, she isn't.가 알맞아요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2087,7 +1664,8 @@
     "answer": 1,
     "explanation": "from은 '~ 출신'이라서 '나는 한국에서 왔어요.'라는 뜻이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2102,155 +1680,8 @@
     "answer": 3,
     "explanation": "We're from ~.은 '우리는 ~에서 왔어요.'라서 Where are you from?에 대한 대답이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Can you pass me the salt?\"는 무엇을 부탁하는 말일까요?",
-    "choices": [
-      "소금을 건네 달라",
-      "소금을 사 오라",
-      "소금을 넣지 말라",
-      "소금을 치워 달라"
-    ],
-    "answer": 0,
-    "explanation": "pass me ~는 '~을 나에게 건네주다'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can you open the window? B: ___ It's too cold.",
-    "choices": [
-      "Sure, no problem.",
-      "Sorry, I can't.",
-      "Here you are.",
-      "Yes, please."
-    ],
-    "answer": 1,
-    "explanation": "뒤에 '너무 추워'라고 했으니 부탁을 거절하는 말이 알맞아요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "상대에게 무언가를 해 달라고 부탁하는 말은?",
-    "choices": [
-      "Can I turn off the light?",
-      "May I sit here?",
-      "Can you turn off the light?",
-      "Can I use your phone?"
-    ],
-    "answer": 2,
-    "explanation": "Can you ~?는 상대에게 해 달라는 부탁, Can I ~?는 허락을 구하는 말이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Can you help me?\"에 알맞은 대답은?",
-    "choices": [
-      "I'm eleven.",
-      "It's Monday.",
-      "No, it isn't.",
-      "Sure. What is it?"
-    ],
-    "answer": 3,
-    "explanation": "도와 달라는 부탁에 '그래. 뭔데?'라고 답하는 것이 자연스러워요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I can't hear you. Could you ___ louder, please? B: Sure.",
-    "choices": [
-      "give",
-      "speak",
-      "close",
-      "sit"
-    ],
-    "answer": 1,
-    "explanation": "잘 들리지 않으니 더 크게 말해 달라고 부탁해요. speak louder는 '더 크게 말하다'예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Yuna: I'm happy. My aunt will visit us tomorrow. 유나가 기쁜 까닭은?",
-    "choices": [
-      "이모가 내일 오셔서",
-      "이모가 어제 오셔서",
-      "생일 선물을 받아서",
-      "시험을 잘 봐서"
-    ],
-    "answer": 0,
-    "explanation": "'will visit us tomorrow'는 내일 우리 집에 오신다는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I lost my dog. B: ___",
-    "choices": [
-      "That's great!",
-      "Congratulations!",
-      "Oh, that's too bad.",
-      "You're welcome."
-    ],
-    "answer": 2,
-    "explanation": "안 좋은 일을 들었을 때는 That's too bad.로 위로해요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I won first prize! B: ___",
-    "choices": [
-      "I'm sorry to hear that.",
-      "No, thanks.",
-      "Excuse me.",
-      "Congratulations!"
-    ],
-    "answer": 3,
-    "explanation": "1등을 한 친구에게는 축하하는 말 Congratulations!가 알맞아요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Jiho is tired. He played soccer for three hours.\" 지호의 기분과 까닭은?",
-    "choices": [
-      "피곤함 - 축구를 오래 해서",
-      "기쁨 - 축구에서 이겨서",
-      "피곤함 - 잠을 못 자서",
-      "화남 - 축구를 못 해서"
-    ],
-    "answer": 0,
-    "explanation": "tired는 '피곤한'이고, 세 시간 동안 축구를 했기 때문이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "\"I'm worried about the test.\"는 시험이 걱정된다는 뜻이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "worried는 '걱정하는'이라는 뜻이라 시험이 걱정된다는 말이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2265,7 +1696,8 @@
     "answer": 0,
     "explanation": "Why don't we ~?와 How about ~?는 둘 다 함께 하자고 제안하는 말이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2280,7 +1712,8 @@
     "answer": 2,
     "explanation": "이모 댁에 가야 한다는 까닭이 이어지니 거절하는 말이 알맞아요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2295,7 +1728,8 @@
     "answer": 3,
     "explanation": "Great!로 기쁘게 받아들였으니 함께 야구를 보자는 제안이 알맞아요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -2310,7 +1744,8 @@
     "answer": 0,
     "explanation": "Let's ~.로 제안하면 Good idea!로 찬성할 수 있어요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2325,7 +1760,8 @@
     "answer": 1,
     "explanation": "How about 뒤에는 -ing 형태를 써서 flying이 알맞아요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -2340,7 +1776,8 @@
     "answer": 2,
     "explanation": "milk는 '우유'예요. a glass of는 '한 잔'이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -2355,7 +1792,8 @@
     "answer": 3,
     "explanation": "May I take your order?는 '주문하시겠어요?'라는 점원의 말이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2370,7 +1808,8 @@
     "answer": 0,
     "explanation": "한 조각 더 먹고 싶다고 했으니 더 달라는 Yes, please.가 알맞아요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2385,7 +1824,8 @@
     "answer": 1,
     "explanation": "주문을 묻고(나), 주문하고(가), 음식을 건네는(다) 순서예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2398,80 +1838,8 @@
     "answer": 1,
     "explanation": "I'd like ~.는 '~을 주세요(원해요)'라는 주문하는 말이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"It's twenty dollars.\"는 얼마일까요?",
-    "choices": [
-      "12달러",
-      "2달러",
-      "20달러",
-      "200달러"
-    ],
-    "answer": 2,
-    "explanation": "twenty는 20이라서 20달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: ___ are these socks? B: They're 4 dollars.",
-    "choices": [
-      "How many",
-      "What color",
-      "Whose",
-      "How much"
-    ],
-    "answer": 3,
-    "explanation": "가격을 물을 때는 How much를 써요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "\"Pizza is 5 dollars. Juice is 2 dollars.\" 피자 2판과 주스 1병은 모두 얼마?",
-    "choices": [
-      "12 dollars",
-      "7 dollars",
-      "10 dollars",
-      "9 dollars"
-    ],
-    "answer": 0,
-    "explanation": "피자 5×2=10달러, 주스 2달러를 더하면 12달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'fifty'가 나타내는 수는?",
-    "choices": [
-      "15",
-      "50",
-      "5",
-      "500"
-    ],
-    "answer": 1,
-    "explanation": "fifty는 50이고, 15는 fifteen이에요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "\"They're thirty dollars.\"라고 답하면 가격은 13달러다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "thirty는 30이라서 30달러예요. 13은 thirteen이에요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -2486,7 +1854,8 @@
     "answer": 2,
     "explanation": "12:30은 12시 30분이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -2501,7 +1870,8 @@
     "answer": 3,
     "explanation": "do you 뒤에는 동사원형 go를 써요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2516,7 +1886,8 @@
     "answer": 0,
     "explanation": "숙제를 5시에 하므로 가장 늦게 하는 일이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -2531,7 +1902,8 @@
     "answer": 1,
     "explanation": "9시 30분보다 한 시간 뒤라서 10시 30분이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -2546,82 +1918,8 @@
     "answer": 1,
     "explanation": "학교까지 10분이 걸리고 학교는 8시 40분에 시작하니, 8시 30분에는 집에서 나가야 해요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Can you dance?\"의 뜻은?",
-    "choices": [
-      "너는 춤추고 있니?",
-      "너는 춤췄니?",
-      "너는 춤을 좋아하니?",
-      "너는 춤출 수 있니?"
-    ],
-    "answer": 3,
-    "explanation": "Can you ~?는 '~할 수 있니?'라고 묻는 말이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can your brother cook? B: Yes, ___.",
-    "choices": [
-      "he can",
-      "he can't",
-      "he does",
-      "I can"
-    ],
-    "answer": 0,
-    "explanation": "brother는 he로 받고, Can 질문에는 Yes, he can.으로 답해요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "어순과 형태가 바른 문장은?",
-    "choices": [
-      "She can jumps rope.",
-      "Can she jump rope?",
-      "Can she jumps rope?",
-      "She cans jump rope."
-    ],
-    "answer": 1,
-    "explanation": "can 뒤에는 동사원형을 쓰고, 물을 때는 Can을 앞에 써요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"He can speak English.\"의 뜻은?",
-    "choices": [
-      "그는 영어를 배우고 있어요.",
-      "그는 영어를 좋아해요.",
-      "그는 영어를 말할 수 있어요.",
-      "그는 영어를 못 해요."
-    ],
-    "answer": 2,
-    "explanation": "can speak는 '말할 수 있다'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A: Can you swim? B: No, I can't. But I ___ ride a horse.",
-    "choices": [
-      "can't",
-      "am",
-      "do",
-      "can"
-    ],
-    "answer": 3,
-    "explanation": "But(하지만)으로 앞과 반대 내용이 오니 '할 수 있다'는 can이 알맞아요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -2636,7 +1934,8 @@
     "answer": 0,
     "explanation": "mine은 '나의 것'이라는 뜻이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2651,7 +1950,8 @@
     "answer": 1,
     "explanation": "내 우산이 맞다고 했으니 '내 것'인 mine을 써요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 3,
@@ -2666,7 +1966,8 @@
     "answer": 2,
     "explanation": "민호 것이 아니고 his father's(그의 아버지 것)라고 했어요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -2679,7 +1980,8 @@
     "answer": 0,
     "explanation": "yours는 '너의 것'이고 These are는 '이것들은 ~이다'예요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2694,7 +1996,8 @@
     "answer": 3,
     "explanation": "'너를 위한 거야'라고 했으니 허락하는 Of course.가 알맞아요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -2709,7 +2012,8 @@
     "answer": 0,
     "explanation": "May I ~?는 '~해도 될까요?'라고 허락을 구하는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2722,52 +2026,8 @@
     "answer": 1,
     "explanation": "May I ~?는 내가 ~해도 되는지 허락을 구하는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I go to the park by bike.\" 무엇을 타고 가나요?",
-    "choices": [
-      "버스",
-      "자전거",
-      "지하철",
-      "택시"
-    ],
-    "answer": 1,
-    "explanation": "bike는 '자전거'예요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Jiwoo takes the subway. Then she takes a bus.\" 지우가 처음 타는 것은?",
-    "choices": [
-      "버스",
-      "택시",
-      "지하철",
-      "자전거"
-    ],
-    "answer": 2,
-    "explanation": "Then은 '그다음에'라서 지하철을 먼저 타요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Yuna: I go to school by bus. Tom: I don't take the bus. I ride my bike. 톰이 학교에 가는 방법은?",
-    "choices": [
-      "버스로",
-      "자전거로",
-      "걸어서",
-      "지하철로"
-    ],
-    "answer": 1,
-    "explanation": "톰은 버스를 타지 않고 자전거(bike)를 탄다고 했어요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 3,
@@ -2782,7 +2042,8 @@
     "answer": 0,
     "explanation": "turn left는 왼쪽으로 돌기, on your right는 오른쪽에 있다는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -2797,7 +2058,8 @@
     "answer": 1,
     "explanation": "corner는 길의 '모퉁이'예요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -2811,8 +2073,9 @@
     ],
     "answer": 2,
     "explanation": "in front of는 '~ 앞에'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2824,8 +2087,9 @@
     ],
     "answer": 0,
     "explanation": "on the wall은 벽면에 붙어 있을 때 쓰는 말이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -2840,7 +2104,8 @@
     "answer": 2,
     "explanation": "목요일에는 농구를 하니, 농구를 안 하는 오늘은 목요일이 될 수 없어요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -2855,346 +2120,8 @@
     "answer": 0,
     "explanation": "월, 수, 금요일마다 배우니 일주일에 3번이에요.",
     "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"It was sunny yesterday.\"의 뜻은?",
-    "choices": [
-      "어제는 맑았어요.",
-      "내일은 맑을 거예요.",
-      "오늘은 맑아요.",
-      "어제는 비가 왔어요."
-    ],
-    "answer": 0,
-    "explanation": "'was'와 'yesterday'가 있으니 어제 날씨가 맑았다는 뜻이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's snowy and cold.\" 이런 날씨에 알맞은 옷차림은?",
-    "choices": [
-      "a T-shirt and shorts",
-      "a swimsuit",
-      "a coat and gloves",
-      "sunglasses and a cap"
-    ],
-    "answer": 2,
-    "explanation": "눈이 오고 추우면 외투와 장갑이 필요해요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How was the weather yesterday? B: ___",
-    "choices": [
-      "It is cloudy.",
-      "It will be cloudy.",
-      "It's cloudy today.",
-      "It was cloudy."
-    ],
-    "answer": 3,
-    "explanation": "어제 날씨를 물었으니 과거형 was를 써서 답해요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'How was the weather?'는 내일 날씨를 묻는 말이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "'was'를 썼으니 지나간 날씨를 묻는 말이에요. 내일 날씨는 'What will the weather be like tomorrow?'로 물어요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's rainy now, but it will be sunny this afternoon.\" 오늘 오후 날씨는?",
-    "choices": [
-      "맑아요",
-      "비가 와요",
-      "눈이 와요",
-      "바람이 불어요"
-    ],
-    "answer": 0,
-    "explanation": "지금은 비가 오지만 오후에는 맑을(sunny) 거라고 했어요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can we see the stars tonight? B: No, we can't. It's cloudy. 별을 볼 수 없는 까닭은?",
-    "choices": [
-      "날씨가 더워서",
-      "바람이 불어서",
-      "하늘이 흐려서",
-      "눈이 와서"
-    ],
-    "answer": 2,
-    "explanation": "'cloudy'는 '흐린'이라는 뜻이라 구름 때문에 별이 보이지 않아요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Wash your hands.\"의 뜻은?",
-    "choices": [
-      "손을 드세요.",
-      "손을 흔드세요.",
-      "손을 씻으세요.",
-      "손을 잡으세요."
-    ],
-    "answer": 2,
-    "explanation": "wash는 '씻다'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "수영장 규칙으로 알맞은 것은?",
-    "choices": [
-      "Run near the pool.",
-      "Jump in without looking.",
-      "Eat in the water.",
-      "Wear a swimming cap."
-    ],
-    "answer": 3,
-    "explanation": "수영장에서는 수영 모자를 써야 해요. 나머지는 위험하거나 하면 안 되는 행동이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"You must wear a seat belt in the car.\"의 뜻은?",
-    "choices": [
-      "차에서 안전띠를 꼭 매야 해요.",
-      "차에서 안전띠를 안 매도 돼요.",
-      "차에서 안전띠를 풀어야 해요.",
-      "차에서 안전띠를 사야 해요."
-    ],
-    "answer": 0,
-    "explanation": "must는 '꼭 ~해야 한다'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "영화관에서 지켜야 할 규칙으로 알맞지 않은 것은?",
-    "choices": [
-      "Be quiet.",
-      "Talk on the phone.",
-      "Turn off your phone.",
-      "Don't kick the seats."
-    ],
-    "answer": 1,
-    "explanation": "영화관에서 전화 통화를 하면 다른 사람에게 방해가 돼요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "\"You must not eat in the library.\"는 도서관에서 음식을 먹으면 안 된다는 뜻이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "must not은 '~하면 안 된다'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? You must ___ your shoes here.",
-    "choices": [
-      "took off",
-      "taking off",
-      "take off",
-      "takes off"
-    ],
-    "answer": 2,
-    "explanation": "must 뒤에는 take처럼 모양을 바꾸지 않은 말을 써서 'take off'가 알맞아요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: What's wrong? B: I have a sore throat and a fever. B의 증상은?",
-    "choices": [
-      "목이 아프고 콧물이 난다",
-      "머리가 아프고 열이 난다",
-      "목이 아프고 열이 난다",
-      "배가 아프고 열이 난다"
-    ],
-    "answer": 2,
-    "explanation": "sore throat는 목이 아픈 것, fever는 열이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: What's wrong? B: I have a sore throat. 아픈 곳은?",
-    "choices": [
-      "목",
-      "머리",
-      "배",
-      "이"
-    ],
-    "answer": 0,
-    "explanation": "throat는 '목(목구멍)'이고 sore는 '아픈'이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I ate too much pizza. Now I ___.",
-    "choices": [
-      "have a toothache",
-      "have a stomachache",
-      "have a runny nose",
-      "have a sore throat"
-    ],
-    "answer": 1,
-    "explanation": "음식을 너무 많이 먹으면 배가 아파요(stomachache).",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I have a cold.\"의 뜻은?",
-    "choices": [
-      "날씨가 추워요.",
-      "차가운 물이 있어요.",
-      "감기에 걸렸어요.",
-      "열이 나요."
-    ],
-    "answer": 2,
-    "explanation": "have a cold는 '감기에 걸리다'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: You look sick. What's wrong? B: I have a cough. A: ___",
-    "choices": [
-      "Great! Let's play soccer.",
-      "Me too. Let's eat ice cream.",
-      "Sure. Here you are, Mina.",
-      "That's too bad. Get some rest."
-    ],
-    "answer": 3,
-    "explanation": "기침이 난다는 친구에게는 걱정하며 쉬라고 말해요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"My leg hurts.\"의 뜻은?",
-    "choices": [
-      "다리가 아파요.",
-      "팔이 아파요.",
-      "발이 차가워요.",
-      "다리가 길어요."
-    ],
-    "answer": 0,
-    "explanation": "leg는 '다리', hurt는 '아프다'예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "A: I'm hungry. B: ___",
-    "choices": [
-      "You should go to bed.",
-      "You should eat something.",
-      "You should see a dentist.",
-      "You should wear a coat."
-    ],
-    "answer": 1,
-    "explanation": "배가 고픈 친구에게는 무언가 먹으라고 조언해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I can't find my bag. B: You should ___.",
-    "choices": [
-      "eat lunch",
-      "go swimming",
-      "look for it in your classroom",
-      "buy a cap"
-    ],
-    "answer": 2,
-    "explanation": "가방을 못 찾으면 교실에서 찾아보라는 조언이 알맞아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I'm very cold.\"라는 친구에게 알맞지 않은 조언은?",
-    "choices": [
-      "You should wear a jacket.",
-      "You should drink hot tea.",
-      "You should close the window.",
-      "You should open the window."
-    ],
-    "answer": 3,
-    "explanation": "추운 친구가 창문을 열면 더 추워지니 알맞지 않아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? You should ___ your teeth after meals.",
-    "choices": [
-      "brush",
-      "brushes",
-      "brushed",
-      "brushing"
-    ],
-    "answer": 0,
-    "explanation": "should 뒤에는 동사원형을 써요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "\"You shouldn't stay up late.\"는 밤늦게까지 깨어 있지 않는 게 좋겠다는 조언이다.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "shouldn't는 '~하지 않는 게 좋겠다', stay up late는 '늦게까지 안 자다'예요.",
-    "semester": 2,
-    "unit": "조언하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -3208,8 +2135,9 @@
     ],
     "answer": 1,
     "explanation": "tomorrow는 '내일'이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -3223,8 +2151,9 @@
     ],
     "answer": 2,
     "explanation": "going to 뒤에는 visit처럼 모양을 바꾸지 않은 낱말을 써요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -3238,8 +2167,9 @@
     ],
     "answer": 3,
     "explanation": "앞으로의 계획을 물었으니 I'll(I will)로 답해요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -3251,8 +2181,9 @@
     ],
     "answer": 1,
     "explanation": "won't는 will not이라서 TV를 보지 않을 거라는 뜻이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -3267,7 +2198,8 @@
     "answer": 1,
     "explanation": "No, I didn't.로 박물관에 가지 않았다고 했고, 이어서 도서관(library)에 갔다고 했어요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -3282,7 +2214,8 @@
     "answer": 0,
     "explanation": "지난 일을 말할 때 catch는 caught로 써요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3297,7 +2230,8 @@
     "answer": 1,
     "explanation": "last night은 '어젯밤'이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3312,7 +2246,8 @@
     "answer": 2,
     "explanation": "'have'는 지난 일을 말할 때 'had'가 돼요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-01]"
   },
   {
     "difficulty": 2,
@@ -3327,7 +2262,8 @@
     "answer": 3,
     "explanation": "yesterday가 있으니 'meet'를 'met'으로 써야 해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-03]"
   },
   {
     "difficulty": 2,
@@ -3340,7 +2276,8 @@
     "answer": 1,
     "explanation": "'read'는 지난 일로 말할 때도 모양이 같은 'read'예요. 소리만 [레드]로 달라져요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3355,7 +2292,8 @@
     "answer": 0,
     "explanation": "scientist는 '과학자'예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -3370,22 +2308,24 @@
     "answer": 1,
     "explanation": "그림 그리기를 좋아하니 화가(artist)가 알맞아요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "A: Why do you want to be a writer? B: ___",
     "choices": [
-      "I like math.",
-      "I want to fly.",
+      "I like solving math.",
+      "I want to fly a plane.",
       "I like writing stories.",
-      "I like cooking."
+      "I like cooking dinner."
     ],
     "answer": 2,
     "explanation": "작가(writer)는 글을 쓰는 사람이라 이야기 쓰기를 좋아한다는 까닭이 알맞아요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -3400,50 +2340,8 @@
     "answer": 3,
     "explanation": "actor는 모음 소리로 시작해서 an을 써요.",
     "semester": 2,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "철자가 바른 것은?",
-    "choices": [
-      "Satarday",
-      "Saturday",
-      "Saturdy",
-      "Satuday"
-    ],
-    "answer": 1,
-    "explanation": "토요일은 S-a-t-u-r-d-a-y, Saturday로 써요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I go to school from Monday to Friday.\" 일주일에 학교에 가는 날은 며칠일까요?",
-    "choices": [
-      "4일",
-      "5일",
-      "6일",
-      "2일"
-    ],
-    "answer": 1,
-    "explanation": "월, 화, 수, 목, 금요일이라 5일이에요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'Today is Sunday.'와 'It's Sunday today.'는 뜻이 같아요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "두 문장 모두 '오늘은 일요일이에요.'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "요일"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-03]"
   },
   {
     "difficulty": 1,
@@ -3458,7 +2356,8 @@
     "answer": 1,
     "explanation": "next Monday는 다음 주 월요일이에요.",
     "semester": 1,
-    "unit": "요일"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3473,82 +2372,8 @@
     "answer": 1,
     "explanation": "busy는 '바쁜', Thursday는 목요일이에요.",
     "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I go to the library every Wednesday. Today is Wednesday.\" 이 사람이 오늘 갈 곳은?",
-    "choices": [
-      "수영장",
-      "공원",
-      "도서관",
-      "병원"
-    ],
-    "answer": 2,
-    "explanation": "수요일마다 도서관에 가는데 오늘이 수요일이라 도서관에 가요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Do you have swimming lessons on Mondays? B: No. I have them on Wednesdays. B가 수영을 배우는 요일은?",
-    "choices": [
-      "월요일",
-      "화요일",
-      "수요일",
-      "금요일"
-    ],
-    "answer": 2,
-    "explanation": "B는 월요일이 아니라 수요일(Wednesdays)에 수영을 배운다고 했어요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I go swimming ___ Saturdays.",
-    "choices": [
-      "in",
-      "at",
-      "on",
-      "to"
-    ],
-    "answer": 2,
-    "explanation": "요일 앞에는 on을 써요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"주말\"을 뜻하는 낱말은?",
-    "choices": [
-      "weekday",
-      "weekend",
-      "week",
-      "today"
-    ],
-    "answer": 1,
-    "explanation": "weekend는 주말이에요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I went to the zoo on Tuesday. The day before, I visited my uncle.\" 삼촌 댁에 간 요일은?",
-    "choices": [
-      "Monday",
-      "Wednesday",
-      "Tuesday",
-      "Sunday"
-    ],
-    "answer": 0,
-    "explanation": "the day before는 그 전날이에요. 화요일의 전날은 월요일(Monday)이에요.",
-    "semester": 1,
-    "unit": "요일"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -3563,22 +2388,8 @@
     "answer": 1,
     "explanation": "B가 토요일은 안 된다며 일요일을 말했고, A가 OK라고 했어요.",
     "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"What day is it?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "It's Friday.",
-      "Sunday.",
-      "It's rainy.",
-      "It's Tuesday today."
-    ],
-    "answer": 2,
-    "explanation": "요일을 물었는데 날씨로 답하면 안 어울려요.",
-    "semester": 1,
-    "unit": "요일"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 3,
@@ -3593,37 +2404,8 @@
     "answer": 2,
     "explanation": "진은 월·목, 소라는 화·목에 바빠요. 둘 다 바쁘지 않은 날은 수요일(Wednesday)이에요.",
     "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Today is Saturday. 사흘 전은 무슨 요일이었을까요?",
-    "choices": [
-      "Wednesday",
-      "Thursday",
-      "Tuesday",
-      "Friday"
-    ],
-    "answer": 0,
-    "explanation": "토요일에서 사흘 전은 수요일이에요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"We don't go to school on Sundays.\"의 뜻은?",
-    "choices": [
-      "일요일마다 학교에 가요.",
-      "토요일에는 학교에 안 가요.",
-      "일요일에 학교에 늦었어요.",
-      "일요일에는 학교에 가지 않아요."
-    ],
-    "answer": 3,
-    "explanation": "don't go는 가지 않는다는 뜻이에요.",
-    "semester": 1,
-    "unit": "요일"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3638,7 +2420,8 @@
     "answer": 3,
     "explanation": "농부는 farmer예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3653,7 +2436,8 @@
     "answer": 1,
     "explanation": "무엇이 되고 싶은지 묻는 말이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3668,7 +2452,8 @@
     "answer": 1,
     "explanation": "nurse는 '간호사'예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3683,7 +2468,8 @@
     "answer": 3,
     "explanation": "노래하는 사람은 singer예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -3698,22 +2484,24 @@
     "answer": 2,
     "explanation": "want to be는 되고 싶다는 뜻이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I want to be a ___. I want to put out fires and save people.",
+    "question": "빈칸에 알맞은 말은? I want to be a ___. I want to help sick animals.",
     "choices": [
       "singer",
       "dentist",
-      "firefighter",
+      "vet",
       "pilot"
     ],
     "answer": 2,
-    "explanation": "불을 끄고 사람들을 구하는 사람은 firefighter(소방관)예요.",
+    "explanation": "아픈 동물을 돕는 사람은 vet(수의사)이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -3728,7 +2516,8 @@
     "answer": 1,
     "explanation": "아픈 사람을 치료하는 사람은 doctor(의사)예요. vet은 동물을 치료하는 수의사예요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -3743,7 +2532,8 @@
     "answer": 2,
     "explanation": "노래 부르기를 좋아하면 singer(가수)가 어울려요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -3758,7 +2548,8 @@
     "answer": 2,
     "explanation": "축구 선수는 운동(sports)을 잘해야 해요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -3773,7 +2564,8 @@
     "answer": 1,
     "explanation": "우주 비행사는 astronaut이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -3788,7 +2580,8 @@
     "answer": 3,
     "explanation": "과학을 좋아하고 로봇을 만들고 싶으니 scientist(과학자)가 어울려요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -3803,7 +2596,8 @@
     "answer": 2,
     "explanation": "요리를 좋아하니 요리사(cook)가 되고 싶어요. 'She is a cook.'은 지금 요리사라는 말이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -3818,7 +2612,8 @@
     "answer": 2,
     "explanation": "Why는 까닭을 묻는 말이에요. 소방관은 사람들을 돕는 일을 하니 'I want to help people.'이 알맞아요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -3833,7 +2628,8 @@
     "answer": 1,
     "explanation": "빵 굽는 것을 좋아하면 baker(제빵사)가 어울려요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -3848,232 +2644,8 @@
     "answer": 0,
     "explanation": "He는 그, dentist는 치과 의사예요.",
     "semester": 2,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'버스'를 영어로 바르게 쓴 것은?",
-    "choices": [
-      "bike",
-      "boat",
-      "train",
-      "bus"
-    ],
-    "answer": 3,
-    "explanation": "버스는 bus예요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'train'의 뜻은?",
-    "choices": [
-      "택시",
-      "배",
-      "기차",
-      "비행기"
-    ],
-    "answer": 2,
-    "explanation": "train은 기차예요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'택시'를 뜻하는 낱말은?",
-    "choices": [
-      "truck",
-      "taxi",
-      "ship",
-      "train"
-    ],
-    "answer": 1,
-    "explanation": "택시는 taxi예요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"How do you go to school?\"은 무엇을 묻는 말일까요?",
-    "choices": [
-      "학교에 가는 방법",
-      "학교에 가는 시간",
-      "학교 이름",
-      "학교 위치"
-    ],
-    "answer": 0,
-    "explanation": "How는 어떻게, 가는 방법을 물어요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'subway'의 뜻은?",
-    "choices": [
-      "버스",
-      "트럭",
-      "택시",
-      "지하철"
-    ],
-    "answer": 3,
-    "explanation": "subway는 지하철이에요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I go to school ___ bus.",
-    "choices": [
-      "on",
-      "in",
-      "by",
-      "at"
-    ],
-    "answer": 2,
-    "explanation": "교통수단 앞에는 by를 써요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I walk to school.\"의 뜻은?",
-    "choices": [
-      "나는 버스로 학교에 가요.",
-      "나는 걸어서 학교에 가요.",
-      "나는 학교에서 걸어요.",
-      "나는 뛰어서 학교에 가요."
-    ],
-    "answer": 1,
-    "explanation": "walk는 걷다라는 뜻이에요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "바다를 건널 때 탈 수 있는 것은?",
-    "choices": [
-      "ship",
-      "bike",
-      "subway",
-      "bus"
-    ],
-    "answer": 0,
-    "explanation": "바다는 배(ship)로 건너요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I go to school ___ foot.",
-    "choices": [
-      "by",
-      "in",
-      "at",
-      "on"
-    ],
-    "answer": 3,
-    "explanation": "걸어서는 on foot이라고 해요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Sora goes to school by bus. It takes 10 minutes. Dan walks to school. It takes 20 minutes. 학교에 가는 데 더 오래 걸리는 사람과 방법은?",
-    "choices": [
-      "Sora, 버스로",
-      "Dan, 버스로",
-      "Dan, 걸어서",
-      "Sora, 걸어서"
-    ],
-    "answer": 2,
-    "explanation": "댄은 걸어서(walks) 20분, 소라는 버스로 10분이 걸려서 댄이 더 오래 걸려요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "다른 나라로 멀리 여행할 때 가장 알맞은 교통수단은?",
-    "choices": [
-      "bike",
-      "airplane",
-      "scooter",
-      "skateboard"
-    ],
-    "answer": 1,
-    "explanation": "먼 나라는 비행기(airplane)로 가요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"How do you go home?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "I'm fine.",
-      "By taxi.",
-      "I walk.",
-      "By subway."
-    ],
-    "answer": 0,
-    "explanation": "가는 방법을 물었는데 I'm fine.은 안 어울려요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"My dad goes to work by car.\"의 뜻은?",
-    "choices": [
-      "아빠는 차를 고치세요.",
-      "아빠는 걸어서 출근하세요.",
-      "아빠는 차를 사셨어요.",
-      "아빠는 차로 출근하세요."
-    ],
-    "answer": 3,
-    "explanation": "go to work는 출근하다, by car는 차로예요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "빈칸에 들어갈 수 없는 말은? I go to the library by ___.",
-    "choices": [
-      "bus",
-      "bike",
-      "foot",
-      "subway"
-    ],
-    "answer": 2,
-    "explanation": "걸어서는 by가 아니라 on foot이라고 해요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Does she go to school by bus?\" \"No, she walks.\" 그녀가 학교에 가는 방법은?",
-    "choices": [
-      "버스로",
-      "걸어서",
-      "자전거로",
-      "지하철로"
-    ],
-    "answer": 1,
-    "explanation": "walks는 걸어서 간다는 뜻이에요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4087,8 +2659,9 @@
     ],
     "answer": 1,
     "explanation": "'~ 안에'는 in을 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -4102,8 +2675,9 @@
     ],
     "answer": 1,
     "explanation": "on the table은 '탁자 위에'라는 뜻이에요. 공은 탁자 아래(under)에 있어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -4117,8 +2691,9 @@
     ],
     "answer": 2,
     "explanation": "Where는 어디에 있는지 물어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4132,8 +2707,9 @@
     ],
     "answer": 1,
     "explanation": "'~ 아래에'는 under를 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 1,
@@ -4147,8 +2723,9 @@
     ],
     "answer": 0,
     "explanation": "under the bed는 침대 아래예요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -4162,8 +2739,9 @@
     ],
     "answer": 3,
     "explanation": "next to는 ~ 옆에예요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4177,8 +2755,9 @@
     ],
     "answer": 2,
     "explanation": "어디 있는지 물었으니 위치로 답해요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -4192,8 +2771,9 @@
     ],
     "answer": 1,
     "explanation": "Where is ~?는 어디에 있는지 묻는 말이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4207,8 +2787,9 @@
     ],
     "answer": 0,
     "explanation": "in front of는 ~ 앞에예요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -4222,8 +2803,9 @@
     ],
     "answer": 3,
     "explanation": "books는 여럿이라 They're를 써요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4237,8 +2819,9 @@
     ],
     "answer": 2,
     "explanation": "가방(bag)이 의자(chair) 위(on)에 있어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 3,
@@ -4252,8 +2835,9 @@
     ],
     "answer": 0,
     "explanation": "가방은 책상 위(on the desk)에 있고, 모자는 그 가방 안(in your bag)에 있어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -4267,8 +2851,9 @@
     ],
     "answer": 2,
     "explanation": "앞에서부터 민지, 수지, 준호 순서로 서 있으니 맨 뒤는 준호예요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4282,8 +2867,9 @@
     ],
     "answer": 3,
     "explanation": "behind는 '~ 뒤에'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 3,
@@ -4297,8 +2883,9 @@
     ],
     "answer": 2,
     "explanation": "문 옆에 의자가 있고, 의자와 침대 사이에 고양이가 있으니 문-의자-고양이-침대 순서예요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4313,7 +2900,8 @@
     "answer": 1,
     "explanation": "yesterday는 지난 일이라 'draw'를 'drew'로 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 1,
@@ -4328,7 +2916,8 @@
     "answer": 0,
     "explanation": "어제는 yesterday예요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4343,7 +2932,8 @@
     "answer": 3,
     "explanation": "played는 play의 과거예요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4358,7 +2948,8 @@
     "answer": 2,
     "explanation": "did는 과거, 어제 한 일을 물어요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4373,7 +2964,8 @@
     "answer": 1,
     "explanation": "eat의 과거형은 ate예요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -4388,7 +2980,8 @@
     "answer": 0,
     "explanation": "last Sunday는 과거라 visited를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -4403,7 +2996,8 @@
     "answer": 3,
     "explanation": "watched는 봤다는 과거예요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4418,7 +3012,8 @@
     "answer": 2,
     "explanation": "saw는 see의 과거예요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4433,7 +3028,8 @@
     "answer": 1,
     "explanation": "지난 주말 일이라 'bake'에 d를 붙인 'baked'를 써요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4448,7 +3044,8 @@
     "answer": 0,
     "explanation": "'make'는 지난 일을 말할 때 'made'가 돼요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-01]"
   },
   {
     "difficulty": 2,
@@ -4463,7 +3060,8 @@
     "answer": 3,
     "explanation": "'buy'는 지난 일로 말할 때 'bought'라고 해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-03]"
   },
   {
     "difficulty": 2,
@@ -4478,7 +3076,8 @@
     "answer": 0,
     "explanation": "When은 언제인지 묻는 말이고, 지난 일을 물었으니 'Last Saturday.'가 알맞아요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4493,7 +3092,8 @@
     "answer": 1,
     "explanation": "Did로 물으면 did로 답해요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4508,7 +3108,8 @@
     "answer": 0,
     "explanation": "'had'는 'have'를 지난 일로 말한 꼴이고, 'last night'은 '어젯밤'이에요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4523,7 +3124,8 @@
     "answer": 3,
     "explanation": "'went'는 지난 일이라 tomorrow(내일)와 어울리지 않아요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 1,
@@ -4538,7 +3140,8 @@
     "answer": 2,
     "explanation": "Whose는 누구의 것인지 물어요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4553,7 +3156,8 @@
     "answer": 0,
     "explanation": "친구의 것이니 '너의 것'인 'yours'를 써요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4568,7 +3172,8 @@
     "answer": 0,
     "explanation": "yours는 너의 것이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4583,7 +3188,8 @@
     "answer": 0,
     "explanation": "두 사람의 것이니 '그들의 것'인 'theirs'를 써요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 1,
@@ -4598,7 +3204,8 @@
     "answer": 2,
     "explanation": "hers는 그녀의 것이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4613,7 +3220,8 @@
     "answer": 1,
     "explanation": "사람 이름에 's를 붙이면 그 사람의 것이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4628,7 +3236,8 @@
     "answer": 1,
     "explanation": "내 것이 아니니 No, it isn't.로 답하고, 남동생의 것(my brother's)이라고 말해요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4643,7 +3252,8 @@
     "answer": 3,
     "explanation": "his는 그의 것이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4658,22 +3268,24 @@
     "answer": 2,
     "explanation": "brother's는 남자 형제의 것이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: Whose ___ are these? B: They're mine.",
+    "question": "빈칸에 알맞은 말은? A: Whose bottle is this? B: It's ___ bottle.",
     "choices": [
-      "cap",
-      "shoes",
-      "bag",
-      "watch"
+      "Mina",
+      "Mina's",
+      "she",
+      "hers"
     ],
     "answer": 1,
-    "explanation": "these와 They're는 여럿이라 shoes가 알맞아요.",
+    "explanation": "'~의'는 이름 뒤에 's를 붙여 Mina's라고 해요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 3,
@@ -4688,7 +3300,8 @@
     "answer": 0,
     "explanation": "주인을 물었는데 색깔로 답하면 안 어울려요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4703,7 +3316,8 @@
     "answer": 2,
     "explanation": "표에서 book의 주인은 Minsu이므로 'The book is Minsu's.'가 맞아요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -4718,7 +3332,8 @@
     "answer": 2,
     "explanation": "'your eraser'는 '너의 것'인 'yours'로 바꿔 쓸 수 있어요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -4733,7 +3348,8 @@
     "answer": 1,
     "explanation": "'These are'는 '이것들은 ~이다', 'not'은 '아니다'라는 뜻이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4748,7 +3364,8 @@
     "answer": 1,
     "explanation": "brother는 남자라서 '그의 것'인 'his'를 써요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -4763,7 +3380,8 @@
     "answer": 1,
     "explanation": "How can I get to ~?는 가는 방법을 물어서 Take the subway.로 답해요. It's near the park.는 (가)의 대답이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4778,7 +3396,8 @@
     "answer": 3,
     "explanation": "먼저 은행에서 오른쪽으로 돌고, 다음에 학교에서 왼쪽으로 돌아요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -4793,7 +3412,8 @@
     "answer": 1,
     "explanation": "왼쪽에 있는 것은 It's on your left.라고 말해요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-05]"
   },
   {
     "difficulty": 2,
@@ -4808,7 +3428,8 @@
     "answer": 1,
     "explanation": "Sorry, I don't know.는 모른다는 말이고, 저 남자에게 물어보라고 했어요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -4823,7 +3444,8 @@
     "answer": 0,
     "explanation": "police station은 '경찰서'예요. 경찰서에서는 길 잃은 사람을 도와요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4838,7 +3460,8 @@
     "answer": 2,
     "explanation": "B가 가는 방법을 알려 주었으니 How can I get to ~?로 물어요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4853,7 +3476,8 @@
     "answer": 1,
     "explanation": "첫 번째 모퉁이에서 왼쪽으로 한 번, 다음 모퉁이에서 오른쪽으로 한 번, 모두 2번 돌아요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -4868,7 +3492,8 @@
     "answer": 0,
     "explanation": "장난감(toy)은 장난감 가게(toy store), 과일(fruit)은 시장(market)에서 사요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -4883,7 +3508,8 @@
     "answer": 3,
     "explanation": "How can I get to는 가는 방법을 물어요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 3,
@@ -4898,7 +3524,8 @@
     "answer": 2,
     "explanation": "동물원 한쪽 옆에 은행, 다른 쪽 옆에 공원이 있으니 은행과 공원 사이예요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -4913,7 +3540,8 @@
     "answer": 2,
     "explanation": "one block은 한 블록, turn left at the bank는 은행에서 왼쪽으로 돌기예요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 3,
@@ -4928,7 +3556,8 @@
     "answer": 0,
     "explanation": "위치를 물었는데 I like it.은 안 어울려요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4943,7 +3572,8 @@
     "answer": 2,
     "explanation": "돈은 은행(bank)에 저금해요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -4958,7 +3588,8 @@
     "answer": 2,
     "explanation": "between A and B는 A와 B 사이예요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -4973,7 +3604,8 @@
     "answer": 1,
     "explanation": "놓칠 수 없다, 곧 쉽게 찾는다는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -4988,7 +3620,8 @@
     "answer": 0,
     "explanation": "May I use ~?는 '~을 써도 될까?'라고 허락을 구하는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5003,7 +3636,8 @@
     "answer": 3,
     "explanation": "Sure.는 물론이지라는 허락이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -5018,7 +3652,8 @@
     "answer": 2,
     "explanation": "sit은 앉다예요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5033,7 +3668,8 @@
     "answer": 1,
     "explanation": "you can't는 하면 안 된다는 뜻이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -5048,7 +3684,8 @@
     "answer": 2,
     "explanation": "close the door는 '문을 닫다'예요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -5063,7 +3700,8 @@
     "answer": 3,
     "explanation": "허락을 구할 때 Can I ~?를 써요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -5078,7 +3716,8 @@
     "answer": 2,
     "explanation": "take a picture는 사진을 찍다예요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -5093,7 +3732,8 @@
     "answer": 1,
     "explanation": "허락은 Yes, you can.이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -5108,7 +3748,8 @@
     "answer": 0,
     "explanation": "책을 읽어도 되는지 묻는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -5123,7 +3764,8 @@
     "answer": 3,
     "explanation": "Go ahead.는 해도 된다는 허락이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5138,7 +3780,8 @@
     "answer": 0,
     "explanation": "엄마가 허락하면서 'come back before dinner(저녁 전에 돌아오렴)'라고 했어요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -5153,7 +3796,8 @@
     "answer": 1,
     "explanation": "It's hot.은 뜨겁다는 뜻이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -5168,7 +3812,8 @@
     "answer": 2,
     "explanation": "내가 해도 되는지 허락을 구할 때는 Can I ~?를 써요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 1,
@@ -5183,82 +3828,24 @@
     "answer": 1,
     "explanation": "next to you는 '네 옆에'이고, Can I ~?는 허락을 구하는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "\"Can I play outside?\" \"Not now. Do your homework first.\" 대답의 뜻으로 알맞은 것은?",
     "choices": [
-      "지금 나가 놀아도 돼.",
-      "숙제는 안 해도 돼.",
-      "지금은 안 되고 숙제 먼저 하렴.",
-      "밖에서 숙제하렴."
+      "지금 나가서 놀아도 좋아.",
+      "숙제는 하지 않아도 괜찮아.",
+      "지금은 안 돼, 숙제 먼저 하렴.",
+      "밖에 나가서 숙제를 하렴."
     ],
     "answer": 2,
     "explanation": "Not now는 지금은 안 된다, first는 먼저예요.",
     "semester": 1,
-    "unit": "허락 구하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I can play the drums.\"의 뜻은?",
-    "choices": [
-      "나는 드럼을 못 쳐요.",
-      "나는 드럼을 칠 수 있어요.",
-      "나는 드럼을 샀어요.",
-      "나는 드럼을 좋아해요."
-    ],
-    "answer": 1,
-    "explanation": "can은 할 수 있다예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "친구에게 수영을 할 수 있는지 물을 때 하는 말은?",
-    "choices": [
-      "Do you like swimming?",
-      "Can you swim?",
-      "Are you swimming?",
-      "Did you swim?"
-    ],
-    "answer": 1,
-    "explanation": "할 수 있는지 물을 때는 Can you ~?를 써요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I can't skate.\"의 뜻은?",
-    "choices": [
-      "나는 스케이트를 탈 수 있어요.",
-      "나는 스케이트를 좋아해요.",
-      "나는 스케이트를 샀어요.",
-      "나는 스케이트를 못 타요."
-    ],
-    "answer": 3,
-    "explanation": "can't는 할 수 없다예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'요리하다'를 뜻하는 낱말은?",
-    "choices": [
-      "jump",
-      "run",
-      "cook",
-      "sing"
-    ],
-    "answer": 2,
-    "explanation": "cook은 요리하다예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5273,97 +3860,8 @@
     "answer": 0,
     "explanation": "미나가 수영을 못 하니 다른 놀이(자전거 타기)를 하자고 말하는 것이 알맞아요.",
     "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: Can your sister play baseball? B: No, she ___.",
-    "choices": [
-      "doesn't",
-      "isn't",
-      "can't",
-      "can"
-    ],
-    "answer": 2,
-    "explanation": "Can으로 물었고 No라고 답했으니 she can't가 알맞아요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"She can jump high.\"의 뜻은?",
-    "choices": [
-      "그녀는 빨리 달릴 수 있어요.",
-      "그는 높이 뛸 수 있어요.",
-      "그녀는 높이 뛰지 못해요.",
-      "그녀는 높이 뛸 수 있어요."
-    ],
-    "answer": 3,
-    "explanation": "jump high는 높이 뛰다예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'할 수 없다'는 뜻이 들어 있는 문장은?",
-    "choices": [
-      "Birds can fly.",
-      "I can't jump high.",
-      "Can you jump?",
-      "She can run."
-    ],
-    "answer": 1,
-    "explanation": "can't는 '할 수 없다'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Can you write Korean?\"의 뜻은?",
-    "choices": [
-      "한국어를 좋아하니?",
-      "한국어를 쓸 수 있니?",
-      "한국어를 배웠니?",
-      "한국 사람이니?"
-    ],
-    "answer": 1,
-    "explanation": "Can you ~?는 '~할 수 있니?', write는 '쓰다'예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I can play soccer well.\"에서 well의 뜻은?",
-    "choices": [
-      "잘",
-      "빨리",
-      "자주",
-      "조금"
-    ],
-    "answer": 0,
-    "explanation": "well은 잘이라는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you play the violin?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "Yes, I can.",
-      "No, I can't.",
-      "A little.",
-      "Yes, I do."
-    ],
-    "answer": 3,
-    "explanation": "Can으로 물으면 do로 답하지 않아요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5378,52 +3876,8 @@
     "answer": 1,
     "explanation": "B가 테니스는 못 하지만 배드민턴은 할 수 있다고 했고, A가 OK라고 했어요.",
     "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can you make cookies? B: No, I can't. But my mom can. 쿠키를 만들 수 있는 사람은?",
-    "choices": [
-      "A",
-      "B",
-      "B의 엄마",
-      "A의 엄마"
-    ],
-    "answer": 2,
-    "explanation": "B는 못 만든다고 했고, 'But my mom can.'이라고 했으니 B의 엄마예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can your brother fly a kite?\" \"Yes, he can.\" 남동생(형)이 할 수 있는 것은?",
-    "choices": [
-      "연 날리기",
-      "비행기 조종",
-      "자전거 타기",
-      "줄넘기"
-    ],
-    "answer": 0,
-    "explanation": "fly a kite는 연을 날리다예요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you help me with this?\"에 알맞은 대답은?",
-    "choices": [
-      "Yes, you are.",
-      "No, it isn't.",
-      "I'm eleven.",
-      "Sure, I can."
-    ],
-    "answer": 3,
-    "explanation": "도와줄 수 있냐고 물었으니 Sure, I can.이 알맞아요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5438,7 +3892,8 @@
     "answer": 2,
     "explanation": "Let's는 ~하자라는 제안이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5453,7 +3908,8 @@
     "answer": 0,
     "explanation": "That's a good idea.는 '좋은 생각이야.'라는 뜻이라 제안에 찬성하는 말이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5461,14 +3917,15 @@
     "question": "제안을 거절할 때 하는 말은?",
     "choices": [
       "Sorry, I can't.",
-      "Okay.",
-      "Great!",
-      "Sure."
+      "Okay, sounds good.",
+      "Great! Let's go.",
+      "Sure, let's go."
     ],
     "answer": 0,
     "explanation": "Sorry, I can't.는 미안하지만 못 한다는 뜻이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5481,7 +3938,8 @@
     "answer": 1,
     "explanation": "Let's go swimming.은 '수영하러 가자.'라고 제안하는 말이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5496,7 +3954,8 @@
     "answer": 2,
     "explanation": "sing은 노래하다예요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -5511,7 +3970,8 @@
     "answer": 1,
     "explanation": "제안할 때는 Let's를 써요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-03]"
   },
   {
     "difficulty": 2,
@@ -5526,7 +3986,8 @@
     "answer": 0,
     "explanation": "Why don't we ~?는 ~하는 게 어때라는 제안이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5541,7 +4002,8 @@
     "answer": 3,
     "explanation": "바빠서 못 한다는 거절이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -5556,7 +4018,8 @@
     "answer": 2,
     "explanation": "How about ~?는 ~은 어때라는 제안이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5571,7 +4034,8 @@
     "answer": 1,
     "explanation": "good idea는 좋은 생각이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5586,7 +4050,8 @@
     "answer": 0,
     "explanation": "제안에 Yes, I can.은 어울리지 않아요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -5601,7 +4066,8 @@
     "answer": 3,
     "explanation": "have a cold는 감기에 걸리다예요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -5616,7 +4082,8 @@
     "answer": 2,
     "explanation": "비 오는 날에는 집 안 놀이가 알맞아요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -5631,7 +4098,8 @@
     "answer": 1,
     "explanation": "Let's 뒤에는 동사 원래 모양을 써요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영02-03]"
   },
   {
     "difficulty": 1,
@@ -5646,7 +4114,8 @@
     "answer": 0,
     "explanation": "At four는 4시예요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -5661,7 +4130,8 @@
     "answer": 3,
     "explanation": "drink는 마시다예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5676,7 +4146,8 @@
     "answer": 2,
     "explanation": "I'd like ~.는 '~을 주세요(원해요)'라는 주문하는 말이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5691,7 +4162,8 @@
     "answer": 1,
     "explanation": "샐러드는 salad예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5706,7 +4178,8 @@
     "answer": 0,
     "explanation": "juice는 주스예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5721,7 +4194,8 @@
     "answer": 0,
     "explanation": "스테이크는 steak예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5736,22 +4210,24 @@
     "answer": 2,
     "explanation": "Jun이 2개, Mina가 1개를 주문했으니 모두 3개예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "\"Anything else?\"는 무엇을 묻는 말일까요?",
     "choices": [
-      "얼마인지",
+      "값이 얼마인지 궁금한지",
       "더 필요한 것이 있는지",
-      "맛있는지",
-      "배고픈지"
+      "음식이 맛있었는지 궁금한지",
+      "지금 배가 고픈지 궁금한지"
     ],
     "answer": 1,
     "explanation": "else는 그 밖의 다른 것이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5766,7 +4242,8 @@
     "answer": 0,
     "explanation": "for here는 '여기서 먹기', to go는 '가져가기'예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5781,7 +4258,8 @@
     "answer": 3,
     "explanation": "Can I have는 주세요라는 공손한 말이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5796,7 +4274,8 @@
     "answer": 1,
     "explanation": "I'm full.은 '배불러요.'라는 뜻이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -5811,7 +4290,8 @@
     "answer": 1,
     "explanation": "더 필요한 것을 물었는데 나이로 답하면 안 어울려요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5826,7 +4306,8 @@
     "answer": 2,
     "explanation": "주문을 묻고(라) 피자를 주문한 뒤(다), 더 필요한 것을 묻고(나) 그게 다라고 답해요(가).",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -5841,7 +4322,8 @@
     "answer": 3,
     "explanation": "dessert는 후식이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5856,7 +4338,8 @@
     "answer": 2,
     "explanation": "not noodles는 국수가 아니라는 뜻이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -5871,232 +4354,8 @@
     "answer": 1,
     "explanation": "delicious는 아주 맛있다는 뜻이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How much is the bag? B: It's 30 dollars. A: How much is the cap? B: It's 8 dollars. 모자의 값은?",
-    "choices": [
-      "30달러",
-      "8달러",
-      "38달러",
-      "22달러"
-    ],
-    "answer": 1,
-    "explanation": "cap(모자)의 값을 묻자 'It's 8 dollars.'라고 답했어요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"It's ten dollars.\"의 뜻은?",
-    "choices": [
-      "10원이에요.",
-      "10개예요.",
-      "10살이에요.",
-      "10달러예요."
-    ],
-    "answer": 3,
-    "explanation": "dollars는 달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'sixty'가 뜻하는 수는?",
-    "choices": [
-      "16",
-      "60",
-      "6",
-      "600"
-    ],
-    "answer": 1,
-    "explanation": "sixty는 60이에요. 16은 sixteen이에요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'fifteen'이 뜻하는 수는?",
-    "choices": [
-      "50",
-      "15",
-      "5",
-      "25"
-    ],
-    "answer": 1,
-    "explanation": "fifteen은 15예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'100'을 영어로 바르게 쓴 것은?",
-    "choices": [
-      "one hundred",
-      "one thousand",
-      "ten",
-      "ten hundred"
-    ],
-    "answer": 0,
-    "explanation": "100은 one hundred예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: How much ___ these socks? B: They're five dollars.",
-    "choices": [
-      "is",
-      "am",
-      "do",
-      "are"
-    ],
-    "answer": 3,
-    "explanation": "socks는 여럿이라 are를 써요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's twenty-five dollars.\"의 값은?",
-    "choices": [
-      "52달러",
-      "20달러",
-      "25달러",
-      "15달러"
-    ],
-    "answer": 2,
-    "explanation": "twenty-five는 25예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How much is this bag? B: It's 90 dollars. A: ___ I have only 20 dollars.",
-    "choices": [
-      "I'll take it, thanks.",
-      "It's very cheap.",
-      "It's too expensive.",
-      "Here you are."
-    ],
-    "answer": 2,
-    "explanation": "20달러밖에 없는데 가방이 90달러라서 너무 비싸다고 말해요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "The pen is 3 dollars. The book is 12 dollars. 값이 더 싼 물건과 그 값은?",
-    "choices": [
-      "펜, 3달러",
-      "책, 12달러",
-      "펜, 12달러",
-      "책, 3달러"
-    ],
-    "answer": 0,
-    "explanation": "펜이 3달러, 책이 12달러라서 펜이 더 싸요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "가게에서 나누는 대화의 순서로 알맞은 것은? (가) Here you are. (나) How much is this cap? (다) It's 5 dollars. (라) OK. I'll take it.",
-    "choices": [
-      "(나)-(가)-(다)-(라)",
-      "(나)-(다)-(라)-(가)",
-      "(다)-(나)-(라)-(가)",
-      "(나)-(라)-(다)-(가)"
-    ],
-    "answer": 1,
-    "explanation": "값을 묻고(나), 값을 답하고(다), 사겠다고 한 뒤(라), 돈을 건네요(가).",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How much is this notebook? B: It's four dollars. A: I want two notebooks. 모두 얼마일까요?",
-    "choices": [
-      "six dollars",
-      "eight dollars",
-      "twelve dollars",
-      "two dollars"
-    ],
-    "answer": 1,
-    "explanation": "4달러짜리 공책 두 권이라 4 × 2 = 8, eight dollars예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How much are these pants? 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "They're 20 dollars.",
-      "They're 15 dollars.",
-      "It's blue and long.",
-      "Twenty dollars."
-    ],
-    "answer": 2,
-    "explanation": "값을 물었는데 색깔과 길이로 답하면 어울리지 않아요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "The bag is forty dollars, and the cap is ten dollars. 둘을 사고 100달러를 내면 거스름돈은 얼마일까요?",
-    "choices": [
-      "50달러",
-      "60달러",
-      "90달러",
-      "40달러"
-    ],
-    "answer": 0,
-    "explanation": "40 + 10 = 50달러이고, 100 − 50 = 50달러를 돌려받아요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can I help you? B: ___ 손님이 할 말로 알맞은 것은?",
-    "choices": [
-      "Yes, I'm looking for a cap.",
-      "Yes, you can sit down here.",
-      "No, thanks. I'm not hungry.",
-      "Yes, it's ten o'clock now."
-    ],
-    "answer": 0,
-    "explanation": "점원이 도와드릴지 물었으니 손님은 찾는 물건을 말해요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How much is this book? B: It's seven dollars. A: Here's ten dollars. 거스름돈은?",
-    "choices": [
-      "seven dollars",
-      "seventeen dollars",
-      "three dollars",
-      "two dollars"
-    ],
-    "answer": 2,
-    "explanation": "10달러를 내고 7달러짜리 책을 사면 10 − 7 = 3, three dollars예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6111,7 +4370,8 @@
     "answer": 1,
     "explanation": "from은 출신을 물어요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6126,7 +4386,8 @@
     "answer": 0,
     "explanation": "'We're from ~.'은 '우리는 ~에서 왔어요.'라는 뜻이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6141,7 +4402,8 @@
     "answer": 1,
     "explanation": "독일은 'Germany'예요. Spain은 스페인, Italy는 이탈리아, Egypt는 이집트예요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6156,7 +4418,8 @@
     "answer": 2,
     "explanation": "Canada는 캐나다예요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6171,7 +4434,8 @@
     "answer": 1,
     "explanation": "일본은 Japan이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -6186,7 +4450,8 @@
     "answer": 0,
     "explanation": "출신은 from으로 말해요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -6201,22 +4466,24 @@
     "answer": 3,
     "explanation": "She는 그녀, France는 프랑스예요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "\"Where is he from?\"에 알맞은 대답은?",
     "choices": [
-      "He's ten.",
-      "He's tall.",
+      "He's ten years old.",
+      "He's tall and strong.",
       "He's from Australia.",
-      "He's my friend."
+      "He's my best friend."
     ],
     "answer": 2,
     "explanation": "출신을 물었으니 나라로 답해요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -6231,7 +4498,8 @@
     "answer": 1,
     "explanation": "Brazil은 브라질이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -6246,7 +4514,8 @@
     "answer": 0,
     "explanation": "they 앞에는 are를 써요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -6261,7 +4530,8 @@
     "answer": 3,
     "explanation": "출신을 물었는데 I'm fine.은 안 어울려요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -6276,7 +4546,8 @@
     "answer": 2,
     "explanation": "the UK는 영국이에요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -6291,7 +4562,8 @@
     "answer": 1,
     "explanation": "She's from Japan.이라고 했어요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -6306,22 +4578,24 @@
     "answer": 0,
     "explanation": "He 뒤에는 is를 써요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "\"Where are you from?\"과 비슷한 뜻의 질문은?",
     "choices": [
-      "What are you doing?",
-      "Where do you live?",
-      "How old are you?",
+      "What are you doing now?",
+      "Where do you live now?",
+      "How old are you now?",
       "What country are you from?"
     ],
     "answer": 3,
     "explanation": "'What country are you from?'도 어느 나라 출신인지 묻는 말이에요. 'Where do you live?'는 사는 곳을 물어요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -6336,7 +4610,8 @@
     "answer": 1,
     "explanation": "eight twenty는 8시 20분이에요. 3시는 집에 오는 시각이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -6351,7 +4626,8 @@
     "answer": 1,
     "explanation": "go to bed는 자러 가다예요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6366,7 +4642,8 @@
     "answer": 0,
     "explanation": "breakfast는 아침 식사예요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6381,7 +4658,8 @@
     "answer": 3,
     "explanation": "저녁 식사는 dinner예요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6396,7 +4674,8 @@
     "answer": 2,
     "explanation": "brush my teeth는 이를 닦다예요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -6411,7 +4690,8 @@
     "answer": 1,
     "explanation": "시각 앞에는 at을 써요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -6426,7 +4706,8 @@
     "answer": 2,
     "explanation": "at night는 '밤에'라는 뜻이에요. 운동은 아침(in the morning)에 해요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -6441,7 +4722,8 @@
     "answer": 1,
     "explanation": "6시 50분은 six fifty라고 말해요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -6456,7 +4738,8 @@
     "answer": 1,
     "explanation": "몇 시인지 물었으니 시각으로 답한 At six thirty.가 알맞아요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -6471,7 +4754,8 @@
     "answer": 1,
     "explanation": "in the evening은 저녁에예요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -6486,7 +4770,8 @@
     "answer": 0,
     "explanation": "시각을 물었는데 좋아한다고 답하면 안 어울려요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -6501,7 +4786,8 @@
     "answer": 3,
     "explanation": "일어나서, 학교 가고, 자요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -6516,7 +4802,8 @@
     "answer": 2,
     "explanation": "six forty-five는 6시 45분이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -6531,7 +4818,8 @@
     "answer": 1,
     "explanation": "She 뒤에는 동사에 s를 붙여요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -6546,7 +4834,8 @@
     "answer": 1,
     "explanation": "after breakfast는 '아침 먹은 뒤'라는 뜻이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -6560,8 +4849,9 @@
     ],
     "answer": 0,
     "explanation": "'must not'은 '~하면 안 된다', 'climb'은 '오르다'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
+    "semester": 1,
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6575,8 +4865,9 @@
     ],
     "answer": 0,
     "explanation": "'wait'는 '기다리다', 'turn'은 '차례'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
+    "semester": 1,
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6590,8 +4881,9 @@
     ],
     "answer": 0,
     "explanation": "'should'는 '~해야 한다', 'help'는 '돕다'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
+    "semester": 1,
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6605,8 +4897,9 @@
     ],
     "answer": 0,
     "explanation": "'after class'는 '수업이 끝난 뒤', 'clean your desk'는 '책상을 치우다'예요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
+    "semester": 1,
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -6620,383 +4913,9 @@
     ],
     "answer": 3,
     "explanation": "careful은 조심하는이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? It's a rule. You ___ come to school on time.",
-    "choices": [
-      "must",
-      "don't",
-      "can't",
-      "let's"
-    ],
-    "answer": 0,
-    "explanation": "규칙으로 꼭 해야 하는 일은 'must'로 말해요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "과학실에서 지켜야 할 규칙으로 알맞은 것은?",
-    "choices": [
-      "Don't touch the fire.",
-      "Eat your snacks here.",
-      "Run around the tables.",
-      "Play with the glass."
-    ],
-    "answer": 0,
-    "explanation": "과학실에서 불을 만지면 다치니 만지지 말아야 해요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"You should wear a helmet.\"의 뜻은?",
-    "choices": [
-      "헬멧을 써야 해요.",
-      "헬멧을 사야 해요.",
-      "헬멧을 벗어야 해요.",
-      "헬멧을 쓰면 안 돼요."
-    ],
-    "answer": 0,
-    "explanation": "should는 ~해야 한다예요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"You must not use your phone in class.\"의 뜻은?",
-    "choices": [
-      "수업 중에 휴대폰을 써야 해요.",
-      "수업 중에 휴대폰을 써도 돼요.",
-      "수업 중에 휴대폰을 찾아야 해요.",
-      "수업 중에 휴대폰을 쓰면 안 돼요."
-    ],
-    "answer": 3,
-    "explanation": "'must not'은 '~하면 안 된다'는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "버스를 탈 때 지킬 규칙으로 알맞지 않은 것은?",
-    "choices": [
-      "Run on the bus.",
-      "Sit down, please.",
-      "Don't shout.",
-      "Wait in line."
-    ],
-    "answer": 0,
-    "explanation": "버스 안에서 뛰면 넘어질 수 있어 위험해요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Wait for the green light.\"는 어디에서 지켜야 할 규칙일까요?",
-    "choices": [
-      "도서관",
-      "횡단보도",
-      "교실",
-      "수영장"
-    ],
-    "answer": 1,
-    "explanation": "초록불을 기다리는 곳은 횡단보도예요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "규칙을 바르게 쓴 문장은?",
-    "choices": [
-      "Don't push your friends.",
-      "Don't pushes your friends.",
-      "Not push your friends.",
-      "Don't pushing your friends."
-    ],
-    "answer": 0,
-    "explanation": "Don't 뒤에는 동사 원래 모양을 써요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "선생님이 \"Wait here, please.\"라고 말했어요. 알맞은 행동은?",
-    "choices": [
-      "여기서 기다려요.",
-      "밖으로 나가요.",
-      "줄을 서요.",
-      "자리에 앉아요."
-    ],
-    "answer": 0,
-    "explanation": "'wait'는 '기다리다', 'here'는 '여기'라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"You can't take pictures here.\"가 뜻하는 규칙은?",
-    "choices": [
-      "여기서 사진을 찍어도 돼요.",
-      "여기서 그림을 그려요.",
-      "여기서 사진을 찍으면 안 돼요.",
-      "여기서 사진을 사요."
-    ],
-    "answer": 2,
-    "explanation": "'can't'는 '~하면 안 된다'는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Don't drop paper on the street.\"가 뜻하는 규칙으로 알맞은 것은?",
-    "choices": [
-      "길에서 종이를 주우세요.",
-      "길에 종이를 버리지 마세요.",
-      "길에서 뛰어다니지 마세요.",
-      "길에서 크게 떠들지 마세요."
-    ],
-    "answer": 1,
-    "explanation": "'drop'은 '떨어뜨리다', 'street'은 '길'이라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: ___ B: I have a fever.",
-    "choices": [
-      "How old are you?",
-      "What's wrong?",
-      "What time is it?",
-      "Where are you from?"
-    ],
-    "answer": 1,
-    "explanation": "B가 열이 난다고 아픈 곳을 말했으니, 무슨 일인지 묻는 'What's wrong?'이 알맞아요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I have a headache.\"의 뜻은?",
-    "choices": [
-      "배가 아파요.",
-      "이가 아파요.",
-      "목이 아파요.",
-      "머리가 아파요."
-    ],
-    "answer": 3,
-    "explanation": "headache는 두통이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Sora: I can't play the piano today. My hand hurts. 소라가 피아노를 못 치는 까닭은?",
-    "choices": [
-      "다리가 아파서",
-      "손이 아파서",
-      "피아노가 없어서",
-      "열이 나서"
-    ],
-    "answer": 1,
-    "explanation": "My hand hurts.는 손이 아프다는 뜻이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I have a high fever.\"의 뜻은?",
-    "choices": [
-      "기침이 나요.",
-      "열이 많이 나요.",
-      "콧물이 나요.",
-      "배가 많이 아파요."
-    ],
-    "answer": 1,
-    "explanation": "high fever는 높은 열이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I have a toothache.\"에서 아픈 곳은?",
-    "choices": [
-      "이",
-      "머리",
-      "배",
-      "다리"
-    ],
-    "answer": 0,
-    "explanation": "tooth는 이예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: What's wrong? B: I ___ a cold.",
-    "choices": [
-      "am",
-      "do",
-      "is",
-      "have"
-    ],
-    "answer": 3,
-    "explanation": "감기에 걸리면 have a cold라고 해요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"My foot hurts.\"의 뜻은?",
-    "choices": [
-      "팔이 아파요.",
-      "다리를 다쳤니?",
-      "발이 아파요.",
-      "손이 아파요."
-    ],
-    "answer": 2,
-    "explanation": "foot은 발, hurt는 아프다예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? I sang too much at the party. Now I have a ___.",
-    "choices": [
-      "toothache",
-      "stomachache",
-      "sore throat",
-      "runny nose"
-    ],
-    "answer": 2,
-    "explanation": "노래를 너무 많이 부르면 목이 아파요. 목이 아픈 것은 sore throat예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Get well soon.\"의 뜻은?",
-    "choices": [
-      "빨리 나아.",
-      "빨리 와.",
-      "잘 자.",
-      "천천히 해."
-    ],
-    "answer": 0,
-    "explanation": "get well은 낫다예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "열이 나는 친구에게 할 말로 알맞은 것은?",
-    "choices": [
-      "Go swimming now.",
-      "Go to bed early.",
-      "Eat cold ice cream.",
-      "Play soccer outside."
-    ],
-    "answer": 1,
-    "explanation": "열이 나면 일찍 자고 쉬는 것이 좋아요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"What's wrong?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "I have a fever.",
-      "My arm hurts.",
-      "It's Monday.",
-      "I have a cough."
-    ],
-    "answer": 2,
-    "explanation": "무슨 일인지 물었는데 요일로 답하면 어울리지 않아요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I have a runny nose.\"의 뜻은?",
-    "choices": [
-      "코가 커요.",
-      "콧물이 나요.",
-      "코를 다쳤어요.",
-      "냄새를 못 맡아요."
-    ],
-    "answer": 1,
-    "explanation": "runny nose는 콧물이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "감기에 걸린 친구에게 하는 조언으로 알맞지 않은 것은?",
-    "choices": [
-      "Eat lots of ice cream.",
-      "Take some medicine.",
-      "Get some rest.",
-      "Drink some warm water."
-    ],
-    "answer": 0,
-    "explanation": "감기에 아이스크림을 많이 먹으면 안 좋아요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Mina has a stomachache. 미나에게 할 조언으로 알맞은 것은?",
-    "choices": [
-      "You should eat a lot of pizza.",
-      "You should run fast.",
-      "You should go swimming.",
-      "You should see a doctor."
-    ],
-    "answer": 3,
-    "explanation": "배가 아프면 병원에 가 보는 것이 좋아요. see a doctor는 '의사에게 진찰받다'예요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How do you feel now? B: Much better, thanks. B의 말의 뜻은?",
-    "choices": [
-      "훨씬 더 아파.",
-      "많이 먹었어, 정말 고마워.",
-      "훨씬 나아졌어, 고마워.",
-      "잘 모르겠어."
-    ],
-    "answer": 2,
-    "explanation": "much better는 '훨씬 나아졌다'는 뜻이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
+    "semester": 1,
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -7011,7 +4930,8 @@
     "answer": 0,
     "explanation": "Did you ~?는 지난 일을 했는지 묻는 말이고, last summer는 '지난여름'이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -7026,7 +4946,8 @@
     "answer": 0,
     "explanation": "last month(지난달)가 yesterday(어제)보다 먼저예요. 그래서 바다에서 수영한 일이 먼저예요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-06]"
   },
   {
     "difficulty": 2,
@@ -7041,7 +4962,8 @@
     "answer": 1,
     "explanation": "Yes, I did.는 어젯밤 축구 경기를 봤다는 대답이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -7056,7 +4978,8 @@
     "answer": 2,
     "explanation": "bought apples and carrots는 사과와 당근을 샀다는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -7071,7 +4994,8 @@
     "answer": 1,
     "explanation": "met은 meet(만나다)를 지난 일로 말한 것이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -7086,7 +5010,8 @@
     "answer": 2,
     "explanation": "When은 '언제'를 묻는 말이라 때를 나타내는 Last Sunday.로 답해요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -7101,7 +5026,8 @@
     "answer": 1,
     "explanation": "didn't eat은 먹지 않았다는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -7114,7 +5040,8 @@
     "answer": 1,
     "explanation": "last weekend는 '지난 주말'이에요. 지난 주말에 산에 올랐는지 묻는 말이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -7129,7 +5056,8 @@
     "answer": 1,
     "explanation": "In the afternoon(오후에) 뒤에 played soccer(축구를 했다)가 나와요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -7144,7 +5072,8 @@
     "answer": 0,
     "explanation": "My friend didn't come.은 친구가 오지 않았다는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -7159,7 +5088,8 @@
     "answer": 2,
     "explanation": "last week는 '지난주'예요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -7173,8 +5103,9 @@
     ],
     "answer": 2,
     "explanation": "be going to는 ~할 예정이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -7188,8 +5119,9 @@
     ],
     "answer": 2,
     "explanation": "tonight은 '오늘 밤'이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -7203,8 +5135,9 @@
     ],
     "answer": 0,
     "explanation": "be going to는 할 예정이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -7218,8 +5151,9 @@
     ],
     "answer": 3,
     "explanation": "this weekend는 이번 주말이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-06]"
   },
   {
     "difficulty": 1,
@@ -7233,8 +5167,9 @@
     ],
     "answer": 2,
     "explanation": "read books는 책을 읽다예요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -7248,8 +5183,9 @@
     ],
     "answer": 1,
     "explanation": "내일 수학 시험이 있으니 오늘 밤에는 수학 공부를 할 거예요. 'She studied math.'는 지난 일이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-06]"
   },
   {
     "difficulty": 2,
@@ -7263,8 +5199,9 @@
     ],
     "answer": 0,
     "explanation": "this summer는 이번 여름이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -7278,8 +5215,9 @@
     ],
     "answer": 1,
     "explanation": "토요일(Saturday) 계획은 영화 보기예요. 자전거 타기는 일요일 계획이고, 'I watched a movie.'는 지난 일이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -7293,8 +5231,9 @@
     ],
     "answer": 2,
     "explanation": "next week는 다음 주예요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -7308,8 +5247,9 @@
     ],
     "answer": 1,
     "explanation": "learn은 배우다예요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -7323,8 +5263,9 @@
     ],
     "answer": 0,
     "explanation": "내일 계획을 물었는데 과거로 답하면 안 어울려요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 3,
@@ -7338,8 +5279,9 @@
     ],
     "answer": 3,
     "explanation": "He is going to + 동사 원래 모양이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-06]"
   },
   {
     "difficulty": 2,
@@ -7353,8 +5295,9 @@
     ],
     "answer": 2,
     "explanation": "계획에는 지난 때(last Sunday)를 쓸 수 없어요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영02-06]"
   },
   {
     "difficulty": 1,
@@ -7368,8 +5311,9 @@
     ],
     "answer": 1,
     "explanation": "next month는 다음 달이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -7383,979 +5327,9 @@
     ],
     "answer": 0,
     "explanation": "join은 가입하다예요.",
-    "semester": 1,
-    "unit": "계획 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"You should take an umbrella.\"의 뜻은?",
-    "choices": [
-      "우산을 가져가는 게 좋겠어요.",
-      "우산을 어제 샀어요.",
-      "우산을 가져가지 않아도 돼요.",
-      "우산을 두고 가도 돼요."
-    ],
-    "answer": 0,
-    "explanation": "You should ~는 '~하는 게 좋겠어요'라고 조언하는 말이에요.",
     "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'일찍 자야 해요.'에 알맞은 말은?",
-    "choices": [
-      "You should get up late.",
-      "You should eat more.",
-      "You should go to bed early.",
-      "You should play games."
-    ],
-    "answer": 2,
-    "explanation": "go to bed early는 일찍 자다예요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "미나가 교실에서 뛰어다녀요. 선생님이 할 말로 알맞은 것은?",
-    "choices": [
-      "You should run here.",
-      "You shouldn't run here.",
-      "You shouldn't read here.",
-      "You should sit on the desk."
-    ],
-    "answer": 1,
-    "explanation": "교실에서 뛰면 위험하니 '뛰지 않는 게 좋겠다'는 You shouldn't ~로 말해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Tom wants to be a good soccer player. Tom에게 할 조언으로 알맞은 것은?",
-    "choices": [
-      "Play soccer every day.",
-      "Watch TV all day long.",
-      "Eat candy every day.",
-      "Sleep all day."
-    ],
-    "answer": 0,
-    "explanation": "축구를 잘하고 싶으면 매일 축구를 하는 게 좋아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"You should exercise.\"에서 exercise의 뜻은?",
-    "choices": [
-      "공부하다",
-      "요리하다",
-      "청소하다",
-      "운동하다"
-    ],
-    "answer": 3,
-    "explanation": "exercise는 운동하다예요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I'm tired.\"라고 말하는 친구에게 알맞은 조언은?",
-    "choices": [
-      "You should run more.",
-      "You should stay up late.",
-      "You should take a rest.",
-      "You should eat more snacks."
-    ],
-    "answer": 2,
-    "explanation": "피곤하면 쉬어야 해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'You should not eat too fast.'와 'You shouldn't eat too fast.'는 같은 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "shouldn't는 should not을 줄여 쓴 말이라 뜻이 같아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"My shoes are too small.\"이라고 말하는 친구에게 알맞은 조언은?",
-    "choices": [
-      "You should buy new shoes.",
-      "You should wash them.",
-      "You should wash your socks.",
-      "You should run faster."
-    ],
-    "answer": 0,
-    "explanation": "신발이 너무 작으면 새 신발을 사는 게 좋아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's cold outside.\"라고 할 때 알맞은 조언은?",
-    "choices": [
-      "You should wear shorts.",
-      "You should go swimming.",
-      "You should eat ice cream.",
-      "You should wear a coat."
-    ],
-    "answer": 3,
-    "explanation": "추우면 외투를 입어야 해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Why don't you ask your teacher?\"가 권하는 말일 때 알맞은 뜻은?",
-    "choices": [
-      "선생님이 물어보셨어?",
-      "선생님께 벌써 다 여쭤봤어?",
-      "선생님께 여쭤보는 게 어때?",
-      "선생님이 누구야?"
-    ],
-    "answer": 2,
-    "explanation": "Why don't you ~?는 '~하는 게 어때?'라고 권하는 말이에요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I have a math test tomorrow.\"라고 말하는 친구에게 알맞은 조언은?",
-    "choices": [
-      "You should play all night.",
-      "You should study hard.",
-      "You should go fishing.",
-      "You shouldn't study."
-    ],
-    "answer": 1,
-    "explanation": "시험이 있으면 열심히 공부해야 해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I have a lot of homework.\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "You should start it now.",
-      "You should play games first.",
-      "You should work hard on it.",
-      "You should do it after dinner."
-    ],
-    "answer": 1,
-    "explanation": "숙제가 많은데 게임을 먼저 하라는 말은 알맞지 않아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "조언을 바르게 쓴 문장은?",
-    "choices": [
-      "She shoulds go to bed early.",
-      "She should goes to bed early.",
-      "She should going to bed early.",
-      "She should go to bed early."
-    ],
-    "answer": 3,
-    "explanation": "should 뒤에는 동사 원래 모양, should에는 s가 없어요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I always get up late.\"라고 말하는 친구에게 알맞은 조언은?",
-    "choices": [
-      "You should watch TV at night.",
-      "You should eat dinner late.",
-      "You should set an alarm.",
-      "You shouldn't sleep."
-    ],
-    "answer": 2,
-    "explanation": "알람을 맞추면 일찍 일어날 수 있어요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"My room is messy.\"에 알맞은 조언은?",
-    "choices": [
-      "You should draw your room.",
-      "You should clean your room.",
-      "You should leave your room.",
-      "You should paint your desk."
-    ],
-    "answer": 1,
-    "explanation": "messy는 지저분하다, 방을 치워야 해요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"How's the weather?\"는 무엇을 묻는 말일까요?",
-    "choices": [
-      "날씨",
-      "요일",
-      "시각",
-      "기분"
-    ],
-    "answer": 0,
-    "explanation": "weather는 날씨예요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"It's sunny and warm.\"의 뜻은?",
-    "choices": [
-      "비가 오고 추워요.",
-      "흐리고 따뜻해요.",
-      "맑고 추워요.",
-      "맑고 따뜻해요."
-    ],
-    "answer": 3,
-    "explanation": "sunny는 맑은, warm은 따뜻한이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'내일 비가 올 거예요.'에 알맞은 말은?",
-    "choices": [
-      "It rained yesterday.",
-      "It's rainy today.",
-      "It will rain tomorrow.",
-      "It will snow tomorrow."
-    ],
-    "answer": 2,
-    "explanation": "앞으로의 일은 'will'로, 내일은 'tomorrow'로 말해요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'foggy'의 뜻은?",
-    "choices": [
-      "맑은",
-      "안개 낀",
-      "더운",
-      "바람 부는"
-    ],
-    "answer": 1,
-    "explanation": "foggy는 안개 낀이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Is it snowing outside? B: No, it isn't. It's raining. 지금 밖의 날씨는?",
-    "choices": [
-      "눈이 와요",
-      "비가 와요",
-      "맑아요",
-      "바람이 불어요"
-    ],
-    "answer": 1,
-    "explanation": "눈이 오느냐는 물음에 아니라고 하고 'It's raining.'이라고 했으니 비가 와요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Will it rain tomorrow? B: No, it won't. It will be sunny. 내일 챙기기에 알맞은 것은?",
-    "choices": [
-      "umbrella",
-      "raincoat",
-      "sunglasses",
-      "boots"
-    ],
-    "answer": 2,
-    "explanation": "내일은 비가 오지 않고 맑을(sunny) 거라고 했으니 선글라스(sunglasses)가 알맞아요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: What will the weather be like tomorrow? B: ___",
-    "choices": [
-      "It was windy.",
-      "It will be windy.",
-      "It's windy today.",
-      "It's Monday."
-    ],
-    "answer": 1,
-    "explanation": "내일 날씨를 물었으니 'It will be ~.'로 앞으로의 날씨를 말해요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's hot. Let's go swimming.\"에서 오늘 날씨는?",
-    "choices": [
-      "추워요",
-      "더워요",
-      "비가 와요",
-      "눈이 와요"
-    ],
-    "answer": 1,
-    "explanation": "hot은 덥다예요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's hot and sunny. Many people swim in the sea.\" 이 글의 계절은?",
-    "choices": [
-      "봄",
-      "여름",
-      "가을",
-      "겨울"
-    ],
-    "answer": 1,
-    "explanation": "덥고 맑으며 바다에서 수영하는 계절은 여름이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: What will the weather be like on Saturday? B: It will be rainy. A: Then let's watch a movie at home. 토요일에 하기로 한 것은?",
-    "choices": [
-      "공원에서 축구하기",
-      "집에서 영화 보기",
-      "바다에서 수영하기",
-      "눈사람 만들기"
-    ],
-    "answer": 1,
-    "explanation": "토요일에 비가 올 거라서 집에서 영화를 보자고 했어요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"How was the weather last weekend?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "It was hot.",
-      "It was rainy.",
-      "It will snow.",
-      "It was cold."
-    ],
-    "answer": 2,
-    "explanation": "지난 주말 날씨를 물었는데 'It will snow.'는 앞으로 눈이 올 거라는 말이라 어울리지 않아요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's hot today. Tomorrow it will be windy and cool.\" 내일 입기에 알맞은 것은?",
-    "choices": [
-      "shorts",
-      "a swimsuit",
-      "a jacket",
-      "sandals"
-    ],
-    "answer": 2,
-    "explanation": "내일은 바람이 불고 시원할(windy and cool) 거라서 겉옷(jacket)이 알맞아요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It was sunny yesterday. It's cloudy today. It will rain tomorrow.\" 오늘 날씨는?",
-    "choices": [
-      "맑아요",
-      "흐려요",
-      "비가 와요",
-      "눈이 와요"
-    ],
-    "answer": 1,
-    "explanation": "today 뒤에 'cloudy'가 나왔으니 오늘은 흐려요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: How's the weather in Jeju? B: It's windy. But it's sunny in Seoul. 제주의 날씨는?",
-    "choices": [
-      "맑아요",
-      "바람이 불어요",
-      "비가 와요",
-      "눈이 와요"
-    ],
-    "answer": 1,
-    "explanation": "제주는 'windy', 서울은 'sunny'라고 했으니 제주는 바람이 불어요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"It's sunny. You should wear a cap.\"에서 모자를 써야 하는 까닭은?",
-    "choices": [
-      "비가 와서",
-      "바람이 불어서",
-      "햇볕이 강해서",
-      "눈이 와서"
-    ],
-    "answer": 2,
-    "explanation": "sunny는 맑고 햇볕이 나는 날이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Can you help me?\"의 뜻은?",
-    "choices": [
-      "나를 도와줬니?",
-      "나 좀 도와줄래?",
-      "도움이 필요하니?",
-      "내가 도와줄까?"
-    ],
-    "answer": 1,
-    "explanation": "Can you ~?는 부탁하는 말이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "부탁을 들어줄 때 하는 말은?",
-    "choices": [
-      "Yes, I am.",
-      "Me, too.",
-      "Sorry, I can't.",
-      "No problem."
-    ],
-    "answer": 3,
-    "explanation": "No problem.은 '문제없어, 해 줄게.'라는 뜻이에요. Me, too.와 Yes, I am.은 부탁을 들어주는 말이 아니에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can you play with me? B: ___ I have to clean my room.",
-    "choices": [
-      "Sure, I can.",
-      "Sorry, I can't.",
-      "Yes, let's go.",
-      "Okay, good idea."
-    ],
-    "answer": 1,
-    "explanation": "방을 청소해야 한다는 까닭을 말했으니 거절하는 'Sorry, I can't.'가 알맞아요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Can you close the door?\"에서 부탁하는 일은?",
-    "choices": [
-      "문 열기",
-      "창문 닫기",
-      "문 닫기",
-      "불 끄기"
-    ],
-    "answer": 2,
-    "explanation": "close the door는 문을 닫다예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"Please turn off the light.\"의 뜻은?",
-    "choices": [
-      "불을 켜 주세요.",
-      "불을 꺼 주세요.",
-      "문을 닫아 주세요.",
-      "TV를 꺼 주세요."
-    ],
-    "answer": 1,
-    "explanation": "turn off는 끄다예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: ___ you pass me the salt? B: Sure.",
-    "choices": [
-      "Can",
-      "Do",
-      "Are",
-      "Is"
-    ],
-    "answer": 0,
-    "explanation": "부탁할 때 Can you ~?를 써요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you carry this box?\"의 뜻은?",
-    "choices": [
-      "이 상자 살래?",
-      "이 상자 열어 줄래?",
-      "이 상자 버릴래?",
-      "이 상자 좀 옮겨 줄래?"
-    ],
-    "answer": 3,
-    "explanation": "carry는 나르다예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Could you say that again?\"의 뜻은?",
-    "choices": [
-      "다시 와 주시겠어요?",
-      "크게 말해 주시겠어요?",
-      "다시 말해 주시겠어요?",
-      "조용히 해 주시겠어요?"
-    ],
-    "answer": 2,
-    "explanation": "say that again은 다시 말하다예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you lend me your ruler?\"에서 빌려 달라는 것은?",
-    "choices": [
-      "지우개",
-      "자",
-      "연필",
-      "가위"
-    ],
-    "answer": 1,
-    "explanation": "ruler는 자예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? Can you ___ the window, please?",
-    "choices": [
-      "open",
-      "opens",
-      "opened",
-      "opening"
-    ],
-    "answer": 0,
-    "explanation": "Can you 뒤에는 동사 원래 모양을 써요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you clean the room with me?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "Sure.",
-      "Sorry, I'm busy.",
-      "Of course.",
-      "Yes, I am."
-    ],
-    "answer": 3,
-    "explanation": "Can you ~?로 부탁하면 Sure./Of course.로 들어주거나 Sorry, I'm busy.로 거절해요. 'Yes, I am.'은 어울리지 않아요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you water the plants?\" \"Sorry, I can't. I have to walk my dog.\" 거절한 까닭은?",
-    "choices": [
-      "식물이 싫어서",
-      "개를 산책시켜야 해서",
-      "물이 없어서",
-      "숙제를 하고 있어서"
-    ],
-    "answer": 1,
-    "explanation": "I have to walk my dog.은 '개를 산책시켜야 해.'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "친구에게 우산을 빌려 달라고 할 때 알맞은 말은?",
-    "choices": [
-      "Can I lend you my umbrella?",
-      "Can you lend me your umbrella?",
-      "Is this your new umbrella?",
-      "Did you buy a new umbrella?"
-    ],
-    "answer": 1,
-    "explanation": "Can you lend me ~?는 '나에게 ~을 빌려줄래?'라는 부탁이에요. 'Can I lend you ~?'는 내가 빌려주겠다는 말이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "가장 공손하게 부탁하는 말은?",
-    "choices": [
-      "Help me with this box now.",
-      "You help me now, okay?",
-      "Could you help me, please?",
-      "Can I help you, please?"
-    ],
-    "answer": 2,
-    "explanation": "Could you ~, please?가 공손하게 부탁하는 말이에요. 'Can I help you?'는 도와주겠다는 말이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Can you wait for me?\" \"Sure. Take your time.\" 대답의 뜻은?",
-    "choices": [
-      "아니, 서둘러.",
-      "그래, 시간이 없어.",
-      "미안, 기다릴 수 없어.",
-      "그래, 천천히 해."
-    ],
-    "answer": 3,
-    "explanation": "Take your time.은 천천히 하라는 뜻이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Sora: I'm sad. It's raining, so I can't go to the zoo today. 소라가 슬픈 까닭은?",
-    "choices": [
-      "동물원에 다녀와서",
-      "비 때문에 동물원에 못 가서",
-      "비가 그쳐서",
-      "동물원이 너무 멀어서"
-    ],
-    "answer": 1,
-    "explanation": "비가 와서 오늘 동물원에 갈 수 없다고 했어요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "발표 전에 떨리는 기분을 나타내는 낱말은?",
-    "choices": [
-      "nervous",
-      "proud",
-      "bored",
-      "glad"
-    ],
-    "answer": 0,
-    "explanation": "'nervous'는 '긴장한, 떨리는'이라는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I'm angry because my dog ate my cake.\" 화난 까닭은?",
-    "choices": [
-      "강아지가 케이크를 먹어서",
-      "케이크를 선물로 받아서",
-      "강아지가 아파서",
-      "케이크를 못 만들어서"
-    ],
-    "answer": 0,
-    "explanation": "because 뒤에 강아지가 내 케이크를 먹었다는 까닭이 나와요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"How do you feel?\"은 무엇을 묻는 말일까요?",
-    "choices": [
-      "날씨",
-      "나이",
-      "이름",
-      "기분"
-    ],
-    "answer": 3,
-    "explanation": "'How do you feel?'은 지금 기분이 어떤지 묻는 말이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I'm scared of the dark.\" 이 사람이 무서워하는 것은?",
-    "choices": [
-      "어둠",
-      "개",
-      "높은 곳",
-      "물"
-    ],
-    "answer": 0,
-    "explanation": "'dark'는 '어둠'이라서 어둠을 무서워한다는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "버스를 30분 동안 기다렸는데 오지 않았어요. 이때 기분으로 가장 알맞은 것은?",
-    "choices": [
-      "happy",
-      "proud",
-      "angry",
-      "excited"
-    ],
-    "answer": 2,
-    "explanation": "오래 기다려도 버스가 오지 않으면 화가 나요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: I'm worried about the test. B: ___",
-    "choices": [
-      "Don't worry. Good luck!",
-      "Congratulations to you!",
-      "You're welcome, my friend.",
-      "Happy birthday to you!"
-    ],
-    "answer": 0,
-    "explanation": "시험을 걱정하는 친구에게는 걱정하지 말라며 행운을 빌어 줘요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? A: You look happy. What's up? B: ___",
-    "choices": [
-      "I won the swimming race.",
-      "I lost my bag at school.",
-      "My puppy is sick in bed.",
-      "I fell off my bike today."
-    ],
-    "answer": 0,
-    "explanation": "기뻐 보인다고 했으니 수영 대회에서 이긴 일이 알맞아요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'surprised'의 뜻은?",
-    "choices": [
-      "졸린",
-      "화난",
-      "놀란",
-      "슬픈"
-    ],
-    "answer": 2,
-    "explanation": "surprised는 놀란이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "\"I'm bored.\"라고 말하는 친구의 기분은?",
-    "choices": [
-      "신나요",
-      "지루해요",
-      "무서워요",
-      "배불러요"
-    ],
-    "answer": 1,
-    "explanation": "bored는 지루한이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"How do you feel?\"에 대한 대답으로 알맞지 않은 것은?",
-    "choices": [
-      "It's sunny.",
-      "I'm excited.",
-      "I feel great.",
-      "I'm nervous."
-    ],
-    "answer": 0,
-    "explanation": "기분을 물었는데 날씨로 답하면 안 어울려요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I'm excited because I'm going to the amusement park.\" 신이 난 까닭은?",
-    "choices": [
-      "시험이 끝나서",
-      "생일이어서",
-      "강아지를 받아서",
-      "놀이공원에 갈 거라서"
-    ],
-    "answer": 3,
-    "explanation": "I'm going to the amusement park는 놀이공원에 갈 거라는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "\"My friend broke my pencil. But he said sorry and gave me a new one.\" 나의 기분 변화로 알맞은 것은?",
-    "choices": [
-      "happy → angry",
-      "angry → happy",
-      "sad → scared",
-      "bored → angry"
-    ],
-    "answer": 1,
-    "explanation": "연필이 부러져 화가 났다가, 친구가 사과하고 새 연필을 줘서 기뻐졌어요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"I'm proud of you.\"의 뜻은?",
-    "choices": [
-      "네가 걱정돼.",
-      "네가 자랑스러워.",
-      "네가 미워.",
-      "네가 무서워."
-    ],
-    "answer": 1,
-    "explanation": "proud는 자랑스러운이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "\"Cheer up!\"은 어떤 친구에게 하는 말일까요?",
-    "choices": [
-      "슬퍼하는 친구",
-      "기뻐하는 친구",
-      "배부른 친구",
-      "신난 친구"
-    ],
-    "answer": 0,
-    "explanation": "Cheer up!은 기운 내라는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'I play soccer every Saturday.'의 뜻은 무엇일까요?",
-    "choices": [
-      "나는 이번 토요일에만 축구를 해요.",
-      "나는 토요일마다 축구를 보러 가요.",
-      "나는 토요일마다 축구를 해요.",
-      "나는 어제 토요일에 축구를 했어요."
-    ],
-    "answer": 2,
-    "explanation": "every는 '~마다'라는 뜻이라서 토요일마다 축구를 한다는 말이에요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "'I play soccer on Saturdays.'와 'I play soccer every Saturday.'는 뜻이 비슷해요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "on Saturdays와 every Saturday 모두 '토요일마다'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Is today Tuesday? B: No, it's the day after Tuesday. 오늘은 무슨 요일일까요?",
-    "choices": [
-      "Wednesday",
-      "Monday",
-      "Thursday",
-      "Friday"
-    ],
-    "answer": 0,
-    "explanation": "Tuesday의 다음 날은 Wednesday예요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'I have swimming lessons on Tuesdays and Thursdays.' 수영 수업이 없는 요일은?",
-    "choices": [
-      "Tuesday",
-      "Thursday",
-      "Tuesday and Thursday",
-      "Wednesday"
-    ],
-    "answer": 3,
-    "explanation": "수영 수업은 화요일과 목요일에 있고 수요일에는 없어요.",
-    "semester": 1,
-    "unit": "요일"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "Mia: 'I have piano lessons on Mondays and Fridays. I have swimming on Wednesdays.' 오늘이 Tuesday라면 가장 먼저 있는 수업은?",
-    "choices": [
-      "piano on Monday",
-      "swimming on Wednesday",
-      "piano on Friday",
-      "swimming on Tuesday"
-    ],
-    "answer": 1,
-    "explanation": "화요일 다음 날이 수요일이라서 수영 수업이 가장 먼저예요.",
-    "semester": 1,
-    "unit": "요일"
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8370,7 +5344,8 @@
     "answer": 1,
     "explanation": "춤추는 것을 좋아하므로 dancer가 되고 싶다고 말해야 해요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 1,
@@ -8383,7 +5358,8 @@
     "answer": 1,
     "explanation": "want to be는 '~이 되고 싶다'는 뜻이라 지금 치과 의사라는 말이 아니에요. '나는 치과 의사가 되고 싶어요.'라는 뜻이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8398,7 +5374,8 @@
     "answer": 3,
     "explanation": "He 뒤에는 wants를 쓰고 'to be'를 이어서 써요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영02-02]"
   },
   {
     "difficulty": 2,
@@ -8413,7 +5390,8 @@
     "answer": 0,
     "explanation": "비행기를 조종하는 직업은 pilot이라서 Jun이에요.",
     "semester": 2,
-    "unit": "장래 희망"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -8428,80 +5406,8 @@
     "answer": 2,
     "explanation": "비행기를 조종하는 사람은 pilot, 달에 가는 사람은 astronaut예요.",
     "semester": 2,
-    "unit": "장래 희망"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'By taxi.'의 뜻은 무엇일까요?",
-    "choices": [
-      "기차로 가요.",
-      "걸어서 가요.",
-      "택시로 가요.",
-      "자전거로 가요."
-    ],
-    "answer": 2,
-    "explanation": "by taxi는 택시를 타고 간다는 뜻이에요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'Take the subway.'는 '지하철을 타세요.'라는 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "take는 탈것과 함께 쓰면 '타다', subway는 지하철이에요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "The bus comes at 9:10 and 9:40. It takes 20 minutes to get to the zoo. 9:40 버스를 타면 동물원에 몇 시에 도착할까요?",
-    "choices": [
-      "10:00",
-      "9:30",
-      "9:50",
-      "10:20"
-    ],
-    "answer": 0,
-    "explanation": "9시 40분에서 20분이 지나면 10시예요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'Tom walks to school, but Amy goes by bike.' 학교에 걸어서 가는 사람은?",
-    "choices": [
-      "Amy",
-      "둘 다",
-      "아무도 없다",
-      "Tom"
-    ],
-    "answer": 3,
-    "explanation": "walk는 걷는다는 뜻이라서 걸어서 가는 사람은 Tom이에요.",
-    "semester": 1,
-    "unit": "교통수단"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "I walk to school. It takes 15 minutes. By bike, it takes only 5 minutes. 자전거로 8시까지 학교에 가려면 늦어도 몇 시에 출발해야 할까요?",
-    "choices": [
-      "7:45",
-      "7:55",
-      "8:05",
-      "7:50"
-    ],
-    "answer": 1,
-    "explanation": "자전거로 5분 걸리므로 8시 5분 전인 7시 55분에 출발해요.",
-    "semester": 1,
-    "unit": "교통수단"
+    "unit": "I Want to Be a Cook",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8515,8 +5421,9 @@
     ],
     "answer": 1,
     "explanation": "near는 가까이에 있다는 뜻이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -8528,8 +5435,9 @@
     ],
     "answer": 0,
     "explanation": "between A and B는 'A와 B 사이에'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8543,8 +5451,9 @@
     ],
     "answer": 3,
     "explanation": "under는 아래에라는 뜻이라서 고양이가 가방보다 낮은 곳에 있어요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -8558,8 +5467,9 @@
     ],
     "answer": 0,
     "explanation": "on은 위에, next to는 옆에라는 뜻이에요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -8573,8 +5483,9 @@
     ],
     "answer": 2,
     "explanation": "빨간 상자는 파란 상자 위에, 파란 상자는 초록 상자 위에 있어서 초록 상자가 맨 아래예요.",
-    "semester": 1,
-    "unit": "위치 말하기"
+    "semester": 2,
+    "unit": "What’s in the Bedroom?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8589,7 +5500,8 @@
     "answer": 2,
     "explanation": "cooked는 요리했다는 뜻이고 yesterday는 어제라는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -8602,7 +5514,8 @@
     "answer": 0,
     "explanation": "went는 갔다는 뜻이고 last Sunday는 지난 일요일이에요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8617,7 +5530,8 @@
     "answer": 0,
     "explanation": "어젯밤 일이라서 과거형을 써요. read의 과거형도 read예요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -8632,7 +5546,8 @@
     "answer": 3,
     "explanation": "먼저 질문하고 대답한 뒤 이어서 묻고 답하는 순서가 자연스러워요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-06]"
   },
   {
     "difficulty": 2,
@@ -8647,7 +5562,8 @@
     "answer": 1,
     "explanation": "월요일 하루 전이 일요일, 이틀 전이 토요일이에요.",
     "semester": 2,
-    "unit": "과거 일 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8662,7 +5578,8 @@
     "answer": 1,
     "explanation": "ours는 우리의 것이라는 뜻이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -8675,7 +5592,8 @@
     "answer": 0,
     "explanation": "theirs는 그들의 것이라는 뜻이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8690,7 +5608,8 @@
     "answer": 3,
     "explanation": "hers는 그녀의 것이라는 뜻이에요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -8705,7 +5624,8 @@
     "answer": 0,
     "explanation": "hers는 '그녀의 것'이라서 여동생의 모자를 뜻해요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -8720,7 +5640,8 @@
     "answer": 2,
     "explanation": "Yuna가 자기 것이라고 했으므로 주인은 Yuna예요.",
     "semester": 1,
-    "unit": "물건 주인"
+    "unit": "Whose Bottle Is This?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8735,7 +5656,8 @@
     "answer": 2,
     "explanation": "turn right at the bank는 은행에서 오른쪽으로 돈다는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영02-05]"
   },
   {
     "difficulty": 1,
@@ -8748,7 +5670,8 @@
     "answer": 0,
     "explanation": "second는 두 번째라는 뜻이고 turn left는 왼쪽으로 돌라는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8763,7 +5686,8 @@
     "answer": 0,
     "explanation": "First, Next, Finally 순서로 길을 안내해요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-01]"
   },
   {
     "difficulty": 2,
@@ -8778,22 +5702,24 @@
     "answer": 3,
     "explanation": "Take bus number 5는 5번 버스를 타라는 뜻이에요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
     "type": "choice4",
     "question": "The bank is across from the school. The post office is next to the bank. 학교 건너편 건물 옆에 있는 곳은?",
     "choices": [
-      "school",
+      "hospital",
       "post office",
       "bank",
-      "park"
+      "bookstore"
     ],
     "answer": 1,
     "explanation": "학교 건너편은 bank이고 그 옆에 post office가 있어요.",
     "semester": 2,
-    "unit": "길 묻고 답하기"
+    "unit": "Where Is the Bookstore?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8808,7 +5734,8 @@
     "answer": 1,
     "explanation": "May I ~?는 허락을 구하는 말이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -8821,7 +5748,8 @@
     "answer": 0,
     "explanation": "'Yes, you may.'는 해도 좋다는 뜻이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8836,7 +5764,8 @@
     "answer": 3,
     "explanation": "도서관은 조용히 해야 해서 허락하지 않는 대답이 알맞아요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -8851,7 +5780,8 @@
     "answer": 0,
     "explanation": "Sorry와 이유를 말했으므로 거절한 것이에요.",
     "semester": 1,
-    "unit": "허락 구하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -8866,80 +5796,8 @@
     "answer": 2,
     "explanation": "펜이 집에 있어서 빌려줄 수 없다고 말하는 것이 알맞아요.",
     "semester": 1,
-    "unit": "허락 구하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'She can sing well.'의 뜻은 무엇일까요?",
-    "choices": [
-      "그녀는 노래를 못해요.",
-      "그녀는 노래를 듣고 있어요.",
-      "그녀는 노래를 잘해요.",
-      "그녀는 노래를 부르고 싶어요."
-    ],
-    "answer": 2,
-    "explanation": "can은 할 수 있다는 뜻이고 well은 잘이라는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'can't'는 'cannot'을 줄여 쓴 말이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "can't는 할 수 없다는 뜻이고 cannot을 줄인 말이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Ann은 swim O, ski X, Ben은 swim X, ski O, Cara는 swim X, ski X, Dan은 swim O, ski O예요. ski를 할 수 없는 사람은 몇 명인가요?",
-    "choices": [
-      "1명",
-      "2명",
-      "3명",
-      "4명"
-    ],
-    "answer": 1,
-    "explanation": "ski가 X인 사람은 Ann과 Cara, 2명이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'Jun can't swim, so he doesn't go to the beach.' 준이 해변에 가지 않는 까닭은?",
-    "choices": [
-      "수영을 잘해서",
-      "해변이 멀어서",
-      "친구가 없어서",
-      "수영을 못해서"
-    ],
-    "answer": 3,
-    "explanation": "can't swim은 수영을 못한다는 뜻이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "할 수 있는 것: Amy-swim, dance / Ben-dance, cook / Cara-swim, cook / Dan-swim, dance, cook. 두 가지만 할 수 있는 사람은 몇 명인가요?",
-    "choices": [
-      "1명",
-      "2명",
-      "3명",
-      "4명"
-    ],
-    "answer": 2,
-    "explanation": "Amy, Ben, Cara는 두 가지씩, Dan은 세 가지를 할 수 있어서 3명이에요.",
-    "semester": 1,
-    "unit": "할 수 있는 일 말하기"
+    "unit": "Can I Sit Here?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -8954,7 +5812,8 @@
     "answer": 3,
     "explanation": "목·금·토요일에는 할 일이 있고 일요일에만 시간이 있어요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -8967,7 +5826,8 @@
     "answer": 1,
     "explanation": "How about ~?는 '~하는 게 어때?'라고 제안하는 말이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -8982,7 +5842,8 @@
     "answer": 3,
     "explanation": "Sorry와 이유를 말했으므로 제안을 거절한 것이에요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -8997,7 +5858,8 @@
     "answer": 2,
     "explanation": "B가 점심 뒤에는 바빠서 저녁 뒤(after dinner)를 제안했고 A가 좋다고 했어요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -9012,7 +5874,8 @@
     "answer": 2,
     "explanation": "Ben이 4시 30분을 제안했고 Mia가 좋다고 했어요.",
     "semester": 1,
-    "unit": "제안하기"
+    "unit": "Let’s Go Camping",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9027,7 +5890,8 @@
     "answer": 2,
     "explanation": "두 사람 모두 orange juice를 주문했어요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -9040,7 +5904,8 @@
     "answer": 0,
     "explanation": "Would you like ~?는 ~을 드시겠어요라는 뜻이에요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -9055,7 +5920,8 @@
     "answer": 0,
     "explanation": "주문을 묻고 음식을 말한 뒤 마실 것을 묻고 답하는 순서예요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-01]"
   },
   {
     "difficulty": 2,
@@ -9070,7 +5936,8 @@
     "answer": 3,
     "explanation": "음식을 주문한 뒤에는 마실 것을 묻는 말이 자연스러워요.",
     "semester": 1,
-    "unit": "음식 주문하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 3,
@@ -9085,80 +5952,8 @@
     "answer": 1,
     "explanation": "샌드위치는 같고 주스 대신 우유를 주문했어요.",
     "semester": 1,
-    "unit": "음식 주문하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'eighteen'이 뜻하는 수는 무엇일까요?",
-    "choices": [
-      "80",
-      "18",
-      "8",
-      "28"
-    ],
-    "answer": 1,
-    "explanation": "eighteen은 18이고 eighty는 80이에요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "A: The pen is 1 dollar. B: It's too expensive. B의 반응은 알맞아요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "1달러는 싼 값이라 'too expensive(너무 비싸)'는 어울리지 않아요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A bag is 12 dollars. I have 20 dollars. 가방을 사면 거스름돈은 얼마일까요?",
-    "choices": [
-      "7 dollars",
-      "12 dollars",
-      "32 dollars",
-      "8 dollars"
-    ],
-    "answer": 3,
-    "explanation": "20 − 12 = 8이므로 8달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "An apple is 2 dollars. A banana is 1 dollar. 사과 두 개와 바나나 세 개는 모두 얼마일까요?",
-    "choices": [
-      "7 dollars",
-      "5 dollars",
-      "9 dollars",
-      "12 dollars"
-    ],
-    "answer": 0,
-    "explanation": "2 × 2 = 4, 1 × 3 = 3이므로 모두 7달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A shirt is 15 dollars. Today it's 5 dollars off. 셔츠 두 벌을 사면 모두 얼마일까요?",
-    "choices": [
-      "30 dollars",
-      "25 dollars",
-      "20 dollars",
-      "10 dollars"
-    ],
-    "answer": 2,
-    "explanation": "한 벌이 10달러이므로 두 벌은 20달러예요.",
-    "semester": 2,
-    "unit": "가격 묻고 답하기"
+    "unit": "Do You Want Some Soup?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -9173,7 +5968,8 @@
     "answer": 2,
     "explanation": "India는 인도예요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -9186,7 +5982,8 @@
     "answer": 1,
     "explanation": "그녀(she)의 출신을 물었으니 'She's from Spain.'처럼 답해요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영02-07]"
   },
   {
     "difficulty": 2,
@@ -9201,7 +5998,8 @@
     "answer": 0,
     "explanation": "서로 다른 나라에서 왔으므로 아니라고 답해요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9216,7 +6014,8 @@
     "answer": 3,
     "explanation": "from은 출신, live in은 사는 곳을 나타내요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -9231,7 +6030,8 @@
     "answer": 1,
     "explanation": "Leo는 'I'm from Korea.'라고 말했어요.",
     "semester": 1,
-    "unit": "출신 말하기"
+    "unit": "I’m from Spain",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -9246,7 +6046,8 @@
     "answer": 1,
     "explanation": "wake up은 잠에서 깬다는 뜻이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -9259,7 +6060,8 @@
     "answer": 1,
     "explanation": "in the morning은 '아침에'라는 뜻이라 아침에 세수한다는 말이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -9274,7 +6076,8 @@
     "answer": 3,
     "explanation": "8시 30분보다 30분 전인 8시에 출발해야 해요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9289,7 +6092,8 @@
     "answer": 0,
     "explanation": "before dinner는 저녁 식사 전이라는 뜻이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -9304,153 +6108,8 @@
     "answer": 2,
     "explanation": "6:30에서 20분 뒤는 6:50이고 여기에 40분을 더하면 7:30이에요.",
     "semester": 1,
-    "unit": "하루 일과 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'Keep quiet.'의 뜻은 무엇일까요?",
-    "choices": [
-      "빨리 하세요.",
-      "앞으로 가세요.",
-      "조용히 하세요.",
-      "손을 씻으세요."
-    ],
-    "answer": 2,
-    "explanation": "Keep quiet.은 조용히 하라는 뜻이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'You must listen to your teacher.'는 선생님 말씀을 들어야 한다는 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "must는 해야 한다는 뜻이고 listen to는 ~을 듣다예요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "동물원에서 지켜야 할 규칙으로 알맞은 것은?",
-    "choices": [
-      "Don't touch the animals.",
-      "Run in the zoo.",
-      "Hit the animals.",
-      "Drop paper on the ground."
-    ],
-    "answer": 0,
-    "explanation": "동물을 만지지 않는 것이 동물원 규칙이에요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "수업 시간에 말하기 전에 지켜야 할 규칙은?",
-    "choices": [
-      "Sing your answer.",
-      "Stand on the chair.",
-      "Run to the door.",
-      "Put up your hand."
-    ],
-    "answer": 3,
-    "explanation": "말하기 전에 손을 들어 허락을 받아야 해요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "도서관 표지판에 'No food. No drink. No phone.'이라고 쓰여 있어요. 해도 되는 것은?",
-    "choices": [
-      "Eat a sandwich.",
-      "Read a book.",
-      "Drink some juice.",
-      "Use a phone."
-    ],
-    "answer": 1,
-    "explanation": "먹기, 마시기, 전화 사용이 모두 금지라서 책 읽기만 알맞아요.",
-    "semester": 2,
-    "unit": "규칙 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "빈칸에 알맞은 말은? My ___ hurt. I can't read the book well.",
-    "choices": [
-      "ears",
-      "legs",
-      "eyes",
-      "arms"
-    ],
-    "answer": 2,
-    "explanation": "책을 잘 읽을 수 없다고 했으니 아픈 곳은 눈(eyes)이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'You should go to bed early.'는 일찍 자라는 조언이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "should는 ~하는 게 좋다는 뜻이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'I have a headache and a runny nose.'에서 나타난 증상은?",
-    "choices": [
-      "배가 아프고 열이 난다",
-      "이가 아프고 목이 아프다",
-      "다리가 아프고 콧물이 난다",
-      "머리가 아프고 콧물이 난다"
-    ],
-    "answer": 3,
-    "explanation": "headache는 두통이고 runny nose는 콧물이 나는 증상이에요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'My eyes hurt because I watched TV too long.'에 알맞은 조언은?",
-    "choices": [
-      "Don't watch TV too long.",
-      "Eat more ice cream today.",
-      "Run fast around the room.",
-      "Play games all day long."
-    ],
-    "answer": 0,
-    "explanation": "TV를 오래 봐서 눈이 아프므로 TV를 오래 보지 말라고 조언해요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "Ben: 'I ate too much candy. Now my tooth hurts and I have a stomachache.' 두 증상에 알맞은 조언은?",
-    "choices": [
-      "Eat more candy every day.",
-      "Drink cold juice all day.",
-      "Don't eat too much candy.",
-      "Run in the park all day."
-    ],
-    "answer": 2,
-    "explanation": "사탕을 많이 먹어서 생긴 증상이라서 사탕을 많이 먹지 말라고 해요.",
-    "semester": 2,
-    "unit": "아픈 곳 말하기"
+    "unit": "What Time Do You Get Up?",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9465,7 +6124,8 @@
     "answer": 1,
     "explanation": "동물원에 간 날이 월요일이고, the next day는 '그다음 날'이라 화요일이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-06]"
   },
   {
     "difficulty": 1,
@@ -9478,7 +6138,8 @@
     "answer": 1,
     "explanation": "walked는 walk(걷다)를 지난 일로 말한 것이라 학교에 걸어갔다는 뜻이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -9493,7 +6154,8 @@
     "answer": 1,
     "explanation": "played tennis는 테니스를 쳤다는 뜻이고, 테니스를 친 사람은 Ben이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9508,7 +6170,8 @@
     "answer": 1,
     "explanation": "Yesterday was my birthday.라고 했으니 생일이라서 친구들이 왔어요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9523,7 +6186,8 @@
     "answer": 1,
     "explanation": "Ann은 Jeju와 Busan, Ben은 Busan에만 갔으니 둘 다 간 곳은 Busan이에요.",
     "semester": 2,
-    "unit": "과거 경험 말하기"
+    "unit": "I Went to the Beach",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 1,
@@ -9537,8 +6201,9 @@
     ],
     "answer": 1,
     "explanation": "be going to는 앞으로 할 일을 나타내요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 1,
@@ -9550,8 +6215,9 @@
     ],
     "answer": 1,
     "explanation": "next Friday는 '다음 금요일'이에요. 지난 금요일은 last Friday예요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-03]"
   },
   {
     "difficulty": 2,
@@ -9565,8 +6231,9 @@
     ],
     "answer": 3,
     "explanation": "B는 영화를 볼 계획이라고 말했어요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 2,
@@ -9580,8 +6247,9 @@
     ],
     "answer": 0,
     "explanation": "soccer 수업은 수요일에 있어요.",
-    "semester": 1,
-    "unit": "계획 말하기"
+    "semester": 2,
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   },
   {
     "difficulty": 3,
@@ -9595,299 +6263,8 @@
     ],
     "answer": 2,
     "explanation": "등산은 하지 않고 집에서 책을 읽을 계획이에요.",
-    "semester": 1,
-    "unit": "계획 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I have nothing to do today. B: Why don't you take a walk in the park? B가 권한 일은?",
-    "choices": [
-      "공원 청소하기",
-      "공원에서 산책하기",
-      "공원에서 공 차기",
-      "집에서 쉬기"
-    ],
-    "answer": 1,
-    "explanation": "take a walk는 '산책하다'예요. Why don't you ~?로 권했어요.",
     "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'You shouldn't play games all day.'는 하루 종일 게임을 하는 게 좋다는 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "shouldn't는 ~하지 않는 게 좋다는 뜻이에요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: I can't sleep at night. B: ___ 빈칸에 알맞은 말은?",
-    "choices": [
-      "Don't drink coffee at night.",
-      "Drink more coffee at night.",
-      "Run around before bed.",
-      "Watch TV all night long."
-    ],
-    "answer": 0,
-    "explanation": "밤에 잠이 안 오면 커피를 마시지 않는 것이 좋아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: My bag is too heavy. B: ___ 빈칸에 알맞은 말은?",
-    "choices": [
-      "Put in more books.",
-      "Buy a heavier bag.",
-      "Carry two more bags.",
-      "Take out some books."
-    ],
-    "answer": 3,
-    "explanation": "가방이 무거우면 책을 몇 권 빼는 것이 알맞아요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "Sujin wants to make new friends. Her teacher says, 'You should smile and say hello first.' 선생님의 조언 두 가지는?",
-    "choices": [
-      "웃기, 먼저 인사하기",
-      "웃기, 혼자 놀기",
-      "먼저 인사하기, 일찍 자기",
-      "노래하기, 먼저 인사하기"
-    ],
-    "answer": 0,
-    "explanation": "smile은 웃다, say hello first는 먼저 인사하다예요.",
-    "semester": 2,
-    "unit": "조언하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'It's cool today.'의 뜻은 무엇일까요?",
-    "choices": [
-      "오늘은 더워요.",
-      "오늘은 시원해요.",
-      "오늘은 비가 와요.",
-      "오늘은 눈이 와요."
-    ],
-    "answer": 1,
-    "explanation": "cool은 시원하다는 뜻이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'It will be windy.'는 지금 바람이 분다는 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "'will be'는 앞으로의 날씨를 말해요. '바람이 불 거예요.'라는 뜻이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "월요일은 sunny, 화요일은 rainy, 수요일은 cloudy, 목요일은 sunny예요. 우산이 가장 필요한 날은?",
-    "choices": [
-      "Monday",
-      "Wednesday",
-      "Thursday",
-      "Tuesday"
-    ],
-    "answer": 3,
-    "explanation": "비가 오는 날은 화요일이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Let's play soccer outside. B: Look! It's raining. B가 하려는 말은?",
-    "choices": [
-      "비가 와서 밖에서 하기 어려워요",
-      "날씨가 좋아서 밖에서 해요",
-      "비가 그쳐서 밖에서 해요",
-      "축구를 하기 싫어요"
-    ],
-    "answer": 0,
-    "explanation": "비가 오는 것을 보라고 한 것은 밖에서 놀기 어렵다는 뜻이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "It was rainy yesterday, and it will be sunny tomorrow. Today is Wednesday. 앞으로 맑을 날은 무슨 요일일까요?",
-    "choices": [
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday"
-    ],
-    "answer": 2,
-    "explanation": "내일은 수요일 다음 날인 목요일이에요.",
-    "semester": 1,
-    "unit": "날씨 말하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'Could you turn down the music?'의 뜻은 무엇일까요?",
-    "choices": [
-      "음악을 틀어 주시겠어요?",
-      "음악 소리를 줄여 주시겠어요?",
-      "음악을 꺼도 될까요?",
-      "음악을 좋아하세요?"
-    ],
-    "answer": 1,
-    "explanation": "Could you ~?는 공손하게 부탁하는 말이고, turn down은 소리를 줄이는 거예요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'Can I open the door?'는 상대에게 문을 열어 달라고 부탁하는 말이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "Can I ~?는 내가 해도 되는지 허락을 구하는 말이에요. 문을 열어 달라고 부탁할 때는 'Can you open the door?'라고 해요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can you carry this bag for me? B: Sorry, my hands are full. B의 대답의 뜻은?",
-    "choices": [
-      "가방을 들어 줄 수 없다",
-      "가방을 기꺼이 들어 준다",
-      "가방을 달라고 했다",
-      "가방을 샀다"
-    ],
-    "answer": 0,
-    "explanation": "Sorry와 이유를 말했으므로 거절한 것이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "A: Can you lend me a pencil? B: Sure. Here you are. 이 대화 뒤에 일어날 일은?",
-    "choices": [
-      "연필을 산다",
-      "연필을 거절한다",
-      "연필을 잃어버린다",
-      "연필을 빌려준다"
-    ],
-    "answer": 3,
-    "explanation": "Sure.는 부탁을 들어주는 말, Here you are.는 물건을 건네줄 때 하는 말이에요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "A: Could you help me with my homework? B: Sorry, I'm busy now. Could you ask me after dinner? A: Sure. 숙제를 도와주는 때는?",
-    "choices": [
-      "지금 바로",
-      "저녁 식사 후",
-      "저녁 식사 전",
-      "내일 아침"
-    ],
-    "answer": 1,
-    "explanation": "B는 지금 바쁘니 저녁 식사 후에 부탁해 달라고 했어요.",
-    "semester": 1,
-    "unit": "부탁하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "'shy'의 뜻은 무엇일까요?",
-    "choices": [
-      "화난",
-      "부끄러워하는",
-      "기쁜",
-      "피곤한"
-    ],
-    "answer": 1,
-    "explanation": "shy는 부끄러움을 타는 모습을 나타내요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "'I'm mad.'는 화가 났다는 뜻이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "mad는 화가 났다는 뜻이에요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'I'm sad because my friend is sick.'에서 슬픈 까닭은?",
-    "choices": [
-      "시험을 못 봐서",
-      "선물을 받아서",
-      "비가 와서",
-      "친구가 아파서"
-    ],
-    "answer": 3,
-    "explanation": "because 뒤에 슬픈 까닭인 친구가 아프다는 말이 나와요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'I got a bad score on the test. I'm ___.'에 알맞은 말은?",
-    "choices": [
-      "sad",
-      "happy",
-      "excited",
-      "proud"
-    ],
-    "answer": 0,
-    "explanation": "시험을 못 봤으니 슬픈 기분이 알맞아요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "Tom lost his cap. He looked for it for an hour. Then he found it. Tom의 기분 변화로 알맞은 것은?",
-    "choices": [
-      "happy → worried",
-      "angry → sad",
-      "worried → happy",
-      "tired → shy"
-    ],
-    "answer": 2,
-    "explanation": "모자를 잃어 걱정하다가 찾아서 기뻐졌어요.",
-    "semester": 1,
-    "unit": "감정 표현하기"
+    "unit": "I Will Join a Ski Camp",
+    "standard": "[6영01-04]"
   }
 ]
