@@ -12,7 +12,8 @@
     "answer": 0,
     "explanation": "배추흰나비 애벌레는 배추, 케일 같은 잎을 먹어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -27,7 +28,8 @@
     "answer": 1,
     "explanation": "배추흰나비는 번데기 단계를 거치는 완전 탈바꿈을 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -42,7 +44,8 @@
     "answer": 2,
     "explanation": "닭과 거북은 알을 낳고, 개·고래·소는 새끼를 낳아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -57,7 +60,8 @@
     "answer": 3,
     "explanation": "올챙이는 아가미와 꼬리가 있어 개구리와 모습이 매우 달라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -72,7 +76,8 @@
     "answer": 0,
     "explanation": "소리가 나는 물체는 모두 떨려요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 1,
@@ -87,7 +92,8 @@
     "answer": 1,
     "explanation": "세게 칠수록 큰 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -100,7 +106,8 @@
     "answer": 1,
     "explanation": "소리는 공기, 물, 철 같은 물질이 있어야 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -115,7 +122,8 @@
     "answer": 2,
     "explanation": "지구 표면은 바다가 육지보다 훨씬 넓어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 1,
@@ -130,7 +138,8 @@
     "answer": 0,
     "explanation": "지구를 둘러싼 공기를 대기라고 해요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -145,7 +154,8 @@
     "answer": 1,
     "explanation": "나무·유리·고무는 재료인 물질이고, 컵은 물체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -160,7 +170,8 @@
     "answer": 2,
     "explanation": "쇠 숟가락은 금속으로 만들었어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -175,7 +186,8 @@
     "answer": 3,
     "explanation": "고무는 잘 늘어나고 탄성이 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -190,7 +202,8 @@
     "answer": 0,
     "explanation": "같은 크기라면 쇠가 나무보다 무거워요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -205,7 +218,8 @@
     "answer": 1,
     "explanation": "애벌레는 여러 번 허물을 벗으며 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -220,22 +234,24 @@
     "answer": 2,
     "explanation": "메뚜기는 번데기 없이 자라는 불완전 탈바꿈을 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "병아리가 자라 닭이 되는 과정에서 볼 수 있는 변화는?",
     "choices": [
-      "날개가 사라져요",
-      "알로 되돌아가요",
-      "아가미가 생겨요",
-      "깃털이 자라고 몸이 커져요"
+      "날개가 점점 사라져요",
+      "다시 알로 되돌아가요",
+      "몸에 아가미가 생겨요",
+      "깃털이 나고 몸이 커져요"
     ],
     "answer": 3,
     "explanation": "병아리는 깃털이 자라고 몸이 커지며 닭이 돼요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -250,7 +266,8 @@
     "answer": 1,
     "explanation": "개는 새끼를 낳고, 닭과 개구리는 알을 낳아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -265,7 +282,8 @@
     "answer": 1,
     "explanation": "곤충의 몸은 머리, 가슴, 배로 나뉘어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -280,7 +298,8 @@
     "answer": 2,
     "explanation": "곤충은 가슴에 다리 3쌍, 모두 6개가 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -295,7 +314,8 @@
     "answer": 2,
     "explanation": "팽팽한 실은 고체예요. 실 전화기는 고체인 실을 통해 소리가 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -308,7 +328,8 @@
     "answer": 0,
     "explanation": "소리는 물 같은 액체를 통해서도 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -323,7 +344,8 @@
     "answer": 0,
     "explanation": "실로폰은 짧은 막대일수록 높은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -338,7 +360,8 @@
     "answer": 1,
     "explanation": "소리가 부딪혀 되돌아오는 것을 반사라고 해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -353,7 +376,8 @@
     "answer": 2,
     "explanation": "부드러운 재료는 소리를 흡수해 소음을 줄여요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -366,7 +390,8 @@
     "answer": 0,
     "explanation": "지구의 물 대부분은 짠 바닷물이에요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 1,
@@ -381,7 +406,8 @@
     "answer": 0,
     "explanation": "지구에는 물과 공기가 있고 온도가 알맞아요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -396,7 +422,8 @@
     "answer": 1,
     "explanation": "플라스틱은 가볍고 잘 깨지지 않아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -411,7 +438,8 @@
     "answer": 1,
     "explanation": "번데기는 먹지 않고 거의 움직이지 않아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -426,7 +454,8 @@
     "answer": 2,
     "explanation": "알-애벌레-번데기-어른벌레를 거치면 완전 탈바꿈이에요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -441,7 +470,8 @@
     "answer": 3,
     "explanation": "잠자리 애벌레(수채)는 물속에서 살아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -456,7 +486,8 @@
     "answer": 0,
     "explanation": "개구리는 알에서 올챙이를 거쳐 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -471,7 +502,8 @@
     "answer": 1,
     "explanation": "새끼를 낳는 동물은 대부분 젖을 먹여 길러요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -486,7 +518,8 @@
     "answer": 2,
     "explanation": "팽팽할수록 빨리 떨려 높은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -501,7 +534,8 @@
     "answer": 3,
     "explanation": "소리의 크고 작은 정도를 소리의 세기라고 해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -516,7 +550,8 @@
     "answer": 3,
     "explanation": "병 속 공기가 줄어들수록 소리를 전할 물질이 적어져 소리가 작게 들려요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -531,7 +566,8 @@
     "answer": 1,
     "explanation": "소리의 높고 낮은 정도를 높낮이라고 해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -546,7 +582,8 @@
     "answer": 1,
     "explanation": "지구 표면을 10칸으로 나누면 약 7칸이 바다예요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -561,7 +598,8 @@
     "answer": 1,
     "explanation": "얇은 플라스틱은 열에 약해 변형될 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -576,7 +614,8 @@
     "answer": 2,
     "explanation": "고무는 탄성이 있어 충격을 줄여 줘요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 1,
@@ -589,37 +628,8 @@
     "answer": 1,
     "explanation": "금속은 투명하지 않고 반짝이는 광택이 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "민수가 '어떤 공이 가장 높이 튈까?'라는 탐구 문제로 실험 계획까지 세웠어요. 다음에 할 일로 알맞은 것은?",
-    "choices": [
-      "결론부터 정해 발표한다",
-      "탐구 문제를 지우고 새로 정한다",
-      "계획대로 실험해 결과를 기록한다",
-      "실험 없이 결과를 예상해 적는다"
-    ],
-    "answer": 2,
-    "explanation": "계획을 세운 다음에는 계획대로 실험하고 결과를 기록해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "관찰할 때 알맞지 않은 방법은?",
-    "choices": [
-      "코를 바짝 대고 냄새를 들이마신다",
-      "돋보기를 사용한다",
-      "여러 감각을 사용한다",
-      "자로 길이를 잰다"
-    ],
-    "answer": 0,
-    "explanation": "냄새는 손으로 바람을 일으켜 조심히 맡아야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -633,23 +643,9 @@
     ],
     "answer": 1,
     "explanation": "누가 해도 같은 결과가 나오는 기준을 써야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "물체의 길이, 무게, 온도를 잴 때 쓰는 도구를 차례대로 짝지은 것은?",
-    "choices": [
-      "저울 - 자 - 온도계",
-      "온도계 - 저울 - 자",
-      "자 - 온도계 - 저울",
-      "자 - 저울 - 온도계"
-    ],
-    "answer": 3,
-    "explanation": "길이는 자, 무게는 저울, 온도는 온도계로 재요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "semester": 2,
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -664,22 +660,24 @@
     "answer": 2,
     "explanation": "금속은 반짝이는 광택이 있고 단단해요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "플라스틱의 성질로 알맞은 것은?",
     "choices": [
-      "매우 무겁다",
+      "금속보다 훨씬 무겁다",
       "잘 깨지고 투명하다",
-      "자석에 붙는다",
-      "가볍고 여러 모양으로 만들기 쉽다"
+      "자석에 잘 붙는다",
+      "가볍고 모양을 만들기 쉽다"
     ],
     "answer": 3,
     "explanation": "플라스틱은 가볍고 모양을 만들기 쉬워요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -694,7 +692,8 @@
     "answer": 0,
     "explanation": "나무는 고유한 향과 무늬가 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -709,7 +708,8 @@
     "answer": 1,
     "explanation": "금속이 가장 단단해서 다른 막대에 자국을 내요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -724,7 +724,8 @@
     "answer": 2,
     "explanation": "쇠는 물보다 무거워 가라앉아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 3,
@@ -739,7 +740,8 @@
     "answer": 3,
     "explanation": "고무장갑은 물이 스며들지 않아 설거지할 때 써요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -754,7 +756,8 @@
     "answer": 0,
     "explanation": "섞으면 성질이 바뀌어 탱탱볼처럼 말랑한 공이 돼요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -767,7 +770,8 @@
     "answer": 1,
     "explanation": "자전거처럼 여러 물질로 만든 물체도 많아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -782,7 +786,8 @@
     "answer": 1,
     "explanation": "금속은 단단해서 몸무게를 잘 버텨요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -797,7 +802,8 @@
     "answer": 2,
     "explanation": "배추흰나비 알은 길쭉한 옥수수 모양이에요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -812,7 +818,8 @@
     "answer": 3,
     "explanation": "애벌레는 허물을 4번 벗으며 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -827,7 +834,8 @@
     "answer": 0,
     "explanation": "나비는 번데기를 거치는 완전 탈바꿈을 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -842,7 +850,8 @@
     "answer": 1,
     "explanation": "잠자리는 번데기 단계 없이 어른벌레가 돼요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -857,22 +866,24 @@
     "answer": 2,
     "explanation": "애벌레는 잎을, 어른벌레는 꽃의 꿀을 먹어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
     "question": "거미가 곤충이 아닌 까닭으로 알맞은 것은?",
     "choices": [
-      "날개가 있어서",
-      "다리가 6개라서",
-      "알을 낳아서",
-      "다리가 8개, 몸이 2부분이라서"
+      "날개가 4장 있어서",
+      "다리가 6개 있어서",
+      "알을 낳아 번식해서",
+      "다리가 8개 있어서"
     ],
     "answer": 3,
-    "explanation": "곤충은 다리 6개, 몸이 머리·가슴·배 3부분이에요.",
+    "explanation": "곤충은 다리가 6개인데 거미는 다리가 8개예요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -887,7 +898,8 @@
     "answer": 0,
     "explanation": "어미 닭이 품은 알은 약 21일 뒤에 깨어나요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -900,7 +912,8 @@
     "answer": 0,
     "explanation": "번데기 단계가 없으면 불완전 탈바꿈이에요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 3,
@@ -915,7 +928,8 @@
     "answer": 1,
     "explanation": "뒷다리가 먼저, 그다음 앞다리가 나오고 꼬리가 줄어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -923,14 +937,15 @@
     "question": "배추흰나비 애벌레를 기를 때 알맞은 방법은?",
     "choices": [
       "햇볕이 강한 곳에 둔다",
-      "물을 가득 채운다",
-      "싱싱한 케일이나 배춧잎을 넣어 준다",
+      "물을 가득 채워 준다",
+      "싱싱한 배춧잎을 넣어 준다",
       "손으로 자주 만진다"
     ],
     "answer": 2,
     "explanation": "먹이를 싱싱하게 갈아 주고 그늘에서 길러요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -945,7 +960,8 @@
     "answer": 3,
     "explanation": "고래는 바다에 살지만 새끼를 낳아 젖을 먹여요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -960,7 +976,8 @@
     "answer": 3,
     "explanation": "지구는 둥근 공 모양이에요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -975,7 +992,8 @@
     "answer": 1,
     "explanation": "공기는 숨쉬기, 바람, 날기 등을 돕지만 광물은 만들지 않아요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 1,
@@ -988,7 +1006,8 @@
     "answer": 0,
     "explanation": "육지에는 여러 가지 모습이 있어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -1003,7 +1022,8 @@
     "answer": 0,
     "explanation": "바닷물은 짜서 그냥 마실 수 없어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -1018,7 +1038,8 @@
     "answer": 1,
     "explanation": "사슴벌레 애벌레는 썩은 나무 속에서 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -1033,37 +1054,8 @@
     "answer": 2,
     "explanation": "유리는 투명해서 안에 든 것이 잘 보여요.",
     "semester": 2,
-    "unit": "물체와 물질"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "실험 결과를 정리할 때 알맞은 방법은?",
-    "choices": [
-      "기억만 한다",
-      "결과를 바꾼다",
-      "원하는 결과만 적는다",
-      "표로 정리한다"
-    ],
-    "answer": 3,
-    "explanation": "표로 정리하면 결과를 한눈에 볼 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "모둠원끼리 같은 실험 결과를 두고 생각이 다를 때 알맞은 태도는?",
-    "choices": [
-      "목소리가 큰 친구 생각을 따른다",
-      "내 생각만 맞다고 끝까지 말한다",
-      "서로 까닭을 듣고 함께 확인한다",
-      "생각이 다르면 기록하지 않는다"
-    ],
-    "answer": 2,
-    "explanation": "서로의 까닭을 듣고 결과를 함께 다시 확인해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -1078,7 +1070,8 @@
     "answer": 1,
     "explanation": "두더지는 앞발로 땅을 파며 땅속에 살아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1093,7 +1086,8 @@
     "answer": 2,
     "explanation": "지느러미나 물갈퀴처럼 물속에서 움직이기 좋아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 1,
@@ -1108,7 +1102,8 @@
     "answer": 3,
     "explanation": "물고기는 아가미로 숨을 쉬어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1118,12 +1113,13 @@
       "날기 위해서",
       "물을 저장하려고",
       "먹이를 담으려고",
-      "몸의 열을 내보내기 좋아서"
+      "열을 내보내려고"
     ],
     "answer": 3,
     "explanation": "큰 귀로 몸의 열을 밖으로 내보내요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1138,7 +1134,8 @@
     "answer": 1,
     "explanation": "낙타는 허파로 숨을 쉬어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1153,7 +1150,8 @@
     "answer": 2,
     "explanation": "박쥐는 새끼를 낳는 젖먹이 동물이에요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 1,
@@ -1168,22 +1166,24 @@
     "answer": 3,
     "explanation": "물갈퀴로 물을 밀어 헤엄쳐요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "동물의 특징을 본떠 만든 예로 알맞은 것은?",
     "choices": [
-      "물총새 부리를 닮은 고속 열차",
-      "나무 연필",
-      "종이컵",
-      "고무줄"
+      "물총새 부리를 닮은 열차",
+      "나무를 깎아 만든 연필",
+      "종이를 접어 만든 컵",
+      "고무를 늘여 만든 줄"
     ],
     "answer": 0,
     "explanation": "물총새 부리 모양을 본떠 소음을 줄인 열차를 만들었어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-03]"
   },
   {
     "difficulty": 2,
@@ -1191,14 +1191,15 @@
     "question": "상어 비늘을 본뜬 수영복의 좋은 점은?",
     "choices": [
       "몸을 따뜻하게 한다",
-      "물의 저항을 줄여 빨리 헤엄친다",
+      "물의 저항이 줄어든다",
       "물에 가라앉게 한다",
-      "색이 바뀐다"
+      "색이 저절로 바뀐다"
     ],
     "answer": 1,
     "explanation": "상어 비늘처럼 물의 저항을 줄여 줘요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-03]"
   },
   {
     "difficulty": 1,
@@ -1211,7 +1212,8 @@
     "answer": 0,
     "explanation": "뱀은 몸을 움직여 땅 위를 기어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 1,
@@ -1226,7 +1228,8 @@
     "answer": 2,
     "explanation": "지렁이는 다리 없이 몸을 늘였다 줄였다 하며 움직여요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -1234,14 +1237,15 @@
     "question": "북극곰이 추운 곳에서 살기 알맞은 특징은?",
     "choices": [
       "아가미가 있다",
-      "몸이 얇다",
-      "털이 없다",
-      "두꺼운 털과 지방층이 있다"
+      "몸이 매우 얇다",
+      "털이 거의 없다",
+      "두꺼운 털과 지방층"
     ],
     "answer": 3,
     "explanation": "두꺼운 털과 지방이 추위를 막아 줘요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1256,7 +1260,8 @@
     "answer": 0,
     "explanation": "다람쥐는 땅에, 나머지는 바다에 살아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -1271,7 +1276,8 @@
     "answer": 1,
     "explanation": "파도가 깎아 해식 절벽, 해식 동굴이 생겨요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -1284,7 +1290,8 @@
     "answer": 0,
     "explanation": "바닷물의 퇴적 작용으로 만들어져요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 1,
@@ -1299,7 +1306,8 @@
     "answer": 1,
     "explanation": "연필은 모양과 부피가 일정한 고체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -1314,7 +1322,8 @@
     "answer": 1,
     "explanation": "액체는 모양이 바뀌지만 부피는 그대로예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -1329,7 +1338,8 @@
     "answer": 2,
     "explanation": "공기는 기체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -1344,7 +1354,8 @@
     "answer": 2,
     "explanation": "컵 안의 공기가 자리를 차지하고 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -1357,7 +1368,8 @@
     "answer": 0,
     "explanation": "기체는 퍼져서 그릇 전체를 채워요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -1372,22 +1384,24 @@
     "answer": 2,
     "explanation": "소금·설탕·모래는 알갱이 하나하나가 고체이고 간장은 액체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "고체의 성질로 알맞은 것은?",
     "choices": [
-      "흘러내린다",
-      "눈에 보이지 않는다",
-      "그릇을 가득 채운다",
-      "그릇을 바꿔도 모양과 부피가 일정하다"
+      "그릇에 따라 흘러내린다",
+      "눈에 보이지 않고 가볍다",
+      "그릇을 늘 가득 채운다",
+      "모양과 부피가 변하지 않는다"
     ],
     "answer": 3,
     "explanation": "고체는 모양과 부피가 변하지 않아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -1402,7 +1416,8 @@
     "answer": 0,
     "explanation": "얼음 틀은 물을 얼리는 도구예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -1417,7 +1432,8 @@
     "answer": 1,
     "explanation": "소리굽쇠가 떨려서 물이 튀어요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 2,
@@ -1432,7 +1448,8 @@
     "answer": 2,
     "explanation": "장소에 맞게 소리의 크기를 조절해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -1447,7 +1464,8 @@
     "answer": 3,
     "explanation": "관이 길수록 낮은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -1462,7 +1480,8 @@
     "answer": 0,
     "explanation": "밤에 큰 소리는 이웃에게 소음이 돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -1477,7 +1496,8 @@
     "answer": 3,
     "explanation": "손가락이 실의 떨림을 막아 소리가 잘 전달되지 않아요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -1492,7 +1512,8 @@
     "answer": 2,
     "explanation": "소리는 고체를 통해서도 잘 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 3,
@@ -1505,7 +1526,8 @@
     "answer": 1,
     "explanation": "구멍을 많이 막을수록 공기 기둥이 길어져 낮은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -1520,7 +1542,8 @@
     "answer": 3,
     "explanation": "소리가 반사되어 되돌아와요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -1535,7 +1558,8 @@
     "answer": 1,
     "explanation": "반사판이 소리를 골고루 보내 줘요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -1550,7 +1574,8 @@
     "answer": 1,
     "explanation": "액체는 그릇에 따라 모양만 바뀌어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -1565,7 +1590,8 @@
     "answer": 2,
     "explanation": "고등어 같은 물고기는 지느러미로 헤엄쳐요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1580,7 +1606,8 @@
     "answer": 2,
     "explanation": "번데기가 주변과 비슷한 색이면 다른 동물 눈에 잘 띄지 않아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -1595,7 +1622,8 @@
     "answer": 3,
     "explanation": "메뚜기는 번데기 단계가 없고 애벌레와 어른벌레의 생김새가 비슷해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -1610,7 +1638,8 @@
     "answer": 1,
     "explanation": "고무는 물이 스며들지 않아 발이 젖지 않아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 3,
@@ -1625,7 +1654,8 @@
     "answer": 2,
     "explanation": "떨림이 클수록 큰 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -1640,7 +1670,8 @@
     "answer": 0,
     "explanation": "소리는 바닥이나 벽 같은 고체를 통해서도 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -1655,7 +1686,8 @@
     "answer": 2,
     "explanation": "공기가 풍선 안의 공간을 차지해서 부풀어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -1670,22 +1702,8 @@
     "answer": 2,
     "explanation": "지방층과 깃털이 몸의 열을 지켜 줘요.",
     "semester": 1,
-    "unit": "동물의 생활"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "민수는 '공이 더 높이 튀는 까닭'을 알아보기로 탐구 문제를 정했어요. 그다음에 할 일은?",
-    "choices": [
-      "결론을 발표한다",
-      "결과를 표로 정리한다",
-      "새 탐구 문제를 찾는다",
-      "실험 계획을 세운다"
-    ],
-    "answer": 3,
-    "explanation": "탐구 문제를 정하면 어떻게 실험할지 계획을 먼저 세워요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -1700,65 +1718,8 @@
     "answer": 3,
     "explanation": "솜이 젖었는지만 다르므로 물이 필요한지 알아보는 실험이에요.",
     "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "창밖을 보고 말한 것 중 관찰한 사실이 아니라 추리한 것은?",
-    "choices": [
-      "사람들이 우산을 쓰고 있다",
-      "우산에서 물이 떨어진다",
-      "하늘이 어둡고 구름이 많다",
-      "밖에 비가 오고 있을 것이다"
-    ],
-    "answer": 3,
-    "explanation": "추리는 관찰한 것을 바탕으로 보이지 않는 일을 짐작하는 거예요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "물이 얼마나 따뜻한지 숫자로 재고 싶을 때 알맞은 도구는?",
-    "choices": [
-      "자",
-      "저울",
-      "돋보기",
-      "온도계"
-    ],
-    "answer": 3,
-    "explanation": "온도계로 물의 온도를 숫자로 잴 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "공을 1m, 2m, 3m 높이에서 떨어뜨렸더니 30cm, 60cm, 90cm 튀어 올랐어요. 4m에서 떨어뜨리면 약 몇 cm 튀어 오를지 예상해 보세요.",
-    "choices": [
-      "약 120cm",
-      "약 90cm",
-      "약 100cm",
-      "약 150cm"
-    ],
-    "answer": 0,
-    "explanation": "1m 높아질 때마다 30cm씩 늘었으니 4m에서는 약 120cm라고 예상해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "관찰은 눈으로만 하는 것이에요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "관찰할 때는 눈뿐 아니라 귀, 코, 손 등 여러 감각을 함께 써요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 1,
@@ -1773,7 +1734,8 @@
     "answer": 1,
     "explanation": "유리는 물체를 만드는 재료인 물질이에요. 컵, 책상, 연필은 물체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -1788,7 +1750,8 @@
     "answer": 2,
     "explanation": "유리는 투명해서 안이 잘 보이고 단단해요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -1803,7 +1766,8 @@
     "answer": 1,
     "explanation": "모양과 쓰임은 달라도 모두 고무라는 같은 물질로 만들었어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -1818,7 +1782,8 @@
     "answer": 1,
     "explanation": "클립과 못은 모두 금속으로 만들어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 3,
@@ -1833,7 +1798,8 @@
     "answer": 3,
     "explanation": "다리는 튼튼해야 하고 앉는 곳은 푹신해야 해서 알맞은 물질을 골라 써요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 1,
@@ -1846,7 +1812,8 @@
     "answer": 0,
     "explanation": "쓰임새에 맞는 성질의 물질을 골라야 물체를 편리하게 쓸 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 3,
@@ -1861,7 +1828,8 @@
     "answer": 3,
     "explanation": "여러 물질을 섞으면 잘 튀는 성질처럼 새로운 성질이 나타날 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 1,
@@ -1876,7 +1844,8 @@
     "answer": 3,
     "explanation": "고무는 말랑하고 잘 휘어서 손으로 쉽게 구부릴 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -1891,7 +1860,8 @@
     "answer": 1,
     "explanation": "플라스틱은 가볍고 잘 깨지지 않으며 물에 뜨게 만들 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -1906,7 +1876,8 @@
     "answer": 0,
     "explanation": "몸길이가 3 mm에서 30 mm로 늘어났으니 몸이 점점 커졌어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -1921,7 +1892,8 @@
     "answer": 3,
     "explanation": "갓 나온 애벌레는 먼저 알껍데기를 먹고 나서 잎을 먹어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 3,
@@ -1936,7 +1908,8 @@
     "answer": 2,
     "explanation": "개는 새끼를 낳고 닭은 알을 낳지만, 둘 다 자라면서 어미와 닮아 가요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -1949,7 +1922,8 @@
     "answer": 1,
     "explanation": "올챙이는 아가미로 숨 쉬지만 다 자란 개구리는 허파와 피부로 숨 쉬어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -1964,7 +1938,8 @@
     "answer": 2,
     "explanation": "닭의 알에서 깨어난 새끼를 병아리라고 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -1979,7 +1954,8 @@
     "answer": 2,
     "explanation": "애벌레가 깨어나 바로 먹을 수 있도록 배추나 케일 잎에 알을 낳아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -1994,7 +1970,8 @@
     "answer": 3,
     "explanation": "배추흰나비는 가슴에 날개 2쌍, 모두 4장이 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -2009,7 +1986,8 @@
     "answer": 2,
     "explanation": "주변보다 높이 솟은 땅을 산이라고 해요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 1,
@@ -2024,7 +2002,8 @@
     "answer": 2,
     "explanation": "들은 넓고 평평해서 논과 밭을 만들기 좋아요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -2039,7 +2018,8 @@
     "answer": 1,
     "explanation": "바람은 공기가 움직이는 것이라 공기가 있다는 걸 알 수 있어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 3,
@@ -2054,7 +2034,8 @@
     "answer": 2,
     "explanation": "바닷물에는 소금 같은 물질이 녹아 있어 물이 마르면 하얀 가루가 남아요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -2069,7 +2050,8 @@
     "answer": 0,
     "explanation": "지구 표면은 육지보다 바다가 훨씬 넓어서 파랗게 보여요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -2084,7 +2066,8 @@
     "answer": 2,
     "explanation": "알아보려는 물의 종류만 다르게 하고, 두는 곳은 똑같이 해야 해요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 1,
@@ -2099,7 +2082,8 @@
     "answer": 2,
     "explanation": "참새는 날개가 있어 하늘을 날 수 있어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -2114,7 +2098,8 @@
     "answer": 3,
     "explanation": "달팽이는 다리가 없어 배를 바닥에 붙이고 천천히 기어가요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 1,
@@ -2129,7 +2114,8 @@
     "answer": 1,
     "explanation": "개미는 곤충이라 다리가 6개이고, 나머지는 다리가 4개예요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -2144,7 +2130,8 @@
     "answer": 2,
     "explanation": "지렁이는 길쭉하고 매끄러운 몸을 늘였다 줄였다 하며 흙 속을 다녀요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 3,
@@ -2159,7 +2146,8 @@
     "answer": 1,
     "explanation": "고등어는 아가미로 숨 쉬지만 돌고래는 물 위로 나와 공기로 숨 쉬어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 3,
@@ -2174,7 +2162,8 @@
     "answer": 2,
     "explanation": "귀가 작으면 몸의 열이 덜 빠져나가서 추운 곳에서 살기 좋아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -2189,7 +2178,8 @@
     "answer": 3,
     "explanation": "참새와 나비는 날개가 있어요. 닭은 날개가 있지만 고양이는 없어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 3,
@@ -2202,7 +2192,8 @@
     "answer": 1,
     "explanation": "박쥐는 날 수 있지만 새끼를 낳아 젖을 먹이고 털이 있어 새가 아니에요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -2217,7 +2208,8 @@
     "answer": 0,
     "explanation": "빨판이 벽에 달라붙는 성질을 본떠 흡착판 걸이를 만들었어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-03]"
   },
   {
     "difficulty": 3,
@@ -2232,7 +2224,8 @@
     "answer": 2,
     "explanation": "벽에 잘 붙는 발바닥의 특징을 본떠 잘 붙는 테이프를 만들었어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-03]"
   },
   {
     "difficulty": 1,
@@ -2247,7 +2240,8 @@
     "answer": 1,
     "explanation": "오징어는 바닷속에서 헤엄치며 살아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 1,
@@ -2260,7 +2254,8 @@
     "answer": 0,
     "explanation": "펭귄은 날개가 있지만 날지 못하고, 날개로 물속을 헤엄쳐요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -2275,7 +2270,8 @@
     "answer": 1,
     "explanation": "메뚜기는 길고 튼튼한 뒷다리로 땅을 힘차게 차고 뛰어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -2290,7 +2286,8 @@
     "answer": 2,
     "explanation": "다람쥐는 날카로운 발톱이 있어 나무를 잘 오르내려요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 3,
@@ -2305,7 +2302,8 @@
     "answer": 3,
     "explanation": "붕어는 허파가 아니라 아가미로 물속에서 숨을 쉬어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -2318,7 +2316,8 @@
     "answer": 0,
     "explanation": "파도는 바위를 깎아 절벽을 만들고, 모래를 쌓아 모래사장을 만들어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -2333,7 +2332,8 @@
     "answer": 3,
     "explanation": "파도가 약한 바닷가에 고운 흙이 쌓여 갯벌이 만들어져요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 1,
@@ -2348,7 +2348,8 @@
     "answer": 0,
     "explanation": "식용유는 흐르고 그릇에 따라 모양이 바뀌는 액체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -2361,7 +2362,8 @@
     "answer": 0,
     "explanation": "공기는 보이지 않지만 바람이나 부푼 풍선으로 있다는 걸 알 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -2376,7 +2378,8 @@
     "answer": 3,
     "explanation": "나무 블록은 고체라서 그릇이 바뀌어도 모양과 크기가 그대로예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -2391,7 +2394,8 @@
     "answer": 3,
     "explanation": "액체는 그릇에 따라 모양만 바뀌고 부피는 그대로예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -2406,7 +2410,8 @@
     "answer": 2,
     "explanation": "모래 알갱이 하나하나는 모양과 크기가 변하지 않아 고체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -2419,7 +2424,8 @@
     "answer": 1,
     "explanation": "유리컵과 유리병은 같은 유리로 만들었지만 모양이 달라요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 3,
@@ -2434,7 +2440,8 @@
     "answer": 0,
     "explanation": "컵 안의 공기가 빠져나간 만큼 그 자리를 물이 채워요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -2449,7 +2456,8 @@
     "answer": 2,
     "explanation": "누른 쪽의 공기가 관을 따라 옮겨 가서 다른 쪽 피스톤을 밀어내요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -2464,7 +2472,8 @@
     "answer": 1,
     "explanation": "부채가 공기를 밀어 움직이게 해서 바람이 느껴져요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -2479,7 +2488,8 @@
     "answer": 2,
     "explanation": "비눗방울 속에 든 공기는 기체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -2494,7 +2504,8 @@
     "answer": 1,
     "explanation": "우유와 간장은 모두 흐르는 액체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -2509,7 +2520,8 @@
     "answer": 2,
     "explanation": "꿀은 느리게 흘러도 그릇에 따라 모양이 바뀌는 액체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -2524,7 +2536,8 @@
     "answer": 3,
     "explanation": "액체와 기체는 모두 담는 그릇에 따라 모양이 바뀌어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -2539,7 +2552,8 @@
     "answer": 0,
     "explanation": "고체와 액체는 그릇을 옮겨도 부피가 변하지 않아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -2554,7 +2568,8 @@
     "answer": 1,
     "explanation": "빈 병 안에 있던 공기가 눌려 밖으로 빠져나와 방울이 생겨요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -2569,7 +2584,8 @@
     "answer": 2,
     "explanation": "소리가 날 때 목이 떨리는 것을 손으로 느낄 수 있어요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 2,
@@ -2584,7 +2600,8 @@
     "answer": 3,
     "explanation": "손으로 잡으면 떨림이 멈춰서 소리도 멈춰요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 3,
@@ -2599,7 +2616,8 @@
     "answer": 0,
     "explanation": "불 때는 물이 많아 빈 곳이 짧은 병이, 두드릴 때는 물이 적은 병이 높은 소리를 내요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -2614,7 +2632,8 @@
     "answer": 1,
     "explanation": "굵은 줄은 더 천천히 떨려서 가는 줄보다 낮은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 3,
@@ -2629,7 +2648,8 @@
     "answer": 0,
     "explanation": "같은 건반이라 높낮이는 같고, 세게 치면 소리의 세기만 커져요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -2642,7 +2662,8 @@
     "answer": 0,
     "explanation": "소리는 책상 같은 고체, 물 같은 액체, 공기 같은 기체로 모두 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 3,
@@ -2657,7 +2678,8 @@
     "answer": 1,
     "explanation": "공기가 없어도 맞댄 헬멧 같은 고체를 통해 소리가 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -2672,7 +2694,8 @@
     "answer": 2,
     "explanation": "부드럽고 푹신한 커튼과 카펫은 소리를 잘 흡수해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -2687,7 +2710,8 @@
     "answer": 3,
     "explanation": "스피커가 떨리면서 위에 놓인 쌀알이 튀어 올라요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 2,
@@ -2702,7 +2726,8 @@
     "answer": 1,
     "explanation": "떨리는 부분이 짧을수록 높은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 3,
@@ -2717,7 +2742,8 @@
     "answer": 1,
     "explanation": "물을 부으면 병 속 공기 부분이 짧아져서 더 높은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -2732,7 +2758,8 @@
     "answer": 1,
     "explanation": "나무가 소리를 막고 흡수해서 집까지 오는 소음이 줄어들어요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 3,
@@ -2745,7 +2772,8 @@
     "answer": 1,
     "explanation": "소리의 세기와 높낮이는 서로 다른 성질이라 크게 쳐도 높이는 그대로일 수 있어요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -2760,7 +2788,8 @@
     "answer": 3,
     "explanation": "가야금은 줄을 뜯어 떨리게 해서 소리를 내요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 1,
@@ -2775,7 +2804,8 @@
     "answer": 0,
     "explanation": "씨가 싹 트려면 알맞은 물과 온도가 필요해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 1,
@@ -2790,7 +2820,8 @@
     "answer": 1,
     "explanation": "씨가 싹 트면서 한살이가 시작돼요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -2805,7 +2836,8 @@
     "answer": 2,
     "explanation": "씨에서 뿌리가 먼저 나와요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -2818,7 +2850,8 @@
     "answer": 0,
     "explanation": "벼, 강낭콩처럼 한 해 안에 한살이를 마쳐요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -2833,7 +2866,8 @@
     "answer": 3,
     "explanation": "열매 속에는 씨가 들어 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -2848,7 +2882,8 @@
     "answer": 0,
     "explanation": "사과나무는 여러 해 동안 살며 열매를 맺어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -2863,7 +2898,8 @@
     "answer": 1,
     "explanation": "떡잎에는 싹이 자라는 데 필요한 양분이 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -2878,7 +2914,8 @@
     "answer": 2,
     "explanation": "식물은 빛, 물, 온도가 알맞아야 잘 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -2891,7 +2928,8 @@
     "answer": 1,
     "explanation": "강낭콩 같은 많은 씨는 빛 없이도 싹 터요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -2906,7 +2944,8 @@
     "answer": 2,
     "explanation": "꽃이 핀 뒤에 꼬투리가 생기므로 (나)와 (다)의 순서가 바뀌었어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -2921,7 +2960,8 @@
     "answer": 0,
     "explanation": "민들레 씨는 솜털이 있어 바람에 날려요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 3,
@@ -2936,7 +2976,8 @@
     "answer": 0,
     "explanation": "알아보려는 조건 하나만 다르게 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -2951,7 +2992,8 @@
     "answer": 1,
     "explanation": "물 말고 나머지 조건은 모두 같게 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -2966,7 +3008,8 @@
     "answer": 2,
     "explanation": "싹이 트고 잎이 자란 뒤 꽃이 피고 열매를 맺어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -2981,7 +3024,8 @@
     "answer": 3,
     "explanation": "줄기 길이와 잎 수로 자란 정도를 알 수 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -2996,7 +3040,8 @@
     "answer": 0,
     "explanation": "빛을 받아야 잎이 초록색을 띠어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3009,7 +3054,8 @@
     "answer": 0,
     "explanation": "벼와 옥수수는 한 해 안에 한살이를 마쳐요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3024,7 +3070,8 @@
     "answer": 1,
     "explanation": "씨 속에는 떡잎과 어린싹이 들어 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3039,7 +3086,8 @@
     "answer": 2,
     "explanation": "열매 속 씨로 자손을 남겨요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3054,7 +3102,8 @@
     "answer": 3,
     "explanation": "갈고리 같은 가시로 털이나 옷에 붙어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3069,7 +3118,8 @@
     "answer": 0,
     "explanation": "익은 봉선화 열매는 톡 터지며 씨를 튕겨요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -3084,7 +3134,8 @@
     "answer": 1,
     "explanation": "꽃가루받이 뒤 꽃이 진 자리에 열매가 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3099,7 +3150,8 @@
     "answer": 2,
     "explanation": "어린싹이 떡잎의 양분을 쓰며 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -3112,7 +3164,8 @@
     "answer": 0,
     "explanation": "씨에서 시작해 다시 씨를 만들기까지가 한살이예요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3127,7 +3180,8 @@
     "answer": 3,
     "explanation": "벼는 한 해만 사는 한해살이 식물이에요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 3,
@@ -3142,7 +3196,8 @@
     "answer": 0,
     "explanation": "온도만 달랐으니 알맞은 온도가 필요하다는 걸 알 수 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3157,7 +3212,8 @@
     "answer": 2,
     "explanation": "벼와 강낭콩은 한해살이 식물이에요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -3172,7 +3228,8 @@
     "answer": 2,
     "explanation": "씨 크기의 두세 배 깊이로 심어야 싹이 잘 올라와요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3187,7 +3244,8 @@
     "answer": 0,
     "explanation": "구멍을 막아 두면 물은 빠지고 흙은 흘러 나가지 않아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 1,
@@ -3202,7 +3260,8 @@
     "answer": 3,
     "explanation": "떡잎 다음에 나오는 잎을 본잎이라고 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3217,7 +3276,8 @@
     "answer": 1,
     "explanation": "씨는 물을 흡수하면 부풀어 커지고 껍질이 부드러워져요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3230,7 +3290,8 @@
     "answer": 1,
     "explanation": "젖은 솜이나 휴지 위에서도 물과 알맞은 온도가 있으면 씨가 싹 터요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -3245,7 +3306,8 @@
     "answer": 1,
     "explanation": "알아보려는 조건인 온도만 다르게 하고 나머지는 모두 같게 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -3260,7 +3322,8 @@
     "answer": 3,
     "explanation": "빛이 있든 없든 둘 다 싹 텄으니 빛은 꼭 필요한 조건이 아니에요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3275,7 +3338,8 @@
     "answer": 0,
     "explanation": "식물이 잘 자라려면 물이 필요해서 물을 못 받은 쪽이 시들어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3290,7 +3354,8 @@
     "answer": 2,
     "explanation": "여러해살이 식물은 죽지 않고 여러 해 동안 꽃과 열매를 반복해 맺어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3303,7 +3368,8 @@
     "answer": 0,
     "explanation": "한해살이든 여러해살이든 식물의 한살이는 씨가 싹 트면서 시작돼요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3318,7 +3384,8 @@
     "answer": 2,
     "explanation": "꽃이 지면 그 자리에 열매인 꼬투리가 생기고 그 속에서 씨가 여물어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -3333,7 +3400,8 @@
     "answer": 0,
     "explanation": "강낭콩은 꼬투리 모양 열매 속에 씨가 들어 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3348,7 +3416,8 @@
     "answer": 3,
     "explanation": "8 - 3 = 5이므로 월요일부터 금요일까지 5 cm 자랐어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 2,
@@ -3363,7 +3432,8 @@
     "answer": 1,
     "explanation": "야자나무 열매는 물에 잘 떠서 바닷물을 따라 멀리 퍼져요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 3,
@@ -3378,7 +3448,8 @@
     "answer": 1,
     "explanation": "단풍나무 씨와 민들레 씨는 모두 바람에 날려서 퍼져요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -3393,7 +3464,8 @@
     "answer": 3,
     "explanation": "빛만 다르게 했더니 어두운 곳의 싹이 잘 자라지 못했으니 빛이 필요해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -3408,7 +3480,8 @@
     "answer": 0,
     "explanation": "강낭콩은 한해살이, 사과나무는 여러해살이 식물이고 둘 다 씨에서 시작해 꽃이 펴요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -3422,9 +3495,9 @@
     ],
     "answer": 0,
     "explanation": "몸 쪽으로 끌어오는 것은 당기는 힘을 준 거예요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 1,
@@ -3438,9 +3511,9 @@
     ],
     "answer": 1,
     "explanation": "당기는 것은 물체를 내 몸 쪽으로 끌어오는 거예요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 1,
@@ -3452,9 +3525,9 @@
     ],
     "answer": 0,
     "explanation": "밀기와 당기기는 모두 물체에 힘을 주는 행동이에요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3468,9 +3541,9 @@
     ],
     "answer": 2,
     "explanation": "힘은 물체의 모양이나 움직임을 바꾸지만 색깔은 바꾸지 않아요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3484,9 +3557,9 @@
     ],
     "answer": 3,
     "explanation": "무거운 물체일수록 밀거나 당길 때 더 큰 힘이 들어요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 1,
@@ -3500,9 +3573,9 @@
     ],
     "answer": 0,
     "explanation": "줄다리기는 줄을 우리 쪽으로 당기는 놀이예요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3516,9 +3589,9 @@
     ],
     "answer": 1,
     "explanation": "물체에 힘을 주면 물체의 모양이 바뀔 수 있어요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3532,9 +3605,9 @@
     ],
     "answer": 2,
     "explanation": "멈춘 물체에 힘을 주면 움직이기 시작해요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3548,9 +3621,9 @@
     ],
     "answer": 3,
     "explanation": "그네를 뒤에서 앞으로 보내는 것은 미는 힘을 쓰는 거예요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3564,9 +3637,9 @@
     ],
     "answer": 0,
     "explanation": "같은 힘이면 가벼운 물체가 더 쉽게 움직여요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 1,
@@ -3580,9 +3653,9 @@
     ],
     "answer": 1,
     "explanation": "나무판을 가운데에서 받치는 곳을 받침점이라고 해요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -3596,9 +3669,9 @@
     ],
     "answer": 2,
     "explanation": "같은 거리일 때 기울어진 쪽 물체가 더 무거워요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 3,
@@ -3612,9 +3685,9 @@
     ],
     "answer": 3,
     "explanation": "무거운 물체를 받침점 가까이 놓아야 수평을 잡을 수 있어요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -3626,9 +3699,9 @@
     ],
     "answer": 0,
     "explanation": "가벼운 쪽이 받침점에서 멀리 앉으면 수평을 이룰 수 있어요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -3642,9 +3715,9 @@
     ],
     "answer": 0,
     "explanation": "같은 거리에서 수평이 되면 두 물체의 무게가 같아요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 3,
@@ -3658,9 +3731,9 @@
     ],
     "answer": 1,
     "explanation": "받침점에 더 가까이 놓고 수평이 된 물체 (나)가 더 무거워요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -3674,9 +3747,9 @@
     ],
     "answer": 2,
     "explanation": "손으로 누르면 무게를 제대로 비교할 수 없어요.",
-    "standard": "[4과01-02]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 1,
@@ -3690,9 +3763,9 @@
     ],
     "answer": 3,
     "explanation": "무게를 정확히 비교하려면 저울을 사용해요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3706,9 +3779,9 @@
     ],
     "answer": 1,
     "explanation": "손으로 느끼는 무게는 사람마다 달라서 정확히 비교하려면 저울을 써요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3722,9 +3795,9 @@
     ],
     "answer": 2,
     "explanation": "양쪽으로 당기는 힘을 주어 고무줄의 모양이 바뀌었어요.",
-    "standard": "[4과01-01]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -3738,9 +3811,9 @@
     ],
     "answer": 2,
     "explanation": "무거운 물체를 걸수록 용수철이 더 많이 늘어나요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3754,9 +3827,9 @@
     ],
     "answer": 3,
     "explanation": "재기 전에 표시자를 0에 맞추는 영점 조절을 해요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3770,9 +3843,9 @@
     ],
     "answer": 0,
     "explanation": "눈높이를 표시자에 맞춰야 눈금을 정확히 읽어요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 1,
@@ -3784,9 +3857,9 @@
     ],
     "answer": 0,
     "explanation": "기울어진 곳에 두면 무게가 정확히 나오지 않아요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3800,9 +3873,9 @@
     ],
     "answer": 1,
     "explanation": "빈 그릇을 올린 채 영점을 맞추면 콩 무게만 나타나요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3816,9 +3889,9 @@
     ],
     "answer": 3,
     "explanation": "용수철이 더 많이 늘어난 배가 더 무거워요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 2,
@@ -3830,9 +3903,9 @@
     ],
     "answer": 1,
     "explanation": "스티로폼처럼 크지만 가벼운 물체도 있어요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 1,
@@ -3846,9 +3919,9 @@
     ],
     "answer": 0,
     "explanation": "달리기 기록은 시계로 재요.",
-    "standard": "[4과01-03]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 1,
@@ -3862,9 +3935,9 @@
     ],
     "answer": 1,
     "explanation": "막대와 받침점을 이용한 도구를 지레라고 해요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 3,
@@ -3878,9 +3951,9 @@
     ],
     "answer": 2,
     "explanation": "받침점에서 먼 곳을 누를수록 힘이 적게 들어요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 1,
@@ -3894,9 +3967,9 @@
     ],
     "answer": 3,
     "explanation": "비스듬하게 기울어진 면을 빗면이라고 해요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 2,
@@ -3910,9 +3983,9 @@
     ],
     "answer": 0,
     "explanation": "빗면을 이용하면 적은 힘으로 물체를 올릴 수 있어요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 3,
@@ -3926,9 +3999,9 @@
     ],
     "answer": 1,
     "explanation": "기울기가 완만할수록 힘이 적게 들어요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 2,
@@ -3942,9 +4015,9 @@
     ],
     "answer": 2,
     "explanation": "병따개는 지레를 이용해 적은 힘으로 뚜껑을 따요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 3,
@@ -3958,9 +4031,9 @@
     ],
     "answer": 3,
     "explanation": "기울기만 다르게 하고 물체는 같게 해야 비교할 수 있어요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 1,
@@ -3972,9 +4045,9 @@
     ],
     "answer": 0,
     "explanation": "지레, 빗면 같은 도구로 드는 힘을 줄일 수 있어요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 2,
@@ -3986,9 +4059,9 @@
     ],
     "answer": 1,
     "explanation": "받침점과 누르는 곳의 거리에 따라 드는 힘이 달라져요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 2,
@@ -4002,9 +4075,9 @@
     ],
     "answer": 0,
     "explanation": "받침점에서 먼 곳을 잡으면 적은 힘으로 못을 뽑아요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 3,
@@ -4018,9 +4091,9 @@
     ],
     "answer": 1,
     "explanation": "늘어난 칸이 적을수록 드는 힘이 작아요.",
-    "standard": "[4과01-04]",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 1,
@@ -4034,9 +4107,9 @@
     ],
     "answer": 2,
     "explanation": "누가 분류해도 같은 결과가 나오는 기준이 알맞아요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4050,9 +4123,9 @@
     ],
     "answer": 3,
     "explanation": "크다, 작다는 사람마다 다르게 판단할 수 있어요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -4064,9 +4137,9 @@
     ],
     "answer": 0,
     "explanation": "분명한 기준이어야 결과가 같게 나와요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -4080,9 +4153,9 @@
     ],
     "answer": 0,
     "explanation": "소나무 잎은 가늘고 뾰족한 바늘 모양이에요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -4096,9 +4169,9 @@
     ],
     "answer": 1,
     "explanation": "은행나무 잎은 부채처럼 생겼어요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4112,9 +4185,9 @@
     ],
     "answer": 2,
     "explanation": "단풍나무 잎은 손바닥처럼 갈라져 있어요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4128,9 +4201,9 @@
     ],
     "answer": 3,
     "explanation": "벚나무 잎 가장자리는 톱니처럼 들쭉날쭉해요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4144,9 +4217,9 @@
     ],
     "answer": 3,
     "explanation": "강아지풀 잎은 잎맥이 나란히 뻗어 있어요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -4160,9 +4233,9 @@
     ],
     "answer": 1,
     "explanation": "나무는 풀보다 줄기가 굵고 단단해요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4174,9 +4247,9 @@
     ],
     "answer": 0,
     "explanation": "풀과 나무 모두 뿌리, 줄기, 잎을 가지고 있어요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4190,9 +4263,9 @@
     ],
     "answer": 2,
     "explanation": "개나리는 줄기가 단단한 나무예요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4206,9 +4279,9 @@
     ],
     "answer": 3,
     "explanation": "풀은 대체로 줄기가 가늘고 부드러워요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -4222,9 +4295,9 @@
     ],
     "answer": 0,
     "explanation": "식물을 함부로 뽑지 않고 관찰해요.",
-    "standard": "[4과03-01]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -4238,9 +4311,9 @@
     ],
     "answer": 1,
     "explanation": "부레옥잠은 물 위에 떠서 살아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4254,9 +4327,9 @@
     ],
     "answer": 2,
     "explanation": "부풀어 있는 잎자루 속 공기 덕분에 물에 떠요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 3,
@@ -4270,9 +4343,9 @@
     ],
     "answer": 3,
     "explanation": "공기 방울이 나온 것은 잎자루 속에 공기가 있기 때문이에요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -4286,9 +4359,9 @@
     ],
     "answer": 0,
     "explanation": "검정말은 물속에 잠겨서 살아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4302,9 +4375,9 @@
     ],
     "answer": 1,
     "explanation": "줄기가 부드러워 물의 흐름에 따라 잘 휘어져요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4318,9 +4391,9 @@
     ],
     "answer": 2,
     "explanation": "수련은 뿌리를 물 밑 땅에 내리고 잎을 물 위에 띄워요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4334,9 +4407,9 @@
     ],
     "answer": 3,
     "explanation": "부들은 물가 땅에 뿌리를 내리고 줄기가 곧게 자라요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4350,9 +4423,9 @@
     ],
     "answer": 1,
     "explanation": "넓은 잎이 물 위에 펼쳐져 햇빛을 잘 받아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -4366,9 +4439,9 @@
     ],
     "answer": 1,
     "explanation": "선인장은 건조한 사막에서 살아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4382,9 +4455,9 @@
     ],
     "answer": 2,
     "explanation": "가시 모양 잎은 물이 덜 빠져나가게 해요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4398,9 +4471,9 @@
     ],
     "answer": 3,
     "explanation": "선인장은 굵은 줄기에 물을 저장해요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4414,9 +4487,9 @@
     ],
     "answer": 2,
     "explanation": "바오바브나무는 굵은 줄기에 물을 많이 저장해요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -4428,9 +4501,9 @@
     ],
     "answer": 1,
     "explanation": "선인장처럼 사막에서 사는 식물도 있어요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4444,9 +4517,9 @@
     ],
     "answer": 1,
     "explanation": "추위와 센 바람 때문에 키가 작은 식물이 많아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 3,
@@ -4460,9 +4533,9 @@
     ],
     "answer": 2,
     "explanation": "퉁퉁마디는 짠물이 드는 갯벌 근처에서 살아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -4474,9 +4547,9 @@
     ],
     "answer": 0,
     "explanation": "사는 곳의 환경에 따라 식물의 모습이 달라요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4490,9 +4563,9 @@
     ],
     "answer": 3,
     "explanation": "부레옥잠과 개구리밥은 물 위에 떠서 살아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 3,
@@ -4506,9 +4579,9 @@
     ],
     "answer": 0,
     "explanation": "줄기가 부드러워 물 밖에서는 축 늘어져요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -4522,9 +4595,9 @@
     ],
     "answer": 1,
     "explanation": "검정말은 물속에서 사는 식물이에요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -4538,9 +4611,9 @@
     ],
     "answer": 2,
     "explanation": "검정말은 사막이 아니라 물속에서 살아요.",
-    "standard": "[4과03-02]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -4554,9 +4627,9 @@
     ],
     "answer": 3,
     "explanation": "옷에 잘 붙는 도꼬마리 열매를 본떠 찍찍이를 만들었어요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 2,
@@ -4570,9 +4643,9 @@
     ],
     "answer": 0,
     "explanation": "연잎 표면을 본떠 물에 젖지 않는 옷감을 만들어요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 2,
@@ -4586,9 +4659,9 @@
     ],
     "answer": 1,
     "explanation": "단풍나무 열매처럼 돌며 천천히 내려오는 날개를 만들어요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 3,
@@ -4602,9 +4675,9 @@
     ],
     "answer": 2,
     "explanation": "특징을 조사하고 설계한 뒤 만들어 발표해요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 2,
@@ -4616,9 +4689,9 @@
     ],
     "answer": 1,
     "explanation": "찍찍이는 열매 겉의 갈고리 모양을 본뜬 거예요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 3,
@@ -4632,9 +4705,9 @@
     ],
     "answer": 3,
     "explanation": "구명조끼는 공기가 든 부레옥잠 잎자루와 어울려요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 2,
@@ -4648,9 +4721,9 @@
     ],
     "answer": 0,
     "explanation": "공기가 든 잎자루처럼 물에 뜨는 물건을 만들 수 있어요.",
-    "standard": "[4과03-03]",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 1,
@@ -4665,7 +4738,8 @@
     "answer": 0,
     "explanation": "감염병은 사람이나 동물 사이에서 옮을 수 있는 병이에요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-01]"
   },
   {
     "difficulty": 1,
@@ -4680,7 +4754,8 @@
     "answer": 1,
     "explanation": "세균이나 바이러스가 몸에 들어오면 감염병이 생길 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-01]"
   },
   {
     "difficulty": 1,
@@ -4693,7 +4768,8 @@
     "answer": 0,
     "explanation": "세균과 바이러스는 너무 작아서 눈으로는 보이지 않아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-01]"
   },
   {
     "difficulty": 1,
@@ -4708,7 +4784,8 @@
     "answer": 3,
     "explanation": "손을 자주 씻으면 손에 묻은 세균과 바이러스를 없앨 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -4723,7 +4800,8 @@
     "answer": 0,
     "explanation": "아플 때는 쉬면서 치료받아야 다른 사람에게 옮기지 않아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -4738,7 +4816,8 @@
     "answer": 3,
     "explanation": "비누 거품으로 문지르면 손의 세균이 더 잘 씻겨 나가요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -4751,7 +4830,8 @@
     "answer": 1,
     "explanation": "손등, 손가락 사이, 손톱 밑까지 구석구석 씻어야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -4766,7 +4846,8 @@
     "answer": 2,
     "explanation": "마스크는 입과 코에서 나오는 침방울이 퍼지는 것을 막아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -4781,7 +4862,8 @@
     "answer": 2,
     "explanation": "음식을 충분히 익히면 음식 속 세균이 줄어들어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -4796,7 +4878,8 @@
     "answer": 0,
     "explanation": "창문을 열어 환기하면 교실 공기 속 세균과 바이러스가 줄어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4811,7 +4894,8 @@
     "answer": 3,
     "explanation": "멀리서 손을 흔드는 것만으로는 감염병이 옮지 않아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -4826,7 +4910,8 @@
     "answer": 1,
     "explanation": "휴지가 없으면 옷소매로 입과 코를 가리고 기침해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4841,7 +4926,8 @@
     "answer": 2,
     "explanation": "비누로 30초 정도 꼼꼼히 문질러야 손이 깨끗해져요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4856,7 +4942,8 @@
     "answer": 0,
     "explanation": "모기는 고인 물에 알을 낳으므로 고인 물을 없애면 좋아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4871,7 +4958,8 @@
     "answer": 1,
     "explanation": "예방 접종을 하면 감염병에 잘 걸리지 않게 도와줘요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4886,7 +4974,8 @@
     "answer": 1,
     "explanation": "골고루 먹고 충분히 자고 운동하면 몸이 튼튼해져요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4899,7 +4988,8 @@
     "answer": 0,
     "explanation": "모기처럼 동물을 통해 옮는 감염병도 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -4912,7 +5002,8 @@
     "answer": 1,
     "explanation": "세균은 눈에 보이지 않아 깨끗해 보이는 손에도 있을 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4927,7 +5018,8 @@
     "answer": 2,
     "explanation": "문손잡이처럼 여러 사람이 만지는 곳은 자주 닦아야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -4942,7 +5034,8 @@
     "answer": 2,
     "explanation": "침방울을 통해 감염병이 다른 사람에게 옮을 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -4957,7 +5050,8 @@
     "answer": 3,
     "explanation": "감염병이 유행하면 마스크를 쓰고 손을 씻는 사람이 늘어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-01]"
   },
   {
     "difficulty": 2,
@@ -4972,7 +5066,8 @@
     "answer": 0,
     "explanation": "뼈가 부러진 것은 다른 사람에게 옮지 않아 감염병이 아니에요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-01]"
   },
   {
     "difficulty": 2,
@@ -4987,7 +5082,8 @@
     "answer": 3,
     "explanation": "칫솔을 같이 쓰면 침을 통해 감염병이 옮을 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5000,7 +5096,8 @@
     "answer": 0,
     "explanation": "누구나 감염병에 걸릴 수 있으니 서로 배려하고 응원해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5015,7 +5112,8 @@
     "answer": 1,
     "explanation": "쓴 휴지는 바로 버리고 손을 씻어야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5030,7 +5128,8 @@
     "answer": 1,
     "explanation": "빛나는 곳은 로션이 남은 곳, 즉 덜 씻긴 곳이에요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5045,7 +5144,8 @@
     "answer": 3,
     "explanation": "손가락 사이와 손톱 밑은 놓치기 쉬워 더 꼼꼼히 씻어야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 3,
@@ -5060,7 +5160,8 @@
     "answer": 2,
     "explanation": "알아보려는 비누 사용 여부만 다르게 하고 나머지는 같게 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 3,
@@ -5075,7 +5176,8 @@
     "answer": 3,
     "explanation": "입과 코를 가리면 침방울이 덜 퍼져 감염병을 막는 데 도움이 돼요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 3,
@@ -5090,7 +5192,8 @@
     "answer": 0,
     "explanation": "거리가 멀수록 침방울이 덜 닿으므로 거리를 두면 도움이 돼요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -5105,7 +5208,8 @@
     "answer": 1,
     "explanation": "물을 끓이고 음식을 익히면 물과 음식 속 세균이 줄어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5120,7 +5224,8 @@
     "answer": 2,
     "explanation": "컵을 함께 쓰면 컵에 묻은 침을 통해 감염병이 옮을 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -5133,7 +5238,8 @@
     "answer": 1,
     "explanation": "걸린 뒤 치료보다 미리 예방하는 습관이 더 중요해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5148,7 +5254,8 @@
     "answer": 3,
     "explanation": "마스크로 코와 입을 모두 가려야 침방울이 퍼지지 않아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 3,
@@ -5163,78 +5270,8 @@
     "answer": 2,
     "explanation": "손 씻는 시간은 알아보려는 조건이라 다르게 해야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "자, 줄자처럼 길이를 잴 때 쓰는 탐구 기능은?",
-    "choices": [
-      "측정",
-      "분류",
-      "추리",
-      "예상"
-    ],
-    "answer": 0,
-    "explanation": "자로 길이를 재는 것은 측정이에요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "돋보기는 작은 것을 크게 보여 주어 관찰할 때 도움이 돼요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "돋보기로 보면 작은 부분도 자세히 볼 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "여러 가지 물체를 공통점과 차이점에 따라 무리 짓는 것을 무엇이라고 할까요?",
-    "choices": [
-      "측정",
-      "분류",
-      "관찰",
-      "예상"
-    ],
-    "answer": 1,
-    "explanation": "기준에 따라 무리 짓는 것을 분류라고 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "실험 중 깨진 유리 기구는 맨손으로 빨리 주워 치워요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "깨진 유리에 손을 다칠 수 있으니 선생님께 알리고 도구로 치워요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "실험을 마친 뒤 알맞은 행동은?",
-    "choices": [
-      "남은 재료를 아무 데나 버린다",
-      "도구를 그대로 두고 나간다",
-      "쓴 도구를 정리하고 손을 씻는다",
-      "결과를 기록하지 않고 잊는다"
-    ],
-    "answer": 2,
-    "explanation": "실험이 끝나면 정리하고 손을 씻어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -5248,139 +5285,9 @@
     ],
     "answer": 1,
     "explanation": "구멍이 4개인 단추는 (나)와 (다)예요. 색깔은 이 기준과 상관없어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "관찰한 것을 바탕으로 앞으로 일어날 일을 미리 생각해 보는 탐구 기능은?",
-    "choices": [
-      "예상",
-      "분류",
-      "측정",
-      "관찰"
-    ],
-    "answer": 0,
-    "explanation": "앞으로 일어날 일을 미리 생각하는 것은 예상이에요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'젖은 땅을 보니 밤에 비가 왔을 것 같다.'처럼 관찰한 것으로 보이지 않는 것을 짐작하는 탐구 기능은?",
-    "choices": [
-      "측정",
-      "추리",
-      "분류",
-      "관찰"
-    ],
-    "answer": 1,
-    "explanation": "관찰한 것을 바탕으로 보이지 않는 것을 짐작하는 것이 추리예요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "탐구 결과를 다른 사람에게 알릴 때 알맞은 방법은?",
-    "choices": [
-      "결과를 바꾸어 더 멋지게 말한다",
-      "결과는 말하지 않고 느낌만 말한다",
-      "표나 그림을 써서 알기 쉽게 발표한다",
-      "다른 모둠 결과를 베껴서 발표한다"
-    ],
-    "answer": 2,
-    "explanation": "표나 그림을 쓰면 결과를 쉽게 전할 수 있어요. 결과는 있는 그대로 알려요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "관찰한 것을 기록할 때는 내 생각을 섞지 않고 본 그대로 적어요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "explanation": "관찰 기록은 보고 듣고 만진 것을 있는 그대로 적어야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "종이 비행기 날개 크기에 따라 나는 거리를 비교하려고 큰 날개는 두꺼운 종이로, 작은 날개는 얇은 종이로 만들었어요. 잘못된 점은?",
-    "choices": [
-      "비행기를 두 개만 만들었다",
-      "날개 크기를 다르게 했다",
-      "종이의 종류를 같게 하지 않았다",
-      "나는 거리를 자로 재었다"
-    ],
-    "answer": 2,
-    "explanation": "알아보려는 날개 크기만 다르게 하고 종이 종류는 같게 해야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "얼음이 녹는 시간을 재었더니 첫째 14분, 둘째 15분, 셋째 14분이 나왔어요. 가장 알맞게 정리한 것은?",
-    "choices": [
-      "약 14분 걸린다",
-      "1분 만에 녹는다",
-      "30분 넘게 걸린다",
-      "잴 때마다 달라서 알 수 없다"
-    ],
-    "answer": 0,
-    "explanation": "여러 번 잰 값이 14~15분이라 약 14분 걸린다고 정리할 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "ox",
-    "question": "한 번만 실험한 결과로 결론을 내려도 항상 정확해요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "여러 번 실험해야 우연히 생긴 실수를 줄일 수 있어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "'그늘보다 햇빛 아래에서 얼음이 더 빨리 녹을 것이다'라는 예상을 확인하는 방법으로 알맞은 것은?",
-    "choices": [
-      "얼음 하나만 햇빛에 두고 지켜본다",
-      "햇빛에 둘 얼음만 더 크게 만든다",
-      "시간은 재지 않고 눈으로만 본다",
-      "같은 얼음을 그늘과 햇빛에 두고 잰다"
-    ],
-    "answer": 3,
-    "explanation": "크기가 같은 얼음을 그늘과 햇빛에 두고 녹는 시간을 재어 비교해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 2,
-    "type": "choice4",
-    "question": "탐구 결과가 예상과 같았어요. 다음에 할 일로 가장 알맞은 것은?",
-    "choices": [
-      "예상이 맞았으니 결과는 적지 않는다",
-      "결론을 정리하고 새 궁금증을 찾는다",
-      "다른 모둠 결과로 바꿔 적는다",
-      "결과를 정리하지 않고 끝낸다"
-    ],
-    "answer": 1,
-    "explanation": "결론을 정리하고 더 궁금한 점으로 새 탐구를 이어 가요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "semester": 2,
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -5395,7 +5302,8 @@
     "answer": 3,
     "explanation": "힘을 주면 멈춰 있던 물체가 움직여요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 1,
@@ -5426,7 +5334,8 @@
     "answer": 1,
     "explanation": "줄자는 길이를 재는 도구예요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 1,
@@ -5441,7 +5350,8 @@
     "answer": 2,
     "explanation": "어느 쪽으로도 기울지 않으면 수평을 이루었다고 해요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -5498,13 +5408,14 @@
     "choices": [
       "병따개로 병뚜껑을 딴다",
       "가위로 종이를 자른다",
-      "시소를 탄다",
-      "계단 옆 경사로로 수레를 밀어 올린다"
+      "시소를 타고 논다",
+      "경사로로 수레를 밀어 올린다"
     ],
     "answer": 3,
     "explanation": "경사로는 비스듬한 빗면이에요. 나머지는 지레를 이용해요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 3,
@@ -5519,7 +5430,8 @@
     "answer": 0,
     "explanation": "받침점이 물체에 가까울수록 힘이 적게 들어요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-04]"
   },
   {
     "difficulty": 3,
@@ -5550,7 +5462,8 @@
     "answer": 2,
     "explanation": "추 1개에 2칸씩 늘어나니 3개면 6칸이에요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-03]"
   },
   {
     "difficulty": 3,
@@ -5595,7 +5508,8 @@
     "answer": 0,
     "explanation": "애벌레는 몸이 커지면서 여러 번 허물을 벗어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -5610,7 +5524,8 @@
     "answer": 3,
     "explanation": "곤충의 다리는 가슴에 붙어 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -5625,7 +5540,8 @@
     "answer": 2,
     "explanation": "강낭콩은 싹이 트면 떡잎 두 장이 먼저 땅 위로 나와요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -5638,7 +5554,8 @@
     "answer": 1,
     "explanation": "메뚜기는 알-애벌레-어른벌레로 자라는 불완전 탈바꿈을 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -5653,7 +5570,8 @@
     "answer": 3,
     "explanation": "고양이는 새끼를 낳고 젖을 먹여 길러요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -5668,7 +5586,8 @@
     "answer": 0,
     "explanation": "올챙이는 다리가 생긴 뒤 꼬리가 점점 짧아져 없어져요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -5683,7 +5602,8 @@
     "answer": 1,
     "explanation": "꼬투리 안에는 다음 한살이를 시작할 씨가 들어 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -5698,7 +5618,8 @@
     "answer": 2,
     "explanation": "잠자리와 사마귀는 번데기를 거치지 않아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -5713,7 +5634,8 @@
     "answer": 3,
     "explanation": "잎과 색이 비슷하면 새 같은 적의 눈에 잘 띄지 않아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 2,
@@ -5728,7 +5650,8 @@
     "answer": 0,
     "explanation": "병아리는 닭과 생김새가 비슷해요. 나머지는 생김새가 크게 달라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -5743,7 +5666,8 @@
     "answer": 1,
     "explanation": "날개 무늬가 비쳐 보이면 곧 어른벌레가 번데기에서 나와요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 3,
@@ -5758,7 +5682,8 @@
     "answer": 2,
     "explanation": "알아보려는 햇빛만 다르게 하고 물 주기는 같게 해야 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 3,
@@ -5773,7 +5698,8 @@
     "answer": 3,
     "explanation": "둘 다 씨-싹-꽃-열매의 한살이를 거쳐요. 사는 기간은 달라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -5788,7 +5714,8 @@
     "answer": 3,
     "explanation": "어미 닭은 알을 따뜻하게 품어 병아리가 자라게 해요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -5801,7 +5728,8 @@
     "answer": 0,
     "explanation": "사슴벌레는 완전 탈바꿈을 해서 애벌레와 어른벌레의 생김새가 달라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 1,
@@ -5816,7 +5744,8 @@
     "answer": 1,
     "explanation": "닭은 두 다리로 걸어요. 뱀과 지렁이는 기어 다니고, 붕어는 헤엄쳐요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 1,
@@ -5831,7 +5760,8 @@
     "answer": 2,
     "explanation": "새는 몸이 깃털로 덮여 있어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -5844,7 +5774,8 @@
     "answer": 1,
     "explanation": "오리는 물갈퀴가 있는 발로, 게는 다리로 물속에서 움직여요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 1,
@@ -5859,7 +5790,8 @@
     "answer": 2,
     "explanation": "지렁이와 개미는 땅속에 굴을 파고 살아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -5874,7 +5806,8 @@
     "answer": 3,
     "explanation": "붕어와 오징어는 물속에서 살고, 참새와 다람쥐는 땅 위나 나무에서 살아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -5889,7 +5822,8 @@
     "answer": 1,
     "explanation": "넓은 앞발과 발톱으로 흙을 잘 파요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -5904,7 +5838,8 @@
     "answer": 2,
     "explanation": "비행기 날개는 새가 날개로 나는 모습을 본떴어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-03]"
   },
   {
     "difficulty": 2,
@@ -5919,7 +5854,8 @@
     "answer": 3,
     "explanation": "뱀과 지렁이는 다리가 없어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -5934,7 +5870,8 @@
     "answer": 0,
     "explanation": "사막은 비가 적어 물이 부족해요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -5947,7 +5884,8 @@
     "answer": 1,
     "explanation": "고래는 물 위로 올라와 허파로 숨을 쉬어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -5962,7 +5900,8 @@
     "answer": 1,
     "explanation": "몸이 앞뒤로 갸름하고 매끄러우면 물속에서 헤엄치기 좋아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 3,
@@ -5977,7 +5916,8 @@
     "answer": 1,
     "explanation": "두더지는 넓고 튼튼한 앞발로 땅을 파요. 물갈퀴가 있는 발은 오리처럼 헤엄치는 동물의 발이에요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 2,
@@ -5990,7 +5930,8 @@
     "answer": 0,
     "explanation": "곤충은 다리가 6개예요. 거미는 8개라 곤충이 아니에요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -6005,7 +5946,8 @@
     "answer": 2,
     "explanation": "오리 발의 물갈퀴처럼 물을 많이 밀어 내어 빨리 헤엄치게 해요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-03]"
   },
   {
     "difficulty": 1,
@@ -6019,8 +5961,9 @@
     ],
     "answer": 3,
     "explanation": "게는 갯벌에서 구멍을 파고 살아요.",
-    "semester": 1,
-    "unit": "동물의 생활"
+    "semester": 2,
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 1,
@@ -6035,7 +5978,8 @@
     "answer": 1,
     "explanation": "토끼풀은 작은 잎 3장이 한 자리에 모여 나요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -6050,7 +5994,8 @@
     "answer": 2,
     "explanation": "나무와 풀은 모두 뿌리, 줄기, 잎이 있어요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -6063,7 +6008,8 @@
     "answer": 0,
     "explanation": "연꽃은 연못 같은 물에서 살아요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -6078,7 +6024,8 @@
     "answer": 3,
     "explanation": "검정말은 물속에 잠겨 살아요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 1,
@@ -6093,7 +6040,8 @@
     "answer": 0,
     "explanation": "민들레는 줄기가 가늘고 연한 풀이에요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -6106,7 +6054,8 @@
     "answer": 1,
     "explanation": "개구리밥은 뿌리가 물속에 떠 있고 땅에 박혀 있지 않아요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -6121,7 +6070,8 @@
     "answer": 1,
     "explanation": "가늘거나 잘게 갈라진 잎은 물이 흘러도 잘 찢어지지 않아요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 3,
@@ -6136,22 +6086,24 @@
     "answer": 2,
     "explanation": "강아지풀은 풀이고 잎맥이 나란해요. 민들레는 풀이지만 잎맥이 그물 모양이에요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "갈대와 부들처럼 물가에 사는 식물의 특징은?",
     "choices": [
-      "온몸이 물 위에 떠다닌다",
+      "온몸이 물에 떠다닌다",
       "잎이 가시처럼 뾰족하다",
       "뿌리 없이 물에 떠 있다",
-      "뿌리는 물속 땅에, 줄기는 물 위로"
+      "뿌리는 땅에, 줄기는 물 위로"
     ],
     "answer": 3,
     "explanation": "물가 식물은 땅에 뿌리를 내리고 줄기를 물 위로 길게 뻗어요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -6164,22 +6116,24 @@
     "answer": 1,
     "explanation": "둘 다 줄기가 연한 풀이에요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
-    "question": "연잎에 물방울이 스며들지 않고 굴러떨어지는 특징과 가장 관계있는 것은?",
+    "question": "민들레 씨의 갓털을 본떠 만든 것은?",
     "choices": [
-      "잘 붙는 찍찍이",
-      "물이 스며들지 않는 옷감",
-      "가벼운 구명조끼",
-      "날카로운 가위"
+      "낙하산",
+      "찍찍이",
+      "구명조끼",
+      "돋보기"
     ],
-    "answer": 1,
-    "explanation": "연잎처럼 물이 스며들지 않는 특징을 본떠 물이 잘 스며들지 않는 옷감을 만들어요.",
+    "answer": 0,
+    "explanation": "갓털처럼 공기를 받아 천천히 내려오는 낙하산을 만들어요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-03]"
   },
   {
     "difficulty": 3,
@@ -6194,7 +6148,8 @@
     "answer": 2,
     "explanation": "잎자루 속 공기가 빠져나와 공기 방울이 생겨요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 3,
@@ -6209,7 +6164,8 @@
     "answer": 3,
     "explanation": "연꽃은 뿌리를 물속 땅에 내리고 잎만 물 위에 떠요. 나머지는 물에 떠서 살아요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -6224,7 +6180,8 @@
     "answer": 2,
     "explanation": "넓은 잎은 적은 햇빛을 많이 받기에 좋아요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 2,
@@ -6237,7 +6194,8 @@
     "answer": 1,
     "explanation": "검정말처럼 물속에 잠겨 살거나, 부들처럼 물가 땅에 뿌리를 내리고 사는 식물도 있어요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-02]"
   },
   {
     "difficulty": 3,
@@ -6315,7 +6273,7 @@
     "explanation": "수평을 맞추는 데 클립이 더 많이 든 풀이 더 무거워요.",
     "semester": 1,
     "unit": "힘과 우리 생활",
-    "standard": "[4과01-03]"
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 3,
@@ -6377,7 +6335,7 @@
     "explanation": "양팔저울은 더 무거운 쪽 접시가 아래로 내려가요.",
     "semester": 1,
     "unit": "힘과 우리 생활",
-    "standard": "[4과01-03]"
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -6486,7 +6444,8 @@
     "answer": 2,
     "explanation": "약하게 치면 작게 떨려 작은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -6501,7 +6460,8 @@
     "answer": 2,
     "explanation": "소리가 나는 북이 떨려서 좁쌀이 튀어 올라요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 1,
@@ -6516,7 +6476,8 @@
     "answer": 0,
     "explanation": "말소리는 공기를 통해 귀까지 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -6531,7 +6492,8 @@
     "answer": 3,
     "explanation": "알아보려는 것은 소리를 막는 물질이므로 넣는 물질만 다르게 하고 나머지는 같게 해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -6546,7 +6508,8 @@
     "answer": 1,
     "explanation": "크고 작은 정도는 소리의 세기예요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -6561,7 +6524,8 @@
     "answer": 1,
     "explanation": "떨리는 줄이 짧을수록 높은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -6569,14 +6533,15 @@
     "question": "스펀지처럼 부드러운 물체에 소리가 부딪히면?",
     "choices": [
       "소리가 더 크게 반사된다",
-      "소리가 높아진다",
-      "소리가 빛으로 바뀐다",
-      "소리가 잘 반사되지 않고 흡수된다"
+      "소리가 높은 소리로 바뀐다",
+      "소리가 빛으로 바뀌어 사라진다",
+      "소리가 흡수되어 작게 들린다"
     ],
     "answer": 3,
     "explanation": "부드러운 물체는 소리를 잘 흡수해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -6591,7 +6556,8 @@
     "answer": 0,
     "explanation": "실이 팽팽해야 떨림이 잘 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -6606,7 +6572,8 @@
     "answer": 1,
     "explanation": "떨림이 멈추면 소리도 멈춰요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-01]"
   },
   {
     "difficulty": 2,
@@ -6621,7 +6588,8 @@
     "answer": 1,
     "explanation": "깔개가 바닥으로 전달되는 소리를 줄여 줘요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -6636,7 +6604,8 @@
     "answer": 2,
     "explanation": "부드러운 덮개가 바닥과 부딪히는 소리를 줄여 소음을 막아요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -6651,7 +6620,8 @@
     "answer": 0,
     "explanation": "세게 튕기면 크게 떨려 소리가 커지지만 높낮이는 그대로예요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 3,
@@ -6666,7 +6636,8 @@
     "answer": 1,
     "explanation": "두드릴 때는 물이 적을수록 높은 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -6681,7 +6652,8 @@
     "answer": 2,
     "explanation": "방음벽은 찻길 소리가 집으로 들어오는 것을 줄여요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -6696,7 +6668,8 @@
     "answer": 1,
     "explanation": "큰 소리를 낼 때 스피커가 더 크게 떨려 종이 띠도 더 많이 떨려요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -6711,7 +6684,8 @@
     "answer": 3,
     "explanation": "지구 표면은 육지와 바다로 되어 있어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 1,
@@ -6726,7 +6700,8 @@
     "answer": 0,
     "explanation": "바닷물에는 소금 같은 물질이 녹아 있어 짜요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -6739,7 +6714,8 @@
     "answer": 1,
     "explanation": "바다 밑에도 산, 골짜기, 넓고 평평한 곳이 있어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -6754,7 +6730,8 @@
     "answer": 3,
     "explanation": "육지와 바다에는 모두 여러 생물이 살아요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 3,
@@ -6769,7 +6746,8 @@
     "answer": 1,
     "explanation": "모래사장과 갯벌은 모래나 고운 흙이 쌓여 생기고, 절벽과 동굴은 바위가 깎여 생겨요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -6784,7 +6762,8 @@
     "answer": 3,
     "explanation": "생물은 공기로 숨을 쉬어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -6799,7 +6778,8 @@
     "answer": 0,
     "explanation": "갯벌은 고운 흙이 쌓여 만들어져요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 2,
@@ -6814,7 +6794,8 @@
     "answer": 1,
     "explanation": "파도가 오랫동안 바위를 깎아 굴이 생겨요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -6829,7 +6810,8 @@
     "answer": 0,
     "explanation": "염전에서는 바닷물을 말려 소금을 얻어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -6844,7 +6826,8 @@
     "answer": 2,
     "explanation": "나무는 산에서 자라요. 나머지는 바다에서 얻는 도움이에요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 2,
@@ -6859,7 +6842,8 @@
     "answer": 2,
     "explanation": "공기가 움직여 바람이 불면 바람개비가 돌아요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 2,
@@ -6874,22 +6858,24 @@
     "answer": 3,
     "explanation": "바닷물이 모래를 옮겨 쌓으면 모래사장이 생겨요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 3,
     "type": "choice4",
     "question": "지구 표면의 바다는 약 10분의 7, 육지는 약 10분의 3이에요. 알맞은 것은?",
     "choices": [
-      "육지가 바다보다 넓다",
+      "육지가 바다보다 두 배 넘게 넓다",
       "바다가 육지보다 두 배 넘게 넓다",
-      "바다와 육지 넓이가 같다",
-      "바다는 육지의 절반이다"
+      "바다와 육지의 넓이가 같다",
+      "바다는 육지 넓이의 절반이다"
     ],
     "answer": 1,
     "explanation": "7은 3의 두 배인 6보다 커요. 바다가 훨씬 넓어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-01]"
   },
   {
     "difficulty": 3,
@@ -6904,7 +6890,8 @@
     "answer": 2,
     "explanation": "물은 많아도 대부분 바닷물이라 바로 쓸 수 있는 물은 아주 적어요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-02]"
   },
   {
     "difficulty": 1,
@@ -6919,7 +6906,8 @@
     "answer": 0,
     "explanation": "밀물 때 바닷물이 빠르게 들어오므로 시간을 미리 확인해야 안전해요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 1,
@@ -6934,7 +6922,8 @@
     "answer": 3,
     "explanation": "물체를 만드는 재료를 물질이라고 해요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -6949,7 +6938,8 @@
     "answer": 0,
     "explanation": "나무젓가락은 나무로 만들어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -6964,7 +6954,8 @@
     "answer": 1,
     "explanation": "세 물체는 모두 고무로 만들었어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
@@ -6979,7 +6970,8 @@
     "answer": 1,
     "explanation": "돌멩이는 모양과 부피가 일정한 고체예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 1,
@@ -6994,7 +6986,8 @@
     "answer": 2,
     "explanation": "종이는 잘 접히고 쉽게 찢어져요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -7009,22 +7002,24 @@
     "answer": 3,
     "explanation": "플라스틱 컵과 유리컵은 둘 다 컵이지만 물질이 달라요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "유리의 성질로 알맞은 것은?",
     "choices": [
-      "투명해서 속이 잘 보이지만 잘 깨진다",
-      "잘 늘어난다",
-      "물에 뜨고 가볍다",
+      "투명하지만 깨지기 쉽다",
+      "잘 늘어나고 부드럽다",
+      "물에 뜰 만큼 가볍다",
       "휘어도 깨지지 않는다"
     ],
     "answer": 0,
     "explanation": "유리는 투명하지만 깨지기 쉬워요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -7039,7 +7034,8 @@
     "answer": 3,
     "explanation": "공 안의 공기가 빠져 공이 물렁해지면 잘 튀지 않아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -7054,7 +7050,8 @@
     "answer": 3,
     "explanation": "액체는 그릇에 따라 모양은 바뀌어도 양(부피)은 그대로예요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -7067,7 +7064,8 @@
     "answer": 1,
     "explanation": "공기 같은 기체도 공간을 차지해요. 풍선이 부푸는 것으로 알 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 2,
@@ -7082,22 +7080,24 @@
     "answer": 1,
     "explanation": "고무는 말랑해서 부딪힐 때 충격을 줄여 줘요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
-    "difficulty": 3,
+    "difficulty": 2,
     "type": "choice4",
-    "question": "마개를 막은 빈 페트병을 물속에 밀어 넣을 때 손에 느껴지는 것과 그 까닭으로 알맞은 것은?",
+    "question": "빈 컵을 거꾸로 들고 물속에 똑바로 밀어 넣으면 컵 속에 물이 거의 안 들어가는 까닭은?",
     "choices": [
-      "아무 느낌 없음 - 병이 비어 있어서",
-      "위로 밀어 올리는 힘 - 병 속 공기가 공간을 차지해서",
-      "병이 무거워짐 - 물이 병 속으로 들어가서",
-      "병이 뜨거워짐 - 공기가 데워져서"
+      "컵 속이 비어 있어서 물이 안 들어간다",
+      "컵 속 공기가 자리를 차지하고 있어서",
+      "컵 속 공기가 모두 사라져서",
+      "컵이 물보다 무거워서"
     ],
     "answer": 1,
-    "explanation": "병 속 공기가 공간을 차지하고 있어서 위로 밀어 올리는 힘이 느껴져요.",
+    "explanation": "컵 속 공기가 공간을 차지하고 있어서 물이 들어오지 못해요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -7112,7 +7112,8 @@
     "answer": 2,
     "explanation": "기체는 그릇을 가득 채우므로 부피도 그릇에 따라 바뀌어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-02]"
   },
   {
     "difficulty": 3,
@@ -7125,7 +7126,8 @@
     "answer": 1,
     "explanation": "모양이 같아도 만든 재료(물질)는 다를 수 있어요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -7140,7 +7142,8 @@
     "answer": 3,
     "explanation": "손에 묻은 세균이나 바이러스가 눈, 코, 입으로 들어갈 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -7153,7 +7156,8 @@
     "answer": 1,
     "explanation": "감기는 침방울 등으로 다른 사람에게 옮을 수 있는 감염병이에요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -7168,7 +7172,8 @@
     "answer": 0,
     "explanation": "여럿이 함께 지켜야 감염병이 퍼지는 것을 줄일 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -7183,7 +7188,8 @@
     "answer": 1,
     "explanation": "충분히 쉬고 물을 마시면 몸이 빨리 나아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -7196,7 +7202,8 @@
     "answer": 1,
     "explanation": "오염된 물 속 세균이 몸에 들어가 감염병이 생길 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 1,
@@ -7211,7 +7218,8 @@
     "answer": 1,
     "explanation": "비누로 씻어야 손의 세균을 잘 없앨 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -7226,7 +7234,8 @@
     "answer": 3,
     "explanation": "씻으면 겉에 묻은 더러운 것을 없앨 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -7241,7 +7250,8 @@
     "answer": 0,
     "explanation": "따뜻한 곳에서는 세균이 잘 늘어나 음식이 빨리 상해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -7254,7 +7264,8 @@
     "answer": 1,
     "explanation": "손 씻기, 마스크 쓰기 같은 예방 수칙을 지키면 감염을 줄일 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 1,
@@ -7269,7 +7280,8 @@
     "answer": 2,
     "explanation": "아프면 보건 선생님께 알려 도움을 받아야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 3,
@@ -7284,7 +7296,8 @@
     "answer": 3,
     "explanation": "알아보려는 거리만 다르게 하고 누르는 세기는 같게 해야 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -7299,7 +7312,8 @@
     "answer": 1,
     "explanation": "옷에 묻은 세균이 깨끗한 손에 다시 묻을 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 3,
@@ -7314,7 +7328,8 @@
     "answer": 0,
     "explanation": "예방 접종은 감염병을 이겨 낼 힘을 기르려고 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -7329,7 +7344,8 @@
     "answer": 2,
     "explanation": "알아보려는 마스크만 바꾸고 나머지 조건은 같게 해요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -7344,22 +7360,24 @@
     "answer": 3,
     "explanation": "눈병은 손이나 물건을 통해 옮을 수 있어 눈을 비비지 않아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "동물의 한살이를 관찰한 기록에 날짜를 함께 쓰는 까닭은 무엇일까요?",
     "choices": [
-      "글씨를 예쁘게 쓰려고",
-      "관찰을 빨리 끝내려고",
+      "글씨를 예쁘게 쓰는 연습을 하려고",
+      "관찰하는 시간을 빨리 끝내려고",
       "변화가 일어난 순서와 기간을 알 수 있어서",
-      "동물의 이름을 알려고"
+      "동물의 이름을 잊지 않으려고"
     ],
     "answer": 2,
     "explanation": "날짜가 있으면 몸이 변한 때와 걸린 기간을 알 수 있어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -7372,7 +7390,8 @@
     "answer": 1,
     "explanation": "닭은 번데기 시기 없이 병아리에서 닭으로 자라요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -7380,14 +7399,15 @@
     "question": "연못에서 뒷다리가 나온 올챙이를 발견했어요. 이 올챙이는 앞으로 어떻게 변할까요?",
     "choices": [
       "앞다리가 나오고 꼬리가 짧아진다",
-      "다시 알이 된다",
-      "번데기가 된다",
-      "아가미가 더 커진다"
+      "다시 알 속으로 들어간다",
+      "고치를 만들고 번데기가 된다",
+      "아가미가 커지고 꼬리가 길어진다"
     ],
     "answer": 0,
     "explanation": "올챙이는 뒷다리, 앞다리가 차례로 나오고 꼬리가 짧아져 개구리가 돼요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-03]"
   },
   {
     "difficulty": 2,
@@ -7402,7 +7422,8 @@
     "answer": 3,
     "explanation": "자란 키는 2 cm, 6 cm, 7 cm라서 10일째에서 15일째가 가장 많아요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 3,
@@ -7411,13 +7432,14 @@
     "choices": [
       "싹 트는 데 햇빛이 꼭 필요하다",
       "싹 트는 데 물은 필요하고 햇빛은 필요 없다",
-      "싹 트는 데 물은 필요 없다",
-      "물과 햇빛 모두 필요 없다"
+      "싹 트는 데 물과 햇빛이 모두 꼭 필요하다",
+      "싹 트는 데 햇빛만 필요하고 물은 필요 없다"
     ],
     "answer": 1,
     "explanation": "물을 안 준 셋째만 싹이 트지 않았고 어둠 속의 둘째도 싹이 텄어요.",
     "semester": 1,
-    "unit": "생물의 한살이"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-02]"
   },
   {
     "difficulty": 1,
@@ -7432,7 +7454,8 @@
     "answer": 1,
     "explanation": "소음은 집중을 방해하고 몸과 마음을 지치게 해요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 1,
@@ -7445,7 +7468,8 @@
     "answer": 1,
     "explanation": "큰 소리를 오래 들으면 귀가 상할 수 있어요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 2,
@@ -7460,7 +7484,8 @@
     "answer": 3,
     "explanation": "쌀알이 높이 튈수록 북 면이 크게 떨렸다는 뜻이에요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 2,
@@ -7475,7 +7500,8 @@
     "answer": 0,
     "explanation": "물체의 떨림이 공기를 거쳐 귀에 전달돼요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-03]"
   },
   {
     "difficulty": 3,
@@ -7490,7 +7516,8 @@
     "answer": 2,
     "explanation": "팽팽할수록 높은 소리가 나고 세게 튕기면 큰 소리가 나요.",
     "semester": 2,
-    "unit": "소리의 성질"
+    "unit": "소리의 성질",
+    "standard": "[4과07-02]"
   },
   {
     "difficulty": 1,
@@ -7505,7 +7532,8 @@
     "answer": 3,
     "explanation": "바닷물이 밀려 들어오는 것을 밀물이라고 해요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 1,
@@ -7518,7 +7546,8 @@
     "answer": 1,
     "explanation": "썰물 때에는 바닷물이 빠져나가 갯벌이 드러나요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 2,
@@ -7533,7 +7562,8 @@
     "answer": 1,
     "explanation": "바닷물 높이가 점점 높아졌으니 밀물이에요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 2,
@@ -7548,7 +7578,8 @@
     "answer": 2,
     "explanation": "갯벌에는 게, 조개 등 많은 생물이 살아가요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 3,
@@ -7563,7 +7594,8 @@
     "answer": 0,
     "explanation": "6시간 뒤인 낮 12시쯤 바닷물이 가장 낮아져요.",
     "semester": 2,
-    "unit": "지구와 바다"
+    "unit": "지구와 바다",
+    "standard": "[4과06-03]"
   },
   {
     "difficulty": 1,
@@ -7576,22 +7608,24 @@
     "answer": 1,
     "explanation": "돌멩이나 유리구슬도 물에 가라앉아요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "깨진 유리컵을 발견했을 때 알맞은 행동은 무엇일까요?",
     "choices": [
-      "맨손으로 얼른 줍는다",
-      "발로 밀어 치운다",
+      "맨손으로 얼른 주워서 버린다",
+      "발로 밀어서 한쪽으로 치운다",
       "맨손으로 줍지 않고 선생님께 알린다",
-      "그냥 지나간다"
+      "못 본 척하고 그냥 지나간다"
     ],
     "answer": 2,
     "explanation": "깨진 유리는 다칠 수 있어서 어른께 알려야 해요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -7606,7 +7640,8 @@
     "answer": 0,
     "explanation": "두 조건을 모두 만족하는 것은 유리구슬뿐이에요.",
     "semester": 2,
-    "unit": "물체와 물질"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
@@ -7621,65 +7656,24 @@
     "answer": 3,
     "explanation": "물질이 다르면 소리 같은 성질도 달라져요.",
     "semester": 2,
-    "unit": "물체와 물질"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "속이 들여다보이고, 가볍고, 떨어뜨려도 잘 깨지지 않는 물병을 만들려면 어떤 물질이 가장 알맞을까요?",
-    "choices": [
-      "유리",
-      "투명한 플라스틱",
-      "금속",
-      "나무"
-    ],
-    "answer": 1,
-    "explanation": "유리는 깨지기 쉽고, 금속과 나무는 속이 보이지 않아요.",
-    "semester": 2,
-    "unit": "물체와 물질"
-  },
-  {
-    "difficulty": 1,
-    "type": "choice4",
-    "question": "자로 연필의 길이를 잴 때 연필의 한쪽 끝은 자의 어디에 맞출까요?",
-    "choices": [
-      "눈금 1",
-      "눈금 0",
-      "가장 큰 눈금",
-      "아무 눈금"
-    ],
-    "answer": 1,
-    "explanation": "한쪽 끝을 눈금 0에 맞추고 다른 끝의 눈금을 읽어요.",
-    "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 1,
-    "type": "ox",
-    "question": "맛을 모르는 물질은 혀로 조금 맛보아 관찰해도 돼요.",
-    "choices": [
-      "O",
-      "X"
-    ],
-    "answer": 1,
-    "explanation": "맛을 모르는 물질은 입에 넣지 않아야 해요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "물체와 물질",
+    "standard": "[4과05-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
-    "question": "따뜻한 물에서는 설탕이 3분, 찬물에서는 8분 만에 녹았어요. 이 결과로 알맞은 결론은?",
+    "question": "속이 들여다보이고, 가볍고, 떨어뜨려도 잘 깨지지 않는 물병을 만들려면 어떤 물질이 가장 알맞을까요?",
     "choices": [
-      "찬물에서 설탕이 더 빨리 녹는다",
-      "물의 온도와 상관없이 같다",
-      "설탕은 물에 녹지 않는다",
-      "따뜻한 물에서 설탕이 더 빨리 녹는다"
+      "투명한 유리",
+      "투명한 플라스틱",
+      "반짝이는 금속",
+      "단단한 나무"
     ],
-    "answer": 3,
-    "explanation": "더 짧은 시간에 녹은 따뜻한 물에서 더 빨리 녹아요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "answer": 1,
+    "explanation": "유리는 깨지기 쉽고, 금속과 나무는 속이 보이지 않아요.",
+    "semester": 2,
+    "unit": "물체와 물질",
+    "standard": "[4과05-03]"
   },
   {
     "difficulty": 2,
@@ -7694,22 +7688,8 @@
     "answer": 0,
     "explanation": "날개가 있는 동물은 참새와 잠자리예요.",
     "semester": 1,
-    "unit": "과학 탐구"
-  },
-  {
-    "difficulty": 3,
-    "type": "choice4",
-    "question": "물을 데우며 온도를 재었더니 0분 20℃, 5분 30℃, 10분 40℃, 15분 50℃였어요. 같은 규칙으로 오른다면 25분일 때 온도는?",
-    "choices": [
-      "60℃",
-      "65℃",
-      "70℃",
-      "80℃"
-    ],
-    "answer": 2,
-    "explanation": "5분마다 10℃씩 오르므로 20분은 60℃, 25분은 70℃예요.",
-    "semester": 1,
-    "unit": "과학 탐구"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 1,
@@ -7724,7 +7704,8 @@
     "answer": 3,
     "explanation": "동물을 만졌다면 손을 씻어 세균을 없애요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "생물의 한살이",
+    "standard": "[4과04-01]"
   },
   {
     "difficulty": 1,
@@ -7737,7 +7718,8 @@
     "answer": 0,
     "explanation": "세 동물은 모두 곤충이라 몸이 세 부분으로 나뉘어요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
@@ -7752,22 +7734,24 @@
     "answer": 1,
     "explanation": "두 조건을 모두 만족하는 동물은 두더지뿐이에요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 2,
     "type": "choice4",
     "question": "원숭이가 나무 사이를 잘 옮겨 다닐 수 있는 까닭으로 알맞은 것은?",
     "choices": [
-      "몸에 물갈퀴가 있다",
-      "날개로 날아다닌다",
-      "긴 팔과 꼬리로 나뭇가지를 잡을 수 있다",
-      "다리가 없다"
+      "몸에 물갈퀴가 있어서 헤엄친다",
+      "날개로 날아서 나무 사이를 건넌다",
+      "긴 팔과 꼬리로 나뭇가지를 잡는다",
+      "다리가 없어서 미끄러져 간다"
     ],
     "answer": 2,
     "explanation": "원숭이는 긴 팔과 꼬리로 나뭇가지를 붙잡아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-02]"
   },
   {
     "difficulty": 3,
@@ -7782,7 +7766,8 @@
     "answer": 0,
     "explanation": "곤충은 6×3=18개, 거미는 8×2=16개라서 2개 더 많아요.",
     "semester": 1,
-    "unit": "동물의 생활"
+    "unit": "동물의 생활",
+    "standard": "[4과02-01]"
   },
   {
     "difficulty": 1,
@@ -7797,7 +7782,8 @@
     "answer": 2,
     "explanation": "더 무거운 쪽이 아래로 내려가요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 1,
@@ -7810,7 +7796,8 @@
     "answer": 1,
     "explanation": "미는 힘은 멀어지는 쪽으로, 당기는 힘은 가까워지는 쪽으로 줘요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-01]"
   },
   {
     "difficulty": 2,
@@ -7818,14 +7805,15 @@
     "question": "수평 잡기로 물체의 무게를 비교할 때 가장 먼저 해야 할 일은?",
     "choices": [
       "나무판을 받침점에 올려 수평을 만든다",
-      "한쪽에 물체를 눌러 놓는다",
-      "물체를 손으로 민다",
-      "나무판을 흔든다"
+      "양쪽 끝에 비교할 물체를 먼저 올린다",
+      "나무판을 흔들어 균형을 깬다",
+      "물체를 손으로 밀어 움직인다"
     ],
     "answer": 0,
     "explanation": "먼저 아무것도 올리지 않은 나무판이 수평이 되게 해요.",
     "semester": 1,
-    "unit": "힘과 우리 생활"
+    "unit": "힘과 우리 생활",
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -7867,7 +7855,7 @@
       "손에 닿으면 공이 무거워진다",
       "힘을 주면 공의 색이 바뀐다",
       "공이 스스로 방향을 바꾸었다",
-      "힘으로 움직이는 방향을 바꿀 수 있다"
+      "힘으로 공의 방향을 바꿀 수 있다"
     ],
     "answer": 3,
     "explanation": "움직이는 물체에 힘을 주면 움직이는 방향을 바꿀 수 있어요.",
@@ -7887,7 +7875,7 @@
     "explanation": "수평이 되었으니 크기가 달라도 두 쪽의 무게는 같아요.",
     "semester": 1,
     "unit": "힘과 우리 생활",
-    "standard": "[4과01-03]"
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 2,
@@ -7935,22 +7923,23 @@
     "explanation": "(다)가 가장 무겁고 (가), (나) 순서로 가벼워요.",
     "semester": 1,
     "unit": "힘과 우리 생활",
-    "standard": "[4과01-03]"
+    "standard": "[4과01-02]"
   },
   {
     "difficulty": 1,
     "type": "choice4",
     "question": "산에서 모르는 열매를 발견했을 때 알맞은 행동은 무엇일까요?",
     "choices": [
-      "맛을 보고 확인한다",
-      "친구에게 먹여 본다",
-      "열매를 모두 딴다",
+      "조금 먹어 보고 맛을 확인한다",
+      "친구에게 먼저 먹여 본다",
+      "열매를 모두 따서 집에 가져간다",
       "먹지 않고 이름을 알아본다"
     ],
     "answer": 3,
     "explanation": "이름을 모르는 식물은 먹으면 위험할 수 있어요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -7963,7 +7952,8 @@
     "answer": 1,
     "explanation": "잎 모양이 비슷해도 다른 종류의 식물일 수 있어요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -7978,7 +7968,8 @@
     "answer": 2,
     "explanation": "단풍나무와 벚나무는 잎맥이 그물처럼 얽혀 있어요. 강아지풀과 벼는 잎맥이 나란해요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 2,
@@ -7993,7 +7984,8 @@
     "answer": 2,
     "explanation": "눈으로 본 사실을 있는 그대로 쓰는 것이 관찰 기록이에요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 3,
@@ -8008,7 +8000,8 @@
     "answer": 0,
     "explanation": "나무이면서 바늘잎이 아닌 식물은 단풍나무예요.",
     "semester": 1,
-    "unit": "식물의 생활"
+    "unit": "식물의 생활",
+    "standard": "[4과03-01]"
   },
   {
     "difficulty": 1,
@@ -8023,7 +8016,8 @@
     "answer": 2,
     "explanation": "깨끗한 것으로 닦아야 세균이 다시 묻지 않아요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 1,
@@ -8036,7 +8030,8 @@
     "answer": 1,
     "explanation": "평소에 꾸준히 지켜야 감염병을 미리 막을 수 있어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -8051,7 +8046,8 @@
     "answer": 3,
     "explanation": "비누로 씻는 시간이 길수록 남은 세균이 적었어요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-03]"
   },
   {
     "difficulty": 2,
@@ -8066,7 +8062,8 @@
     "answer": 3,
     "explanation": "늘어난 수는 11월 15명, 12월 25명, 1월 20명이에요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   },
   {
     "difficulty": 2,
@@ -8081,6 +8078,7 @@
     "answer": 1,
     "explanation": "9명의 3배는 27명이에요.",
     "semester": 2,
-    "unit": "감염병과 건강한 생활"
+    "unit": "감염병과 건강한 생활",
+    "standard": "[4과08-02]"
   }
 ]
